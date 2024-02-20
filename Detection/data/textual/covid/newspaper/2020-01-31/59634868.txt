@@ -1,0 +1,22 @@
+Coronavirus Searches Used by Cybercriminals to Target Victims: Kaspersky 
+ Taking advantage of people's curiosity about the mysterious coronavirus that has become the talking point across the globe, cybercriminals have started deploying malicious files on people's computers in the guise of providing information and safety tips about the coronavirus, security researchers warned on Friday.
+
+The researchers from cyber-security firm Kaspersky have detected such malicious files which were masked under the guise of pdf, mp4 and docx files about the coronavirus.
+
+The names of files imply that they contain video instructions on how to stay protected from the virus, updates on the threat and even virus detection procedures.
+
+In fact, these files contained a range of threats from Trojans to worms which are capable of destroying, blocking, modifying or copying data, as well as interfering with the operation of computers or computer networks.
+
+"The coronavirus, which is being widely discussed as a major news story, has already been used as bait by cybercriminals. So far we have seen only 10 unique files, but as this sort of activity often happens with popular media topics then we expect that this tendency may grow," Kaspersky malware analyst Anton Ivanov said in a statement.
+
+"As people continue to be worried for their health, we may see more and more malware hidden inside fake documents about the coronavirus being spread," Ivanov said.
+
+The World Health Organization (WHO) has declared the Novel Coronavirus outbreak global health emergency after the death toll in China increased to 213 on Friday, with 9,692 confirmed in the country's 31 provincial-level regions.
+
+Nearly 100 confirmed cases have been reported from 18 countries, outside China.
+
+To avoid falling victim to malicious programmes pretending to be exclusive content, people should try to avoid suspicious links, promising exclusive content and refer to official sources for trustworthy and legitimate information, Kaspersky recommended.
+
+"Look at the downloaded file extension. Documents and video files should not have been made either .exe or .lnk formats," it added.
+
+Using a reliable security solution for comprehensive protection from a wide range of threats could also be useful.

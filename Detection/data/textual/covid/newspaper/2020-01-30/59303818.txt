@@ -1,0 +1,28 @@
+When will the Wuhan coronavirus outbreak reach its peak? 
+ As of Jan. 29, there have been 6,078 total cases globally of the novel Wuhan coronavirus, 132 deaths and 110 people who have recovered. According to recent reports, the earliest cases might have started as early as Nov. 2019, and more cases may come to light after examining hospital records from that time period.
+
+The number of cases being reported of the new Wuhan coronavirus, currently being called 2019-nCoV, has accelerated in the last week. Fatality proportion is estimated to be about 3 percent, according to a paper published in The Lancet. The authors point out that the 1918 influenza pandemic had a fatality rate of about 5 percent and nonetheless resulted in the deaths of millions of people, so in this current outbreak a low fatality could still be very dangerous if there is widespread transmission. How will we know if this outbreak is peaking?
+
+Researchers use statistical and mathematical models to try to understand and predict an outbreak’s progression. The most basic way to model a disease outbreak is through susceptible, infected and recovered or SIR models. SIR represents three non-overlapping groups of individuals. If you are part of the population, you are either susceptible, meaning you don’t have the pathogen, you are infected if you have the pathogen, or you are recovered if you’ve recovered from the infection. There are variations of SIR models, some including additional stages, like when a person has been exposed to a pathogen but is not yet infectious (or shedding pathogens) or a stage for deaths or becoming susceptible again if you aren’t immune after getting the disease once.
+
+This map of Wuhan coronavirus cases by Johns Hopkins CSSE also shows a chart of the confirmed cases so far. The sharp upwards angle of the curve represents the increase in cases reported in the last several days. A sign that the outbreak may be peaking would be a softer angle or plateauing to represent a slowing down of new cases reported.
+
+Researchers use this data in their models along with other information about the disease and the population. There are several variables to consider, among them are transmissibility, incubation period, severity of illness and public health response. Transmissibility is how easily the pathogen can pass from person to person. This involves different pathways, like physical contact or aerosols. Pathogens that can be more easily transmitted when airborne are typically the most easily transmitted.
+
+Incubation period is how long it takes before an infected person shows symptoms, if they do at all. Severity of illness is how sick people get when they are infected. A pathogen that gets people too sick and kills them before they can pass it on to more people will not necessarily last very long. A pathogen that doesn’t get a person sick enough runs the risk of also not getting passed around if the person isn’t sneezing or coughing. And public health response includes everything that is done to try to control the disease from spreading, like recommending masks, travel warnings and quarantines. All of these variables affect how rapidly a disease can spread and may also affect how many people get the disease. Researchers take some or all of these into consideration when running their analyses.
+
+An analysis by Gabriel Leung and other team members at the University of Hong Kong estimates that there could have been as many as 43,590 people infected by 2019-nCoV by Jan. 25. The group estimates that the outbreak may peak between late April and early May.
+
+Another tool that experts use is R0, pronounced R-nought. It is a value that approximates the average number of new cases that result from one case. Experts debate about the usefulness of R0, and it is actually very difficult to calculate.
+
+This is not the same as the transmission rate of the pathogen. With many diseases, some people will not present symptoms or may have longer incubation periods. These types of cases may be underreported, making it difficult to estimate actual transmission rates. R0 also does not take into account the severity of illness in people who have been infected with the pathogen.
+
+Some research teams have posted their R0 analyses on bioRxiv, a repository for scientific papers before they are published by a peer-review journal. An early estimate by one research group put R0 at 3.8 and later revised it down to 3.11 with new data, while another reports an estimate of 3.3. Another group estimates each case infected another 2.6 people on average for cases up until Jan. 18. Estimates for R0 are likely to keep shifting with more information becoming available over the next few weeks.
+
+While R0 can be helpful in the context of understanding the probability of a disease spreading, it doesn’t indicate how big an outbreak will get nor does it capture how dangerous a pathogen is. For example, measles has a R0 of about 12 to 18, though even this is debated amongst experts. But there is a vaccine for measles, so that also affects the spread of the disease. A high R0 doesn’t ensure that it will be a global pandemic, but it can be helpful as a benchmark. An R0 over one should be cause for concern, but how much higher than one provides less information.
+
+It seems that at the rate that new cases are being reported of 2019-nCoV we may be far from seeing the end of this epidemic. It’s hard to guess when this outbreak will peak, but if Leung and collaborators are correct it could be several more months until we see that happen.
+
+For up-to-date information, check the websites of the Centers for Disease Control and Prevention and the World Health Organization.
+
+You can follow Chia-Yi Hou on Twitter.

@@ -1,0 +1,383 @@
+Stryker (SYK) Q4 2019 Earnings Call Transcript 
+ Image source: The Motley Fool.
+
+
+
+Stryker (NYSE:SYK)
+Q4 2019 Earnings Call
+Jan 28, 2020, 4:30 p.m. ET
+Contents:
+  Prepared Remarks
+ Questions and Answers
+ Call Participants
+ 
+ Prepared Remarks:
+ 
+ Operator
+Welcome to the fourth-quarter 2019 Stryker earnings call. My name is David, and I will be your operator for today's call. [Operator instructions] This conference call is being recorded for replay purposes. Before we begin, I would like to remind you that the discussions during this conference call will include forward-looking statements.
+ Factors that could cause actual results to differ materially are discussed in the company's most recent filings with the SEC. Also, the discussions will include certain non-GAAP financial measures. Reconciliations to the most directly comparable GAAP financial measures can be found in today's press release that is an exhibit to Stryker's current report on Form 8-K filed today with the SEC. I will now turn the call over to Mr.
+ Kevin Lobo, chairman and chief executive officer. You may proceed, sir.
+Kevin Lobo -- Chairman and Chief Executive Officer
+ Welcome to Stryker's fourth-quarter earnings call. Joining me today are Glenn Boehnlein, Stryker's CFO, and Katherine Owen, VP of strategy and investor relations. For today's call, I will provide opening comments followed by Katherine with an update on Mako. Glenn will then provide additional details regarding our quarterly results, before we open the call to QA.
+ We finished 2019 on a particularly strong note with Q4 organic sales growth of 8% despite notably difficult year-over-year comparisons. This performance help propel full-year organic revenue growth to 8.1%, topping the high end of our most recently raised target of seven and a half percent to eight percent. 2019 marks the seventh consecutive year of delivering accelerating organic sales growth which has consistently been at the high-end of med tech. In 2013 and 2014, we grew in the fives organically.
+'15 and '16, we grew in the sixes. And '17 and '18, it was in the sevens. Also this past year marks our 40th consecutive year of sales growth since Stryker went public in 1979. The performance in 2019 was balanced across divisions and geographies, reflecting the durability of our business model.
+ Turning to the results by our three segments. Q4 was led by over 12% organic sales growth for neurotechnology and spine, with our neurotechnology businesses growing in the high-teens. Orthopedics posted a 7.3% organic sales increase in the quarter, powered by impressive double-digit growth in knees. Our orthopedics performance continues to reflect meaningful share gains fueled by Mako and our 3D-printed implants.
+ As Katherine will detail in her comments, Q4 delivered the strongest robot quarter since the launch of Mako. We finished the year with a healthy order book, demonstrating the commercial and clinical success of this highly differentiated technology. Med surg was up roughly 7% organically in the quarter, as endoscopy led the way, growing 10%. All other divisions achieved mid-single digit gains despite challenging comparisons.
+ Med surg continues to be a strong and consistent grower year in and year out. International organic growth was 7.6% in Q4, and for the full year, matched the U.S. growth rate of 8.1%. Emerging markets led the way with strong double-digit gains in Q4 and the full year.
+ While it has taken some time, 2019 was an excellent year in emerging markets and we are well-positioned to continue this momentum into the future. Europe once again registered full-year organic sales gains in high-single digits as we make progress toward achieving similar market share levels, as we have in other developed market regions. This performance was well above the market and has significant runway as we continue to drive sales force specialization. Australia and New Zealand also had a strong Q4 across its portfolio.
+ In the past years, we have strengthened our international businesses and have taken key steps to strengthen category leadership across our portfolio. The pending addition of right medical later in 2020 will address our last meaningful category leadership gap--upper extremities. We continue to make investments in our sales, marketing, and RD teams around the globe in order to support our goal of consistently growing at the high-end of med tech, but with our focus on our cost transformation for growth initiatives, we are also delivering leverage. Op margin expanded roughly 40 basis points in the year which included absorbing approximately 30 bps of dilution related to acquisitions.
+ We exited 2019 with nearly $15 billion in global sales and have demonstrated the ability to continue to drive high growth despite our larger size. We have expanded our offering through internal investments and acquisitions, and believe we are well-positioned to achieve continuous success for our customers, employees and shareholders. Looking at 2020, we are on track to continue to achieve strong organic sales growth and leveraged earnings. In closing, the tremendous efforts of our 40,000 employees around the globe enabled us to once again achieve strong results and deliver on our promise to our customers and patients to make healthcare better.
+ With that, I will now turn the call over to Katherine. 
+Katherine Owen -- Vice President of Strategy and Investor Relations
+ Thanks, Kevin. My update today will focus on Mako and the key data points that have allowed you to track our success in executing on our orthopedic robotics strategy. In Q4, we sold 89 Mako robots globally versus 54 in the comparable quarter a year ago. This includes 63 in the U.S.
+ in Q4. Globally, our installed base of robots is approximately 860, with close to 700 in the U.S. In January, we received Japanese approval for the Mako partial knee indication, adding to the indications for the total knee and total hip procedures. We now have nine Mako robots in Japan and continue to believe this represents a significant market opportunity.
+ Looking at U.S. procedures. In Q4, Mako procedures increased nearly 50% to 36,600, bringing the full-year total to over 114,000. Total knee procedures posted a roughly 59% increase in Q4 to approximately 24,000, while full-year Mako knee procedure increased roughly 66%, topping 75,000.
+ Demand for Mako is being driven by the myriad of unique benefits of our robotic technology, multiple reconstructive applications and the ability to perform a cement-less knee. Mako smart robotics have enabled surgeons to achieve a know more so as to cut less approach to joint replacement, which is driving improved outcomes for patients. These capabilities are clearly helping to increase robotic utilization rates, which achieved strong double-digit growth, both year over year and sequentially. Lastly, it's worth noting that demand for our 3D printed cement-less knees continues to climb, exiting the year at over 36% of our U.S.
+ knee procedures. We also continue to see growing demand for the Mako hip application, underscored by over 40% growth in hip procedures on Mako in 2019. Please note that going forward, we will no longer be providing quarterly Mako results. Since acquiring the company in early 2014, we have provided detailed Mako data for 23 consecutive quarters in order to allow investors to accurately track the performance of this differentiated robotic technology.
+ As we are now six years since the acquisition and nearly five years since the initial launch of the total knee indication, we believe we have validated the strategic rationale and competitive advantage of Mako as witnessed by the roughly 600 basis points of U.S. knee market share that we have gained since 2013. Going forward, we continue to expect to take meaningful market share in Knee, owing to Mako, along with our differentiated portfolio of knee products, including our 3D-printed implants. We will continue to report on a combined basis both manual and Mako-implanted knees in our knee line, while robot sales will be reported in other orthopedics to allow for accurate tracking of our Knee revenue.
+ Looking at 2020, our Mako order book remains robust and supports our expectation for continued share gains in both hips and knees. With that, I'll now turn the call over to Glenn.
+Glenn Boehnlein -- Chief Financial Officer
+ Thanks, Katherine. Today, I will focus my comments on our fourth-quarter financial results and the related drivers. Our detailed financial results have been provided in today's press release. Our organic sales growth was 8% in the quarter.
+ As a reminder, this quarter included the same number of selling days as Q4 2018. Pricing in the quarter was unfavorable, 0.6% from the prior year, while foreign currency had an unfavorable 0.6% impact on sales. For the quarter, U.S. sales continue to demonstrate strong momentum with organic growth of 8.2%, reflecting solid performance across our portfolio.
+ International sales grew 7.6% organically, which was balanced across our international regions. Organic sales growth for the year was 8.1%, which was slightly above our most recently raised full-year guidance of 7.58%. U.S. international organic growth was also 8.1%.
+ 2019 had one additional selling day, compared to 2018. And for the year, price had an unfavorable impact of 0.9% on sales. Our adjusted quarterly EPS of $2.49 increased 14.2% from the prior-year, reflecting strong drop-through on sales growth combined with good operating expense control. Our fourth-quarter EPS was negatively impacted by $0.02 from foreign currency, which was in line with our expectations.
+ Our full-year EPS was $8.26 with growth of 13%, reflecting strong sales growth and disciplined leverage. Now, I will provide some highlights around our segment performance. orthopedics delivered constant currency and organic growth of 7.3%, including organic growth of 7.2% in the U.S., highlighted by U.S. knee growth of 10.5%.
+ This performance reflects strong demand for our Mako TKA knee platform, 3D-printed products, Trident 2 hip implants and continued ramping of our T2 alpha nailing system. Internationally, orthopedics delivered organic growth of 7.6%, which reflects strong performance in Australia, Canada and Europe. Med surg continued to have strong growth across all businesses in the quarter with constant currency growth of 7.4% and organic gains of 6.8%, which included an 8% increase in the U.S. Instruments had U.S.
+ organic sales growth of 4.1%, reflecting a strong prior-year comparable. Full-year U.S. organic growth for instruments was 10.2%. In the quarter, sales growth was driven by gains in waste management, steri shield and smoke evacuation.
+ Endoscopy delivered U.S. organic sales growth of 15.4%. Endoscopy had strong performances across many product lines, highlighted by double-digit growth in its video products, including the 1688 camera and accessories, insufflator, suction-irrigation and booms and lights businesses. The medical division had U.S.
+ organic growth of 5.7%, reflecting solid performance in its bed, including services and structure businesses. Internationally, med surg had organic sales growth of 2.4%, reflecting strong comparable across most geographies. Neurotechnology and spine had constant currency growth of 18.2% and organic growth of 12.5% as K2M anniversary-ed during the quarter. This growth reflects strong performance within our neurotech product lines.
+ Our U.S. neurotech business posted organic growth of 16.5% for the quarter, driven by strong demand for our hemorrhagic, ischemic stroke and our neuro-powered instruments products, including Sonopet IQ. During the quarter, we continue to be ahead of our K2M cost integration plan and begin to see good momentum related to our sales integration efforts. For the quarter, we delivered an increase in sequential quarterly growth and on a full-year pro forma basis, delivered low-single digit increase across our combined worldwide spine business.
+ Internationally, neurotechnology and spine had organic growth of 16.6%. This performance was driven by strong demand in Europe and emerging markets. Now, I will focus on operating highlights in the fourth quarter, our adjusted gross margin of 66.3% was favorable, approximately 60 basis points from the prior-year quarter. Compared to the prior-year quarter, gross margin expansion was favorably impacted by acquisitions and foreign exchange, which were partially offset by price and business mix.
+ For the full year, our adjusted gross margin of 65.9% was unfavorable, approximately 20 basis points from the prior year. Compared to the prior year, gross margin expansion was favorably impacted by acquisitions, which were offset by price, foreign exchange and business mix. Adjusted RD spending was 5.6% of sales, which was 10 basis points lower than prior-year quarter. For the full year, adjusted RD spending was 6.1% of sales.
+ Our adjusted SGA was 32.3% of sales, which was favorable to the prior-year quarter by 10 basis points. For the full year, our adjusted SGA was 33.5% of sales, which was favorable to the prior year by approximately 40 basis points. For both the quarter and the year, this reflects continued focus on operating expense improvements through our cost transformation for growth program, including key projects focused on indirect purchasing and shared services. This is offset by the negative impact of acquisitions and continued planned investments in other CTG program efforts like our ERP project.
+ In summary, for the quarter, our adjusted operating margin was 28.3% of sales, which was 80 basis points favorable to the prior-year quarter. Our full-year operating margin of 26.3% was up 40 basis points favorable from the prior year, delivering on our commitment of 30 to 50 basis points op margin expansion. Our operating margin primarily reflects good leverage and continued operational savings offset by investments and acquisitions, the latter of which had approximately 30 basis points negative impact for the year. Next, regarding other income and expense, our expenses decreased from prior-year quarter primarily due to favorable interest rates.
+ Our fourth quarter had an adjusted effective tax rate of 16.3%. Our full-year effective tax rate was 15.8%. These rates reflect a higher operating tax rate reduced primarily by the benefit related to stock compensation expenses. For 2020, we expect full-year adjusted effective tax rate to be in the range of 15.5 to 16.5%.
+ Focusing on the balance sheet, we continue to maintain a strong position with 4.4 billion of cash and marketable securities, which includes the proceeds from our EUR 2.4 billion offering completed in December to partially fund the announced right medical acquisition. Including this funding, total debt on the balance sheet was 11.1 billion. Turning to cash flow. Our year-to-date cash from operations was approximately 2.2 billion.
+ This reflects increased adjusted earnings, which are somewhat offset by increases in working capital and increased acquisition integration and restructuring spending. Turning to cash flow for 2020, we will not be repurchasing any shares, and we anticipate that capital expenditures will be flat year over year at 600 to 700 million. And now, I will provide 2020 guidance on a stand-alone basis and further guidance, including right medical. Based on our momentum from 2019 and assessment of the current economic and market conditions, we expect organic sales growth to be in the range of 6.5 to 7.5 for 2020.
+ There is one additional selling day in 2020, compared to 2019. As you update your quarterly models, please note that Q1 has the additional selling day, and Q2, Q3 and Q4 have the same number of selling days. If foreign exchange rates hold near their current levels, we anticipate sales and EPS will be nominally impacted for the first quarter and full year. We also expect continued unfavorable price reductions of 1% to 1.5%, which is fairly consistent with the pricing environment experienced in 2019.
+ In addition, we expect to continue to deliver on our full-year commitment to expand operating margin. Including the negative impact of closed acquisitions, we anticipate expansion of 30 to 50 basis points of operating margin in 2020. Finally, for 2020, we expect adjusted net earnings per diluted share to be in the range of 9 to 9 20 for the full year, including approximately 2 0 5 and 2 10 for the first quarter. As it relates to right medical acquisition, we reiterate our previous guidance.
+ Assuming an end of Q3 2020 closing, we expect the transition -- transaction to be neutral to our 2020 EPS. For the full-year 2020, we would not deliver on 30 to 50 basis points op margin expansion on a combined basis. However, we would still expect to deliver positive operating margin expansion. And now, I will open up the call for Q and A.
+ Questions  Answers:
+
+ Operator
+Thank you. We will now begin the question and answer session. [Operator instructions] Your first call comes from the line of Bob Hopkins with Bank of America. You may proceed.
+Bob Hopkins -- Bank of America Merrill Lynch -- Analyst
+ Thank you, and good afternoon. My first question is for Kevin. I was wondering if I could get your perspective on the 2020 guide. You know, last year, obviously, you guided a six and a half to seven and a half, and ended up delivering over 8.
+ This year, you're once again guiding to six and a half to seven and a half. Is there anything you're going to do different, Kevin, with your outlook for 2020 versus 2019, either from a macro market perspective or kind of a Stryker specific perspective?
+Kevin Lobo -- Chairman and Chief Executive Officer
+ Yeah. Thanks, Bob. I would say, as I sit here today, I feel very similar to how I felt at the beginning of last year-- a really nice balance of headwinds and tailwinds, good operating performance across our businesses and our regions. But it's early in the year, and so we're giving a guidance that we feel very confident being able to hit.
+ If things play out the way they did in 2019, obviously, there could be a scenario where things would improve, but we really had a great year across many areas in 2019 and not a lot of turbulence in the macroeconomic environment.
+Bob Hopkins -- Bank of America Merrill Lynch -- Analyst
+ OK, that's fair. And then I was wondering if you could just quickly comment on a couple of other quick things. First, from a pipeline perspective, are you guys still expecting a new bed and new physio launch sometime in 2020? And then, I know this is a tiny business for you, but I'd love to get your perspective on coronavirus, and could that impact procedures in China?
+Kevin Lobo -- Chairman and Chief Executive Officer
+ OK, Bob, I'll take the first part, just talking about some of the positives that we see. The pipelines are very strong across from all of Stryker. Robotic surgery adoption, as you saw with the big fourth quarter, continues to be a tailwind for us both in hips and knees, as well as Mako. We have year two of our camera launch in endoscopy.
+ Our aspiration business in neurovascular will be another tailwind. We have acquisitions that are going to be turning organic. So, we have a whole list of those kind of tailwinds. And then across medical, there's a number of new products that we'll be launching in acute, emergency care and sage.
+Katherine Owen -- Vice President of Strategy and Investor Relations
+ Yeah. And Bob, maybe I'll just hop on to that. Really too early to get into details about coronaviruses. You probably know our exposure in emerging markets is low, and in China, it's even lower.
+ It's low-single digits. And that's one of the variables we often contemplate when we set out a range. So, at this point, recognizing it's early, no comments. And just building on Kevin's comments, as he mentioned, medical does have a really healthy pipeline of products coming, including a bed.
+ And I should probably also note though, life pack, which is one of the physio products, as a PMA product, that is no longer expected to be launched this year. Again, that's -- overall, there's a lot of products, so it's not impactful from a revenue standpoint, but that will not be launched this year.
+Operator
+Your next call comes from the line of David Lewis with Morgan Stanley. You may proceed.
+David Lewis -- Morgan Stanley -- Analyst
+ Good afternoon. Congrats on a nice quarter. Just two questions for me, one on sales and one on margins. So, Kevin, two businesses stuck out this particular quarter, knees and neuro.
+ So just sort of curious, what drove those very significant Mako placements? And in any way, was there a change in sales strategy from capital to rental? And then in neuro, I'm just curious what the drivers were in the fourth quarter. We've sort of waited for that pipeline to come through. We're expecting a big year in 2020. Was the fourth quarter kind of the first beginning of that? And how you're thinking about neuro for next year? And then I had a quick follow-up on earnings.
+Kevin Lobo -- Chairman and Chief Executive Officer
+ Yeah. So starting with Mako. This is just a continuation of the great success we've been having. There was no new strategy.
+ There's no change in the way we price Mako. We've always been flexible in terms of different approaches to financing, whether it's leasing, whether it's rentals. And so, the mix didn't change dramatically, maybe a little bit more rentals but very, very similar to what we've had in the past. I think it's just there's a growing realization that technology is here to stay, and that adoption rate, we expect to continue to increase in the future.
+Katherine Owen -- Vice President of Strategy and Investor Relations
+ Yeah. And David, on the neuro, it was really across the board, both geographically, strong double-digit growth in the U.S., in Europe and Canada, as well as other regions outside of time. And then the various business segments all had really healthy double-digit growth, whether you're looking at hemorrhagic or ischemic, and that really is across the board. We launched some new products last year, a new flow diverter outside the U.S.
+ And part of our bullishness heading into this year is tied to the planned -- having the full portfolio around the end of Q1 of our aspiration products, including the larger-bore 074. So that should be a nice new product entry for us into that segment of the market. So, it was very balanced, both geographically and across the product portfolio.
+David Lewis -- Morgan Stanley -- Analyst
+ OK. And then just a quick one on earnings. You know, Kevin, investors are very focused on organic acceleration, and this was yet another year in 2019 of acceleration over '18. But what's interesting is this is the second consecutive year of earnings acceleration, which I think some investors have missed.
+ So, I think you're right in the associated dilution has concerned investors on your opportunity for improving leverage or earnings growth for the company. So, your conviction in the minimum 9% is clear, but the question really is, can you do better? And is right integration going to delay your cost transformation initiatives? Thanks so much.
+Kevin Lobo -- Chairman and Chief Executive Officer
+ Yeah. Thanks, David. So four years ago, we gave 9% as a floor. And since then, we've delivered 12 to 13% each of the four years.
+ So, we saw it as a floor, and you can see we've clearly surpassed the floor by a wide margin. We really believe we have our cost transformation for growth firing, and we're going to continue to be able to deliver very strong earnings. The point on op margin is obviously just a math issue. With the amount of growth that were coming in and the profile of their PL, it will take us time to work through the synergies that we need to work through for -- to get back on to an op margin expansion.
+ But as you heard from Glenn, we expect to still deliver positive op margin in 2020.
+Operator
+Your next call comes from the line of Matt Miksic with Credit Suisse. Please go ahead. You may proceed.
+Matt Miksic -- Credit Suisse -- Analyst
+ Hi. Thanks so much for taking the question, and congrats on these really strong numbers. So, Kevin, I wanted to ask if you could, maybe Katherine, talk a little bit about, you know, where we should think about the sort of progress or the timing cadence around the upper extremities, given the, you know, that that is an important part of this right medical acquisition. It certainly fits well with the Mako platform.
+ Maybe talk about how that deal fits and what it can do to maybe accelerate that program. And then I had just one follow-up.
+Katherine Owen -- Vice President of Strategy and Investor Relations
+ Yeah. So, as we've talked about on prior calls, we're continuing to prioritize in terms of next indications in spine and upper extremities. For Mako, we have independent RD teams working in collaboration with the Mako robotics team on those. It's too early to get into the time line.
+ I think what right will do for us, as we've said before, significantly bolsters our competitive position, so when we come to market, we will have a stronger portfolio of products. But it'd be premature to comment beyond that in terms of timing around the robot launch for either of those additional indications.
+Matt Miksic -- Credit Suisse -- Analyst
+ Understood. And then maybe just a follow-up on spine. What, if anything, if you can provide any color as to what you think has sort of gone well there. Obviously, you did a lot of things right, I think.
+ But maybe where some of the challenges have been as things evolved last quarter or so and where in that portfolio do you think the integration is going really well? Any color you could provide would be helpful.
+Kevin Lobo -- Chairman and Chief Executive Officer
+ This is Kevin. So certainly, we had some challenges early with the integration, with the overlapping sales forces and didn't do a lot of hiring, new products got delayed. The fourth quarter showed some real signs of positive momentum on the sales force side, clear targets, clear accountabilities, and then a number of new products being launched on our sales meeting. So very excited that we're sort of back on offense after going through the tricky parts of the integration.
+ We were very aggressive on costs, and so those cost synergies were ahead. But now, I'm looking forward to 2020 and in the future to seeing accelerated growth in our spine business. We're well-positioned now. It was tough, certainly, in the first six months, but very encouraged by what I saw in the fourth quarter, and expect 2020 to accelerate.
+Operator
+Your next call comes from the line of Pito Chickering with Deutsche Bank. You may proceed.
+Pito Chickering -- Deutsche Bank -- Analyst
+ Good afternoon, guys. Thanks for taking my questions, and really, really great quarter. So, digging into the spine question as well. Last quarter, we saw a demand-supply imbalance coming from sort of K2M versus legacy spine.
+ Can you give us a manufacturing update? Where are we on the supply versus demand at this point, and are there like any further tailwinds in the near-term if demand remains at these levels going forward?
+Katherine Owen -- Vice President of Strategy and Investor Relations
+ Yeah. Thanks, Pito. I would say it's improved, and that's really the trajectory on spine, is there's still improvement to go, of course, because we still have legacy spine products in manufacturing that we're optimizing. But the fact that it is improving, you saw the sequential improvement.
+ We feel great that we hit the revised target of low-single digit spine growth, and we feel really confident that the trajectory will continue to improve to get us to that acceleration throughout 2020. And that part of that is having a better capability to meet the demand for the full portfolio of products.
+Pito Chickering -- Deutsche Bank -- Analyst
+ Great. And one margin question. So, as I'm seeing that there's dilution from acquisitions in 2019, you guys have been very clear about. Going for 2020, how should we think about core Stryker delivering margin improvement with the organic revenue growth versus simply having less dilution to deal with in 2020 versus 2019?
+Glenn Boehnlein -- Chief Financial Officer
+ Yeah. I think on 2020, as we think about it and the way we've always segmented and planned on it, even in spite of the right acquisition, is for the core business and maybe our smaller tuck-in acquisitions that we would normally do in the course of 2020, we will still strive and we will still incentivize our people and our businesses to deliver the 30 to 50 basis points expansion. I think as Kevin explained, you know, just mathematically with what we'll average in on a combined basis at sales and at that op income line, we won't be able to hold 30 to 50 basis points expansion for 2020 when we close on right medical.
+Kevin Lobo -- Chairman and Chief Executive Officer
+ But we do have continued dilution because of the mobius deal that we did at the end of the year and some other deals, maybe not to the same extent that we have this year. But we still do need to offset that dilution, and we are committed to continuing to deliver 30 to 50 in spite of that. And obviously, if dilution decreases, we expect to be at the higher end of that limit.
+Operator
+Your next call comes from the line of Rick Wise with Stifel. You may proceed.
+Rick Wise -- Stifel Financial Corp. -- Analyst
+ Good afternoon. Hey, Kevin. Let me go back to Mako, and a couple of questions there, just particularly around Mako hip. You know, what's next there? Can you give us any color about drivers of, you know, adoption from here and your plans? And just help us appreciate some of the initiatives sort of ahead in 2020.
+ Maybe, Katherine, you'll fill us in on the mix of Stryker accounts versus competitive. It's been 50-50. Does it continue at that kind of level?
+Kevin Lobo -- Chairman and Chief Executive Officer
+ Sure. I'll start off with Mako hip. Really excited about the progress. So, a lot of surgeons were initially interested in the knee.
+ And then, as they got the experience with Mako, they start to look at hip. And once you try the hip application, it tends to be pretty sticky. We're very excited. In the second quarter of this year, we're going to be launching new software upgrade to our hip program.
+ And that's going to be much more user-friendly. The registration process and some of the software has been a little bit challenging from a change management standpoint. This is going to be much slicker and really exciting. Early feedback we've had some surgeons has been very positive.
+ So, I am bullish on continued expansion of Mako with hips.
+Katherine Owen -- Vice President of Strategy and Investor Relations
+ Yeah. And so, we've seen very consistent hovering around that 55 to 60% of the robots we place are going into competitive accounts, and that was consistent again for the quarter and the year.
+Rick Wise -- Stifel Financial Corp. -- Analyst
+ OK. And just a follow-up question. Kevin, you've done amazing job in transforming Europe and had a great performance. It seems like there's a lot more to go based on your comments.
+ And just at a high level, as we look ahead to 2020 and maybe beyond, you know, beyond some of your comments about spine, you feeling better. Are there other areas where you're turning special focus that we might imagine, you know, could, based on that focus, just like Europe, perform better as 2020 unfolds, or, you know, what are you less than satisfied with?
+Kevin Lobo -- Chairman and Chief Executive Officer
+ Well, it was a terrific year, as you saw, overall. I would say that the emerging markets, this has been the best year we've had since I've been the CEO, very strong double-digit growth. And to me, I would expect that that will continue hopefully for the next decade. We are so underrepresented there relative to our overall portfolio and market shares around the world.
+ But I would say, hopefully, this is the first year of many years of very strong double-digit growth in those markets. We've made leadership changes. We struggled with emerging markets for the first four years or so. 2018 was a good year.
+ 2019 was a great year. And that's the area that I think has the biggest upside in addition to Mako in both China and Japan. Japan now has all the applications approved on the robot. We're still waiting for the knee application to be approved in China, hope to have that sometime this year.
+ But those will be very, very good markets for Mako as well.
+Operator
+Your next call comes from the line of Robbie Marcus with JP Morgan. You may proceed.
+Robbie Marcus -- J.P. Morgan -- Analyst
+ Great, and congrats on a really nice quarter. Kevin, maybe first, I'll ask on the capex environment. What were you seeing exiting the year with business and consumer confidence rates so high, and what do you expect going into 2020?
+Katherine Owen -- Vice President of Strategy and Investor Relations
+ Robbie, maybe I'll take that question. I would tell you based on our mix of capital, which runs a pretty big range from relatively lower ASP to obviously much bigger ticket items, the environment remains really healthy. We've seen strong growth across the board for our capital businesses. And you know, Mako, I would tell you what we are seeing is while it's still a long selling cycle, we are seeing that kind of move up ahead of other capital requests in the queue with hospitals just given the growing demand and acceptance of robotics.
+ So, we feel really good heading into this year in terms of the capital environment, particularly the environment, combined with the products that we're launching or continuing to build on prior launches.
+Robbie Marcus -- J.P. Morgan -- Analyst
+ Great. And while there were a lot of great performances in the quarter, the two misses versus Street numbers that stood out were trauma and extremities and medical. I was just wondering if you could give a little more color on each of those and anything you saw in the quarter.
+Kevin Lobo -- Chairman and Chief Executive Officer
+ Sure. Starting off with medical, I mean, they had very, very significant comparisons if you look at last year's growth. And so, we're still very pleased with our medical business. And that has been a consistent performer, if you go back four, five years, a consistent grower.
+ The sage and physio acquisitions have been terrific acquisitions for that business. So, I would say that's more of a comp issue and expect that to continue to be a strong performer, especially with a lot of new products coming in 2020. In trauma and extremities, again, we had a very strong year last year. So, a little bit of that was comp-related.
+ And we still believe that we have the leading market performer in trauma. It does vary sometimes from quarter to quarter. We've seen that over the past two or three years, but the T2 alpha launch is starting to pick up steam. We also have a mini frag launch, which just occurred at the end of this year, which is pretty exciting.
+ That's one of our soft spots in our portfolio. So we believe we're well-positioned, and we expect to continue to grow above the market. It was a slight reduction versus what we've experienced before but nothing that concerns me.
+Operator
+Your next call comes from the line of Raj Denhoy with Jefferies. You may proceed.
+Briana Warschun -- Jefferies -- Analyst
+ This is Briana on for Raj. I just have a quick question on Mako. So, I'm just trying to characterize these sites that are adopting Mako. Do you find any difference in sites that might have adopted some level of computer-assisted navigation previously but not for robotics versus those that are mostly manual?
+Katherine Owen -- Vice President of Strategy and Investor Relations
+ Yeah. I don't think we have that level of granularity around. I would tell you we see across-the-board adoption by all types of customers. It can be high-volume hospitals.
+ It can be more rural hospitals. It really is wherever there's a surgeon champion. And increasingly, what we're seeing is increased demand given how long we are into the launch now. We're also continuing to see increase in the percent of hospitals that are now purchasing a second or additional robot, but I can't really tie it to navigation necessarily.
+Operator
+Your next call comes from the line of Vijay Kumar with Evercore ISI. You may proceed.
+Vijay Kumar -- Evercore ISI -- Analyst
+ Hey, guys. Thanks for taking my question, and congrats on a nice print here. So, one housekeeping question here on the guidance, you know, below the line. You mentioned interest income came in above, I believe.
+ The assumption for fiscal '20, Glenn, is that the new run rate now we're looking at, somewhere in 8 to 10 million per quarter on that line item?
+Glenn Boehnlein -- Chief Financial Officer
+ Yeah, that would be, you know -- let me go back, and I'll have one of our guys get back to you on that. I mean we basically will have more borrowings coming in if you think about what we're going to do for right medical. And so, if that closes in Q3, then that will obviously change that interest number.
+Vijay Kumar -- Evercore ISI -- Analyst
+ Gotcha. And then one on right medical. I know you won't comment on the timing, but the original deal model was no impact to EPS in fiscal '20 and $0.10 dilution in '21. Just given your cash balance, your free cash conversion, any change in your financing assumptions around the EPS contribution assumptions here on the deal?
+Glenn Boehnlein -- Chief Financial Officer
+ Yeah. Right. Right now, it's pretty early. And the guidance that we put out that you just mentioned is where we're at in terms of what we're willing to share at this point.
+Operator
+Your next call comes from the line of Matt Taylor with UBS. You may proceed.
+Young Li -- UBS -- Analyst
+ This is Young Li in for Matt. Maybe, first, on MA. After you address the last category leadership gap with right, what are your thoughts on expanding into additional verticals within med tech that you currently aren't in? And maybe just thoughts on MA for 2020 in general? How is the pipeline shaping up and views on valuation of targets?
+Kevin Lobo -- Chairman and Chief Executive Officer
+ Yeah. We continue to have a very strong pipeline. Obviously, with the size of the right medical deal, we're not going to be looking at targets of scale for the next year or two while we start to pay down that debt, but we will still keep the lights on in our business development engine. We still have significant opportunities to add to our portfolio.
+ So, when I talked about closing the last major gap, it doesn't mean we don't have targets within all of our many businesses. Each business has business development people that are focused, and we continue to see attractive targets that can continue to add to our category leadership. But this was -- if you think about five, six, seven years ago, sports medicine, spine and shoulder were the areas where we had the largest gap to category leadership, and we've made huge progress in our sports medicine business, mostly organically but also with a series of tuck-in deals. With K2M, we've largely addressed our spine business, and then right medical addresses upper extremities.
+ So those are the areas that we clearly were not in the top one, two or three in the category, and that will propel us into that category. But we don't really feel the need at this point to start to branch widely outside of the three segments. These are big segments. If you think about med surg, if you think about neurotech and spine and orthopedics, where there are still very, very active hunting grounds for acquisitions.
+ But again, the target sizes will be smaller, at least for the next year or 2, while we digest this one.
+Young Li -- UBS -- Analyst
+ OK. That's very helpful. And I guess, just a follow-up. The Mako international focus, pretty good quarter here.
+ Can you maybe just talk about the opportunities in international? I know you highlighted Japan and China, maybe India longer-term. And maybe at a high level, can you comment on utilization rates, U.S. versus o-U.S.?
+Katherine Owen -- Vice President of Strategy and Investor Relations
+ No, we're not going to get into the latter part in terms of utilization rate because you saw we're seeing, across the board, a healthy increase, and that wouldn't be just in the U.S. But the data we have tracked for you guys has been the U.S., given that it was the largest segment of our Mako revenue right now. You're absolutely correct. There's significant opportunity outside the U.S., markets like Japan, China, Latin America.
+ We're selling robots, really, around the globe. Obviously, we're behind in certain markets versus others. I would say, near-term, we're probably most excited about Japan now that we have all the indications. In China, once we get the knee indication.
+ But there are a lot of healthy robot markets beyond the U.S.
+Operator
+Your next call comes from the line of Kristen Stewart with Barclays. You may proceed.
+Kristen Stewart -- Barclays -- Analyst
+ Thanks for taking my question, and congratulations on a good quarter. Kevin, I just wanted to ask kind of a big-picture question to you, and then I do have a follow-up. If I look at the overall organic growth rate since you've taken over, it's been this really impressive linear line up into the right, accelerating growth, really, each and every year. I'm just curious on how you think about the growth profile of Stryker going forward.
+ Should we continue to expect kind of this nice linear acceleration story? You know, going back to, I guess, one of the original questions. I think it was Bob who asked. Thinking about the guidance, I know you guys tend to give kind of conservative guidance at the onset of the year. I know you said last quarter you still felt very strongly, and you said it earlier, on this momentum.
+ But should we just think about Stryker continuing to have this acceleration growth profile from here, or do you think that, you know, we should think about more of you being in a position to sustain kind of around the level of where we're at? And then we'll follow-up.
+Kevin Lobo -- Chairman and Chief Executive Officer
+ Thanks, Kristen. Obviously, you've seen our focus has been on growth. We've been very acquisitive. We've focused on adding and splitting sales forces wherever possible, investing in RD at a healthy rate, which fuels the growth.
+ And so, that's been our model, and that's continuing. And right medical, this pending acquisition, is another example where they're a very high-growth business and a very large business. And so, that our actual model isn't changing. We continue to have the same offense, and we're growing big numbers on top of big numbers.
+ And so that's what's been impressive, is for four years I've been asked, you know, when is the growth going to start to slow down? And it hasn't. Now, can you take a line and draw a straight line forever? Probably not. We also have to look at the market. The market has been pretty healthy.
+ We've maintained our gap and maybe accelerated our gap versus the market in growth. But we think we have an offense in our operating model that's structured for high growth. The way we decentralized model, the dedicated sales, marketing, RD and business development in each division, we become a more global company, and that still has significant runway in emerging markets in areas like Europe, where we didn't have high growth. Year after year, we're growing in high single digits in Europe, which I think is rare, and that's not going to end anytime soon.
+ So, I think we're structured to have high growth, you know. Putting a fine point on the actual number is difficult because you don't know what's happening in the macro environment, but I feel just as positive starting this year as I did at the beginning of last year.
+Kristen Stewart -- Barclays -- Analyst
+ OK, that's helpful. And then I was just curious, you guys made some changes, I guess, it was last summer to just move around some of the structure -- reporting structure with spine and then neurotech as well to report up into orthopedics and med surg. Is that something that from an RD perspective or anything might have any implications from a growth perspective or anything like that? Maybe just talk through if there's anything there from also MA, if we should be thinking of it.
+Kevin Lobo -- Chairman and Chief Executive Officer
+ No. Sure, sure. That's just purely a reflection of the leadership changes. It's really a recognition of terrific performance by both Spencer Styles and Andy Pierce.
+ These are two group presidents that are just shining, and so we've given them additional businesses to manage. There is no change at the divisional level. So, the division presidents, who are also terrific, continue to run their business. But the change that we made was one level above that, how we aggregate the divisions.
+ But the center of gravity of our company are the divisions. That's where the action happens in terms of RD, marketing, sales. So, don't read anything more into that other than it's a management structure change to give more businesses to Andy and Spence to manage directly, and it's a recognition of just how well they've performed over time.
+Operator
+Your next call comes from the line of Matt O'Brien with Piper Sandler. You may proceed.
+Unknown speaker
+ Hi, guys. This is Drew on for Matt. Thank you for taking the questions. I just have two questions here on Mako and, I guess, I'll ask both.
+ I just want to follow-up on the comment you made on the software update in hips there. Is that something that could kind of close the gap where you're actually placing the system organically for hip applications that is prior to knee? And then second question is, I guess, it seems like you guys have been talking about Knee being -- or about cement-less knee being a key growth driver for about two years now given integration with Mako. Just kind of trying to gauge what your feel of this as far as what any new, and product-wise, especially with a larger competitor on the market. And then do you see any headwinds or tailwinds here as we think about 2020?
+Kevin Lobo -- Chairman and Chief Executive Officer
+ OK. There were a few questions in there. Let me start just with Mako and robotics in general. It's still early innings within orthopedics.
+ And we see a huge runway ahead of us to continue to have a broad adoption of robotics. Cement-less has been a steady grower, and we don't think that's going to slow down. It will continue. It probably won't have big step-changes.
+ It will be a steady gradual progression. And what we're seeing there are some new surgeons adopting cement-less, but we're also seeing the surgeons that started with cement-less, with, let's say, younger, healthier patients, now starting to realize that the benefits are so good that they're starting to put them in older patients. And even patients, let's say, whose bone quality may not be pristine but still adequate bone quality. So, you're seeing even surgeons that are using it who used to use it on a smaller percentage of the patients now seeing just how well it's performing using it on a larger percentage of their population.
+ So, I think cement-less will continue to run, and we're pretty excited about the potential for the future. And again, getting back to the technology, this has many, many years ahead of us, and we're very excited about the potential.
+Operator
+Your next call comes from the line of with Kaila Krum with SunTrust. You may proceed.
+Kaila Krum -- SunTrust Robinson Humphrey -- Analyst
+ Thanks for taking our questions. And so, just one on robotics, and then another on trauma extremities. So, just to follow up on the health of the robotics business and just the strength of your order book there. Just kind of curious if you're really even seeing new competition in the market at this point, and I guess more importantly, how you're contemplating competition in 2020.
+Katherine Owen -- Vice President of Strategy and Investor Relations
+ We're really continuing to focus on the strategy that's been under way for five years now as it relates to total knee. We have a very concerted effort of focusing on the organization, a capital sales force and a really unique robot with smart intelligence and the ability to really give surgeons some differentiation, and we have multiple indications across the joint replacement market. So, our focus is on the strategy that's been working, and that will continue to be the focus in 2020.
+Kaila Krum -- SunTrust Robinson Humphrey -- Analyst
+ Great. And then just early anecdotal feedback on the right medical deal from your sales team. And then just how you're modeling the trauma and extremities business leading into the deal closure? Are you assuming there's going to be maybe dislocation leading into the deal closure, or just how are you thinking about that business?
+Katherine Owen -- Vice President of Strategy and Investor Relations
+ Yeah. I apologize, I really can't get into any color there. I'd refer you back to the comments we made at the time of the acquisition. We don't own the company.
+ They're a publicly traded company. We're still competitors, so it would be inappropriate to say anything about that right now. We're obviously very excited about what it will do for our extremities portfolio. But beyond that, I would just refer you back to the comments that we made around assumptions tied to the synergies at the time that the deal was announced.
+Kevin Lobo -- Chairman and Chief Executive Officer
+ Yeah, but we still feel bullish about our own trauma business. We have new products that we're launching. We have a very strong brand. And the feedback we've had from our sales force is, I would say, excitement, really.
+ Excitement that we -- that we're going to strengthen our position in extremities and become the really most attractive company for extremities. That's what our belief is. That's what we're telling our sales force. That's what we're hearing from them.
+ So, there's always risks of deal -- dislocation in every sales force that we have. But for the moment, it doesn't appear to be significant.
+Operator
+Your next call comes from the line of Craig Bijou with Cantor Fitzgerald. You may proceed.
+Craig Bijou -- Cantor Fitzgerald -- Analyst
+ Good afternoon, guys. Thanks for taking the questions. I just want to ask about the overall ortho and spine markets. Both seem pretty strong in the second half of '19.
+ So, what do you see? Are you guys seeing any improvement in either of those broader markets? And then what are your expectations for those markets in 2020?
+Kevin Lobo -- Chairman and Chief Executive Officer
+ Frankly, the market seems very stable, and it's been pretty healthy for some time now. Not everybody has reported yet their fourth quarter. So, until we see the total numbers, we're not going to have a clear idea. But I would say the market is maybe modestly better.
+ I think we said that at the beginning of the year. We thought it would be just a little bit better, but it's not that it's had a step-change improvement. It's been a good, healthy market. We expect that it will continue to be a good healthy market.
+Craig Bijou -- Cantor Fitzgerald -- Analyst
+ Got it. And then just a follow-up on Mako. In 2020, I mean, can we expect to see any clinical data? Or, I guess, what's the plan for the release of -- or potential release of any clinical data during the year?
+Katherine Owen -- Vice President of Strategy and Investor Relations
+ Yeah, I'm sure you know we always -- we don't always have line of sight since we're not always the sponsor of the studies. But I would expect you'll continue to see data. Over what time frame or size of the study, that's harder to tell. It will be another focus of the academy meeting at the end of March.
+ So, we will again have a booth tour, and we will be highlighting Mako and getting some insights around some of the new hip technology that Kevin referenced. But I would expect you're going to see continued data coming out, I just don't have specifics for you at this time.
+Operator
+Your next call comes from the line of Richard Newitter with SVB Leerink. You may proceed.
+Richard Newitter -- SVB Leerink -- Analyst
+ Hi. Thanks for taking the questions. Kevin, maybe just the first one. In Europe, where you're underrepresented from a market share standpoint relative to U.S.
+ share -- dominant share positions, can you maybe just tell us where you're most excited about potentially, you know, closing the gap even faster as you look to 2020? Where do you see the biggest opportunities, especially as you move into the next 12 months? And where are you most excited there? And then I had a quick follow-up.
+Kevin Lobo -- Chairman and Chief Executive Officer
+ Sure. I would start off with the med surg segment, so endoscopy, instruments and medical. Those are areas where we have the biggest opportunity for market share gains. We have terrific products, and as we specialize in med surg, we do expect to have a much more significant growth.
+ The potential there is pretty significant. I also believe in knees. We've sort of underperformed on a market share standpoint historically. Mako is a big help there as is specialization.
+ So that's another area. And then I think spine, now that we have K2M, spine had a terrific year in Europe last year. And we believe that will continue going into the future. So those are the areas that I think we have a pretty good size hip business.
+ We're pretty strong there. Our neuro businesses are very strong in Europe. So those are the areas that we still have growth potential but maybe not as much. But I would say med surg, knees, spine, significant runway.
+Richard Newitter -- SVB Leerink -- Analyst
+ Got it. And maybe just a follow-up on cement-less. Where does this category potentially get to? Is there a cap in your view from penetration of what should be done in cement-less in knees? And just remind us what your estimation for the penetration today is into the market.
+Kevin Lobo -- Chairman and Chief Executive Officer
+ So, I think, Katherine, in her prepared remarks, mentioned that we exited the year at just over 36% of our U.S. knees being cement-less. We are seeing adoption around the world as well, not as fast as the adoption rate that we're seeing in the U.S. I don't believe it will get to hips, which is virtually all cement-less just given the knee joint being a weight-bearing area.
+ And with people's bone quality, there's always going to be some more conservatism. But there's no reason to believe why it won't continue to steadily rise. And I think it could exceed 50%. Hard to know and hard to predict, but I wouldn't be surprised at all if it exceeds 50%.
+ Keep in mind that we have a very unique product for cement-less, and that's why we're able to have this kind of spectacular growth rate and great clinical performance. And we'll see how that -- whether that applies to the rest of the market. But we certainly love our position in cement-less.
+Operator
+Your next call comes from the line of Larry Biegelsen with Wells Fargo. You may proceed.
+Larry Biegelsen -- Wells Fargo -- Analyst
+ Hey, guys. Thanks for taking the question. One on Mako. One on Japan.
+ Katherine, I think I know the answer to this, but given the strength you saw in placements in Q4 and 2019, I think you placed about 220 Mako robots, if I'm doing the math right. Can you still grow Mako placements year over year in 2020? And maybe color on how much you can grow.
+Katherine Owen -- Vice President of Strategy and Investor Relations
+ So, we don't model out how many full-year targets we have, but obviously, it was pretty significant year-over-year growth. Given where penetration areas are and where we are in the launch and the increasing acceptance, we feel very comfortable that you'll see healthy year-over-year growth.
+Larry Biegelsen -- Wells Fargo -- Analyst
+ Perfect. And then Kevin, do you guys have visibility yet on the Japan bi-annual price cuts? And what are you guys assuming in your guidance?
+Kevin Lobo -- Chairman and Chief Executive Officer
+ We don't usually provide exactly what we're assuming in our guidance. This is something that -- it occurs with the regular frequency. Whatever we've modeled, if the number is a little higher or a little lower, we just absorb that within our targets, and that's why we have a range.
+Operator
+Your next call comes from the line of Kyle Rose with Canaccord. You may proceed.
+Kyle Rose -- Canaccord Genuity -- Analyst
+ Thank you for taking the questions. Just two Mako-related ones for me. Katherine, I think you've kind of alluded to it at the beginning of the call, but can you maybe help us understand how you view enabling technologies in spine? I mean, obviously, you've got Mako as a foundational technology there with your nav suite, but you also acquired Cardan and Mobius in 2019. I guess, trying to understand how we should think about that in 2020.
+ And then, just with respect to Mako in Japan, you've got the full indications across the portfolio. Just how should we expect adoption to ramp there given, you know, you've had five years in the U.S. market already and you've got clinical data and things of that sort? Should we expect an accelerated adoption in some of these new markets internationally?
+Kevin Lobo -- Chairman and Chief Executive Officer
+ Sure. I'll take the first one, and then I'll ask Katherine to comment on Japan. Enabling technologies to us, we're big believers that this is going to be important for the future. We are very excited about Mobius.
+ We launched that at our sales meeting, and we're very excited about the potential of that being part of the enabling solution portfolio. We're not ready yet to comment on robotics for spine, so we obviously have two options. One, with Cardan, which came with the Mobius acquisition, as well as Mako. We are working on those programs, but it's just too early to give you an idea of when that will launch.
+ And once we have a more – firm date, we will let you know. But we are believers that that is an important part of the future.
+Katherine Owen -- Vice President of Strategy and Investor Relations
+ And then your first question was specific around how we are thinking about spine and Mobius in 2020?
+Kevin Lobo -- Chairman and Chief Executive Officer
+ No, about Japan.
+Katherine Owen -- Vice President of Strategy and Investor Relations
+ Oh, sorry, Japan. Excuse me. It's been an exciting market, and we now have all three indications, which is obviously a big plus. We have nine robots there.
+ We got to nine fairly quickly. It's a market that really embraces technology. And obviously, we're going to bring years of learnings on how to optimize the sale. It would be premature to tell you how big it can be, but it absolutely feeds into our conviction level around the fact that we believe we're well-positioned to grow Mako year over year in robot and to continue to see significant market share gains in knees as we expand, not just in the U.S., but globally.
+Kevin Lobo -- Chairman and Chief Executive Officer
+ Yeah. In general, Japan, it will grow. It doesn't tend to spike as fast as the U.S. Just if you look historically and look at intuitive surgical, look at other businesses.
+ But it will grow. And we're pretty bullish about it and excited for the future.
+Operator
+Your next call comes from the line of Steve Lichtman with Oppenheimer and Company. You may proceed.
+Steve Lichtman -- Oppenheimer and Company -- Analyst
+ Thank you. Hi, guys. First question with K2 now more in the fold. Can you provide an update on the deformity opportunity that you see ahead, and how that portfolio maybe provides an opportunity for pull-through of more traditional degenerative products for you guys?
+Katherine Owen -- Vice President of Strategy and Investor Relations
+ You know, it's certainly part of the rationale at the time of the deal. K2M are leaders in the deformity market, and the opportunity there to really leverage their call point and their relationships with key opinion leaders was absolutely part of the rationale for the transaction, along with the opportunity to refresh our portfolio. So that rationale was relevant then, and it's still very valid today.
+Kevin Lobo -- Chairman and Chief Executive Officer
+ Yeah. And obviously, it took time to cross-train all of our salespeople. That was part of the integration challenges that we have. They are all cross-trained on the K2M products.
+ And you're right. That pull-through is a key part of why our growth will accelerate.
+Steve Lichtman -- Oppenheimer and Company -- Analyst
+ Great. And then just secondly, on EU MDR, just curious on your thoughts for Stryker specifically? And obviously, as an industry leader for the market, how do you see that impacting cost, pace of innovation, and perhaps, product discontinuations as a result of those regulations?
+Glenn Boehnlein -- Chief Financial Officer
+ Yeah. We, you know, continue to refine and expand how we look at EU MDR. We also have done a lot of work in terms of thinking about the value proposition that we offer in that space. More and more, our investors are becoming more interested in that and have asked us questions about it.
+ When I was over in Europe doing fundraising in November, it pretty much came up in every meeting. So, it is something that we have a focus on. Our communications department is working and has hired someone full time to look at it. And so, I think you'll see more out of it in the coming years.
+Kevin Lobo -- Chairman and Chief Executive Officer
+ Yeah. I think one of the things Stryker did, and started frankly, before the MDR, was what we call a focus on power brands. And so, we've been rationalizing our portfolio pretty significantly, and that ended up being a real blessing when the MDR came about because we had already decided to move out of a lot of, let's call them peripheral SKUs. And so, we feel very well-prepared.
+ There has slightly been -- recently been a slight reprieve on the dates pre MDR, but we are all systems go ready for that. We don't really believe it's going to have any meaningful change to how we innovate given that we do have this kind of power brand-focused mentality around our innovations.
+Operator
+Your next call comes from the line of Josh Jennings with Cowen. You may proceed.
+Josh Jennings -- Cowen and Company -- Analyst
+ Thanks for taking the questions, and congrats again on a stellar year. I just wanted do two quick questions on Mako. First, I mean China, I know you're waiting on the total knee approval. Maybe you can just help provide us with some color just on that opportunity.
+ Any details that you can give in terms of, I guess the TAM or a number of orthopedic synergies you could address with Mako in China? And then, secondarily, and with competition coming more into play this year, I understand that Stryker is not going to be standing still. But what can we expect over the course of this year to hear about in terms of iterative advancements for Mako total knee. Is there anything we could see at AAOS? Or anything -- how should we be thinking about the advancement of Mako total knee?
+Katherine Owen -- Vice President of Strategy and Investor Relations
+ Yeah. I think I'll start with the latter. The capabilities, the functions, the clinical benefits that the current knee indication brings are increasingly being well established and received. So that remains our focus.
+ Obviously, we have things in the RD pipeline as we do with all our capital base products, looking at ways to improve. But this is really a leading robotics technology with unique capabilities and indications across the portfolio of joint replacements. As Kevin referenced, I believe, on this call, and I'm sure we'll talk about in academy, we do have some new hip software coming to help facilitate that procedure. And so that will be the focus.
+ It's really hard -- turning to your question about China -- to give you a quantifiable answer there. It's a very large market, but it's still a developing market. It's around building out their orthopedics. But it's certainly one, once we get our knee indication approved, we have a lot of excitement around.
+ But just keep in mind, o-U.S. is really a number of different markets. It's not all tied to one or a couple of markets. We've seen great performance in Asia and Australia and parts of Europe and Latin America and now seeing Japan come online.
+ So, it's the totality of that geographic offering that I think will help really power our o-U.S. Mako performance.
+Operator
+Your next call comes from the line of Ryan Zimmerman with BTIG. You may proceed.
+Ryan Zimmerman -- BTIG -- Analyst
+ Thanks for squeezing me in. Just two quick ones for me. Kevin, you guys have made a big push in ENT, both with the Entellus acquisition and Arinex. Just curious if you could kind of speak to how you view your ENT business today, whether you have sufficient scale in that business or what else you may need to do, whether it's further MA or additional hiring to kind of scale up in that space.
+ And then, the second question is just around the instrument line. We've seen that revert to more of a mid-single digit growth rate relative to the first half of the year. And just love to get your thoughts on kind of how we should be thinking about that line into 2020 and beyond just given the cadence there.
+Kevin Lobo -- Chairman and Chief Executive Officer
+ Yeah. I think you saw we split our sales force in surgical, which is one the biggest part of our instruments division, had an incredible first half of the year, slowed a little bit in the second half of the year but still a double-digit growth for the full year. Instruments has consistently, for the last decade, been a high-single digit or low-double digit growth kind of business. And we expect continued high-growth out of our instruments franchise, so we are not lowering our expectations and thinking that instruments will suddenly become a slower grower.
+ And frankly, if you look at a lot of the acquisitions we've done, including more recently TSO3 and Invuity, there's a number of acquisitions. We keep feeding the instruments machine, and so you're going to expect to see continued high growth out of instruments. I'm sorry, what was the other question? I think I missed the other one.
+Ryan Zimmerman -- BTIG -- Analyst
+ ENT.
+Kevin Lobo -- Chairman and Chief Executive Officer
+ Oh, ENT. We have sufficient scale now in ENT with -- I mean, Entellus, we already have some products within Stryker. NasoPore and some smaller products. With the addition of Entellus, we have what we need.
+ I would call Arrinex a tuck-in. Could we do other smaller additions? Sure. Just like any of our businesses, we can always do little tuck-ins. But I would say we don't need anything significant to be able to really win in ENT.
+ And I was very pleased with the momentum that we have in that business as we exited the year.
+Operator
+Your next call comes from the line of Larry Keusch with Raymond James. You may proceed.
+Larry Keusch -- Raymond James -- Analyst
+ OK, thanks. Yeah, two questions. I guess, Katherine, clearly, you've done a sizable volume of total knees on Mako, you know. 2019 was a big year for you guys.
+ As you start to expand into the other regions, what are the key benefits that you're hearing most from your Mako surgeons at this point? What I guess I'm really trying to understand is what is driving the continued stellar adoption of the technology?
+Katherine Owen -- Vice President of Strategy and Investor Relations
+ I think it really comes down to several factors. The capabilities of the Mako robot with a CT scan that is specific to that individual patient and allows for a patient-specific plan that can be changed inter-operatively with technology that allows optimal balancing of the knee, avoiding soft tissue disruption, and it really helps improve outcomes, which, seeing data that shows patients are ambulating more quickly, they have less opioid use, they're getting out of the hospital more quickly, and that ties to having a better-balanced knee and less tissue disruption, which is only possible with a patient-specific plan that allows you to cut less because you have more knowledge specific to that patient. That's really resonating with surgeons. And I think that's probably the biggest driving force behind what is increasing utilization and adoption.
+Larry Keusch -- Raymond James -- Analyst
+ OK, perfect. And then I guess, just a financial question here. Look, you're going to have an increase in your leverage once the right deal is done. I think you've mentioned you peaked around three times, but that's still actually relatively low, compared to other med tech peers out there.
+ So, I guess the question is where do you -- where is the right level of leverage for you guys on a more steady-state? And even as you come up to these peak levels on post the right acquisition, can you continue to still do MA as you continue to move the leverage back down again?
+Glenn Boehnlein -- Chief Financial Officer
+ Yeah, I think the plan, you know, first of all, is we would continue to deliver 30 to 50 basis points in the underlying business even once we combine right. And honestly, we would work through the integration plan to improve the overall leverage, which is obviously part of the acquisition modeling. I think as we think about continuing acquisitions after we close on the acquisition of right, we would still plan to do small tuck-in acquisitions, which are really the bread and butter of how we drive a lot of growth for our divisions. So, I don't see any change in that piece of the strategy.
+Operator
+There are no further questions at this time. I'll now turn the conference over to Mr. Kevin Lobo for any closing remarks.
+Kevin Lobo -- Chairman and Chief Executive Officer
+ Thank you for joining our call. We look forward to sharing our Q1 results with you in April. And as a reminder, we will be hosting a booth tour and investor meeting at AAOS on March 26. Thank you.
+Operator
+[Operator signoff]
+ Duration: 70 minutes
+Call participants:
+Kevin Lobo -- Chairman and Chief Executive Officer
+Katherine Owen -- Vice President of Strategy and Investor Relations
+Glenn Boehnlein -- Chief Financial Officer
+Bob Hopkins -- Bank of America Merrill Lynch -- Analyst
+David Lewis -- Morgan Stanley -- Analyst
+Matt Miksic -- Credit Suisse -- Analyst
+Pito Chickering -- Deutsche Bank -- Analyst
+Rick Wise -- Stifel Financial Corp. -- Analyst
+Robbie Marcus -- J.P. Morgan -- Analyst
+Briana Warschun -- Jefferies -- Analyst
+Vijay Kumar -- Evercore ISI -- Analyst
+Young Li -- UBS -- Analyst
+Kristen Stewart -- Barclays -- Analyst
+Unknown speaker
+Kaila Krum -- SunTrust Robinson Humphrey -- Analyst
+Craig Bijou -- Cantor Fitzgerald -- Analyst
+Richard Newitter -- SVB Leerink -- Analyst
+Larry Biegelsen -- Wells Fargo -- Analyst
+Kyle Rose -- Canaccord Genuity -- Analyst
+Steve Lichtman -- Oppenheimer and Company -- Analyst
+Josh Jennings -- Cowen and Company -- Analyst
+Ryan Zimmerman -- BTIG -- Analyst
+Larry Keusch -- Raymond James -- Analyst
+
+More SYK analysis
+
+All earnings call transcripts

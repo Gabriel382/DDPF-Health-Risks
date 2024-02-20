@@ -1,0 +1,13 @@
+Sorrento Therapeutics and Celularity Aim to Adapt Natural Killer Cell Therapy to Treat Coronavirus 
+ Sorrento Therapeutics (NASDAQ:SRNE) and privately held Celularity announced Wednesday that they are collaborating to develop a natural killer (NK) cell therapy to treat and prevent coronavirus infections, especially the recent outbreak of 2019-nCoV in China. Sorrento's shareholders seem to think the biotech might be spreading itself a little thin with the added program -- its share price had fallen 6.7% as of 11:43 a.m. EST.
+
+Celularity, which is 25% owned by Sorrento, has an NK cell program, CYNK-001, that it's testing for multiple types of cancer. NK cells are part of the immune system and, as the name suggests, their main job is to kill host cells that have been targeted for destruction by other immune cells because they're part of a tumor or have been infected with a virus.
+
+
+Image source: Getty Images.
+
+
+
+Unlike currently available therapies that utilize chimeric antigen receptor T (CAR-T) cells -- another type of immune cell -- Celularity's NK cell therapies aren't patient-specific. In CAR-T cell treatments, the cells are extracted from the patient, manipulated in a laboratory, and put back into the same patient. Celularity's NK cell therapy, which is derived from placentas, is an off-the-shelf product that can be used by anyone.
+
+The biotech companies didn't give any indication about how long it might take before they'll be ready to start testing CYNK-001 in humans, although Sorrento noted that it is already in contact with scientists and local Chinese experts to get the ball rolling. If CYNK-001 helps patients infected with coronavirus, Sorrento will use its manufacturing facility to help Celularity ramp up manufacturing of the therapy.

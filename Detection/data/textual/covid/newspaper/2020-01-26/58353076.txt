@@ -1,0 +1,18 @@
+AI Discovered Coronavirus Spread On Dec 31, Weeks Before China Or WHO Reported The Outbreak 
+ Well before World Health Organization or US Center For Disease Control made it official that a deadly coronavirus outbreak had gripped China, and posed danger to the whole world, a Canada-based AI startup knew that the 'Wuhan virus' cases were multiplying in China. 
+
+ wuhan corona virus
+The startup called Bluedot knew this by analyzing foreign language data points flooding the internet in 2019, which is pretty astounding because the Wuhan Coronavirus news became public just over a week ago by Chinese and global health agencies.
+Bluedot is a Toronto-based startup whose AI-powered health monitoring platform analyzes billions of data points online and crunches them to make public health threat assessments. The five-year-old startup knew something was up in China and sent an alert to all their clients about the Wuhan coronoavirus outbreak on Dec. 31, much before the WHO, US CDC or even Chinese health agencies officially acknowledged the pandemic flu.
+How did Bluedot get ahead of the curve?
+Even in the past SARS virus outbreak, and now with Wuhan coronavirus, China wasn't immediately forthcoming in alerting the world with respect to what it was dealing with internally.
+ According to a press release, Bluedot "uses big data analytics to track and anticipate the spread of the world’s most dangerous infectious diseases." 
+
+The AI-driven startup does this by using natural-language processing and machine-learning techniques to filter through worldwide news reports, data from airlines, and reports of animal disease outbreaks, according to a Wired report. 
+
+ 
+Bluedot's internal team of epidemiologists then take a look at the automatically generated data and insights to see if they see a pattern of disease outbreak, and if they're confident about it the company sends an alert to its clients worldwide on the potential risks and safety measures.
+The virus-hit Chinese city of Wuhan, already on lockdown, will ban most vehicles including private cars from the downtown area in a further bid to limit the spread of a new disease that has infected more than 1,000 people and killed 41.
+It is in these instances, where you're dealing with the threat of a global pandemic, that a service like Bluedot would've been useful. Already reports are emerging that the Chinese Wuhan coronavirus has spread to countries like Australia, US, Japan, Thailand, and more. 
+
+If we have the tools to potentially identify these risks in advance thanks to AI, it's high time we started making better use of them. Because it always comes down to time, and how quickly you can contain and eliminate the disease -- and the easiest time to do this is at the very beginning.

@@ -1,0 +1,46 @@
+Apple to sell tags for tracking items and new headphones in March 
+ Apple will release a high-tech tag device for tracking everyday items and new high-end headphones alongside the iPhone SE 2 in March, a report has claimed.
+
+The predictions come from well-known Apple analyst Ming-Chi Kuo, who also forecasts the release of new iPad models and a small wireless charging mat.
+
+Mr Kuo also noted the potential for the coronavirus outbreak to either delay upcoming Apple product releases or lower their specs to meet deadlines.
+
+Mr Kuo's prediction's were made in a research note from investment management firm TF International Securities, a copy of which MacRumors have reported seeing.
+
+'We forecast that Apple's major new hardware products in [the first half of 2020] include the 4.7-inch LCD iPhone, iPad Pro, MacBook Pro/Air, smaller wireless charging mat, UWB tag, and a high-end Bluetooth headphone,' he apparently wrote.
+
+Unconfirmed reports have been widely circulated that Apple is developing a low-cost iPhone with a 4.7-inch screen and a touch ID home button.
+
+This product — which is thought could retail from $399 (£304) in the US — may launch as soon as March 2020.
+
+AirTags are Apple's rumoured tracking system for the 'Find My' app. Each will be small, circular and made for attachment to everyday items. If said items are lost, pressing a button in the 'Find My' app  will cause the tag to make noise to help you locate it.   'Safe Locations' will let you share the locations of your items with friends and family and 'Lost Mode' can be activated if the item cannot be found. If the item is found by a fellow iPhone user, they can check the tag to find its owner and send an alert via the app.
+
+Rumours that Apple is developing item tracking tags — as popularised by Tile — first surfaced in the September of last year when MacRumors released leaked screenshots of an item-tracking sub menu being developed for integration within the 'Find My' app.
+
+The tracking tag product has reportedly been given the code-name 'B389' during its development and will potentially be sold under the ultimate name 'AirTags'.
+
+As with the iPhone 11 range, Mr Kuo believes that the AirTags will support the use of so-called ultra wide-band radio technology, which would allow the tags to be located with a much greater degree of accuracy than would be possible using Bluetooth Low Energy or Wi-Fi.
+
+Mr Kuo reportedly expects Apple to release high-end, Bluetooth enabled headphones — although he did not provide more specifics.
+
+These could, however, be the Apple-branded over-ear headphones that Bloomberg had previously reported were under development.
+
+Little is known either about the rumoured small wireless charging mat — although it would follow in the wake of the highly-anticipated AirPower charging mat that was cancelled last year following quality concerns.
+
+Had it been realised commercially, however, the AirPower mat would have been capable of charging an iPhone, Apple Watch and AirPods case at the same time — reportedly regardless of where on the mat each device was placed.
+
+Apple is also expected to release revamped versions of their iPad Pro and MacBook Pro and/or Air products.
+
+An iPad Pro with a triple-lens rear camera system — such as seen in the iPhone 11 released last year — and 3D sensing for augmented reality are anticipated to be unveiled as early as March.
+
+Suggestions that new MacBook Air or Pro models might be on the horizon lines up with previous speculation that a 3-inch MacBook Pro with a scissor switch-based Magic Keyboard will launch by June 2020.
+
+Mr Kuo also noted that — in a worst-case scenario for the tech firm — the impacts of the present coronavirus outbreak could result in Apple having to delay the quality assurance and mass production schedules for upcoming products.
+
+Foxconn — a primary manufacture of Apple products — has its iPhone factory located in Henan Province, adjacent to Hubei Province in which the virus appeared.
+
+'If there are no significant improvements regarding the coronavirus epidemic in the foreseeable future, we predict that Apple may delay new material adoptions or lower test requirements for components to shorten qualification processes,' Mr Kuo wrote.
+
+This, he added, would allow the firm to 'launch new products in [the second half of 2020] on schedule.'
+
+'The lower spec will likely hurt the average selling price of materials or components.'

@@ -1,0 +1,42 @@
+Coronavirus affecting tech firms as WHO declares global emergency 
+ The coronavirus is starting to impact the technology industry's global business. Apple and Google, among others, have begun closing stores and offices, limiting business travel to China and bracing for supply chain disruption as health officials around the world seek to contain the disease. The GSMA, the group that organizes Mobile World Congress, said it would have additional medical personnel on-site when the conference opens in Barcelona on Feb. 24.
+
+On Thursday, the World Health Organization declared the 2019-nCoV strain of the virus a public health emergency of international concern, citing worries about its spread, particularly to countries "with weaker health systems." The declaration came as the death toll hit 170, according to the WHO.
+
+The virus was discovered in the Wuhan region of China late last year, and causes symptoms that are similar to pneumonia. It was first reported to the WHO on Dec. 31, with Chinese scientists linking the disease to a family of viruses that includes SARS and MERS (Middle East respiratory syndrome).
+
+The virus has infected roughly 7,800 people, according to the WHO, and infections have been found in more than a dozen countries. Five cases have been confirmed in the US, where the disease has spread person to person. It's also been found in Australia, Europe, the Middle East and other parts of Asia.
+
+Airlines have begun curtailing flights to China. United Airlines, for example, has canceled dozens of flights from San Francisco, Newark, Chicago and Washington, DC, to Beijing, Shanghai and Hong Kong between Feb. 1 and Feb. 8. The US airline with the most service to China, United attributed the cancellations to a "significant decline in customer demand." For all customers, United is allowing them to change China flights without a rebooking fee or cancel a ticket completely with a refund through Feb.29.
+
+Other airlines either canceling China flights or extending travel waivers include American, Air Canada, British Airways, Cathay pacific, Delta, Lufthansa, Austrian, Swiss and Finnair.
+
+Many tech companies are monitoring the situation closely and have curtailed nonessential travel. Lenovo, the Chinese laptop maker, said it was avoiding large face-to-face meetings and allowing more people to work from home until more is known about the outbreak. HP has implemented some travel restrictions for employees going to and from China. Mozilla, which makes the Firefox browser, is making masks and hand sanitizer available.
+
+Those companies aren't alone. Here's how the virus is impacting some of the biggest names in tech.
+
+The iPhone maker has temporarily shuttered three stores in China, one of its biggest and most important markets. During its earnings call Tuesday, CEO Tim Cook said Apple's store in Qingdao was closed earlier this week as a precaution. Two other stores, in Fuzhou and Nanjing, are now also closed because the malls they're located in have been temporarily closed.
+
+Cook also said "a number" of the company's retail partners have closed their locations as well.
+
+"Many of the stores that remain open have also reduced operating hours," Cook said, adding that the company is taking extra precautions for its staff and customers. Those include deep cleaning its stores frequently and conducting temperature checks of retail workers to make sure they remain healthy.
+
+Apple has suppliers in the Wuhan area but also has alternative sources for the components they provide. The company is "working on mitigation plans to make up any expected production loss," Cook said. What's less clear is how the coronavirus will impact suppliers in other parts of China, he said.
+
+The Chinese government extended the Lunar New Year holiday break from the end of January to Feb. 10, which will delay the startup of Apple supplier factories, Cook said.
+
+The search giant said Wednesday that it was temporarily closing all of its offices in mainland China, Hong Kong and Taiwan due to the health threat. The tech giant has also placed restrictions on business travel to China and Hong Kong.
+
+Google employees in China and those with immediate family members returning from China have been told to work from home for at least 14 days at least. Google's China business focuses mainly on sales and engineering for its advertising business.
+
+The online retail giant says it has restricted business travel to China unless there's a "business critical reason." The company has also recommended that employees who have returned or will be returning from an affected Chinese province work from home for 14 days. If they experience any symptoms, they've been asked to get a medical consultation before returning to the office.
+
+"We place tremendous value and focus on the well-being and safety of our employees," a spokesperson said in a statement. "Out of an abundance of caution, we are restricting business travel to and from China until further notice and encouraging our employees to follow the health and safety guidelines provided by international health agencies such as the CDC (US Centers for Disease Control and Prevention) and WHO."
+
+The software giant has advised China-based employees to work from home and cancel all nonessential business travel until Feb. 9. It's also advised employees to avoid nonessential travel to China based on the CDC's recommendation. Microsoft has said it will make a 1 million RMB ($144,000) donation to the Hubei Red Cross Foundation to help with relief efforts in Wuhan and surrounding areas. The company estimates the risk to employees is low, and no employee has been affected at this time.
+
+Microsoft maintains a global health response team that's mobilized to protect employees based on an evaluation of recommendations by global health authorities, such as the WHO and the CDC.
+
+The home rental service said it would offer guests and hosts affected by coronavirus the opportunity to cancel reservations without penalty. The policy applies to hosts or guests in Hubei Province, where Wuhan is located, with reservations between Jan. 21 and Feb. 8, as well as any guests already staying in Hubei.
+
+CNET's Corinne Reichert, Ben Fox Rubin, Shara Tibken, Dara Kerr, Dan Ackerman, Kent German and Stephen Shankland contributed to this report.

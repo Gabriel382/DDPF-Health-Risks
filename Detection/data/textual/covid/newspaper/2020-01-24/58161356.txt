@@ -1,0 +1,44 @@
+With coronavirus genetic code in hand, scientists begin work on a vaccine 
+ When a newly organised vaccine research group at the US National Institutes of Health (NIH) met for the first time this week, its members had expected to be able to ease into their work. But their mandate is to conduct human trials for emerging health threats - and their first assignment came at shocking speed.
+
+In just three months time, they likely will be testing the first of a number of potential experimental vaccines against the new SARS-like coronavirus that is spreading in China and beyond.
+
+"I told them, 'you are going to have your baptism of fire, folks'," Anthony Fauci, director of the US National Institute of Allergy and Infectious Diseases within NIH, said of his inaugural address to the group this week.
+
+Three months from gene sequence to initial human testing would be the fastest the agency has ever gotten such a vaccine off the ground, Fauci said.
+
+The outbreak, which began in the central Chinese city of Wuhan in December, as of Friday had infected more than 800 people in China and killed 26.
+
+Coronavirus cases have also been confirmed in Thailand, Vietnam, Singapore, Japan, South Korea, Taiwan, Nepal and the United States.
+
+Chinese scientists were able to quickly identify the genetic sequence of the new coronavirus and officials posted it publicly within a few days, allowing scientific research teams to get to work right away.
+
+With the genetic code in hand, scientists can start vaccine development work without needing a sample of the virus.
+
+During the deadly 2003 Severe Acute Respiratory Syndrome (SARS) outbreak, it took US scientists 20 months to go from genetic sequence to the first phase of human trials. By that time, the outbreak was under control.
+
+This time, research groups worldwide are already executing plans to test vaccines, treatments and other countermeasures to stop the newly identified virus from spreading globally.
+
+They are attacking from several angles, with global health and epidemic response agencies hoping at least one treatment will be in human trials within a few months.
+
+Fauci's agency is partnering with US biotech Moderna Inc, which specializes in vaccines based on ribonucleic acid (RNA) - a chemical messenger that contains instructions for making proteins.
+
+That team hopes to make an RNA vaccine based on one of the crown-like spikes on the surface of the coronavirus that gives the family of viruses their name, an approach that, unlike many vaccines, would not expose people to the virus.
+
+At the University of Queensland in Australia, scientists backed by the global health emergency group the Coalition for Epidemic Preparedness Innovations (CEPI) said they are working on what they describe as a "molecular clamp" vaccine approach.
+
+The technology adds a gene to viral proteins to stabilize them and trick the body into thinking it is seeing a live virus and create antibodies against it.
+
+Keith Chappell, an expert in the University's school of chemistry and molecular biosciences, said the technology is designed as "a platform approach to generate vaccines against a range of human and animal viruses."
+
+It has already shown promising results in lab tests on other dangerous viruses such as Ebola and the coronavirus that causes Middle East Respiratory Syndrome (MERS)- a cousin of SARS and the Wuhan virus.
+
+Novavax, which already has a vaccine in development against MERS, says it is now working on one for the Wuhan coronavirus.
+
+Scientists also are turning to infection-fighting proteins known as monoclonal antibodies, or mAbs, that were developed against the SARS and MERS coronaviruses.
+
+The hope is that similarities with the Wuhan virus will offer enough overlap in the antibodies to help people infected in the China outbreak.
+
+Vir Biotechnology Chief Scientific Officer Herbert Virgin said his company has a library of monoclonal antibodies that have shown some success against SARS and MERS in lab tests.
+
+Some of these antibodies have been shown to neutralize coronaviruses, Virgin said, and "may have the potential to treat and prevent (the) Wuhan coronavirus."

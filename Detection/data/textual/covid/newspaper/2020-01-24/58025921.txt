@@ -1,0 +1,36 @@
+Explainer: What is a coronavirus? 
+ Coronaviruses have been making people cough and sneeze for eons. They are among the many viruses that cause the common cold. But not all are so mild-mannered. A few severe types can lead to serious illness and deaths.
+
+Coronaviruses get their name from their shape. These round viruses are surrounded by a halo of spiky proteins. That makes them look a bit like a crown or the corona of the sun.
+
+In fact, being termed a coronavirus “is less about the genetics and more about the way it appears under a microscope,” explains Brent C. Satterfield. He is a founder and the chief scientific officer of Co-Diagnostics. It’s a company based in Salt Lake City, Utah, and in Gujarat, India. It is developing new tests to diagnose coronavirus infections.
+
+The genetic makeup of these viruses is composed of RNA. RNA is a single-stranded chemical cousin of DNA. Genetically, coronaviruses can be quite different from one another. Some types have more differences between them than humans have from elephants, Satterfield notes.
+
+Four major types of these viruses exist. They’re known by the Greek letters alpha, beta, delta and gamma. Only the alpha and beta types are known to infect people. These viruses spread through the air. And just four of them (known as 229E, NL63, OC43 and HKU1) cause between one and three in every 10 cases of the common cold.
+
+Coronavirus illnesses tend to be fairly mild and affect just the upper airways (nose and throat). But there are more severe cousins that can cause lethal disease.
+
+Two of the most well-known of the deadly types are responsible for SARS and MERS. Each of these diseases has caused global outbreaks in the past. In December 2019, another virus joined these dangerous cousins. For now, the World Health Organization is calling this latest member of the family 2019 novel coronavirus, or 2019-nCoV.
+
+These coronaviruses cause severe infections by first latching onto proteins that sit on the outside of lung cells. Those attachments help the viruses penetrate far more deeply into the airways than their cold-causing kin, notes Anthony Fauci. He directs the U.S. National Institute of Allergy and Infectious Diseases. It’s in Bethesda, Md. He points out that 2019-nCoV is “a disease that causes more lung disease than sniffles.”
+
+The ability to damage the lungs can make these coronaviruses especially serious. In 2003 and 2004, SARS sickened 8,096 people in 26 countries. It also killed nearly one in every 10 of them.
+
+MERS is more deadly. It kills nearly three in every 10 of its victims. MERS outbreaks are still simmering, Fauci says. Since 2012, this disease has sickened at least 2,494 people in 27 countries and killed 858 of them. That virus can spread from person to person. Most famously, in 2015, 186 people got MERS after just one businessman unknowingly brought the virus to South Korea. From him, it spread to others. One “superspreader” in that nation caught MERS from the businessman. This one man then passed the virus to another 82 people. Those people happened to be near him in just the two days that he was in a hospital emergency room.
+
+The 2019-nCoV virus appears less serious. Only about four in every 100 of its victims have died. But that estimate may change as more data come in. As of January 23, 2020, 2019-nCoV had infected more than 581 people. And roughly one in every four of them had become seriously ill, the WHO noted at the time. Many of those people had other illnesses when they became infected. That might have hurt their ability to fight the virus.
+
+As 2019-nCoV has spread in China and to other countries, including the United States, it has become clear that people can catch the virus from one another. In Wuhan, China, where the virus was first discovered, 2019-nCoV has been able to transmit down a chain of four people, each giving it to another.
+
+People are not the original source of coronavirus diseases. SARS, MERS and 2019-nCoV are zoonotic. That means that people originally catch the virus responsible from some animal.
+
+Bats are often thought of as the source of coronaviruses. Yet even they seldom pass the virus directly on to humans. SARS probably first jumped from bats into raccoon dogs or palm civets. Once in those animals, the virus made a leap into humans who had come into contact with the animals at markets selling live animals.
+
+All the pieces necessary to recreate SARS are circulating among bats, though that virus has not been seen since 2004. MERS went from bats to camels before leaping to humans. A paper published on January 22, 2020, in the Journal of Medical Virology suggests that 2019-nCoV has pieces from bat coronaviruses and that snakes may have passed the virus on to people. But that claim is being debated. No one knows yet what animal really harbors the new virus.
+
+Neither SARS or MERS have been able to infect person after person the way flu viruses can, Fauci says. The viruses haven’t fully adapted to infect people, he says. “And,” he adds, “maybe they never will.” Yet Fauci and some colleagues note that coronaviruses pose a serious and growing threat to people. They described their concerns January 23 in a paper in JAMA.
+
+Coronaviruses had been a family that people used to think just caused colds, Fauci says. Then, in the last 18 years, he notes, “We’ve had three examples of it jumping species, causing serious disease in humans.”
+
+Currently, no cure exists for coronaviruses. So all doctors can do is treat their symptoms.

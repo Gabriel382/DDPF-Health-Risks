@@ -1,0 +1,435 @@
+Scorpio Bulkers Inc (SALT) Q4 2019 Earnings Call Transcript 
+ Image source: The Motley Fool.
+
+
+
+Scorpio Bulkers Inc  (NYSE:SALT)
+Q4 2019 Earnings Call
+Jan. 27, 2020, 9:00 a.m. ET
+
+Contents:
+
+
+Prepared Remarks
+
+Questions and Answers
+
+Call Participants
+
+
+
+Prepared Remarks:
+
+Operator
+
+Hello, and welcome to the Scorpio Bulkers Inc. Fourth Quarter 2019 Conference Call. I would now like to turn the call over to Hugh Baker, Chief Financial Officer. Please go ahead, sir.
+
+Hugh Baker -- Chief Financial Officer
+
+Thank you, operator. Thank you all for joining us today. Welcome to the Scorpio Bulkers' fourth quarter 2019 earnings call. On the call with me are Emanuele Lauro, Chairman and Chief Executive Officer; Robert Bugbee, our President; and James Doyle, Senior Financial Analyst. Earlier today, we issued our fourth quarter earnings press release, which is available on our website. The information discussed on this call is based on information as of today, January 27th, 2020 and may contain forward-looking statements that involve risk and uncertainty.
+
+Actual results may differ materially from those set forth in such statements. For a discussion of these risks and uncertainties, you should review the forward-looking statement disclosure in the earnings press release that we issued today as well as Scorpio Bulkers' SEC filings, which are available at www.scorpiobulkers.com or www.sec.gov.
+
+Call participants are advised that the audio of this conference call is being broadcast live on the Internet and is also being recorded for playback purposes. An archive of the webcast will be made available in the Events section of the Investor Relations page of our website for approximately 14 days after this call.
+
+There is also a supplemental presentation which has been uploaded to our website that is complementary to the earnings press release. Now, I'd like to introduce Emanuele Lauro.
+
+Emanuele A. Lauro -- Chairman and Chief Executive Officer
+
+Thank you, Hugh, and welcome to all. Thanks for being with us today. The fourth quarter has continued to show a decline that started in early September, when the BDI was peaking at levels exceeding 2,500 points. Whilst the correction was expected and seasonal, the extent to which this correction has come was greater than expected for several factors.
+
+Yet again, geopolitical factors have impacted our markets in a meaningful way. The Coronavirus is the latest development, which raises uncertainty and concern. Like the rest of the world, we are looking at how the situation will develop. The impact of IMO 2020 is starting to become apparent, specifically the fleet experienced a near 100% increase in fuel costs during the switch from high-sulfur fuel oil to compliant fuels. Freight has been unable to reprice to the new fuel setup, rising questions as to what market balance we are presently experiencing.
+
+A more welcome development from this effect is the bifurcation in the fleet and the relative advantage for our modern eco tonnage, particularly in the longer-haul trades. The China-U.S. trade relations dominated the news flow during the period. There has been limited progress so far as we move through U.S. election year.
+
+Aside from the broader macro impact, we remain hopeful of improvement in the outlook for the $40 billion a year China-U.S. agricultural export sector, which would be a welcome boost to our mid-sized segment dry cargo markets. As far as what we can control goes, we continued our active balance sheet management, making opportunistic sales of tonnage, which we hope to be able to conclude and announce in the next few weeks. Given the current share price, we believe this to be value-enhancing to shareholders.
+
+Our scrubber program is proceeding with eight vessels that are now scrubber installed and working, six currently being retrofitted at present at the yards and the expectation is to get to 28 vessels installed before the end of the second quarter. We remain confident in our investment in STNG, and we will continue to look for ways to share this return with our shareholders going forward.
+
+The freight environment is testing our markets again, but given our strong position in the market, we are confident in our ability to benefit from improvements in the dry cargo markets going forward. With this, I would like to turn the call to Robert.
+
+Robert Bugbee -- President and Director
+
+Hi. Good morning, everybody. I'm pretty set this morning. Everyone is going to [Technical Issues] some rather unfortunate stuff going on in the world. Before we get into the questions, just really -- just like to sort of show our thinking at the moment. I think we're quite pleased with the earnings guidance we've given for the Q1 so far, showing that certainly in our smaller sizes, we're doing much better than the Cape market, and that's as a result of -- we're exposed far more to the general world economy and multi-cargoes as opposed just to one.
+
+We do, as Emanuele says, expect later in the year to get some benefits and pick up of the China trade agreement. But for the time being, as we finish off this balance of this first quarter and we deal with the situation that's happening in China at the moment, we're going to take a very conservative view to our own potential cash flows and manage that balance sheet and cash flow accordingly.
+
+So we would, let's say, expect that there would be a weaker environment for the next -- for the balance of the revenue book in this quarter despite the first -- the fast start now or rather not expect, but we would budget for that. So we would suggest that analysts and investors do the same and play safe until further notice.
+
+And with that, I'd like to pass it over to Hugh.
+
+Hugh Baker -- Chief Financial Officer
+
+Thank you, Robert. I'd like also to refer you all to the supplemental presentation, which has been uploaded. This is complementary to our earnings press release. In the fourth quarter, the Company made a net profit of $15.1 million, and we made a profit per share of $0.21 per share. This primarily includes a gain in dividends totaling $46.6 million or $0.66 per share primarily related to the Scorpio Tankers investment. It also involves a writedown of assets held for sale of $25.2 million or $0.36 per share related to the four vessels, which we have classified as held for sale.
+
+In the fourth quarter, we made earnings before interest, tax and depreciation and amortization, EBITDA of $66.7 million, and cash flow from operations was $11.2 million. During the quarter, our Ultramax vessels had time charter equivalent earnings of $11,244 per day, and our Kamsarmax vessels had time charter equivalent earnings of $11,934 per day.
+
+Earnings in the first quarter show our Ultramax vessels earning $10,505 per day for 49% of the days to date, and our Kamsarmax vessels earning $12,242 per day for 57% of the days to date.
+
+As mentioned earlier by Emanuele, we have installed eight scrubbers on our ships to date, and we expect to install -- have 28 vessels installed with scrubbers by the end of the second quarter. As of today, January 24th, the Company had $65.9 million in cash. We have no restricted cash and the cash is freely available. And as of today, the Company's Board of Directors declared a dividend of $0.02 per share as of today.
+
+With that, I think we can open the call up for questions.
+
+Questions and Answers:
+
+Operator
+
+Thank you. [Operator Instructions]. Our first question comes from Amit Mehrotra with Deutsche Bank. Your line is now open.
+
+Chris Snyder -- Deutsche Bank -- Analyst
+
+Hey, good morning. This is Chris Snyder on for Amit. So you know, you guys kind of laid out, there's obviously been a bunch of headwinds facing dry bulk markets. Obviously, seeing the seasonal headwinds of the Lunar New Year and now the virus outbreak, but has the higher -- the move to higher cost fuel and thus the higher cost of transportation, has that really been the big driver? I mean, it did feel like the market kind of accelerated downward in about mid-December when I'd imagine that the market was shifting over to the low-sulfur fuel.
+
+Robert Bugbee -- President and Director
+
+I think that the market has shifted down for those reasons. I think general sentiment also I think you had an earlier fall because Chinese New Year was set early in the calendar this year. So it was likely that the market started to weaken across the whole of the dry cargo space earlier result of the earlier Chinese New Year. So it's like a double combination.
+
+Chris Snyder -- Deutsche Bank -- Analyst
+
+Okay. Fair enough. That makes sense. And then have you guys noticed any slowdown in the global fleet over the last couple of weeks, just in response to -- obviously, charter rates are at a very low level and then fuel costs have gone up a lot. I think you guys said in the prepared remarks they're up 100% year-on-year, at least as you guys are paying it. So has there been a slowdown just to kind of try to rebalance the fleet?
+
+Robert Bugbee -- President and Director
+
+It's -- I mean our ships are all sort of very, very modern and eco ships. So -- and you can see it from our rate structures that we've booked -- so far, we wouldn't have slowed them down. But you're certainly at that point, especially if we look at the Cape market and we look at older vessels in our markets where I would imagine, although I don't have a speak of -- against right in front of me that they would be starting to slow down.
+
+Chris Snyder -- Deutsche Bank -- Analyst
+
+Okay. And then maybe just one last one if I could. I think the bookings came in at a, you know, a healthier level, I think, than most would have guessed, just kind of given what we're seeing in the broader market. Could you -- I know, I think you only said eight of the vessels have scrubbers today. But could you maybe provide any color on kind of how those bookings break out between scrubber and non-scrubber vessels, just so we can kind of get a feel for the premium because obviously throughout the year, the whole market is moving toward the higher -- [Speech Overlap]
+
+Robert Bugbee -- President and Director
+
+Yeah, I think that's really too early at the moment, I mean, partly because it's not actually that helpful right now. We would see in doing it because your -- all your earnings in this first part that we've reported are a little bit messed up between, yes, the vessel with scrubbers, but when did it start, when did other vessels, how long were they allowed to use the high-sulfur fuel onboard compared to different positions and other vessels that were going to dry dock and off-hire fourth scrubber installation.
+
+There's quite a mess. So it's not really useful. You're not going to see the full effect of scrubber differentials across any of the shipping markets until you really start seeing the second half of the 50% of the quarters booked. Because remember, the earnings that we report now, so much of it was related to what a ship was doing in December prior to when the IMO 2020 came into effect on December 31.
+
+Chris Snyder -- Deutsche Bank -- Analyst
+
+Yeah. A lot of moving parts for sure. I appreciate the time. That's it from me. Thank you.
+
+Robert Bugbee -- President and Director
+
+Thank you.
+
+Operator
+
+Thank you. And our next question comes from Omar Nokta with Clarksons Platou Securities. Your line is now open.
+
+Omar Nokta -- Clarksons Platou Securities -- Analyst
+
+Hi, thank you. Yeah, Yes. Maybe just on to that last question, just regarding the outperformance. Obviously, too early to tell regarding scrubbers and there's a lot of noise. But maybe could you give us some perspective on how you were able to achieve that outperformance? Is it vessel positioning? Or --
+
+Robert Bugbee -- President and Director
+
+Well, I think the vessel positioning, I mean, it would be adverse. It's been a headwind to our outperformance because we would have been on the margin positioning vessels to have scrubbers, which is inefficient in itself when you're creating deviation or you have chartering departments that are having to take voyages, they may not naturally take commercially because they're trying to feed it into technical side.
+
+So I would put the outperformance just fundamentally down to solid chartering. That didn't make many errors, but I will put it really down to the fuel efficiency of the vessels themselves being new in a very high-priced bunker environment. So regardless of whether that you have scrubber spreads or not, the actual total bunkers, whether you -- we're using high sulfur or low sulfur, were just much higher than they've been before. So this has really been the first quarter that you've ever seen that it actually matter that you've had Eco ships to start with.
+
+And I think that you're going to start to see -- this is going to be the difficulty of your job as analysts, especially as the scrubber differentials open, because you're going to have four different types of vessels. You're going to have vessels that are modern, eco vessels with scrubbers, then you're going to have modern eco vessels, then you're going to have older vessels with scrubbers and then you're going to have older vessels, and all four of those will have different returns at exactly the same market point.
+
+Omar Nokta -- Clarksons Platou Securities -- Analyst
+
+Yes, indeed. Yes. Definitely a lot of differentiation becoming more apparent. Maybe just then -- just another question I have is, obviously, you've -- you've disclosed the available for sale on the four Ultramaxes. This follows last year, selling two Kamsars and also two Ultras. Kind of any updated thoughts or reasoning why you guys have made a decision to sell the four ships?
+
+Robert Bugbee -- President and Director
+
+Sure, because we're very -- we've taken a view that we believe that the dry cargo market, in general, and the smaller ships, I think, our market probably is a little bit ahead than the bigger markets in this, but they're in a recovery point. We need a little bit of, as Emanuele pointed to, continued balancing in the supply side. We're getting that. Order book has been declining, deliveries are slowing down.
+
+But in the meantime, the recovery in the dry cargo market is still a work in progress, whereas the product tanker market, that Scorpio Bulkers is the top shareholder in, is in full turn. It's already turned to a bull market and it's doing very well. So we would expect that, as we've said, we would get continuing strong returns from the investment that SALT has made in STNG.
+
+But at the same time, we're very cognizant that we're still in a market in dry cargo that is one to be careful with. So therefore, it's important to maintain balance sheet strength. So we were given the opportunity. You can see from our cash on-hand, we're not desperate to sell and we have $60 million cash on hand, but we were given the opportunity to sell these vessels. And it's a continued strategy from -- for the last 15 months.
+
+Omar Nokta -- Clarksons Platou Securities -- Analyst
+
+Yeah. And these -- just a final thing on those. Would these have scrubbers or just sold outright?
+
+Robert Bugbee -- President and Director
+
+No, there's no outright--
+
+Emanuele A. Lauro -- Chairman and Chief Executive Officer
+
+No, outright. No scrubbers.
+
+Robert Bugbee -- President and Director
+
+And it gives us -- yes, it gives us lots of positions. I mean when you're trading, you're trading very low below NAV in a basic market of dry cargo, that's not really -- we didn't expect to go anywhere for a little period. So keep strong.
+
+Omar Nokta -- Clarksons Platou Securities -- Analyst
+
+Okay. Yeah. Thanks, Robert. Thanks, guys.
+
+Operator
+
+Thank you. And our next question comes from Randy Giveans with Jefferies. Your line is now open.
+
+Randy Giveans -- Jefferies -- Analyst
+
+How are you, gentlemen? Good morning.
+
+Emanuele A. Lauro -- Chairman and Chief Executive Officer
+
+Good morning.
+
+Randy Giveans -- Jefferies -- Analyst
+
+Yeah. Looking at your scrubber installations, it seems like some have slipped from the fourth quarter to the first quarter and beyond now into 2021. So what's the main reason for this? And what is your average number of off-hire days per scrubber retrofit?
+
+Emanuele A. Lauro -- Chairman and Chief Executive Officer
+
+That's a good question, Randy. I'm Emanuele here. The average retrofit days per scrubber is 25 days. This is if we're talking about a technical -- from a technical standpoint only. Unfortunately, the industry is experiencing a massive retrofit, which doesn't only go or involve scrubbers, but also ballast water treatment systems. And in addition to that, there is the normal scheduled drydocking for the fleet that meets those requirements. And this has impacted negatively the delays, at which the yards, mainly in Asia, are accommodating the bookings for companies like ours, which has prebooked their spaces to retrofit their scrubber.
+
+So from a -- while from a technical standpoint, we are not experiencing issues or delays, it turns out that the off-hire -- that the average off-hire of the fleet at Scorpio Baker is closer to the 40-day mark for scrubber retrofitting. As I said, 25 of which are technical stoppage and 15 are spread around waiting time or delays to get out of the yard or above-normal traffic, I would say. So this is unfortunately what we are experiencing at present.
+
+Randy Giveans -- Jefferies -- Analyst
+
+Sure. Seems like that trend across the industry. Not just you, but -- [Speech Overlap]. Go ahead. All right. And then I guess for Robert, since you brought up SALT's top investment being STNG shares, any updated thoughts on your ownership of those shares? Is there plan to continue distributing them as special dividends? And if so, would that be an annual special dividend? Or could there be kind of additional distributions in the coming months or quarters?
+
+Robert Bugbee -- President and Director
+
+We haven't got anything further to add on that. We're not going to do it for the time being. I mean we think that -- well, firstly STNG is too significantly undervalued, and we don't even want to put the thought of adding any pressure to STNG's shares by the thought of some of the comments last time that we distributed shares. So we're not going to do anything at this particular point.
+
+Randy Giveans -- Jefferies -- Analyst
+
+Is there some kind of a formula or timing for when you would? Or is it just kind of ad-hoc, see how the market is?
+
+Robert Bugbee -- President and Director
+
+There is no formula, no timing at all. There was a very nice thing to able to share some of the gain of that with our shareholders, and we don't think that it's appropriate to do that for this quarter, when one, it is a very, very weak quarter in the dry cargo market and at this particular point, you have a very short -- you have a short-term trading weakness, too, over STNG. So you're not really getting value in either way to do it at the moment.
+
+Randy Giveans -- Jefferies -- Analyst
+
+Okay, that's fair. Well, thanks so much.
+
+Robert Bugbee -- President and Director
+
+Thank you.
+
+Operator
+
+Thank you. Our next question comes from Greg Lewis from BTIG. Your line is now open.
+
+Gregory Lewis -- BTIG Research -- Analyst
+
+Thank you. And good morning, good afternoon, everybody. Yeah, I guess I had a question around the Phase 1 of the China trade deal and kind of -- I mean like what you're hearing in the market? Obviously, it might still be too early to see noticeable impact from this, but just kind of how maybe as -- how we should be thinking about that just given the timing? And -- yeah, any kind of color on that would be helpful.
+
+Robert Bugbee -- President and Director
+
+I don't think we've seen -- I mean, Emanuele, add to this, please. We haven't seen any benefit at the moment. We're a little bit off-season to do that. I think that the main benefit in management is that we are, as Emanuele has alluded to, the introduction that we do think that there is a more stable demand environment in the future, which makes us very hopeful.
+
+As the supply side is getting more and more constructive, it makes us very hopeful in the future that we will have a demand side that is going to normalize or benefit from a better trade environment and especially in the agricultural side of trade between the U.S. and China. And that will be one of the smaller vessels will be one of the most immediate beneficiaries of that.
+
+Gregory Lewis -- BTIG Research -- Analyst
+
+Okay, great. And then just one on -- and obviously terrible news about the Coronavirus. It seems like it's gaining momentum. Has there any -- has there been any impact yet from a shipping perspective around that? Is there any kind of things we need to be thinking about? Or is it kind of still too early to tell and really no impact? I guess I would wonder, in previous epidemics like this, has there been a noticeable impact or something that has kind of been managed sort of through the -- by the industry?
+
+Robert Bugbee -- President and Director
+
+Well, I think all these things are different. China itself is a different setup to what it was when the last big one in SARS. But I think it's fairly clear to say that what's going on right now is not a positive thing for imports of dry cargo commodities into China or that area. So as we've said on the -- as I said earlier in the introduction, I think until further notice, the Company itself is going to manage and budget in a more conservative way than the -- than let's say, the guidance that we've given for the book days of the quarter would indicate where the market is.
+
+So I think it would be a prudent thing to do, even though it had no effect, we've seen no change in the market, it's way too early to tell, the easiest thing to do is to -- is prepare for the worst and hope for the best.
+
+Gregory Lewis -- BTIG Research -- Analyst
+
+Perfect. Thank you, everyone for the time.
+
+Operator
+
+Thank you. Our next question comes from Jonathan Chappell with Evercore ISI. Your line is now open
+
+Jonathan Chappell -- Evercore ISI -- Analyst
+
+Thank you. Good morning. Robert, I want to follow-up on that last question as well. Clearly, it's too early to say what the impact is going to be, but as it relates to your operations, how many of your ships or what percentage of your fleet -- and I know it changes in your very flexible assets, but to a rough extent, how many of your operations kind of flow through the Chinese ports? And maybe a part b to it, too. Importantly, as it relates to your scrubber schedule, do you foresee any potential delays or issues with the yards that are installing scrubbers in China, pushing those schedules back meaningfully?
+
+Robert Bugbee -- President and Director
+
+Well, I think they're great questions. You know I'll try one and Emanuele could go for two. But I mean number one is, look, we do -- we are more diverse than -- we're saying it in a very either calm pragmatic way. Obviously, the smaller vessels are not as dependent upon China trade as a Capesize vessel is.
+
+But nevertheless, China is still a very, very important part of that equation and dry cargo confidence. So generally, what happens if there's a crisis or potential concern of economic demand, just as we've seen now in many ways, not a crisis, but every time you go into Chinese New Year, the dry cargo, in general, whether or not you've got Capes or Kamsarmaxes or Ultramaxes, it gets weaker.
+
+Now it's got weaker between December and -- or November and this first quarter in our sizes, but not as weak as Capes. So that's how I would describe -- that's why I've described the previous comments that we should just be a little bit conservative and work through what is going on out there until we get some proper data related to what this virus really is going to entail.
+
+Jonathan Chappell -- Evercore ISI -- Analyst
+
+Emanuele, any impact on the scrubber schedule as you see right now?
+
+Emanuele A. Lauro -- Chairman and Chief Executive Officer
+
+Impact due to -- sorry, Jon?
+
+Jonathan Chappell -- Evercore ISI -- Analyst
+
+Into any potential closures from the facilities that are actually doing the --
+
+Emanuele A. Lauro -- Chairman and Chief Executive Officer
+
+Yeah. Sorry, we're taking measures, and we are now actually establishing which measures to take. We have not come up with a plan, a definitive plan yet. But over the weekend, we started planning on which measure should be taken in accordance with the local authorities, which are really the ones that are guiding us in order for us not to either be overconservative or even worse over permissive or open about it. So we started taking contracts and making sure that the teams that we have locally are well looked after and supervised and make sure that we don't take any risks.
+
+Now so far, Jon, this has not impacted anything at the yards. I can tell you that the workload and the workforce is proceeding as normal. However, whether this will be the case if the outbreak gets worse, who knows.
+
+Jonathan Chappell -- Evercore ISI -- Analyst
+
+Yeah. Completely understand.
+
+Robert Bugbee -- President and Director
+
+I mean we're sorry to be -- we're sorry, just general, to be so sort of, let's say, unclear in this, but we're really clear that the best thing to do, whether you're estimating or running a Company here, is to be a little bit prudent because you just don't know, right? What happened here.
+
+Jonathan Chappell -- Evercore ISI -- Analyst
+
+Yeah. Completely agree. And then to my --
+
+Emanuele A. Lauro -- Chairman and Chief Executive Officer
+
+Due to this, as a DNA, we would be conservative, especially facing these measures rather than not. When it's about health and what it is about lives, you would expect our group to be definitely more overly cautious rather than overly open about it.
+
+Jonathan Chappell -- Evercore ISI -- Analyst
+
+Right. And that's a perfect segue to my second question. Hugh spent a lot of time in 2016 really getting the balance sheet in order during the last real deep downturn in the industry, and that puts you in a position of strength in the first half of last year when there's somewhat anomalous factors that were really punishing the dry bulk market.
+
+But as you go into this period of uncertainty with maybe some anomalous, but also maybe some cyclical or secular headwinds faced in the dry bulk market, you've already identified the four ships you're planning to sell. But would we expect you to maybe take some other proactive measures to sure up the capital structure? Whether it be straight asset sales or sale and leaseback transactions?
+
+Hugh Baker -- Chief Financial Officer
+
+Jon, let me answer that. I'll say, on the balance sheet side, we continue to be proactive on the asset sale side. I'll let Emanuele comment.
+
+Emanuele A. Lauro -- Chairman and Chief Executive Officer
+
+No, no, I was just saying, I think that, first of all, we are a very different company today than what we were in end 2015, beginning '16. I think that we have plenty of levers to pull in order to remain and to maintain a strong balance sheet. Back at that time, we had to build a strong balance sheet. This time is about making sure we maintain it. So it's no coincidence that we announced we have four ships held for sale, and we're just cautiously making sure that we are ready for any sort of scenario.
+
+And we have a big investment in Spain, we have a modern fleet, which is supposedly easy to sell because these are the ships that everybody wants to buy if there is interest in dry cargo. So we are fairly relaxed, even though we are actively monitoring the situation. That's the way I would describe it.
+
+Robert Bugbee -- President and Director
+
+Yeah, and I would also look at it, in general, to add to what Emanuele saying is, look, we have cash on the balance sheet. We pre-empted. We spent a long time in ensuring that the balance sheet has been strong and strong to -- we didn't expect it to deal with a, let's say, virus, but certainly built it to deal with any sort of financial meltdown or currency crisis.
+
+You have not just the cash on the balance sheet, but every share in STNG is unleveraged in all accounts. So there is definitely spare liquidity capacity in the Company without doing resorting to ship sales or stock sales. So we've got a long way to go, and we are prepared. So we're not saying what we're saying today in any form of warning or trying to sort of panic people, we're just saying that what you just have to be sensibly doing here is that, yes, in the long term, we're very constructive in the supply side and what's happening in demand and the fact that your fleet is the new -- really new fleet out there and will have scrubber fitted, and that's fantastic.
+
+But we're also conscious that we just don't think it's the right thing to rely on the fact that, that fast or good start to many of you, and we give thanks to that, have credit us with -- in the first 40% of the quarter, you should rely on that going forward for the balance of the quarter. That's really what we're saying.
+
+Jonathan Chappell -- Evercore ISI -- Analyst
+
+That's completely understood. And I'm sorry to ask one more follow up, I think it's important. So just given everything we just talked about in that background and the uncertainty, if maybe two months ago, if you were to sell these Ultramaxes, you would say, well, our stock is trading at a 30%, 40% discount to NAV, we're monetizing these assets, we're buying back our stock because that's a good investment. Because of the uncertainty today in the market, do you just say, we take these proceeds, we pay down the debt associated with those four ships, and then we build the cash balance to be conservative?
+
+Robert Bugbee -- President and Director
+
+Yes. I think you've got to -- I think that -- I think you've got to respect.
+
+Emanuele A. Lauro -- Chairman and Chief Executive Officer
+
+Today, for sure, let's see what the Coronavirus brings in the next weeks. Today, for sure, that's what you do, you don't start a buyback on such an uncertain market. Even though it may be a great investment because the stock is down more than 10% alongside a lot of the dry cargo stocks today, you just wait and see. You don't want to be a hero next week, you want to be prudent and build or maintain the balance sheet.
+
+Jonathan Chappell -- Evercore ISI -- Analyst
+
+Yeah. I think that's prudent. All right. Thank you very much for your time.
+
+Robert Bugbee -- President and Director
+
+Thank you.
+
+Operator
+
+Thank you. And our next question comes from Ben Nolan with Stifel. Your line is now open.
+
+Benjamin Nolan -- Stifel Financial Corp -- Analyst
+
+Hey, guys. So I had a couple of things. One, I was just trying to back into the math, maybe, Hugh, the total scrubber investment is still about $120 million. Is that right? Or $2.5 million a copy? Is that a ballpark?
+
+Hugh Baker -- Chief Financial Officer
+
+Yes. That's correct.
+
+Benjamin Nolan -- Stifel Financial Corp -- Analyst
+
+Okay. And I know that you had mentioned that the four Ultramaxes that you're selling are not scrubber-fit or won't be a scrubber-fitted. We have seen, though, I think it appears anyway that some of the tankers that have been sold have been scrubber-fitted and have earned what seems to be a pretty fat scrubber premium well in excess of the cost of the scrubber. Is it something that you would maybe kick around? Or you expect that the fuel savings that you get far exceeds sort of the rate that the market is willing to pay for a scrubber-fitted ship if you were to maybe look at selling one of those?
+
+Emanuele A. Lauro -- Chairman and Chief Executive Officer
+
+That's a great question, Ben, Emanuele here. I think that you're absolutely right in what you're referring to, but the tankers you're referring to were bigger tankers in terms of deadweight compared to the Ultramaxes or Kamsarmaxes. So you've seen premiums paid and the markets willing to pay premiums for the bigger ships in -- or buyers willing to pay premium for the bigger ships fitted with scrubbers.
+
+If you look at dry cargo, and if you look at the 60,000 tonners or the Supramax, Ultramax segments, there are only very few companies that have opted for scrubbers. So intrinsically, the buyers that are looking for these ships, which are scrubber-fitted are less. And the willingness for the average owner to pay a premium for a scrubber on a $58,000 or a $64,000 tonner is very different from the willingness to pay it on a 320,000 tonners or a Cape, for instance. So we just don't see that many buyers willing to pay premium for scrubbers on Ultramaxes. On the Kamsarmaxes, there are a few. But as you see, the four ships that are held for sale are the smaller ones, so.
+
+Benjamin Nolan -- Stifel Financial Corp -- Analyst
+
+Okay. Now, that's very clear. I appreciate that. And then my follow-up relates sort of, I guess, to what Jon was asking about, and I appreciate that right now, things are pretty chaotic in the market, and it's best to just be prudent. But maybe as you look out over the course of the year, do you expect that there is the possibility, just in the dry bulk market in general, for there to be much in the way of MA activity or much trading of hands in large scale?
+
+And if so, is that something that you would see yourselves participating in, in one direction or the other, either as a buyer or a seller? Just curious how you think kind of the market settles over the course of the year?
+
+Emanuele A. Lauro -- Chairman and Chief Executive Officer
+
+I think, in general, we are pretty agnostic on the way we look at ourselves participating in opportunities until the real opportunities presented to us. Whether we are on the buying side or the selling side, it's difficult to tell. Whether we think that the MA activity or the sale and purchase activity is going to be enhanced, I don't know, it's difficult to say. When there is so much uncertainty, usually the SP transactions dry up. So I wouldn't expect -- if the uncertainty with the Coronavirus stays or increases, I wouldn't expect the number of transactions to increase until there is an inflection point or a stability that can be read in the news flow, which will then turn into the opportunity seekers and the first movers to trigger a directional trade.
+
+Benjamin Nolan -- Stifel Financial Corp -- Analyst
+
+Okay. Very helpful. Appreciate. Thank you.
+
+Emanuele A. Lauro -- Chairman and Chief Executive Officer
+
+Thank you.
+
+Operator
+
+Thank you. And our next question comes from Liam Burke with B. Riley FBR. Your line is now open.
+
+Liam Burke -- B.Riley FBR -- Analyst
+
+Yes, thank you. Good morning. As you roll out the scrubber-fitted vessels, and I know this is early in the deployment, but do you anticipate any shortages of high-sulfur fuel in any of the ports?
+
+James Doyle -- Senior Financial and Research Analyst
+
+Liam, it's James. [Speech overlap] Okay. Liam, we've -- given our scale of both the fleet and the pools, we've secured contracts with oil majors and refiners at large ports and small ports to load high-sulfur fuel. So at the moment, we are not having any issues in procuring high-sulfur fuel oil.
+
+Liam Burke -- B.Riley FBR -- Analyst
+
+Okay, James. Some of -- actually, the question I really want to focus in on is of the smaller ports. There has been some discussion about possible scarcity of high-sulfur fuel as it rolls along, you don't anticipate that being a problem?
+
+James Doyle -- Senior Financial and Research Analyst
+
+Not with our current contracts in place. We've always been under the impression that while there are other uses such as running high-sulfur fuel oil through secondary units like cokers or for power generation, the surplus HSFO will still be large enough where we should not have issues.
+
+Liam Burke -- B.Riley FBR -- Analyst
+
+Great, thank you.
+
+Operator
+
+Thank you. And I'm showing no further questions in the queue at this time. I like to turn the call back to Hugh Baker for any closing remarks.
+
+Hugh Baker -- Chief Financial Officer
+
+Thank you, operator. We have no closing remarks. So we'd like to thank everyone for participating in the call. Thank you very much.
+
+Operator
+
+[Operator Closing Remarks]
+
+Duration: 42 minutes
+
+Call participants:
+
+Hugh Baker -- Chief Financial Officer
+
+Emanuele A. Lauro -- Chairman and Chief Executive Officer
+
+Robert Bugbee -- President and Director
+
+Chris Snyder -- Deutsche Bank -- Analyst
+
+Omar Nokta -- Clarksons Platou Securities -- Analyst
+
+Randy Giveans -- Jefferies -- Analyst
+
+Gregory Lewis -- BTIG Research -- Analyst
+
+Jonathan Chappell -- Evercore ISI -- Analyst
+
+Benjamin Nolan -- Stifel Financial Corp -- Analyst
+
+Liam Burke -- B.Riley FBR -- Analyst
+
+James Doyle -- Senior Financial and Research Analyst
+
+More SALT analysis
+
+Transcript powered by AlphaStreet
+
+This article is a transcript of this conference call produced for The Motley Fool. While we strive for our Foolish Best, there may be errors, omissions, or inaccuracies in this transcript. As with all our articles, The Motley Fool does not assume any responsibility for your use of this content, and we strongly encourage you to do your own research, including listening to the call yourself and reading the company's SEC filings. Please see our Terms and Conditions for additional details, including our Obligatory Capitalized Disclaimers of Liability.

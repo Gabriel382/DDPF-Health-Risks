@@ -1,0 +1,8 @@
+This real-time China coronavirus map lets you track the outbreak live as it happens 
+ Researchers at the Johns Hopkins University Center for Systems Science and Engineering have created a live map and dashboard , allowing you to track the global spread of the deadly coronavirus that began in Wuhan, China. The map  updates data daily  from the World Health Organization and the respective centers for disease control in the U.S., Europe, and China, among others.
+
+Know that the number of infected patients may be low due to a shortage of test kits in China.
+
+There’s no need to worry about packages shipped from China: The CDC confirmed that coronavirus cannot be transmitted through the mail over days or weeks.
+
+Check out the coronavirus tracking tool here.

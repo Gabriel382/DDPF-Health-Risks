@@ -1,0 +1,85 @@
+The evidence on travel bans for diseases like coronavirus is clear: They don’t work 
+ Travel restrictions to control the spread of disease have been tried since 1377, when the Mediterranean city of Dubrovnik — formerly known as Ragusa and now part of Croatia — imposed a 40-day isolation period on ships suspected of carrying the Black Death that were entering the city. 
+
+Since then, nearly every new pandemic threat has come with efforts to seal up borders. During the 2003 SARS outbreak, affected cities around the world — from Toronto to Beijing — experimented with isolating cases, shutting down travel, and screening people at airports and train stations for the disease. The 2014-2016 Ebola epidemic was met with calls by US politicians, including Gov. Chris Christie (R-NJ) and President Donald Trump, to impose a travel ban on West Africa.
+
+Now, China is experimenting with its own drastic quarantine measures, as a rapidly spreading coronavirus outbreak moves through the country. On January 23, authorities  imposed travel restrictions on three cities — Wuhan, Huanggang, and Ezhou — effectively shutting down the movement of some 20 million people. That’s more than the number of people in the whole of the Netherlands, which is why global health researchers called the quarantine unprecedented. 
+
+“I am not aware of attempts to quarantine on this scale,” Tom Inglesby, director of the Center for Health Security of the Johns Hopkins Bloomberg School of Public Health, told Vox. 
+
+It would be one thing if there was strong evidence that travel bans work. But the trouble is, they don’t appear to be helpful. At best, travel restrictions, and even airport screenings, delay the spread of disease but don’t impact the number of people who eventually get sick. Instead, they make it harder for international aid and experts to reach communities affected by disease. They are also expensive, resource-intensive, and potentially harmful to the economies of cities and countries involved.
+
+“[China’s quarantine] could inadvertently make people have less confidence in the government response,” Inglesby added. “It could increase fear about the outbreak in the public. If this outbreak were happening in the US, I would advise strongly against any attempt to quarantine a city.” A look at the research helps explain why. 
+
+1) Travel bans in the 1980s for HIV/AIDS didn’t stop the spread of the disease
+
+After HIV/AIDS was discovered in 1984, governments around the world imposed entry, stay and residence restrictions on people with the disease. As one 2008 study notes: “Sixty-six of the 186 countries in the world for which data are available currently have some form of restriction in place.” In the US, the ban — instituted by President Ronald Reagan in 1987 — was only lifted when Obama came into office.
+
+HIV/AIDS managed to spread anyway, reaching pandemic proportions by the 1990s. This 1989 review of HIV/AIDS travel restrictions found they were “ineffective, impractical, costly, harmful, and may be discriminatory.” Prevention of HIV worked better than travel restriction, the authors concluded. “The rapidity and extent of HIV spread in any country is primarily determined not by HIV-infected travelers but by the risk-producing activities of its citizens, regardless of whether HIV is introduced by foreign travelers or returning nationals.”
+
+2) Flight bans post-9/11 did not prevent a deadly and prolonged flu season
+
+Temporary flight bans and decreases in air travel following 9/11 provided a natural experiment in the impact of travel on seasonal influenza. Researchers found the reduced movement of people didn’t stop the spread of the flu; it delayed it by a couple of weeks and led to a prolonged flu season. 
+
+The researchers didn’t test whether this delay reduced flu cases or saved lives. But a look at the CDC data shows that flu deaths actually spiked during the 2001-2002 flu season, rising from about 3,900 the year before to more than 13,000 post-9/11. This isn’t to say that 9/11 had anything to do with the increase in flu deaths, but rather that travel bans didn’t seem to prevent them.
+
+3) Travel restrictions didn’t cut bird flu infections
+
+One 2006 study modeled various approaches for stopping the spread of H5N1 avian flu. It found that restricting travel wasn’t effective: “Our simulations demonstrate that, in a highly mobile population, restricting travel after an outbreak is detected is likely to delay slightly the time course of the outbreak without impacting the eventual number ill.”
+
+It’s expensive and nearly impossible to seal off the borders of a country, the authors of the paper wrote. People will inevitably move — even indirectly from the countries that are quarantined.
+
+  
+  
+    
+    
+      
+        
+  
+
+
+  
+
+
+
+
+
+
+      
+    
+    
+  
+  
+    
+      
+        Ebola screenings underway at New York’s JFK Airport during the West Africa outbreak.
+      
+      
+        (Spencer Platt /Getty Images)
+      
+    
+  
+
+
+4) Swine flu travel restrictions achieved exactly “no containment”
+
+After the arrival of H1N1 swine flu in 2009, some countries imposed travel restrictions on flights going to and coming from Mexico, resulting in a 40 percent decrease in overall travel volume. A study looking at this event found it “only led to an average delay in the arrival of the infection in other countries (i.e. the first imported case) of less than three days.” 
+
+Again, reduced travel delayed (by three days!) but didn’t stop disease spread.
+The authors wrote, “No containment was achieved by such restrictions and the virus was able to reach pandemic proportions in a short time.”
+
+5) Airport screening after SARS didn’t catch a single case
+
+As the US government expands its effort to screen people at airports for the new coronavirus, it’s worth looking at what happened in Canada during the SARS outbreak of 2003. Canada was one of the countries most affected: the virus caused hundreds of cases, 44 deaths, and wreaked havoc on Ontario’s airports, health care system, and the economy. A major effort to stop the spread of the disease involved screening millions of people at airports, through the use of thermal scanners and sending passengers who may have symptoms to nurses or quarantine officers for an assessment. 
+
+According to a Canadian government report on the effort, some 25,000 residents in the greater Toronto area were quarantined and millions more were screened at airports. The effort was a waste of money and human resources; it didn’t pick up a single case of the disease. From the analysis: 
+
+Roughly 9,100 passengers were referred for further assessment by screening nurses or quarantine officers. None had SARS. The pilot thermal scanner project screened about 2.4 million passengers. Only 832 required further assessment, and again none were found to have SARS. In other countries, the yields for airport screening measures were similarly low.
+
+Travel restrictions are political theater
+
+So not only does the evidence suggest that quarantines and travel restrictions don’t work, it doesn’t account for the devastating economic impact and potential harm to the outbreak response that such restrictions can bring about.
+
+In the case of China, there’s also the question of whether these measures are too little, too late. “We are already hearing reports of the coronavirus in distant regions of the country, and there are increasing numbers of exported cases internationally,” said Isaac Bogoch, a global health and infectious diseases researcher at Toronto General Hospital Research Institute. 
+
+So are there alternatives? Instead of using airport screening and entertaining plans to seal borders, the governments of the world should focus their attention and resources on educating travelers about this new disease, and on helping China respond to the outbreak. We know this for sure: The longer this virus spreads, the more people get the disease there, the greater chance it has of spreading throughout Asia and the world.

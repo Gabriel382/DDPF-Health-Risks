@@ -1,0 +1,8 @@
+Huawei developer conference postponed due to Wuhan coronavirus 
+ Huawei has announced the postponement of a major developers’ conference because of safety precautions around the coronavirus outbreak in Wuhan, China. HDC.Cloud 2020 was planned to take place in Shenzhen on February 11th to 12th, but has been pushed back to March 27th-28th, according to the event’s website. 17 people are confirmed to have been killed by the SARS-like virus so far.
+
+The conference is enterprise-focused and serves as Huawei’s primary event for IT developers. “We want to share the ICT technologies and capabilities Huawei has developed over the past 30 years,” Huawei said to promote it. “Our Kunpeng and Ascend processors, in particular, will be powerful new engines for global developers.” 
+
+Huawei is unlikely to be the last Chinese company to alter its upcoming events calendar, as the situation in Wuhan is being treated with serious countermeasures. Foxconn CEO Terry Gou has warned staff not to travel to mainland China during the upcoming Lunar New Year period, Reuters reports. The entire city of Wuhan, which has more than 11 million residents, is on lockdown as of Thursday morning, with airports and train stations closed until further notice. 
+
+It’s unclear how effective the unprecedented containment effort will be. “To my knowledge, trying to contain a city of 11 million people is new to science,” Gauden Galea, the World Health Organization’s China representative Gauden Galea told the Associated Press today. “It has not been tried before as a public health measure. We cannot at this stage say it will or it will not work.”

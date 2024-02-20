@@ -1,0 +1,24 @@
+Why the ‘simplest hedge is best’ as coronavirus fears take toll on stocks 
+ Stock-market investors looking to hedge against the risks of a global economic slowdown, as worries rise over the spread of China’s coronavirus, should probably stick to what’s been working for the last several months — buying U.S. government bonds and shorting commodities, says one market watcher.
+
+“Over the last 12 months, experience from usual hedges has been significantly nuanced — a short positioning in stock futures (or credit-spread wideners) has been much less rewarding than a short positioning in oil, industrial commodities or a long position in Treasury futures,” said Gaurav Saroliya, director of macro strategy at Oxford Economics, in a Friday note.
+
+In fact, that marks an important shift in the way various asset classes have priced risks to growth, he said, pointing to the chart below. Over the last six months or so, oil and Treasurys have become far more sensitive to growth risks, while equities are much less sensitive.
+
+The response to the China virus outbreak has largely followed the recent script, Saroliya noted, with copper and oil prices and Treasury yields, which fall as Treasury prices rise, all down sharply as investors “practically [take] out all expectations of an industrial recovery that we have seen since Q4 last year.”
+
+At the same time, the drawdown in global equities has been relatively modest, he said. And that isn’t down solely to the resilience of the U.S. market, he emphasized, noting that both oil and copper have sharply underperformed the MSCI Emerging Market stock index, an index tracked by the iShares MSCI Emerging Markets ETF EEM, -2.50%, the part of the global equities market most sensitive to the China viral outbreak.
+
+EEM is on track for a 6.4% monthly fall in January. Brent crude futures BRN00, -2.08%, the global benchmark, are down 14.7% for the month, while copper futures HG00, -0.36%  are off 9.9%.
+
+U.S. stocks were feeling increased pressure in Friday afternoon trade, with the Dow Jones Industrial Average DJIA, -1.99%  off more than 500 points, or 1.8%, while the S&P 500 SPX, -1.76%  lost 1.6%.
+
+For the month, the Dow is on track for a 0.7% decline, while the S&P 500 was marginally negative. The yield on the 10-year U.S. Treasury note TMUBMUSD10Y, -3.56%  was down around 2 basis points at 1.533%, trading at its lowest since October after ending 2019 near 1.92%.
+
+Saroliya said it all could be a sign of the growing role of passive investors as asset classes such as equities and credit show lesser sensitivity to macroeconomic risks thanks to a growing tide of price-insensitive buyers, such as passive investors. He added “discount-rate tailwinds” from the Fed’s 2019 cut in interest rates may also be an important driver.
+
+Copper and oil, meanwhile, don’t have the same offset of investor flows, leaving them with a higher correlation to macro risks, he argued. Core government bond markets, meanwhile, enjoy both the tailwind of retail inflows as risk aversion rises.
+
+That might explain why Treasury yields not only have the highest correlation with proxies for global economic growth but also the “asymmetric” behavior they’ve displayed since early 2019, he said, noting that yields have fallen strongly when risks surface but rise only modestly when risks recede and equities rally hard.
+
+“This combination of a positive correlation with growth proxies and favorable investor flow tailwinds makes Treasurys the most efficient hedge against macro risks in the current environment,” he wrote. “We have remained tactically long the 30-year Treasury bond future US00, +0.33%  since the yield was 2.52%. We think the call continues to run its course and has significant residual life.”

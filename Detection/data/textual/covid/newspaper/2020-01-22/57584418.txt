@@ -1,0 +1,18 @@
+"Buying Momentum Has Fizzled Out": Hedge Funds, CTAs Are Now All-In 
+ When it comes to investor positioning and flows, we have been quite clear over the past two weeks: with stocks hitting all time highs on a daily basis, we first reported on Jan 11 that "Institutions, Retail And Algos Are Now All-In" and then again one week later, "Never Before Seen Market Complacency, As Everyone Goes Even More "All In"."
+
+Confirming one part of this,  overnight Goldman showed that equity net future positioning of hedge funds has hit an all time high, meaning there is little marginal space left for the smart money to buy.
+
+Today, Nomura's two quants confirmed that when it comes to CTAs, they are indeed all in. As Nomura's Charlie McElligott writes, that "all major markets we track at + or – “100%” signals across the board which then allows for more leverage to be deployed into the positions / larger gross exposures":
+
+At the same time, Nomura's other quant, Masanari Takada echoes this and writes "CTAs’ net long position in US equity futures has started to look excessive, and the momentum behind the buying seems to have fizzled out." According to the Nomura quant, this means that "Breezy bullishness looks like a bad idea at this point" and that "the situation looks primed for an overdone sell-off in response to even small fluctuations in the market."
+
+What is the bigger picture? Here Takada preaches caution, noting that as a result of the Coronavirus concerns, "global equity markets have become jittery" and adds that "timing-wise... most hedge funds have swung to taking profits on their long positions in DM equities. It may be that these hedge funds have seized on the new coronavirus outbreak as a reason to take profits now."
+
+Our estimates of major hedge funds’ exposure to DM equities (30-day beta) show that more hedge funds are exiting longs now than was the case at the end of December. Of course, long/short funds and other fundamentals-based, value-oriented investors following bottom-up strategies are feeling out dips to buy. Prior to this, however, global macro hedge funds, managed futures funds, and other such top-down investors had already started moving last week to tentatively unwind long positions, partly in response to the apparent depletion of market-positive news.
+
+Finally, going back to what has been a key market driver, namely (extreme) dealer delta and gamma positioning, McElligott writes that we "did see some of that “extreme” $Gamma and $Delta “drop-off” after last week’s expiry; however, enough was rolled “out and up” to maintain “still extreme” historic percentiles ($Gamma still 88th %ile since 2014; $Delta still 96th %ile).
+
+So for those asking where is the next level (of gamma gravity), McElligott answers that "well outside of the meaningful aggregate $Gamma “in and around” here ($6.0B at 3300 strike, another $17B btwn 3310 and 3330)", the “new” largest line is the +$6.3B at the 3350 strike" as dealers remain "very long" which in turn helps insulate the market from shocks while allowing the relentless creep higher in risk prices to continue unabated.
+
+It also means that if and when the selling returns and the S&P breaks below 3,300, it's going to be a long way down.

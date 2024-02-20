@@ -1,0 +1,99 @@
+Is it safe to travel during the coronavirus outbreak? An infectious disease specialist explains. 
+ Given the latest news on the coronavirus outbreak centered in China, it’s no surprise that there’s fear about the spread of the disease and concerns about the risks of travel. 
+
+The White House said Wednesday it’s considering banning all flights between the US and China. British Airways announced it would suspend travel to the country. And Australia revealed it’s taking the extraordinary measure of sending returning citizens from Wuhan, the center of China’s outbreak, to a remote island 1,200 miles off the coast of the mainland. 
+
+There’s still a lot we don’t know about 2019-nCoV, as the virus is known, including all of the symptoms and exactly how it’s spread. But we do know the case toll is rising fast. As of January 29, at least 6,057 people have fallen ill — a huge increase from early January when it looked like there were no more than 40 cases. While the vast majority of these individuals (5,970) are in mainland China, and most (3,554) are concentrated in the outbreak’s epicenter, Hubei province — home to Wuhan — a handful of infected travelers have made their way out of the country. The virus is still spreading in more than 30 Chinese provinces and cities — including Shanghai, Guangdong, Hong Kong, and Beijing. 
+
+
+Source: Johns Hopkins University Center for Systems Science and Engineering
+
+There’s some good news, however. Infectious disease researchers and epidemiologists have a lot of experience in how respiratory viruses like 2019-nCoV can spread and move across borders, when people are most at risk during travel, and how to stay safe. 
+
+To learn more, I called Isaac Bogoch, an infectious diseases doctor and professor at the University of Toronto who studies how air travel influences the dynamics outbreaks — including the new coronavirus infection. I asked him some of our (perhaps paranoid) travel questions, and got a lot of reassurance. Here’s our conversation, edited for clarity and brevity. 
+
+Julia Belluz
+
+Is it safe to travel by air right now? 
+
+Isaac Bogoch
+
+I break this down into a few different pieces: When we think about travel, there’s the destination you’re going to and whether you can pick up the virus in that destination. Then there’s [the travel part]: When I’m on my way to that destination, am I at risk of acquiring the infection?
+
+On the first part, currently we have an epidemic in China. And specifically, in Hubei province. The risk of acquiring this infection outside of Hubei and, truly, outside of China is remarkably low. 
+
+We can count the number of people who never had exposure to Hubei or China, who were infected by this virus, on one or two hands. So currently the risk of acquiring this infection outside of the epicenter of the epidemic is incredibly small. So if people are traveling [anywhere outside of China] your risk is close to zero percent.
+
+Julia Belluz
+
+What about getting it in a place outside of China where there are cases, like Thailand, Germany, or Canada?
+
+Isaac Bogoch
+
+To date, there’s something like 70 international cases. And again, we can still count the number of people who have acquired this infection without having been to China on one or two hands. So the risk of travel currently is extraordinarily low outside of the areas where this epidemic is ongoing. That includes areas where there have been exported cases — Thailand, Japan, France, Cambodia. 
+
+In the same breath, this is a dynamic situation. We need to obviously keep ourselves informed and updated on how this evolves because travel recommendations and warnings will also evolve as this either continues to spread or comes under better control. That’s a key point as well.
+
+Julia Belluz
+
+What about getting the virus from other travelers on your way to your destination? 
+
+Isaac Bogoch
+
+There has been some work looking into the risk of acquiring infectious diseases through air travel. The people at greatest risk of acquiring a respiratory infection through air travel is still extraordinarily low — but the risk goes up if you’re in close proximity to a person [with a respiratory disease]. 
+
+That means if someone is sitting next to an infected person — and usually within about two meters, so one or two rows up or behind. Within that radius, there’s clearly variables that would place certain people at greater risk — like closer proximity, or the longer the duration of exposure coupled with the degree of transmissibility the person has. 
+
+So if the person has very, very mild symptoms and is not coughing, the likelihood of someone in that radius getting that infection is really low. And people farther away have a lower probability of getting that infection as well. The people at greatest risk are the people sitting next to the infected traveler. And even people sitting beside that person still have a relatively low chance of getting the infection. 
+
+Julia Belluz
+
+But I’m still worried about airports and other transit hubs. What should I do to protect myself? Like, should I buy some face masks? 
+
+Isaac Bogoch
+
+The fact that people are wearing masks — No. 1, it’s not helpful and No. 2, it’s overly alarmist. If someone has a respiratory infection, masks are helpful at stopping spread. But if people are uninfected wearing a little flimsy mask, it is not going to significantly reduce their risk of acquiring this infection. 
+
+With or without this outbreak, hand hygiene is always important, not just for this coronavirus, for viruses such as influenza and other respiratory viruses or bacteria that can live on surfaces that are high contact, such as doorknobs, keyboards, and elevator buttons. 
+
+Julia Belluz
+
+So basically, what you’re saying is — unless you’re in China — carry on? 
+
+Isaac Bogoch
+
+Behave normally. Go about your daily life. Take the kids to school. Go to work. Hang out. Do what you’d normally do. I would not change any behavior if you’re outside the epidemic area.
+
+Julia Belluz
+
+And what if you have to go to China for some reason?
+
+Isaac Bogoch
+
+It’s extremely important to be aware of the evolving travel recommendations which are changing with the ongoing epidemic. Right now, [the Centers for Disease Control and Prevention suggests] avoiding unnecessary travel or reconsider travel to China. 
+
+Julia Belluz
+
+What precautions would you take if you were going to China?
+
+Isaac Bogoch
+
+I’d just wash my hands. In health care settings, [I’d wear a mask] only if I’m caring for someone with this infection. 
+
+Julia Belluz
+
+I’ve read that the virus can spread even when people aren’t showing symptoms, like the recent case in Germany. What do you make of that?
+
+Isaac Bogoch
+
+I want to see more data to support the notion that truly asymptomatic people may have transmitted the infection. Even if there have been cases of asymptomatic transmission of this infection — those will be typically rare cases and with just about every other respiratory tract infection known to humankind, those are not the people who are driving an epidemic. 
+
+Julia Belluz
+
+You’ve done some great studies in the last couple of weeks on the cities most at risk for novel coronavirus infections. What’s the big takeaway? 
+
+Isaac Bogoch
+
+We’ve looked at [the question of] if there is more widespread circulation of this virus in China, where is the international exportation of cases [likely to go]. We basically highlight the top 50 destinations from selected cities in China that have significant interconnectivity with Wuhan. Not surprisingly, in the top 50, most are in East Asian and Southeast Asian, and there’s a few European destinations that make — Paris and London, a few North American destinations — New York, San Francisco, LA. Cairo is the only African destination in the top 50.
+
+By no means would anybody be surprised if there are more cases exported to Europe and the US. But the places that are going to have the greatest volume and number of infections exported would be to East Asian and Southeast Asian centers.

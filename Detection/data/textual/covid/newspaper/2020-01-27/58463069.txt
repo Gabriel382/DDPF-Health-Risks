@@ -1,0 +1,70 @@
+PacWest Bancorp: Margin Squeeze Continues, Current 6.5% Yield Safe For Now 
+ I will continue to hold, but PACW could be a buy for a well-diversified investor with a 3 to 5-year holding period seeking to boost portfolio yield with a moderately speculative bank stock.
+
+The dividend which provides a current yield of about 6.50%, although at greater risk than a year ago, still looks safe.
+
+Thanks to weak fourth-quarter and full-year 2019 earnings and some coronavirus hysteria, my investment in PacWest Bancorp (NASDAQ: PACW) is down about 14.8% intraday on January 24, 2020 - almost exactly where it was when I last wrote about PACW on October 17, 2019.
+
+As one of my two high risk, high yield bank stock investments, I’ve been watching PACW very closely - analyzing and writing about it after every quarterly earnings announcement. Since I have a 3 to 5-year investment horizon, I want to be sure I get paid while I wait for capital appreciation, hence the “quick-and-dirty” dividend safety analysis I perform after every quarter. While later on in this article I will suggest the dividend is safe for now, well-managed headline numbers have disguised some worrisome trends in PACW’s financial performance.
+
+What has management to say for itself? With apologies for its length, here’s CEO Matthew Wagner from the 4Q 2019 Press Release with a positive spin on the quarter and year:
+
+We finished the year with strong earnings and continued improvement in our credit quality metrics and credit costs reflected by our fourth quarter net charge-offs ratio of two basis points. Our fourth quarter results produced a return on assets of 1.77% and a return on tangible equity of 19.98%. The strong fourth quarter capped a year of profitable growth and continued our solid operating performance resulting in a 2019 return on assets of 1.80% and return on tangible equity of 20.66%. The de-risking strategy initiated in 2017 has proven to be successful as our net charge-offs ratio decreased from 40 basis points in 2017 to nine basis points in 2019, while the provision for credit losses declined by 63% from $59.0 million for non-PCI loans in 2017 to $22.0 million in 2019. Our strategy and these outstanding operating results allowed us to return $444 million to our stockholders in 2019 through stock repurchases and dividends. Our earnings per share for the full year 2019 increased by 5% over the prior year to $3.90. In 2019, we successfully completed the rebranding of all of our operating groups under one brand as Pacific Western Bank. As we head into 2020, we will continue to focus on profitable growth and increasing the value of our franchise for our stockholders.
+
+And look at this slide from the 4Q 2019 Investor Presentation, most of the ducks are in a row:
+
+However, headline numbers rarely tell the whole story. Time to dig into the numbers.
+
+Let’s look at a big income statement analysis to highlight some disturbing trends. Here we have three sequential quarters in 2019 and a full-year 2018 and 2019 comparison. There’s a lot going on here, but we’re going to focus on the high or low points. Green is good, yellow is bad.
+
+First, look at the decline in interest income highlighted in yellow that occurred sequentially from 2Q 2019 through 4Q 2019. Loan runoff and new originations at lower yields in a period of generally low rates have materially reduced interest income. For example, the loan portfolio’s average yield was 5.91% for 3Q 2019 and 5.67% for 4Q 2019, a drop of 24 bps in one quarter. As we enter 2020, this is a very unfavorable trend to watch closely.
+
+On the other hand, in our first green highlight, the full-year 2018-2019 interest income comparisons are solid; a $58.2 million or 5.01% increase in interest income year over year. The key point is that based on the sequential quarterly trend throughout 2019, the 2019/2020 interest income comparison is unlikely to be positive unless something changes to break the trend.
+
+What could break the trend? Loan growth and/or a stable portfolio but with rising rates allowing new originations to be re-priced at higher yields. Gross loans and leases did increase $889.2 million or 4.95% from $17.8 billion in 2018 to $18.7 billion in 2019, but loan growth slowed to $111.3 million or 0.59% between 3Q 2019 and 4Q 2019 - and interest rates actually declined as we moved into the fourth quarter of 2019.
+
+Let’s look at interest expense. Here’s the main evidence of the margin squeeze and some more yellow highlights; while we had that $58.2 million increase in interest income from 2018 to 2019, it was swamped by a $84.5 million or 69.9% increase in interest expense! Highlighted in yellow, 80.8% of the increase was due to a higher cost of deposits; up $68.3 million or 85.3% from 2018 to 2019. Total deposits only increased $362.3 million or 1.92% from $18.9 billion in 2018 to $19.2 billion in 2019, so the increase in interest expense was not volume-driven. Instead, PACW’s deposit structure and rates suffered some adverse changes:
+
+It’s not all bad news, however, as declining rates helped the bank reduce interest expense by about $8.0 million between 3Q 2019 and 4Q 2019.
+
+The result of the margin squeeze was a $26.3 million or 2.53% drop in net interest income from 2018 to 2019, highlighted in yellow. The impact of this decline was ameliorated by a $23.0 million or 51.1% reduction in the provision for loan losses. This lower provision is due - per management - to the de-risking CEO Wagner mentioned in the press release. Ordinarily this might not be highlighted in cautionary yellow, but it is fair to wonder if this was serendipity or discretionary earnings management. Investors cannot be faulted for wanting the bank to be adequately reserved, but with almost every credit metric improving from 2018 to 2019, it is hard to be overly critical of management. I remain skeptical.
+
+In terms of the net interest margin, there was a 51 bps decline from 5.05% in 2018 to 4.54% in 2019. On a quarterly average basis, there was a 13 bps drop in net interest margin from 4.46% 3Q 2019 to 4.33% 4Q 2019. In fact, the sequential quarterly trend in net interest income before the provision from 2Q 2019 through 4Q 2019 - highlighted in yellow - shows a troubling and consistent decline from quarter to quarter, totaling $14.3 million or 5.5% over the last three quarters of 2019.
+
+A final yellow highlight is the $6.1 million or 4.1% decline in noninterest income from 2018 to 2019. The key point here is the $25.4 million in securities gains in 2019 compared to $8.2 million in 2018. This is either taking gains at a prudent moment or opportunistically raiding the cooking jar to prevent an earnings disaster. Other banks I own took gains of this type in 2019 - I’m thinking specifically of Umpqua’s (NASDAQ: UMPQ) sale of Visa stock - and I believe this was another case of earnings management. For PACW, the securities gains offset a $16.8 million or 47.0% decline in other income, resulting from declines in warrant income (warrants accompany many of PACW’s VC loans), BOLI income and dividends and other gains on equity investments.
+
+Management has done a decent job controlling non-interest expense - a green highlight - with an $8.9 million or 1.76% decline from 2018 to 2019 that was fairly evenly distributed.
+
+The bottom line was that PACW scraped by with a $3.3 million or 0.71% increase in net income over 2018 - in green - as lower taxes compensated for the fact that income before taxes essentially flatlined from 2018 to 2019. EPS, however, was up $0.18 or 4.8% as share repurchases reduced shares outstanding by about 3.4 million or 2.8% of 2018’s total outstanding.
+
+The verdict? 2019 core earnings were weak and the headline optics were “managed” for low-information investors; lower provision, securities gains, lower tax rate, fewer shares outstanding. The last three sequential quarters in 2019 highlight PACW’s basic problem, a continuing margin squeeze.
+
+While it’s obvious PACW needs loan growth, it’s not so obvious what is hindering that growth. I submit that it just might be lack of deposit growth that is preventing management from ratcheting up loan growth. As we’ve seen, deposits grew just 1.9% between 2018 and 2019. The $889.2 million in 2018-2019 loan growth was partially funded with a $387.9 million or 28.3% increase in borrowings from $1.4 billion in 2018 to $1.8 billion in 2019. Borrowings are more expensive and not a preferred funding source; for example, they cost about 61 bps more than interest-bearing deposits during 4Q 2019. Some of you might remember that in January, PACW was forced to terminate a deal to acquire El Dorado Savings Bank when its shareholders balked. El Dorado offered a new territory, home lending - and a branch network with cheap deposits.
+
+Perhaps the only worry regarding credit quality is that it is too good - it might indicate the high point of the credit cycle in PACW’s territory. In effect, it can only get worse from here. Here is the relevant slide from the 4Q 2019 Investor Presentation.
+
+If, in fact, it is the high point, the increase in the allowance as a percentage of nonaccrual loans and leases from 3Q 2019 to 4Q 2019 might indicate management is starting to prepare for the future.
+
+Yes, for now. The 2019 payout ratio (calculated as dividends per share divided by diluted earnings per share) without adjustment was 62%, unchanged from 2018. Below is a calculation of the 2019 payout ratio adjusted for 1) a more conservative provision for loan losses, 2) a lower gain on securities sales and 3) leaving in place the lower-than-2018 other income. Per share amounts are based on the lower 2019 shares outstanding.
+
+The adjusted 66% ratio above in green is higher than I would prefer, but not yet in what I would call the danger zone.
+
+As a further reality check, let’s take 4Q 2019, arguably the worst of the past three quarters, annualize pre-tax income and adjust for a loan loss provision at the 2018 level. If you look back at 4Q 2019 two tables above, you’ll note that this is pretty draconian, as it means we have the lowest net interest income of the past three quarters, almost no securities gains and very low other income. How bad is it?
+
+Finally! A $57.5 million or 12.3% decline from 2019’s $468.6 million net income would push the payout ratio into what I consider the danger zone. As a check on my work, the analyst consensus 2020 EPS estimate per Seeking Alpha is “trough earnings” of $3.36 per share, a bit more pessimistic than my “quick-and-dirty” analysis. I suspect the analysts are forecasting a further tightening of the margin squeeze in 2020. The analyst consensus for 2021 is a “recovery” to $3.44 per share.
+
+What might cause management to consider a dividend cut in 2020?
+
+While it does not seem likely based on the information we have in January 2020, the risk of a dividend cut has increased during 2019, in spite of the cheery headline numbers. I would estimate the probability of a dividend cut based on the information I have now as about 45%. Management took a long time to raise the dividend from the former $2.00 per share. They should be able to maintain the payout especially if 2020 is in fact the trough earnings year; however, investors need to pay close attention to 1Q 2020 for some improvement in the bank’s core earnings.
+
+On traditional valuation metrics, PACW is cheap. Price to book at 0.86, price to tangible book at 1.80 and P/E at 9.2 continue to drift around 5-year lows.
+
+A cheap stock can get cheaper, but looking out a few years, the current $35 and change stock price may look like a bargain - or a value trap!
+
+Is the PACW ad below also applicable to the stock?
+
+Although I am less certain than at the time of my last PACW article, I’m going to continue to hold. The margin squeeze continues to erode the bank’s core earnings, but for now, the dividend, although at greater risk than a year ago, still looks safe. If necessary, management may be able to raid the cookie jar again in 2020. Per the 3Q 2019 10Q, there were still approximately $133.8 million in net unrealized gains in the portfolio of securities held for sale.
+
+If you are seeking yield, should you buy PACW for the dividend? No, not if you need to rely on PACW as a vital source of income. PACW is not JPMorgan Chase (NYSE: JPM). If, however, you can take a longer term 3- to 5-year view, you’re well-diversified, and you want to boost the yield of your portfolio with a moderately speculative bank stock with a higher risk/higher income profile, yes.
+
+Disclosure: I am/we are long PACW. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.

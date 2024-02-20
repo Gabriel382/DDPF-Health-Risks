@@ -1,0 +1,90 @@
+Germany (And The EWG ETF): The Giant Keeps Shrinking 
+ Specifically, the exposure to manufacturing sectors (consumer discretionary, healthcare, materials) and financials was quite a disaster.
+
+EWG, the leading German ETF, is a perfect reflection of the German economy. Neither the performance nor the AuM growth is nothing to write home about.
+
+Known for its efficiency and quality, German manufacturing/production data simply doesn't look as if it can lift itself back to expansion mode.
+
+Germany used to be a top-notch economy that everybody was looking to copy, but something is cracking in Europe's largest economy.
+
+Germany (EWG) is Europe's (VGK, EZU, HEDJ, FEZ) largest economy, and likely will remain so as far as the eye can see. However, things are far from being rosy, neither for the German economy nor for the German stock market.
+
+Germany seems to can't stop its free fall when it comes to global competition.
+
+The total market cap of German stocks, as a percentage of the global market cap, has fallen below 2.57%. This isn't only a near an eight-year low, but also more than 40% below the German market share less than 12 years ago!
+
+To put things into perspective, the total market cap of the German stock market is now $400 billion below the combined market cap of Apple (AAPL) and Microsoft (MSFT) alone.
+
+We will leave it for you to decide whether this means that Apple, Microsoft, and (for that matter) the entire FAAMG gang's valuations are expensive, or perhaps that the German stock market is cheap.
+
+Thing is, the German stock market is a reflection of the country's economy, and that obviously doesn't say good things about the German economy, that is (used to be?) a benchmark for efficiency, and a synonym for quality.
+
+The German economy always has been built, first and foremost, on its productivity. Industry, manufacturing, production, and factories are probably few of the first words that come to mind when one is thinking about this economy.
+
+Well, you may have missed it but Germany's manufacturing PMI is persistently staying below 50 (i.e. contraction territory) for 18 months already. True, it just went up to 45.2 in January, a higher reading than the market expected, but since when Germany is happy with such a low reading?
+
+It's hard to believe but that January's 45.2 PMI reading is actually the highest level since February 2019.
+
+And that's exactly the problem!
+
+From an economy that has always been looking at itself, constantly delivering absolute, positive, numbers/readings, Germany has become just another country that's measuring itself against everybody else. The nation that always been associated with excellence, almost seems as if it's now happy with delivering numbers/readings that are slightly above average (at best).
+
+Even Gary Lineker's (a former successful British professional footballer, currently a sports broadcaster) famous quote isn't holding water anymore.
+
+A little consolation comes from the service sector, which is less important than its manufacturing colleague, but it's (at least) performing much better.
+
+The most recent German Services PMI reading came at 54.2, which is not only nicely above 50 (expansion territory), but also the highest level since August 2019.
+
+There's no better segment to reflect the manufacturing slump than the car industry, one of Germany's most recognized, signatory industries.
+
+So much so that European car-producer stocks are currently trading at a 10-year low relative to the Dax index, as autos look particularly vulnerable.
+
+The World Economic forum ("WEF") that just concluded in Davos saw President Trump threatening again to impose a 25% tariff on car imports from the EU if the bloc doesn't agree to a trade deal.
+
+Needless to say that tariffs wouldn't only be an additional blow but are likely to be the straw that may break the camel's back.
+
+The IFO (Pan Germany Business Climate) is the most recent leading economic gauge to cast doubt over a German economic turnaround in the short term. Business climate fell to 95.9, significantly below the market consensus for 97. More worrying is the forward-looking expectations component (within the IFO) that crashed to 92.9 - almost two full points below forecasts that expected it to rise all the way up to 94.8.
+
+Christine Lagarde, the still-fresh ECB president (since November 2019) doesn't look as if she is going to divert from her predecessor, Mario Draghi, on policy. Furthermore, the ECB's newest stimulus, while aiming to boost the European economy, is making it even harder for European banks (EUFN) and savers.
+
+Real rates for European savers have hit -1.85% - the lowest level since September 2019. With no signs on inflation (in Europe) and with the risk that the ECB may introduce new stimulus, consequently pushing yields lower, -1.85% may not be the end.
+
+As things look so gloomy, it's no surprise to see yields on German Bunds trading so low, leading the negative-yielding pile of debt that the world is sitting on for years now.
+
+Following a significant fall in the total amount of negative-yielding debt during 2019, we're now back in acceleration mode. The total amount of negative-yielding debt (GOVT, BWX, IGOV) has increased again to $13.2 trillion as a result of the coronavirus outbreak that's driving global bond (AGG, BND, BNDX) yields lower.
+
+German Bunds yields now negative all the way up to 23-year again. As a comparison, France's (EWQ) 10-year yields have just turned negative again.
+
+This also is pushing yields in the US down, and since Bund yields can't move any lower from where they are (at least for now...) spreads between US yields to German yields are shrinking.
+
+As a matter of fact, the gap between US to German two-year yields is now the smallest since September 2017.
+
+It's very interesting, though hard to say, how much of that recent rally in US Treasuries is being driven by foreign buying.
+
+There's no better instrument reflecting the current state of the German economy than the iShares MSCI Germany ETF (EWG) ETF.
+
+Among the top 10 holdings of EWG we find many familiar faces:
+
+In terms of market-cap, there is only one (!) German company that makes it into the world's top 100 list - SAP.
+
+Unsurprisingly, the Consumer Discretionary sector, which includes the auto industry, is the sector to which EWG is most exposed.
+
+Other production-related sectors such as Industrials, Healthcare* and Materials are ranked fourth, fifth, and sixth, respectively, among the list of sectors EWG is more exposed to.
+
+*In some countries this sector is leaning toward services, but in Germany - with few giant pharma corporations - this sector is much more into production/manufacturing than into services.
+
+Let's not forget that European banks in general, and German banks specifically, aren't doing much better.
+
+Over the past two years, neither the former nor the latter can be proud with the total returns that they have delivered to their shareholders.
+
+To say that the iShares MSCI Germany ETF (EWG) has underperformed (since its inception date) the SPDR S&P 500 ETF Trust (SPY) would be a major understatement.
+
+More alarming is the (near-perfection) mirror image of the AuM. Over the past 3.5 years (since 8/4/2015 to be precise), the AuM of SPY rose by 80% to ~$315 billion while EWG's AuM fell by over 70% to slightly above the $2 billion mark.
+
+A tale of two completely different ETFs.
+
+The only thing that may encourage investors is that the current portfolio characteristics of EWG are more attractive than those of the SPY:
+
+Not sure this is going to change the picture dramatically, but even a journey of a thousand miles begins with one, small, step.
+
+Disclosure: I/we have no positions in any stocks mentioned, and no plans to initiate any positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.

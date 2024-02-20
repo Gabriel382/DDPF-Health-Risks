@@ -1,0 +1,56 @@
+TIP: As Coronavirus Spreads, Investors Would Be Smart To Buy Inflation-Hedged Bonds 
+ So far, Treasuries have rallied but investors may be better off with Treasury Inflation-Protected securities.
+
+The market has dropped considerably, and may have quite a bit more to go as the question of the virus spreading into the U.S is answered.
+
+The Coronavirus also called 2019-nCoV is spreading much faster than many expected and has caused a substantive sell-off in all equities. Despite efforts to contain the virus in Wuhan, there are now more cases outside of Hubei (Wuhan's province) than there are inside it. As of writing, there are about 2.9K confirmed cases, 81 deaths, and 59 recoveries. One week ago, there were only 326 cases demonstrating just how rapidly the virus is spreading.
+
+Many economists are trying to estimate the potential economic fallout of the virus and have delivered a wide range of answers. The 2003 SARS (closely related to nCoV) outbreak was estimated to knock off 1% of China's GDP and a half percent of South East Asia's, costing about $40B in total and lasting about nine months.
+
+So far, 2019-nCoV is worse than SARS. Just a few weeks in, and the virus has infected nearly half as many people (40%) as did SARS in total (which took about seven months). Compared to SARS, the virus has a longer incubation period and, problematically for quarantine efforts, can be spread during incubation before symptoms appear (according to Chinese officials but not yet confirmed by the CDC). The mortality rate is not known specifically, but a preliminary study of the first 41 patients recorded 6 deaths, indicating it may be similar to SARS.
+
+As you can see in the map of confirmed cases below, the Wuhan quartine seems to have been ineffective at blocking transmission to the rest of China (Hubei circled):
+
+Since the virus appears to be worse than SARS, it is probably smart for investors to considerably de-risk their portfolio. I still own many of my previously mentioned equities but have around half of my portfolio in cash. This is not a buying opportunity, at least not yet, and I do not expect it to be until we know with certainty how the virus will impact the U.S and other countries outside of Asia.
+
+The virus has sent markets down quite a bit. Last week, I believed the market was being too fearful, but considering the data that emerged over the weekend, it seems the market is acting generally rationally.
+
+Take a look at the recent performance of the S&P 500 (SPY), China Large-Caps (FXI), Long-Term Treasury bonds (TLT), gold (GLD), Treasury-Inflation Protected securities (TIP) and crude oil (USO):
+
+As you can see, energy has been hit the hardest followed by Chinese large-caps and then U.S large-caps. This is generally sensible as the demand for transportation fuel will likely take a significant hit in China and other countries. I remain long many E&Ps for long-term supply-side reasons (not to mention value) but concede that they will be seriously hit temporarily if the virus limits transportation.
+
+The best assets have been long-term Treasuries and gold which are both up around 5% over the past month with TLT leading the most in recent days. Both of these assets generally do well during "risk-on" periods, but I would argue that inflation-protected-securities are actually your best bet when it comes to truly ensure the safety of your portfolio.
+
+Perhaps, the easiest way to buy Treasury Inflation-Protected Securities is through the iShares ETF (TIP). The Inflation-Protected securities in the fund are akin to longer-term Treasuries (it has a weighted-average maturity of 8 years today), but deliver a yield on top of the inflation rate while "normal"/"constant return" Treasuries pay a fixed rate.
+
+Thus, if the virus crisis causes supply shortages or panic buying, investors in TIP will make money (more specifically, not lose any purchasing power), while investors in long-term Treasuries will lose big time.
+
+Because inflation has been falling, TIP has generally underperformed its constant-rate peer (IEF) as you can see below:
+
+Today, the expected inflation rate is about 1.7% which is about what investors can get from a 10-year Treasury. Most TIPs bonds have a "real yield" of around zero and the ETF (TIP) has one of 5 bps today, however, its investors also receive the CPI change for a given year meaning the two should theoretically have the same exact net yield (given inflation expectations do not change).
+
+This can be tied to the TIPS break-even rate which is the yield paid the 10-year Treasury (generally equal to that of IEF) minus that of TIPS bonds (generally equal to that of the ETF (TIP)). This is the "market-implied inflation rate." As you can see below, it is basically a function of crude oil prices:
+
+Looking closer at the past month's performance, we can see that market-implied inflation expectations have fallen dramatically due to the virus:
+
+The market is clearly indicating that the virus is likely to lower inflation. This seems logical, public transportation in Wuhan has stopped and it is likely that the same will soon occur in many other places in China. It is also likely that the air-travel industry will see a bit less demand. China has even extended the Lunar new-year holiday in an effort to slow travel.
+
+However, travel demand on fossil fuels only makes up a small portion of all the items that can impact inflation. In fact, a Brookings Institute study found that, while small influenza virus (mortality rate <10bps) usually lowers inflation, a larger one (defined as mortality rate around 20 bps in the U.S) raises it. So far, the current virus has a significantly higher mortality rate than Brookings used.
+
+The reason for this is the likely supply-side cost increases that would occur. Sick people would stay home and continue to consume but would be unable to go to work and produce, cutting supply. It is also likely that some would be inclined to stock up on goods, which depletes inventory and causes prices to spike.
+
+In fact, the Nov 2002-2003 SARS outbreak saw inflation rise considerably in China:
+
+The same is likely to occur again in China as residents are currently stockpiling food and prices are spiking as grocery stores go empty. Many people are complaining about shortages and the "social media effect" of those complaints seems to be causing a bit of a buying-spree across the country. This could quickly bring the country's inflation rate much higher.
+
+So, overall it is safe to assume that, if the virus spreads into the U.S it will raise inflation, not lower it. It is still unclear if the virus will spread across the U.S at the same speed as it has in China and officials have noted that the virus is currently limited to 5 people in the U.S. That said, it is worth pointing out that it can take two weeks for symptoms to appear and the virus is transmittable during that period, meaning it is too early to be certain.
+
+If you want to protect your portfolio from the virus, it seems clear that the TIP ETF is a better bet than fixed-income Treasuries. So far, fixed income has outperformed TIPs due to the oil-price impact on inflation expectations and a likely knee-jerk reaction the market has to "risk-on" news, but history indicates that it is better to hedge against inflation in periods like these.
+
+As I explained in "Long-Term Treasuries Are Hardly A Hedge," a relatively small increase in inflation can send ETFs like EDV, TLT, and IEF down double digits in short order. While TIP will certainly not make you rich, it does essentially guarantee (given the U.S Treasury does not default) that your purchasing power will be protected in case of an inflationary shock.
+
+I should mention a few key points about the ETF beyond its inflation-protecting ability. The fund is highly liquid with an AUM of $21B, pays a post-inflation yield of 5 bps, and has beta to the S&P 500 of 0. It also has very low volatility with an average annualized standard deviation of 3% which is a bit lower than the fixed-income ETF IEF at 4.6% since TIP carries no inflation exposure. The ETF does have a management fee of 19 bps which means that investors will lose about 15 bps worth of purchasing power after expenses, but if you don't want to buy gold due to its volatility, TIP still seems like your best "risk-off" bet.
+
+Overall, TIP seems like a solid "buy" and I am putting a significant portion of my reserves in the fund.
+
+Disclosure: I am/we are long TIP. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.

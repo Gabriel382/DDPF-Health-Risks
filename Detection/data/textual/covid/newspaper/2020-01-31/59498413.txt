@@ -1,0 +1,14 @@
+Amazon reports big earnings, crosses $1 trillion in value 
+ Amazon delivered its final quarterly earnings report for the 2019 fiscal year today, and investor response to a largely positive report describing big holiday sales and AWS performance drove the company's market cap above $1 trillion.
+
+Amazon told investors that it achieved $87.4 billion in revenue during the fourth quarter of its fiscal-year 2019.
+
+CEO Jeff Bezos also said that Amazon now has more than 150 million Amazon Prime members globally.
+
+Additionally, the big quarter came thanks to continued growth of Amazon Web Services (AWS), which saw a 34 percent year-over-year increase in sales for a total of $9.95 billion in revenue during the quarter. That said, some investors on the earnings call raised concerns that Amazon's AWS growth is slowing—Q4 2018 saw a 45 percent YOY increase, a bigger step forward than this Q4 2019—as Microsoft's Azure gradually gains ground on AWS in the market.
+
+Despite slowing AWS growth, the huge holiday sales season and still-strong numbers for cloud wowed investors and analysts who expected slightly more modest growth than ended up being reported this quarter. Net income grew 8 percent to $3.27 billion.
+
+Amazon shares jumped up by as much as 11 percent after the earnings report was shared with investors, pushing the company's market cap above that $1 trillion threshold. Other $1 trillion or greater tech companies include Apple, Microsoft, and Alphabet, placing Amazon in an exclusive upper echelon. But that's not news to anybody at this point.
+
+Like Apple earlier this week, Amazon gave an unusually large guidance range for the next quarter (between $69 billion and $73 billion), mainly due to uncertainty about the impact of China's coronavirus health crisis on various aspects of Amazon's business and operations.

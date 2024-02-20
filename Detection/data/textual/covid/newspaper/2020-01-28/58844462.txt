@@ -1,0 +1,56 @@
+2019-NCoV Is Going To Make The SPY Sick 
+ Things will likely get worse before they get better; I suggest a hedge for the SPY.
+
+China is assuming the worst-case scenario, and this assumption will keep the country locked down until enough data is available to confirm or deny the severity of the epidemic.
+
+The seemingly draconian measures imposed by the Chinese government upon the people of Wuhan are merely part of a preliminary preventative phase, not a mitigating phase.
+
+Many have asked me my opinions on the Wuhan virus – specifically whether they should be worried its effect on the market. Coincidentally, I have been obsessively poring over all the 2019 novel coronavirus (2019-nCoV) research I can get my hands on. While I’m not an expert in biology, I find myself the unique position of being fluent in Chinese and having a fiancé who is a nurse and can thus answer my medical questions.
+
+It’s Probably Worse than You Think
+
+I want to make this as objective as possible, so I will explain what I have learned from expert sources before making any personal predictions. The most up-to-date summary of the current status of 2019-nCoV comes from the press conference held by the Chinese National Health Committee, which was live-streamed on Monday morning (re-stream here). I watched all two hours of Dr. Joseph Wu and Dr. Gabriel Leung’s mask-clad report and walked away more concerned than I was over the weekend.
+
+What is going on in China now – these draconian measures to limit freedom of movement – are not part of a mitigating maneuver but a preventative measure. Let that sink in: The closure of schools and public transportation, the lockdown of schools and cities, as well as the construction of a new hospital in 10 days are all endeavors meant to stop the external spread of 2019-nCoV from Wuhan, not measures meant to solve the 2019-nCoV outbreak within Wuhan.
+
+That is, the local epidemic in Wuhan is not the primary focus at this point. The largest fear right now is not in Wuhan but in fact an emerging first-tier city to the west, Chongqing. Chongqing is the focal point due to it having the largest stream of traffic from Wuhan and due to it having a much larger population – three times the populace of Wuhan – and is predicted to be the city most affected by 2019-nCoV.
+
+Hence much of the extreme preventative measures are not for the sake of Wuhan but for Chongqing. But is the government of China overreacting? This is a question that cannot currently be answered due to the lack of knowledge on 2019-nCoV’s clinical spectrum.
+
+One of the major issues stemming from this lack of knowledge is the level of threat posed by 2019-nCoV-infected persons showing few or even no symptoms. For many viruses, viral shedding is positively correlated with the virus’s symptoms. This means that the more symptoms one has – and the more intense those symptoms are – the more likely that person is to infect others.
+
+But some viruses do not have this correlation between symptoms and viral shedding. Whether 2019-nCoV falls into this category is as yet uncertain. Thus, China is opting to not assume this correlation with 2019-nCoV.
+
+That is, the current assumption is that those with few-to-no symptoms can infect at a rate no different than those with many symptoms. They are accepting this null hypothesis until they have the data with which to test and possibly reject this hypothesis. This, too, is a preventative measure.
+
+Quarantine Far from Over
+
+It could turn out that these measures were unneeded. However, the possibility of symptoms not scaling with viral shedding predicts dire consequences in regard to the spread of 2019-nCoV. Until we know the hard number (or accurate estimate) for this correlation, expect everything to still be on lockdown – and if that correlation is zero or near-zero, expect perhaps even stricter lockdowns.
+
+I’ve seen many here make parallels to SARS and MERS. After all, they are all coronaviruses that scared the markets but resulted in mostly dip-buying opportunities. However, 2019-nCoV is a bit different here; you could even say it is the worst of each of SARS and MERS spliced together.
+
+To simply the comparison, let’s say that 2019-nCoV is like MERS in its symptoms and like SARS in its spread. The latter fact is more easily explained, as virology has a number to represent the spread of a virus: the basic reproduction number, R0. This number represents the number of infections caused by a single person being infected during the course of his infection.
+
+The Worst of MERS and SARS
+
+MERS’s R0 was less than 1. SARS’s was between 2 and 5. 2019-nCoV’s is looking more like SARS’s, and is currently estimated to be around 4. This means that without intervention, each infection is predicted to spawn four more. That is, the infected population is expected to at least quadruple in the near future.
+
+To make matters worse, 2019-nCoV’s symptoms are more similar to MERS’s than SARS’s. SARS did less damage than it could have potentially done due to its symptoms being unique. Symptoms were obvious and often severe – easy to discriminate from a common cold or flu.
+
+One of 2019-nCoV’s counterintuitive dangers lies in its propensity to produce asymptotic cases. The fact that 2019-nCoV can create cases of few symptoms, many similar to having a light case of the flu, improves the virus’s ability to spread. Many uninfected checking themselves into hospitals in fear that they might have 2019-nCoV unintentionally actually expose themselves to the virus.
+
+This is especially true in Wuhan now, with its crowded hospitals (see below). Again, the construction of new hospitals in Wuhan is a preventative measure, meant to reduce the crowding in its current hospitals. Crowd control is not being employed effectively in Wuhan’s hospitals, and those suffering a light flu, head cold, or hypochondria are certainly contributing to the infected statistic.
+
+The short of it is that things will get worse before they get better. If you think the market has already priced in the bulk of the epidemic, you are wrong. The full scale of the epidemic remains unknown but is predicted to be much larger, peaking in April or May, as per Dr. Wu’s statements.
+
+How to play this right now is not entirely obvious, though you should almost certainly be hedged. Certainly, this is bad news for the market, as so many US companies are active and invested in Chinese economy. With the risk/reward already being in favor of the bears (comparing further potential upside versus downside), it only further supports the bearish thesis.
+
+The most obvious thing to do is simply hedge against the market. I suggest taking a synthetic straddle on the S&P 500 ETF (SPY). Here is how I set up a synthetic straddle at the SPY’s current price, as of market close Jan27:
+
+For every lot of SPY:
+
+This hedging strategy protects out to the predicted peak of the epidemic with May puts. You can profit here in either direction, via the ETF’s capital gain in the upside and via the puts in the downside, allowing you to keep holding the SPY, should you want to maintain your long exposure. Your profit potential is not limited in either direction here.
+
+For those with higher risk tolerances, you can speculate on a downward movement. Personally, I am speculating with Apple (AAPL) puts and a long position on the Junior Gold Miner ETF (GDXJ), but these are more panic positions. I’m sure we have better ways to play this, and I’ll certainly be looking into better possible plays going forward. Let me know in the comments section below if you have any particular companies you’d like me to look at.
+
+Disclosure: I am/we are short AAPL. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.

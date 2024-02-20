@@ -1,0 +1,70 @@
+FOREX-Safe-haven yen, Swiss franc advance as virus fears snowball 
+ * Offshore yuan stabilizes after breaching 7 per dollar
+    * Aussie, Kiwi extend losses to new multi-month lows
+    * Death toll from virus rises to 213, all in China
+    * Graphic: World FX rates in 2019 tmsnrt.rs/2egbfVh
+
+ (Adds new comment, updates prices)
+    By Gertrude Chavez-Dreyfuss
+    NEW YORK, Jan 31 (Reuters) - The safe-haven yen and Swiss franc jumped to multiweek highs on Friday as
+worries about the global economic impact of the latest coronavirus outbreak in China intensified.
+    The yen rose to a three-week high against the dollar, while the Swiss franc climbed to a two-week
+peak.
+    The Australian dollar fell to a four-month low against the U.S. dollar, while China's offshore yuan
+struggled to find a footing in the wake of the virus outbreak. 
+    The World Health Organization said late Thursday that the coronavirus outbreak was a global emergency,
+prompting the United States and other countries to tighten travel curbs on Friday.
+    All three major U.S. airlines -- United Airlines Holdings Inc, Delta Air Lines Inc,
+and American Airlines Group Inc -- announced the cancellation of flights to mainland China on
+Friday after the U.S. State Department elevated a travel advisory over concerns about the coronavirus.
+
+    "When we take a look at the overall picture heading into the week, there was some optimism that we
+could still see strong earnings. There's anticipation that eventually we're going to see a trickle-down
+effect of the Phase 1 trade deal with China," said Edward Moya, senior market strategist at OANDA in New
+York.
+    "Right now, none of that matters. It's all about the virus and its impact on the Chinese economy and
+its trading partners," he added.
+    U.S. data on consumer spending and personal income did push the dollar a little higher against the yen
+and euro earlier, as core consumer prices as measured by the personal consumption expenditures (PCE) price
+index rose 0.2% last month after advancing just 0.1% the previous four months.
+    But the U.S. data's impact was short-lived.
+    Investors remained transfixed on the casualties from the virus and feared its impact on the global
+economy, including businesses such as airlines and hotels. 
+    The death toll rose to 213 on Friday, all in China. The number of confirmed cases in China has risen
+beyond 9,800, Beijing's envoy to the United Nations in Vienna said, while some 131 cases have been
+reported in 23 other countries and regions.
+    China's offshore yuan gave up earlier gains and was last down against the dollar. The U.S. currency
+added 0.1% to 6.9884, although that was some way off the 7.0038 level the yuan dropped to on
+Thursday.
+    The dollar fell 0.5% against the yen to 108.35 yen in afternoon trading, after earlier dropping
+to a three-week low of 108.33 yen. The greenback also slid to a two-week trough versus the Swiss franc and
+was last at 0.9637 franc.
+    The Australian and New Zealand dollars, both sensitive to sentiment in China, fell to new multimonth
+lows.
+    The New Zealand dollar dropped 0.5% to US$0.6463, after earlier touching a two-month low. The
+Australian dollar lost 0.4% to US$0.6695, hitting a four-month low earlier.
+    
+    ========================================================
+    Currency bid prices at 3:17 PM (2017 GMT)
+ Description      RIC         Last           U.S. Close  Pct Change     YTD Pct     High Bid    Low Bid
+                                              Previous                   Change                 
+                                              Session                                           
+ Euro/Dollar      EUR=        $1.1088        $1.1030     +0.53%         -1.09%      +1.1090     +1.1018
+ Dollar/Yen       JPY=        108.3500       108.9500    -0.55%         -0.47%      +109.1300   +108.3300
+ Euro/Yen         EURJPY=     120.15         120.19      -0.03%         -1.48%      +120.3900   +120.0400
+ Dollar/Swiss     CHF=        0.9632         0.9693      -0.63%         -0.48%      +0.9713     +0.9631
+ Sterling/Dollar  GBP=        1.3200         1.3094      +0.81%         -0.45%      +1.3204     +1.3085
+ Dollar/Canadian  CAD=        1.3234         1.3208      +0.20%         +1.91%      +1.3252     +1.3195
+ Australian/Doll  AUD=        0.6693         0.6719      -0.39%         -4.67%      +0.6729     +0.6684
+ ar                                                                                             
+ Euro/Swiss       EURCHF=     1.0681         1.0695      -0.13%         -1.58%      +1.0706     +1.0677
+ Euro/Sterling    EURGBP=     0.8400         0.8424      -0.28%         -0.64%      +0.8434     +0.8388
+ NZ               NZD=        0.6464         0.6485      -0.32%         -4.04%      +0.6494     +0.6455
+ Dollar/Dollar                                                                                  
+ Dollar/Norway    NOK=        9.1951         9.1791      +0.17%         +4.75%      +9.2453     +9.1665
+ Euro/Norway      EURNOK=     10.1978        10.1273     +0.70%         +3.66%      +10.2192    +10.1124
+ Dollar/Sweden    SEK=        9.6251         9.6352      +0.44%         +2.97%      +9.6836     +9.6163
+ Euro/Sweden      EURSEK=     10.6755        10.6291     +0.44%         +1.97%      +10.6901    +10.6225
+ 
+ (Reporting by Gertrude Chavez-Dreyfuss; Additional reporting by Tommy Wilkes in London; Editing by
+Jonathan Oatis)

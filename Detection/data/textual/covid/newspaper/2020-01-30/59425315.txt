@@ -1,0 +1,183 @@
+Kulicke & Soffa Industries Inc (KLIC) Q1 2020 Earnings Call Transcript 
+ Image source: The Motley Fool.
+
+
+
+Kulicke  Soffa Industries Inc (NASDAQ:KLIC)
+Q1 2020 Earnings Call
+Jan 30, 2020, 8:00 a.m. ET
+Contents:
+
+
+Prepared Remarks
+
+Questions and Answers
+
+Call Participants
+
+
+
+Prepared Remarks:
+
+Operator
+Greetings, and welcome to the Kulicke  Soffa 2020 Fiscal First Quarter Results Conference Call. At this time all participants are in a listen-only mode. A question-and-answer session will follow the formal presentation. [Operator Instructions] As a reminder, this conference is being recorded.
+It's now my pleasure to introduce your host, Joseph Elgindy, Senior Director, Investor Relations and Strategic Initiatives for Kulicke  Soffa. Joe, please go ahead.
+Joseph Elgindy -- Senior Director, Investor Relations and Strategic Initiatives
+Thank you. Welcome everyone to Kulicke  Soffa's first quarter fiscal 2020 conference Call. Joining us on the call today are Fusen Chen, President and Chief Executive Officer; and Lester Wong, Chief Financial Officer and General Counsel.
+For those of you who have not received a copy of today's results, the release as well as the latest investor presentation are both available in the Investor Relations section of our website at investor.kns.com.
+In addition to historical statements, today's remarks will contain statements relating to future events and our future results. These statements are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Our actual results and financial condition may differ materially from what is indicated in those forward-looking statements. For a complete discussion of the risks associated with Kulicke  Soffa that could affect our future results and financial condition, please refer to our recent SEC filings, specifically the 10-K for the year ended September 28, 2019.
+I would now like to turn the call over to Fusen Chen for the business overview. Please go ahead, Fusen.
+Fusen Chen -- President  Chief Executive Officer
+Thank you Joe. Throughout the December quarter, we experienced expected seasonal softness in general semiconductor market, which has been more than offset by a resurgence in the demand for our advanced packaging, memory and automotive-focused solutions. In addition, during this years recent CES event in Las Vegas, we were pleased to see the strong alignment and leverage our broad [Indecipherable] with new and future consumer devices. I will provide more detail to this later, but first a review of the December quarter.
+Over the past several years, our sequential revenue change, December over September has averaged a 14% sequential reduction, this year was quite different and that we were able to generate $144.3 million of revenue, representing a slight 3% sequential improvement. We were also able to deliver very strong gross margin of 48.8%, net income of $13.5 million, and the GAAP EPS of $0.21. The revenue improvement was driven by both capital equipment and aftermarket products and service segment. Again, due to improved demand for our advanced packaging, memory, and automotive-focused systems. General semiconductor and general LOED [Phonetic] focused customers represent 15% [Phonetic] of our December quarter sales, which was sequentially down by approximately 15%, includes a large proportion of our future rich of ball bonders.
+Our dedicated advanced packaging solution represents 17% of December quarter sales, an increase of 29% sequentially. During the December quarter, our APAMA business has strengthened. We had a new APAMA customers win. We are engaged in multiple qualification with Katalyst and that we continue to exceed our planned target for PIXALUX, our mini and microLED systems.
+Memory represent just over 10% of December quarter revenue, a material increase of nearly 200% sequentially. Demand within automotive and industrial application represent approximately 20% of December quarter revenue, an increase of [Indecipherable] 24% sequentially. This was driven by traditional automotive OEM customers and the new demand for [Indecipherable] assembly capacity. While key markets such as memory automotive have improved, we do not believe this market has fully recovered and that we anticipate additional improvements through fiscal 2020.
+Overall, healthy utilization rate and aftermarket sales as well as meaningful improvement, within key automotive in the memory end markets increased our confidence in an ongoing market recovery, which we expect to improve further throughout fiscal 2020. Ongoing market traction within our dedicated advanced packaging systems, including our mini and microLED tools gave confidence to our longer term revenue target.
+I would now like to turn the call over to Lester Wong, who will cover this with his financial overview in greater details. Lester?
+Lester Wong -- Chief Financial Officer, General Counsel  Senior Vice President, Legal Affairs
+Thank you Fusen. My remarks today will refer to GAAP results unless noted. Net revenue for the quarter was $144.3 million, gross margin of 48.8% generated $70.4 million of gross profit and net income of $13.5 million or $0.21 per diluted share. Gross margins came in better than expected, largely due to product mix. This mix include a higher relative contribution of our APS business, stronger feature rich ball bonder demand as well as a few higher margin advanced packaging sales.
+Looking into the next quarter, we anticipate growth margin to return to approximately 45%. We expect product mix to drive this reduction, which includes increased LED sale and a lower proportion of APS relative to capital equipment.
+Operating expense again came in more favorably than our expected target range. This is due to an ongoing and focused effort on discretionary and non-critical costs. Looking into March quarter, we anticipate returning to our target range of $53 million of fixed expense, plus 5% to 7% of variable expense tied to revenue.
+Turning to tax. We booked a net tax expense of $2.1 million, an improvement from last quarter. We continue to target a long-term average effective tax rate of approximately 18%.
+Turning to the balance sheet, we ended the December quarter with a total net cash and investment position of $540.4 million or $8.43 on a diluted share basis. During the December quarter, we have continued our repurchase activity and deployed $5.4 million to repurchase 224,000 shares. At the end of our December quarter, we had approximately $91.8 million remaining under the existing share repurchase authorization.
+On a book value per share basis, we closed the December quarter with $12.09, an increase of $0.06 from September quarter. Working capital defined as accounts receivable plus inventory less accounts payable reduced to $249.1 million. From a DSO perspective, our days sales outstanding decreased from 126 days to 124 days. Our days sales of inventory increased from 108 days to 116 days and days of accounts payable increased from 44 days to 55 days.
+This concludes the financial review portion of our call. I will now turn the discussion back over to Fusen for the March quarter business outlook.
+Fusen Chen -- President  Chief Executive Officer
+Thanks Lester. From our standpoint, low semiconductor unit volume have caused demand for our products to be below the longer term seasonal patterns, due to broader industry and macro trade dynamics. Over the past decade, annual unit production grew at compound annual growth rate of just over 6%. Over the past year, we believe the industry has expanded at a much slower rate.
+Looking ahead, IT capabilities, artificial intelligence, new IoT devices, the growth in big data, and automotive evolution are anticipated to service semiconductor unit growth to a rate well above this historical 6% average. This anticipated growth is very positive for our unit driven products, supporting the general semiconductor in the LED space. In addition, our new market opportunities are disruptive and are expected to grow much faster than the industry as they provide a very compelling value proposition relative to existing approaches. This is apparent in the display market as well as winning advanced logic in memory applications.
+Over the past few years, we improved our organization, expand our served available market with new innovative and extremely competitive offering to become a true multiple products and a much more market company. This added diversification is critical and provide higher growth opportunity that are delivering fundamental new capabilities, are less exposed to inherent cyclical nature of semiconductor unit production and a handful of potential to dramatically enhance corporate level profitability.
+Considering this efforts, we are now entering a very exciting time. Our new products are gaining traction and that we believe the recent period of softer demand is behind us. While we remain very confident in the longer term, short term uncertainty triggered by extended facility closures throughout China has caused us to broaden our guidance range.
+For March quarter, we are anticipating revenue to be between $140 million and $170 million. This marks the fourth sequential quarter of revenue improvements, represent over 7% increase from December quarter and 34% improvement from the same period last year.
+Looking to long term, our broad solution are increasingly aligned with major semiconductor packaging trend as well as a trend that are likely to impact the broad consumer market. Consumer Electronic Show in Las Vegas this month help to highlight this new possibilities. We are not going to provide a detailed summary, although it is clear [Indecipherable] to oven, to television, there is a growing appetite for connected semiconductor rich devices. New devices in addition to faster and higher bandwidth connectivity service like 5G will drive more streaming, grow processing and artificial intelligence applications. Over the coming years we are confident this new technology will support an increased growth rate of global semiconductor production and the increased demand for our products and the services.
+In parallel [Phonetic], we continue to make a meaningful progress with our new advanced packaging products. This new products continue to represent fundamental long-term market opportunities, provides a more collaborative customer engagement, increased diversity, and the new growth factor. The key products providing this new opportunities including, APAMA, thermal compression system, Katalyst, our high-accuracy flip chip system, and PIXALUX, our mini and microLED systems.
+We continue to achieve our aggressive growth rate in parallel [Phonetic] for all of this new initiative. For Katalyst, we are working aggressively to win customer qualification and continue to be positive customer feedback. Specifically, our Katalyst have begun to ramp production in the high volume leading edge large application this past quarter. Katalyst continue to be extremely competitive and that we are very focused to seek our new customer engagement and qualification over the coming quarters.
+Next, we are able to recognize revenue on two APAMA system this quarter. APAMA has been in long in production at a major OSAT for several quarters supporting high volume smartphone application and that we were recently able to penetrate a new high potential image sensor application. Our customer continue to leverage thermal compression technology for application we haven't initially anticipated. Such as the more complex multi-chip packages and also image sensor.
+Our system is performing very well in high volume production environment and they remain very competitive. More recently, we have also engaged a longer-term technology collaboration with a high potential customers, which further diversify our end market opportunity.
+Finally, the PIXALUX advanced LED system continue to perform well and that we recognize revenue on five additional systems supporting new direct-view and the backlighting application within the display market. We continue to operationally prepare for PIXALUX demand to begin ramping materially during the [Indecipherable] and anticipate this new opportunity to extend considerably through calendar 2021 and beyond.
+PIXALUX and advanced packaging are all extremely competitive and our global team continue to engage in the drive to new customer adoption. Over the coming years, we anticipate the pace of new customer engagement and the demand for our products to increase meaningfully.
+Overall, we are very excited to demonstrate our value creation potential as we pursue this new opportunities in coordination with the expected industry recovery over the coming quarters. The entire KS organization remain extremely committed as we skew our strategy of creating and delivering shareholder value.
+This concludes our prepared remarks. Operator, we will now be happy to take your questions.
+Questions and Answers:
+Operator
+Thank you. We'll now be conducting a question-and-answer session. [Operator Instructions] Our first question today is coming from Tom Diffely from D.A. Davidson. Your line is now live.
+Tom Diffely -- D.A. Davidson -- Analyst
+Yes, good morning and good afternoon. First, I want to start on the Coronavirus, it is unlike the impact or the unknown from the Coronavirus caused you to reduce the low end of your guidance by about $10 million, is that a good way to read it?
+Fusen Chen -- President  Chief Executive Officer
+So Tom, actually -- this actually is very difficult one to quantify, but what we can tell you so far we did not see any order push out or cancellation in March quarter. But this extended facility quarter actually impact our production in China. So our impact actually is manageable at this is moment and we need to monitor if this shutdown will be further extended or not. And -- but what I can tell you is that demand actually is quite strong. So I heard people come back to work, actually our future is still bright for us. And this phenomenon should become -- you know we actually saw [Indecipherable].
+Tom Diffely -- D.A. Davidson -- Analyst
+Okay. And I know in last quarter we talked about, you talked about how the utilization rates in China were upwards of 90%, are you still seeing that high level utilization rates with your tools in the field there?
+Lester Wong -- Chief Financial Officer, General Counsel  Senior Vice President, Legal Affairs
+Hi Tom, this is Lester. So China has softened slightly. I think it's more seasonal, softer, semiconductor segment. Taiwan has strengthened a little bit, so I think China is still around 90%, while Taiwan has improved a little bit, closer to 80% now.
+Tom Diffely -- D.A. Davidson -- Analyst
+Okay, great. And then just a couple of questions on the new products, you talked about the image sensor has been a new market you penetrated here. What is the size or opportunity in that marketplace?
+Fusen Chen -- President  Chief Executive Officer
+I'm sorry, what product? Can you repeat please?
+Tom Diffely -- D.A. Davidson -- Analyst
+Yes, the APAMA for image sensor market.
+Fusen Chen -- President  Chief Executive Officer
+Okay. So actually I think for the new product, I probably can probably give high level updates. I think this year, the second half, we prepared a linking for the PIXALUX. And really depend on the precise schedule, we are targeting 5% to 10% of calendar revenue, so that is about maybe $35 million to $70 million. And we believe this product has a lot of potential because of -- there will be a lot of about devices will need to have a new miniLED applications. So we are positive about PIXALUX.
+And this is a year we believe very important for our advanced packaging. We have multiple qualification ongoing for Katalyst flip chip and also APAMA TCB. So APAMA is successful qualification and the design win, we expect to ramp up our AP in 2021. So that our focus, I think is going to be a year 2020 to ramp PIXALUX and 2021 to ramp AP in [Indecipherable] and APAMA. And APAMA right now I think we have more and more customer. Starting from one for major customers and right now we start to penetrate a few other customers.
+Tom Diffely -- D.A. Davidson -- Analyst
+Okay, great. And then finally, when you look at the [Speech Overlap] go ahead.
+Fusen Chen -- President  Chief Executive Officer
+Tom, you were talking about imaging sensor. I think we're talking about maybe in 2021 and beyond, we're talking about maybe $7 million [Indecipherable].
+Tom Diffely -- D.A. Davidson -- Analyst
+Okay, that's helpful. And then as we look at the ramps of some of these new products, Lester, I'm wondering on the margin side, are these accretive to margins or they hit margins a little bit, how do you view margins as we roll into some of these new products strengths?
+Lester Wong -- Chief Financial Officer, General Counsel  Senior Vice President, Legal Affairs
+Well, Tom I think as we rollout the new product I think we've indicated before the newer products, whether it is advanced packaging or mini or microLED their margins are above the corporate margin. So they definitely should be accretive to margin.
+Tom Diffely -- D.A. Davidson -- Analyst
+Okay. Thanks for your time.
+Operator
+Thanks. Our next question is coming from Krish Sankar from Cowen  Company. Your line is now live.
+Krish Sankar -- Cowen  Company -- Analyst
+Hi, thanks for taking my question. And congrats on the good results. First question, either for Fusen or Lester, how much was China as a percentage of sales in December? And how do you -- how much do you expected to be in March?
+Lester Wong -- Chief Financial Officer, General Counsel  Senior Vice President, Legal Affairs
+Hey Krish. China in December quarter was about 53% [Phonetic] and in March we believe, it will be about the same.
+Krish Sankar -- Cowen  Company -- Analyst
+Got you. And Lester, since you kind of highlighted that March the mix shifts more toward LED and that's one of the reasons why you see is a slight impact on -- negative impact on gross margin, is it fair to assume pretty much all the LED business is coming from China?
+Lester Wong -- Chief Financial Officer, General Counsel  Senior Vice President, Legal Affairs
+Yes.
+Krish Sankar -- Cowen  Company -- Analyst
+Got it, all right. I mean a question for Fusen, I think in the past you've spoken about the microLED opportunity being maybe a -- but like a $50 million in calendar '20, is that still the case?
+Fusen Chen -- President  Chief Executive Officer
+Yeah, I think the rent is going to happen in calendar second half. So really depend on the precise scheduling. We haven't -- you know schedule can be earlier and can be push out say couple of weeks. So really depend on precise schedule. We are targeting to maybe between $65 [Phonetic] million to $70 million for the whole calendar year. Upon successful implementation to the market, hopefully '21 and beyond can be bigger.
+Krish Sankar -- Cowen  Company -- Analyst
+That's very helpful. Then just a final question Fusen, when I look at the auto industrial you said it was like 20% of the mix. In the past some of this auto business you had like actually is extremely lumpy it comes up and then like goes away for a few quarters at a time, is there anything different this time or do you think the auto market is more sustainable for you?
+Fusen Chen -- President  Chief Executive Officer
+Well, so I think we are quite positive about auto business in the long term because a few things, one is a semiconductor content per vehicle is going to increase right. And number two, I think they are mainly runs the battery packaging and assembly greenfield. So at the beginning, you will always see it lumpy and we do believe at a longer-term it should [Indecipherable]. So I do agree, I think for the past few quarters it will be lumpy, but for longer term I think we are quite positive about the prospect.
+Krish Sankar -- Cowen  Company -- Analyst
+Got it. Thank you very much Fusen. And congrats.
+Fusen Chen -- President  Chief Executive Officer
+Okay, thank you.
+Operator
+Thanks. Next question today is coming from David Duley from Steelhead Securities. Your line is now live.
+David Duley -- Steelhead Securities -- Analyst
+Yeah, thanks for taking my question. I had a couple. You've talked on the last couple of conference calls about the ramp up in PIXALUX and how it should produce I guess $35 million to $70 million in this upcoming year, why -- you seem highly confident about that ramp happening? What is it that gives you confidence that you will see that level of business with this new product?
+Fusen Chen -- President  Chief Executive Officer
+Okay. I think we have a few customer and we work closely with them and just like any other business they have a plan. I think we're working together and come out our forecast. So I think this really depends on their product introduction schedule and it can be -- it can be pushed ahead maybe a few weeks or pushed back a few weeks, really still a limited modification. That's why mainly the range is going to happen in the second half of calendar year.
+And as you can see this quarter, we recognized revenue of five system. So at the beginning I think right now customer order and system for our panel production and upon ramping on the year, the volume production is going to happen and that will be the second half of the calendar year.
+David Duley -- Steelhead Securities -- Analyst
+And what are the lead times on that tool, if the -- if the end market products going to ramp in the second half of the calendar year, will they be ordering -- well what is the lead times?
+Fusen Chen -- President  Chief Executive Officer
+Well, actually from order to deliver, I think will be a few months, a few months means maybe like a two months something like that.
+David Duley -- Steelhead Securities -- Analyst
+Okay. And then you mentioned in your prepared remarks and gave us a lot of data about the automotive and the memory market recovering for you in a very substantial way. Is there some reason why it jumped so much or what was, what was behind the rapid growth in both the automotive and the memory space?
+Fusen Chen -- President  Chief Executive Officer
+Well, I think memory everybody expect this is going to be a year for our memory to recover with NAND to start first followed by DRAM. And before that actually there is already indication I think last year the big growth already happened. And the December quarter, actually is about 10% of our revenue for memory and compared to you know five year trading average, we still believe there is upside for us in the memory and also in the auto space.
+David Duley -- Steelhead Securities -- Analyst
+Thank you.
+Operator
+Thank you. Our next question is coming from Peter Peng from B. Riley, your line is now live.
+Peter Peng -- B. Riley -- Analyst
+Hi, this is Peter Peng calling for Craig Ellis and thanks for taking our questions. Following on the memory question, it seems like do the math, memory is about $40 million at the peak, you guys were doing about $35 million. Just wondering what the trajectory of memory is? Do you see it stabilizing at this rate or do you see it kind of closing into that 35 as we go through the year?
+Lester Wong -- Chief Financial Officer, General Counsel  Senior Vice President, Legal Affairs
+Hi, Peter. I think as Fusen said both in his prepared remarks and in response to Dave's question, I think memory is recovering. So for the Q4 for us it was very soft now it rebounded 10% for this -- for the December quarter. We believe it will continue to grow for all the reasons we discussed before. Memory prices are going back, up both NAND and DRAM as a big growth. So we believe that our memory business will continue to grow back toward, I guess the way it was historically.
+Peter Peng -- B. Riley -- Analyst
+And then just on the you mentioned some utilization rates in China and what's the overall utilization rate?
+Lester Wong -- Chief Financial Officer, General Counsel  Senior Vice President, Legal Affairs
+I think the overall utilization rate again, as I've mentioned several times before, it varies across regions as well as customers so I think it's closing in on 80%.
+Peter Peng -- B. Riley -- Analyst
+And just -- I think you mentioned that you are seeing more aggressive capital spending throughout fiscal '20 are you expecting more risk, seasonal ramp as we go into the back half of the calendar year or is it going to be somewhat below seasonal just like the March quarter. I just to want to see if you have any visibility into that?
+Fusen Chen -- President  Chief Executive Officer
+I think what -- measure of capital spending is really customers capital spending.
+Lester Wong -- Chief Financial Officer, General Counsel  Senior Vice President, Legal Affairs
+Yeah, no, I think in terms of the ramp, Peter, I think again, we believe that there -- we believe they will continue to grow sequentially. I mean in Q1 with that in Q4 we believe even though we don't guide Q2 is better than in Q1, even though I don't guide into further quarters, we believe that the second half of the year will be stronger than the first half of the year.
+Peter Peng -- B. Riley -- Analyst
+Okay, that's helpful. Thanks, guys, congratulations on the strong quarter.
+Lester Wong -- Chief Financial Officer, General Counsel  Senior Vice President, Legal Affairs
+Thanks Peter.
+Operator
+Thank you. [Operator Instructions] Our next question is coming from Christian Schwab from Craig-Hallum. Your line is now live.
+Christian Schwab -- Craig-Hallum -- Analyst
+Great. Solid quarter, guys. Most of my questions have been asked, but I wanted to just ask a couple customer specific questions maybe. I know Infineon just announced that they're moving production in autos to flip chip, is that an opportunity for you, Fusen?
+Fusen Chen -- President  Chief Executive Officer
+Well, so the short answer is yes. I think our flip chip is always as important and will become more and more important for -- with advanced packaging and our system is very competitive and that has been recognized by our customers. So we are in multiple qualifications in many customer sites. And we believe we have been able to --.
+Christian Schwab -- Craig-Hallum -- Analyst
+Okay, fabulous. And then another customer specific question. You know given the success of Tesla is there -- is there an opportunity for them to become a material customer for you again at any time in the next year, year and a half or so?
+Lester Wong -- Chief Financial Officer, General Counsel  Senior Vice President, Legal Affairs
+Hey, Craig, it's Lester. Obviously we don't specifically talk about any individual customers, but I think Tesla has been identified previously as top customer and Tesla has -- they did great yesterday on the results and they are growing both in Shanghai as well is in Germany. So we believe that there's opportunities there.
+Christian Schwab -- Craig-Hallum -- Analyst
+Fabulous. Great. I don't have any other questions. Thanks guys.
+Fusen Chen -- President  Chief Executive Officer
+Thank you Christian.
+Operator
+Thank you. We reached end of our question-and-answer session. I'd like to turn the floor back over for any further or closing comments.
+Joseph Elgindy -- Senior Director, Investor Relations and Strategic Initiatives
+Thank you Kevin. Before closing, we wanted to inform investors that we'll be participating in several upcoming conferences and road shows throughout the March quarter in New York, Chicago, Montreal, Minneapolis, and Portland. Additional details can be found at investor.kns.com.
+Thank you all for the time today. As always, please feel free to follow up directly with any additional questions. Have a great day everyone. Operator, this concludes our call, thanks.
+Operator
+[Operator Closing Remarks]
+Duration: 32 minutes
+Call participants:
+Joseph Elgindy -- Senior Director, Investor Relations and Strategic Initiatives
+Fusen Chen -- President  Chief Executive Officer
+Lester Wong -- Chief Financial Officer, General Counsel  Senior Vice President, Legal Affairs
+Tom Diffely -- D.A. Davidson -- Analyst
+Krish Sankar -- Cowen  Company -- Analyst
+David Duley -- Steelhead Securities -- Analyst
+Peter Peng -- B. Riley -- Analyst
+Christian Schwab -- Craig-Hallum -- Analyst
+
+More KLIC analysis
+
+All earnings call transcripts

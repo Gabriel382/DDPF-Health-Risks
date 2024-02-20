@@ -1,0 +1,262 @@
+High consequence infectious diseases (HCID) 
+ Definition of HCID
+
+
+In the UK, a high consequence infectious disease (HCID) is defined according to the following criteria:
+
+
+
+ acute infectious disease
+
+ typically has a high case-fatality rate
+
+ may not have effective prophylaxis or treatment
+
+ often difficult to recognise and detect rapidly
+
+ ability to spread in the community and within healthcare settings
+
+ requires an enhanced individual, population and system response to ensure it is managed effectively, efficiently and safely
+
+
+
+
+Classification of HCIDs
+
+
+
+HCIDs are further divided into contact and airborne groups:
+
+
+
+ 
+ contact HCIDs are usually spread by direct contact with an infected patient or infected fluids, tissues and other materials, or by indirect contact with contaminated materials and fomites
+
+ 
+
+ 
+ airborne HCIDs are spread by respiratory droplets or aerosol transmission, in addition to contact routes of transmission
+
+ 
+
+
+
+
+List of high consequence infectious diseases
+
+
+A list of HCIDs has been agreed by a joint Public Health England (PHE) and NHS England HCID Programme:
+
+
+
+ 
+ 
+ Contact HCID
+ Airborne HCID
+ 
+
+ 
+ 
+ 
+ Argentine haemorrhagic fever (Junin virus)
+ Andes virus infection (hantavirus)
+ 
+
+ 
+ Bolivian haemorrhagic fever (Machupo virus)
+ Avian influenza A H7N9 and H5N1
+ 
+
+ 
+ Crimean Congo haemorrhagic fever (CCHF)
+ Avian influenza A H5N6 and H7N7
+ 
+
+ 
+ Ebola virus disease (EVD)
+ Middle East respiratory syndrome (MERS)
+ 
+
+ 
+ Lassa fever
+ Monkeypox
+ 
+
+ 
+ Lujo virus disease
+ Nipah virus infection
+ 
+
+ 
+ Marburg virus disease (MVD)
+ Pneumonic plague (Yersinia pestis)
+ 
+
+ 
+ Severe fever with thrombocytopaenia syndrome (SFTS)
+ Severe acute respiratory syndrome (SARS)*
+ 
+
+ 
+  
+ Wuhan novel coronavirus WN-CoV
+ 
+
+ 
+
+
+*No cases reported since 2004, but SARS remains a notifiable disease under the International Health Regulations (2005), hence its inclusion here
+
+
+**Human to human transmission has not been described to date for avian influenza A(H5N6). Human to human transmission has been described for avian influenza A(H5N1), although this was not apparent until more than 30 human cases had been reported. Both A(H5N6) and A(H5N1) often cause severe illness and fatalities. Therefore, A(H5N6) has been included in the airborne HCID list despite not meeting all of the HCID criteria.
+
+
+The list of HCIDs will be kept under review and updated by PHE if new HCIDs emerge that are of relevance to the UK.
+
+
+
+HCIDs in the UK
+
+
+HCIDs, including viral haemorrhagic fevers (VHFs), are rare in the UK. When cases do occur, they tend to be sporadic and are typically associated with recent travel to an area where the infection is known to be endemic or where an outbreak is occurring. None of the HCIDs listed above are endemic in the UK, and the known animal reservoirs are not found in the UK.
+
+
+As of December 2019, the UK has experience of managing confirmed cases of Lassa fever, EVD, CCHF, MERS and monkeypox. The vast majority of these patients acquired their infections overseas, but rare incidents of secondary transmission of MERS and monkeypox have occurred in the UK.
+
+
+
+HCID risks by country
+
+
+For health professionals wishing to determine the HCID risk in any particular country, an A to Z list of countries and their respective HCID risk is available.
+
+
+See HCID country risks
+
+
+Monthly summaries of global HCID events
+
+
+PHE’s epidemic intelligence activities monitor global HCID events. These are published in a monthly summary.
+
+
+Infection prevention and control in healthcare settings
+
+
+Specific infection prevention and control (IPC) measures are required for suspected and confirmed HCID cases, in all healthcare settings (specialist and non-specialist).
+
+
+IPC guidance appropriate for suspected and confirmed cases of Lassa fever, EVD, CCHF, MVD, Lujo virus disease, Argentinian haemorrhagic fever, Bolivian haemorrhagic fever and SFTS, is available in the ACDP guidance.
+
+
+IPC guidance for MERS, avian influenza, Nipah virus infection, monkeypox and pneumonic plague, can be found in the relevant PHE guidance listed below.
+
+
+Links to relevant PHE guidance for healthcare professionals
+
+
+
+ 
+ avian influenza
+
+ 
+
+ 
+ MERS
+
+ 
+
+ 
+ monkeypox
+
+ 
+
+ 
+ Nipah virus infection
+
+ 
+
+ 
+ plague
+
+ 
+
+ 
+ VHF, including Ebola
+
+ 
+
+ 
+ Wuhan novel coronavirus WN-CoV
+
+ 
+
+
+
+
+Specialist advice for healthcare professionals
+
+
+The Imported Fever Service (IFS) provides 24-hour, 7-days a week telephone access to expert clinical and microbiological advice. Hospital doctors across the UK can contact the IFS after discussion with the local microbiology, virology or infectious disease consultant.
+
+
+Hospital management of confirmed HCID cases
+
+
+Once an HCID has been confirmed by appropriate laboratory testing, cases in England should be transferred rapidly to a designated HCID Treatment Centre. Occasionally, highly probable cases may be moved to an HCID Treatment Centre before laboratory results are available.
+
+
+Contact HCIDs
+
+
+
+There are 2 principal Contact HCID Treatment Centres in England:
+
+
+
+ 
+ the Royal Free London High Level Isolation Unit (HLIU)
+
+ 
+
+ 
+ the Newcastle Royal Victoria Infirmary HLIU.
+
+ 
+
+
+
+
+Further support for managing confirmed contact HCID cases is provided by the Royal Liverpool Hospital and the Royal Hallamshire Hospital, Sheffield.
+
+
+Airborne HCIDs
+
+
+
+There are 4 interim Airborne HCID Treatment Centres in England. Adult and paediatric services are provided by 6 NHS Trusts:
+
+
+
+ Guy’s and St Thomas’ NHS Foundation Trust (adult and paediatric services)
+
+ Royal Free London NHS Foundation Trust, with a paediatric service provided by Imperial College Healthcare NHS Foundation Trust
+
+ Royal Liverpool and Broadgreen University Hospitals NHS Trust, with a paediatric service provided by Alder Hey Children’s NHS Foundation Trust
+
+ Newcastle upon Tyne Hospitals NHS Foundation Trust (adult and paediatric services)
+
+
+
+
+Case transfer arrangements
+
+
+Hospital clinicians seeking to transfer confirmed HCID cases, or discuss the transfer of highly probable HCID cases, should contact the NHS England EPRR Duty Officer. It is expected that each case will have been discussed with the Imported Fever Service before discussing transfer.
+
+
+Travel health advice for HCIDs
+
+
+
+The National Travel Health Network and Centre (NaTHNaC) provides travel health information about a number of HCIDs, for healthcare professionals and travellers. Advice can be accessed via the Travel Health Pro website.

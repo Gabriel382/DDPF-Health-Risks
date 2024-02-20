@@ -1,0 +1,22 @@
+Coronavirus outbreak in China could affect 2020 roadmap for global tech giants 
+ The coronavirus outbreak has so far claimed 213 lives and there have been a total of 9776 confirmed cases of the viral infection worldwide as the first month of 2020 comes to an end. The WHO has declared coronavirus as a global health emergency and while the economic impact of the outbreak depends on how long it ultimately lasts, its impact on the tech industry is already beginning to come to life, claims the data and analytics company GlobalData.
+
+Technology giants like Microsoft, Amazon, and Apple have imposed travel restrictions to and from China, whereas Google has suspended its office operations in mainland China, Hong Kong, and Taiwan.
+
+"While the temporary closure of offices in China will definitely have an impact on the product offerings and development initiatives targeted at the domestic audience, the closure of manufacturing plants will have a much larger impact on the product release and the roadmap of these technology giants," the report says.
+
+A number of technology companies have their manufacturing hubs in China and consumer devices like iPhones, Echo smart speakers, Xbox, and PlayStations are also made in the country. Good news is, most of these manufacturing hubs are still functioning, including Foxconn-- a major manufacturer for several big technology companies including Apple, Intel, Microsoft and Sony, and Pegatron - another a prominent manufacturer of PC components and peripherals.
+
+Head of Technology and Telecoms Data at GlobalData, Nishant Singh, says that since the manufacturing of these devices and components is via an intricate supply chain, a prolonged outbreak can drastically affect the manufacturing obligations of these manufacturing plants, which in turn will impact the product release roadmap of these technology giants.
+
+"Even if factory operations for these technology hubs are temporarily suspended, like it has happened with Tesla's Shanghai plant, the impact of the reduced production might cascade through to the rest of 2020," Singh adds.
+
+The GlobalData report says that while the technology markets in the other countries across the world might eventually bounce back and recover from the aftermath of the coronavirus outbreak, its impact could be drastic for the domestic technology market of China.
+
+China is an important market for Apple and the company earns nearly 15 percent of its revenues from the country. With the ongoing outbreak, the sales of iPhones within China is expected to be low at least for a month or so, which will definitely affect Apple's next quarterly earnings, GlobalData says.
+
+However, the brunt of the coronavirus outbreak will be borne by technology giants that are based out of China such as Huawei, ZTE, Xiaomi, Oppo, and Vivo. These companies have their R&D hubs in China and the reduced productivity will dampen the traction that these companies had started to gain.
+
+Singh says that the outbreak will not only affect the personal computing market but enterprises in China are also expected to drastically slow down their IT purchases, especially their capital expenditures for IT. GlobalData had estimated an 8 percent growth in 2020 for the enterprise ICT market in China, however, it now predicts that the outbreak will likely shave off around 2 percent of this growth in the wake of limited spending in this quarter.
+
+"Ultimately, it appears the outbreak is not just a test of the resiliency of the Chinese government and its healthcare system, it will also test the ability of the Chinese technology giants to bounce back," Singh says.

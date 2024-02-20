@@ -1,0 +1,217 @@
+Methanex Corp (MEOH) Q4 2019 Earnings Call Transcript 
+ Image source: The Motley Fool.
+
+
+
+Methanex Corp (NASDAQ:MEOH)
+Q4 2019 Earnings Call
+Jan 30, 2020, 11:00 a.m. ET
+Contents:
+
+
+Prepared Remarks
+
+Questions and Answers
+
+Call Participants
+
+
+
+Prepared Remarks:
+
+Operator
+Ladies and gentlemen, thank you for standing by. Welcome to the Methanex Corporation Q4 2019 Earnings Call. I would now like to turn the conference over to Ms. Kim Campbell. Please go ahead, Ms. Campbell.
+Kim Campbell -- Manager, Investor Relations
+Thank you. Good morning, everyone. Welcome to our fourth quarter 2019 results conference call. Our 2019 fourth quarter news release, management's discussion and analysis and financial statements can be accessed from the Reports tab of the Investor Relations page on our website at methanex.com. I would like to remind our listeners that our comments and answers to your questions today may contain forward-looking information. This information, by its nature, is subject to risks and uncertainties that may cause a stated outcome to differ materially from the actual outcome. Certain material factors or assumptions were applied in drawing the conclusions or making the forecasts or projections, which are included in the forward-looking information. Please refer to our fourth quarter 2019 MDA and to our 2018 annual report for more information.
+I would also like to caution our listeners that any projections provided today regarding Methanex's future financial performance are effective as of today's date. It is our policy not to comment on or update this guidance between quarters. For clarification, any references to revenue, EBITDA, cash flow or income made in today's remarks reflect our 63.1% economic interest in the Atlas facility and our 50% economic interest in the Egypt facility. In addition, we report our adjusted EBITDA and adjusted net income to exclude the mark-to-market impact on share-based compensation and the impact of certain items associated with specific identified events. We report these non-GAAP measures in this way to make them a better measure of underlying operating performance, and we encourage analysts covering the company to report their estimates in this manner.
+I would now like to turn the call over to Methanex's President and CEO, Mr. John Floren, for his comments and a question-and-answer period.
+John Floren -- President and Chief Executive Officer
+Thanks, Kim. Good morning, everybody. As a result of the low-cost investments we've made in our company over the past number of years to substantially increase our production capability, Methanex was able to produce a record 7.6 million tonnes of methanol in 2019. We also had a record quarter for methanol sales in Q4. However, our excellent operational performance was overshadowed by a lower average realized price in 2019 compared to 2018. We recorded adjusted EBITDA of $566 million and adjusted net income of $71 million or $0.93 per share for 2019. In the fourth quarter, we recorded higher adjusted EBITDA of $136 million and adjusted net income of $10 million or $0.13 per share compared to the third quarter despite a lower methanol price environment. These results compared to adjusted EBITDA of $90 million and adjusted net loss of $21 million or $0.21 per share that we recorded in the third quarter. The higher adjusted EBITDA we delivered in the fourth quarter was based on higher sales volumes of methanol produced -- Methanex-produced methanol, supported by our record production results and improved costs, which were partially offset by lower average realized price and a 68,000 tonne inventory build of produced product.
+Our flexible cost structure were over 60% of our natural gas contracts are linked to methanol revenue allows our assets to be competitive across the price cycle. Our average realized price for the fourth quarter was $256 per tonne and reflects a decline of $16 per tonne from the $272 per tonne that we recorded in the third quarter. In addition, our fourth quarter adjusted EBITDA results included an insurance recovery associated with our Egypt outage from April to August 2019 of $25 million, pending final settlement, which we forecast to be slightly higher than the $25 million. This amount reflects our 50% share in Egypt facility. This insurance recovery partially offsets repair costs that we recorded in the second and third quarters of 2019 and lost margins on methanol sales to customers as a result of the outage. Overall, methanol demand grew by 3% in 2019. Traditional methanol demand was flat year-over-year as a result of slower global economic growth, particularly in the automotive and construction markets, various planned and unplanned downstream outages and the nationwide safety and environment inspections in China. Demand for energy-related applications was robust and grew 7%, supported by the start-up of two new methanol to olefins or MTO plants.
+Methanol industry supply was impacted by above average historical operating rates for most of the year. We've seen meaningful Iranian volume enter China and sold at a discount to methanol or originating from other geographical locations, leading to additional price volatility in that market. Late in the fourth quarter of 2019 and into the first quarter of 2020, there have been several unplanned outages in the Middle East, including Iran, Southeast Asia and in the U.S. In addition, the diversion of natural gas away from methanol production to residential heating in China has led to tighter market conditions and higher methanol pricing in February. We estimate that the industry cost curve, which continues to be set in China, is currently around $260 per tonne and current prices in China are above this range. We recently posted our February North American price, which increased by $54 to $396 per tonne, and our Asia Pacific price, which increased by $60 to $335 per tonne. Our European contract price is set quarterly, and our first quarter posted price is EUR275 per tonne. While methanol industry and price dynamics are hard to forecast in the short-term, we remain positive on the long-term -- longer-term supply demand fundamentals for the methanol industry.
+We estimate that the current methanol demand is approximately 84 million tonnes, and forecasted demand growth is approximately 3% to 4% over the next few years based on a steady growth across traditional and energy-related applications. This pace of growth will require one to two world-scale plants to start-up every year to keep up with the forecasted demand. There are limited number of new capacity additions that are under construction and expected to start-up in the medium term. Historically, we've seen meaningful delays in the completion of new projects, and we believe industry supply could be challenged to keep pace with demand growth. Now turning to our operations. We focus on what we can control, which includes running our plants safely and reliably. We are very pleased with our record production results for the quarter and for the year. Our safety performance was excellent and the best we've achieved in many years. In New Zealand, we produced 513,000 tonnes during the fourth quarter compared to 469,000 tonnes in the third quarter. Production was higher in the fourth quarter as we received higher gas deliveries. We took our smaller Waitara Valley plant off-line in December to complete unplanned maintenance activities. We expect the repairs will be completed in the middle of the first quarter of 2020. Based on our current contracted gas position, we have revised our 2020 production guidance to New Zealand to approximately 1.9 million tonnes.
+As a result, the Waitara Valley outage has minimal impact on our overall forecast for methanol production in New Zealand in 2020. In Geismar, we produced 480,000 tonnes during the fourth quarter compared to 514,000 tonnes in the third quarter. Production was lower in the fourth quarter as we experienced a few short unplanned outages at our Geismar two facility. In Trinidad, we produced 456,000 equity tonnes in the fourth quarter compared to 474,000 equity tonnes in the third quarter. Our production was lower in the fourth quarter as we experienced a few short unplanned outages. During the quarter, we announced we had reached an interim agreement with the National Gas Company of Trinidad and Tobago, NGC, for the supply of natural gas to our Titan methanol facilities. We extended the term of the interim agreement to April 1, 2020, from January 31, 2020, to enable Methanex to continue operations at our Titan methanol facility, while continuing negotiations with NGC for a longer-term natural gas supply agreement. We continue to guide to approximately 85% operating rates for our Trinidad operation in 2020, provided we're able to contract additional gas for our Titan facility. In Chile, we produced 373,000 tonnes during the fourth quarter compared to 146,000 tonnes in the third quarter.
+This excellent production performance resulted in our highest quarterly production in Chile since the second quarter of 2007. This is a significant milestone for our Chile operation. We are pleased to announce earlier in the quarter that we reached an agreement for natural gas supply from Chile that will underpin approximately 25% of a 2-plant operation through the end of 2025. We expect that our current gas agreements will allow for a full 2-plant operation in Chile during the Southern Hemisphere summer months and up to a maximum of 75% of a 2-plant operation annually until the end of 2020. We're optimistic that we can secure a natural gas to underpin a full 2-plant operation year-round over the coming years. Regarding the ongoing protests in Chile, our people are safe, and that's our #1 priority. Our operations have not been impacted to date. We continue to closely monitor the situation to ensure that our people are safe, and our operations continue to run smoothly. In Egypt, we produced 151,000 equity tonnes during the fourth quarter compared to 85,000 equity tonnes in the third quarter. We restarted the Egypt facility in August, following a 4-month unplanned outage. We are pleased that our Egypt facility has returned to high operating rates.
+Our Medicine Hat plant continues to operate well at full operating rates. Now turning to capital allocation. Our approach to capital allocation remains unchanged. We believe that we're well positioned to meet our financial commitments, execute on our growth projects in Louisiana and deliver on our commitment to returning excess cash to shareholders through dividends and share repurchases. In terms of our financial commitments, our expected maintenance capital expenditures for 2020 are estimated to be approximately $150 million. Our expected maintenance capital may be higher or lower in a particular year, depending on the specific maintenance activity required to ensure each of our 11 plants can run safely and reliably. We continue to make progress on the debottle opportunities in Geismar one and Geismar two facilities to increase production by approximately 10% or 200,000 tonnes per year for a few tens of millions of dollars. We are completing the construction of a pipeline to bring CO2 to the site and the necessary work at the Geismar two plant. We expect that the incremental production capacity from our Geismar one facility will come online at the end of Q1 2020, and the incremental production from our Geismar two facility will come online sometime in 2021. We started construction of Geismar three in August 2019, an advantaged 1.8 million tonne methanol plant located adjacent to our existing Geismar one and Geismar two facilities.
+This project will strengthen our global leadership position and significantly enhance our asset portfolio with additional low-cost production. We are in the early days of construction, and our progress to date is in line with our previously communicated schedule and budget. We are forecasting start-up of G3 in mid-2022 with an estimated capital cost of $1.3 billion to $1.4 billion. We are confident that this project will deliver outstanding returns based on a substantial capital and operating cost advantages. We are well positioned to complete this project as planned as we have a rigorous and well-defined execution plan, an experienced team in place and a robust and flexible financing plan. As we've communicated many times in the past, our strong preference is to have a partner for the G3 project, and we continue to aggressively pursue that option. We've recently engaged an investment bank to assist us to reach a broader range of strategic or other potential partners. We have built our company to be able to navigate the bottom of the cycle. We continue to focus on maintaining a strong balance sheet and having finance flexibility, a low-cost structure, which we have in place today.
+We ended the quarter with $417 million of cash on the balance sheet. We have a strong liquidity position with an $800 million construction loan facility for the Geismar three project that remains undrawn and a $300 million undrawn credit -- revolving credit facility to provide further financial flexibility in case we encounter unforeseen business stress. During the quarter, we returned $27 million to shareholders through our regular dividend. During 2019, we repurchased 1.1 million shares of the approximately 3.9 million shares approved under the current normal course issuer bid. We did not repurchase shares in the fourth quarter. Now turning to our outlook for the first quarter of 2020. We expect that our cost structure will slightly increase in the near term as a result of higher shipping costs, primarily due to the impact of the International Maritime Organization's 2020 regulations on sulfur emissions, leading us to use higher cost fuel to power our ships that cannot run on methanol.
+Based on posted prices so far this quarter, we forecast average realized prices in Q1 2020 to be higher than Q4 2019. Our forecasted production in the first quarter is similar to the fourth quarter. We forecast adjusted EBITDA in the first quarter to be similar to the fourth quarter of 2019. Regarding the coronavirus outbreak, our people are safe, and that's our top priority. Our leadership team in China is closely monitoring the situation to ensure that our people are safe, then our operations run smoothly. We assume that the extended business closures announced by the Chinese government of approximately 10 days beyond the Lunar New Year holidays will have an impact on methanol demand. However, it's too early to forecast how this rapidly evolving situation will impact the global methanol industry in 2020.
+I would now be happy to answer any questions.
+Questions and Answers:
+Kim Campbell -- Manager, Investor Relations
+Thank you Mr. Floren [Operator Instructions] The first question is from Mike Leithead from Barclays. Please go ahead.
+Mike Leithead -- Barclays -- Analyst
+Thanks. Good morning, john.
+John Floren -- President and Chief Executive Officer
+Good morning, Mike.
+Mike Leithead -- Barclays -- Analyst
+I guess, first on methanol pricing, you guys appear to have gotten a nice uptick in February pricing. So can you maybe just talk about the demand environment you've seen so far this year? And just on the supply side, you mentioned in the prepared release last night, a few new industry projects you expect to ramp. So I guess, how upbeat are you on further pricing momentum over the next couple of quarters here?
+John Floren -- President and Chief Executive Officer
+Yes, it really goes to the two issues you mentioned, supply and demand. Prior to the current run up, there were four MTO plants in China that had announced maintenance during the first quarter. So that's going to happen. And then obviously, we'll have a negative impact on demand in the short term. The other derivatives are performing OK. So there's nothing really to worry about there. I'd say the coronavirus is a big unknown. We always expect China around Lunar New Year to take some downtime, and that does impact demand, but that's a year-over-year issue. How long this goes for? It's a guess. So the demand for Q1, I think, based on some unknowns might be OK. It might be down a little bit. It's really hard to say. Supply is really what's driven the price increase. We had really good production results from the industry for most of 2019. And as we headed into 2020, we saw a number of unplanned outages, and the big unknown is Iran and the gas being diverted in that country. So that certainly will impact the supply side in the Q1 -- in Q1. So like I mentioned in my remarks, we expect pricing to be a little higher in Q1, but it's really difficult to predict how much higher.
+Mike Leithead -- Barclays -- Analyst
+Got it. That's helpful color. And then just a follow-up on Geismar three. If I'm interpreting correctly your prepared commentary about engaging with the bank, it sounds like you're expanding the scope of potential options beyond just looking at a strategic partner, is that the correct read there? And I guess, can you maybe just flesh out what other options you would consider here, such as, I guess, maybe a financial partner for the project?
+John Floren -- President and Chief Executive Officer
+Yes. We're considering all options. We're still talking to the strategic people we have been talking to. So those discussions are ongoing. We just decided from a resource base -- the resource point of view, as we widen our scope and we're going to need a bit more resource. So it made sense to hire an investment bank to help us screen more potential partners. And yes, we'll broaden our scope here from just strategics to other potential partners. They could be financial, they could be other companies interested in investing that maybe don't have the same strategic principles as current ones we're talking to. But we thought from a resource point of view, we needed to have a bit of additional help as we broaden our scope here.
+Mike Leithead -- Barclays -- Analyst
+That's helpful. Thank you.
+Operator
+Thank you. The next question is from Joel Jackson from BMO Capital Markets. Please go ahead.
+Joel Jackson -- BMO Capital Markets -- Analyst
+Good morning, john.
+John Floren -- President and Chief Executive Officer
+Hi, Joel.
+Joel Jackson -- BMO Capital Markets -- Analyst
+Just on your Q1 kind of soft guidance there. So you talk about EBITDA being similar. Sequentially, you talked about production being similar, but pricing being up. What -- maybe you could drive, talk about some of the cost impacts that must be driving EBITDA down to be similar? Because you think the price pickup would be helpful. Thanks.
+John Floren -- President and Chief Executive Officer
+Yes. I said pricing will be up slightly, right? And I said, production will be similar. We had the Egypt recovery in the quarter as well. It's -- we are going to experience higher cost on fuel for freight. So that's the significant difference in the cost structure. So that ultra-low sulfur diesel is quite a bit more expensive than heavy fuel oil. So that's driving our cost structure up on the freight side. So that's a guide around the same, and it really depends on what March pricing ends up. I'll remind you, Q1 for Europe is lower than Q4. So we're honed into that price for the whole quarter. So that -- when you compare out for Q4 to Q1, we experienced lower pricing in Europe. So on balance, we expect pricing to be a little higher. It depends on what happens on the supply side, as I've already mentioned. And it's really difficult to predict what happens in Iran. So -- and the MTO, I mentioned, is going to have four plants that were in planned turnarounds prior to this fly up in pricing. So we expect those to go ahead. And then the coronavirus, it's a bit of an unknown. So based on all the balances and puts and takes, we expect it to be about the same.
+Joel Jackson -- BMO Capital Markets -- Analyst
+That's helpful. And then following up, I mean, you just outlined a lot of caution, a lot of puts and takes, a lot of unknowns like you said. You talked before about, for share buyback to continue or to start again, you want to have, I think, a $300 million cash buffer. You want to have methanol prices at at least $300 million realized. As we get into the second quarter, if these price levels hold, you should be there, could you be in a position to do share buybacks even though you're starting to just get into the large spend of G3 if you're over $300 million or with some of these unknowns weigh on you?
+John Floren -- President and Chief Executive Officer
+Yes, whether we're building G3 or not in this current price environment, we wouldn't be buying back any shares. So I think that's an important point to make. What I guided to in the past at a $300-plus million environment, there's room to complete the project on our own, have a meaningful, sustainable growing dividend and to do a better share repurchases. Now how much above $300 million will impact that share repurchases. We have ways to go to get to that $300 million target. So we've seen one month here of uptick in pricing. So the guidance remains the same. I mean, we want to keep $300 million on the balance sheet as we complete G3. And if we have excess cash beyond that, and we see pricing being sustainable above the $300 million, we'll consider opening up another share repurchase or NCIB, but I think that's in the future. And let's see how pricing and supply demand work out here in the next months and before we get the cart before the horse here.
+Joel Jackson -- BMO Capital Markets -- Analyst
+Thank you.
+Operator
+Thank you. The next question is from Steve Hansen from Raymond James. Please go ahead.
+Steve Hansen -- Raymond James -- Analyst
+Yes, Hi. John, just wondering if you could give us some context or color around the key sticking points you might be facing on the gas contract at this juncture? And just give us a flavor for whether you continue to roll these temporary agreements going forward? Or at what point do you have to draw the line in the sand with the government? Just trying to get some better color around the probability of tight running all year? Thanks.
+John Floren -- President and Chief Executive Officer
+Yes, we're working hard to get this done. We want to run the plant. The government wants us to run the plant. We're trying to find a solution. That's a win-win for the upstream, the government and ourselves, and that's what we'll continue to do. I'm not going to negotiate in public. Our teams are working hard, but there does come a point where you make a decision. Are these negotiations going to get to a place where it makes sense for all parties? Or does it not? We're not there yet, and we're happy to extend the the interim agreement. We know what our cost structure is in Q1. So I always said I would not enter into running our plant, not ruining my cost structure. I do know what my cost structure is. And it's acceptable under current methanol prices. So we'll continue to negotiate in good faith. I would say all parties want a deal, and that's always a good thing. And we're optimistic we can get it done. So -- and we'll continue to negotiate with the government and the NGC.
+Steve Hansen -- Raymond James -- Analyst
+Okay. That's helpful. And just a follow-up, if I may, on the financial partner. You've alluded to casting broader, if you will, to some financial parties. Should we read into that to mean that the strategic discussions or the discussions with the strategic parties have not gone as well as you'd hoped? Or is it just that you're being more comprehensive in the broader search? I'm just trying to understand why strategics are not still the priority?
+John Floren -- President and Chief Executive Officer
+No, they are the priority. That would be misunderstanding what I said. I think as you're getting into more discussions, we only -- we have limited resources internally to have multiple discussions. We made the decision to widen the scope of who we're going to look forward to be a potential partner in G3. Our preference and our strong preference is to have a partner for 30%. So when we looked at it, all of that, it made sense to hire some additional resource. So we agree with the banker to help us with the screening process with the negotiations. And as you open it up to more than two to three parties, we need a lot -- quite a bit more resource. So that's what we've done. We're still talking to the same parties. We're making progress. We have made progress during the last 90 days, but we want to broaden our reach and talk to a number of different parties and it's just a matter of getting some additional resource.
+Steve Hansen -- Raymond James -- Analyst
+And do you think you can get that done in the first half of this year? Or the back half of this year? What's the time line?
+John Floren -- President and Chief Executive Officer
+Well, we're working hard. And we'd like to -- the next step to me to have a heads of agreement with a potential partner, and we'll see what the timing, where we get to. But we're -- it's a top priority. We've got more resources on it now, and we'll continue to broaden our view and see what makes sense.
+Steve Hansen -- Raymond James -- Analyst
+Okay, very good. Thanks again.
+Operator
+Thank you. [Operator Instructions] The next question is from Hassan Ahmed from Alembic Global. Please go ahead.
+Hassan Ahmed -- Alembic Global -- Analyst
+Morning John.
+John Floren -- President and Chief Executive Officer
+Hi Hassan.
+Hassan Ahmed -- Alembic Global -- Analyst
+John, quick question around Asian polyethylene margins. They've been extremely negative over the course of the last couple of months. And 2020 globally is supposed to be a pretty big sort ramp-up year in terms of polyethylene supply. So I'm just sort of wondering how one should think about sort of the MTO side of things in a pretty sort of strong supply growth environment for polyethylene, particularly in Asia?
+John Floren -- President and Chief Executive Officer
+Yes, I think we see -- currently, the MTO guys a bit more affordable than NAFTA. So we have seen ethylene propylene prices pretty at the low end of the historical cycle. We understand there's some more supply going on. What I can comment on is the behavior of the MTO players, and all of the MTO players up to now run at very high rates, unless they're doing maintenance or have had a technical issue. So we continue to watch it very closely. It does impact methanol pricing and the affordability. We look at that as well. So this is a key issue for us that we're going to continue to watch. And right now, we see high operating rates at the MTO, where prices go on olefins, anybody's guess, but we know that they were at the low end of the cycle now and probably a little bit better economics on the MTO than the NAFTA producers. But what happens to the price of NAFTA? Who knows?
+Hassan Ahmed -- Alembic Global -- Analyst
+Understood, understood. Now as a follow-up, decent pricing momentum over the last month or two. But as I understand, they've been fairly sort of large industry outages. I mean, some outages out in Malaysia. I've heard natural gas supply disruption-related outages in Iran as well. Were they large contributing factors to some of this recent pricing momentum that we've seen? And what are you guys hearing in terms of the Malaysian and Iranian capacity coming back online?
+John Floren -- President and Chief Executive Officer
+Yes. So I mentioned that we saw really high operating rates in the industry for most of 2019 and as we got into 2020, the end of 2019. So basically, a month we've seen some unplanned outages, the ones you've mentioned in the Iranian gas situation. We -- it's impossible for us to predict what's going to happen in Iran with gas and what other unplanned outages, there might be. So we're seeing production reduced in January. Does that carry through to February? Probably. How much longer? It's difficult to predict. I'd say inventories have been lowered quite a bit as well. If you look at the coastal China inventories, they've come down substantially. So -- but as I mentioned earlier, on the other side, we've got some MTO planned outages for maintenance. So the demand will be impacted a little bit in February and March. So again, it's really hard to predict right now with all these variables the net-net impact on pricing.
+Hassan Ahmed -- Alembic Global -- Analyst
+Understood, understood. Thanks so much.
+John Floren -- President and Chief Executive Officer
+Thanks.
+Operator
+Thank you. The next question is from John Roberts from UBS. Please go ahead. Mr. Roberts, if you have a question, Your line is now open.
+Hearing no response, we'll move to the next question. The next question is from Eric Petrie from Citi. Please go ahead.
+Eric Petrie -- Citi -- Analyst
+Hi, good morning, John.
+John Floren -- President and Chief Executive Officer
+Good morning.
+Eric Petrie -- Citi -- Analyst
+So Henry Hub prices have crossed below the $2 per MMBtu level. So how do you see that impacting the cost curve as well as future development of projects in North America?
+John Floren -- President and Chief Executive Officer
+Yes, it doesn't impact the cost curve at all -- cost curve China today. That's where most of the high-cost production, is a bit in Europe. It's really set in China, and that's based on natural gas and coal in China. And there's quite a bit of material -- the cost curve I mention is $260 a tonne, give or take. And there's quite a bit of production at that level. So really, you'd have to see tens of millions of more capacity being built in the United States with a price of $2 before you see the cost curve really impacted.
+Eric Petrie -- Citi -- Analyst
+Okay, helpful. And then longer term, do you see any risk to MTO utilization due to the single-use plastic bans announced in China?
+John Floren -- President and Chief Executive Officer
+Yes. Again, its early days. And I think it's -- what's that going to impact demand and maybe impact the future growth of supply. I think the stuff that we see running today and the MTO is a fraction of the overall olefins market. Even though it's a huge impact on the demand of methanol, it's a blip in the overall supply of olefins. So our view is is that these plants will continue to run. And if there is a downturn in demand in olefins, which has grown quite nicely over the last 10 years because of single-use plastics, then we would expect future supply to be less robust than maybe what's planned today.
+Eric Petrie -- Citi -- Analyst
+Thank you.
+Operator
+Thank you. The next question is from Nelson Ng from RBC Capital Markets. Please go ahead.
+Nelson Ng -- RBC Capital Markets -- Analyst
+Hi, Great, thanks. So just in China, I was just thinking in terms of methanol demand, have you seen any, like, early indications of any potential drop-off in demand or supply due to the coronavirus? And how long do you think it'll take before you notice any of these impacts?
+John Floren -- President and Chief Executive Officer
+Yes, like I said, we're in Chinese Lunar New Year anyway. So every year, we see a downturn this time of year when the whole country basically goes away for a week. So that has an impact each and every year and they stock up a little bit ahead of that, and then they start producing afterwards. I had said in my remarks, we think that's been extended in some part of our -- a great part of the country by 10 days. So give me a couple of weeks, and we'll see what the impact is. I'd say how much longer does it get delayed? Is it another -- if it's just 10 days, I think that the impact will be quite minimal. But if you remember, SARS, there was quite an impact on global GDP for that period. So I think it was, if I recall, around 1%. So 1% of global GDP is not insignificant when for 55% of the traditional derivatives, and then we've got the MTO and other energy in China. So I think its how long and I'm not in a position to predict at all how long this -- the expansion of the virus continues and the impact on the Chinese government's decisions to run industry in the country.
+Nelson Ng -- RBC Capital Markets -- Analyst
+Okay. And then my follow-up question relates to Geismar one. You mentioned that the debottlenecking and the improvement in production would be completed in the first quarter. I was just wondering, do you have to take downtime to tie in the pipeline? And I guess, should we expect a turnaround while you're taking downtime?
+John Floren -- President and Chief Executive Officer
+No, if you recall, when we did the first G1 turnaround, which the plant has been running for five years now, believe it or not, produced the 5 million tonnes of product. We did the necessary work at that time to be able to tie in the CO2. So what needs to be completed now is the actual pipeline of the CO2 into the plant. There will be no downtime associated with tying in the CO2 to the plant. We're looking as timing at the end of Q1. So don't expect any real volumes in Q1. And as we tie-in, does it get bled into Q2 a bit? Possibly. Current view is at the end of Q1, but probably, we're talking 100,000 tonnes here is 25,000 tonnes a quarter. So probably a minimal impact based on how product flows through our FIFO layers in Q2. So I think just directionally, we're getting it done, and it's another 100,000 tonnes of low-cost capacity. That's the way we look at it for a really small amount of capital.
+Nelson Ng -- RBC Capital Markets -- Analyst
+Okay, thanks, john. I'll get back in a queue.
+Operator
+Thank you. The next question is from Jonas Oxgaard from Bernstein. Please go ahead.
+Mr. Oxgaard from Bernstein Your line is open.
+Jonas Oxgaard -- Bernstein -- Analyst
+Sorry about that. Good morning.
+John Floren -- President and Chief Executive Officer
+Morning.
+Jonas Oxgaard -- Bernstein -- Analyst
+So we've seen some reports that your competitors have had some operational issues in the fall. Could you give us some update on the U.S. operational performance? And how you expect 2020 to play out from a supply standpoint, especially since I believe that methanol one is still scheduled to come online at some point in the year?
+John Floren -- President and Chief Executive Officer
+Yes, I don't sit around the desks of our competitors. So I can't really give you any insight into how their plants are performing. I say the production issue that we saw in the U.S. were in the fourth quarter. Outside the U.S. and Iran and really at the end of the year last year. So it's really impacted January. So we've seen some issues in the U.S. How they're going to run in 2020? I don't have any special insight for sure.
+Jonas Oxgaard -- Bernstein -- Analyst
+Okay.
+John Floren -- President and Chief Executive Officer
+Thank you.
+Operator
+Thank you. The next question is from Matthew Blair from Tudor, Pickering, Holt. Please go ahead.
+Matthew Blair -- Tudor, Pickering, Holt -- Analyst
+Hey, john. Good morning. There's some news earlier this month that China was suspending its 10% ethanol blending mandates for 2020? And just wanted to get your reaction? I mean, do you view this as a pretty positive announcement from Methanex? And do you see this taking a pretty big risk off the table?
+John Floren -- President and Chief Executive Officer
+Well, I think when it was announced they were going forward with it, I've got a lot of questions about it. And our view was, they had to build quite a bit of ethanol capacity to use all that corn, and I guess, the decision ultimately became that did make sense. And now they've said they're not going to do it. So I don't think it's negative, but it's probably -- I've said for a number of quarters now and maybe a couple of years that really the methanol use in China will be high level blends, and that's where they've always been focused. Methanol 100 engines that Geely are manufacturing the taxi fleets in a couple of cities that are now up to 20,000 taxis running on Methanol 100 consuming 400,000 to 500,000 tonnes of methanol per year, and those are trials, those are trials. So those aren't even full blown programs. So our focus, and we think the focus of the Chinese government is on high level blends for methanol. It may open up room for ethanol imports from the United States as the free trade deal gets done in Phase 2, then I think that could open up room for ethanol exports from China or from the United States into China for low level ethanol blends, as we've seen in the United States. So I think there's room for both. We've always said that. And the growth and the focus for methanol will be in the high level, but it doesn't mean as they're not going to use low level blends of ethanol that we might see a bit of an uptick, but I wouldn't really think it's going to move the needle too much on the demand side in China.
+Matthew Blair -- Tudor, Pickering, Holt -- Analyst
+Makes sense. And then I heard the maintenance capex number, $150 million for this year. Did you provide an estimate on the G3 spending? And I guess, if not, do you think, I don't know, maybe $400 million in 2020 would be pretty reasonable here?
+John Floren -- President and Chief Executive Officer
+Yes, that's the guidance we've provided before is about $400 million for 2020.
+Matthew Blair -- Tudor, Pickering, Holt -- Analyst
+Sounds good. Thank you.
+John Floren -- President and Chief Executive Officer
+Thank you.
+Operator
+Thank you. The next question is from Cherilyn Radbourne from TD Securities. Please go ahead.
+Cherilyn Radbourne -- TD Securities -- Analyst
+Thanks very much and good morning.
+John Floren -- President and Chief Executive Officer
+Good morning.
+Cherilyn Radbourne -- TD Securities -- Analyst
+One of the industry publications recently reported that the U.S. has imposed sanctions on several Iran-linked petchem firms, including, I guess, at least one that was an exporter of methanol to China. Can you offer any insight there on what you think the implications may be for the flow of Iranian methanol into China going forward?
+John Floren -- President and Chief Executive Officer
+It depends if the Chinese remain -- respect the sanctions. I think we've seen the same information you've seen, and that company does get involved in quite a bit of the exports and imports into China. We've seen the same sanctioned information. How do they behave? And how does China behave? Again, I don't have any special insight into that, but it is interesting that the sanctions continue to grow, especially around Iran. And I think it's more and more difficult for them to sell product to get shipping, to get spare parts to run not only their methanol plants, but many of their industries. So I think that the tension is continuing to be ramped up and where it ends. Again, I really don't know how it's going to end, but I think the sanctions, if I'm Iran are not positive.
+Cherilyn Radbourne -- TD Securities -- Analyst
+And what about the flow of Iranian methanol into India? Is that still a free flowing or might some issues crop up there as well?
+John Floren -- President and Chief Executive Officer
+We haven't seen anything similarly announced in India. I think India is a different -- well, obviously, a different market than China. There's a lot more players, traders, smaller players, and it's been a real important market for Iran. So I haven't seen -- and India as well as pretty public about using more methanol in this energy space, especially in its automobile fleet and truck fleet. So I think they're viewing methanol as a strategic raw material going forward. So how that pans out into sanctions or sanctions and whether they follow the sanctions and the relations with the U.S etc., again, that's not something I have any special information on.
+Cherilyn Radbourne -- TD Securities -- Analyst
+Okay. And if I could sneak in a last very quick one. When you say that you expect Q1 EBITDA to be similar to Q4, I assume that's versus the $136 million?
+John Floren -- President and Chief Executive Officer
+That's correct.
+Cherilyn Radbourne -- TD Securities -- Analyst
+That's all from me. Thank you.
+John Floren -- President and Chief Executive Officer
+Thank you.
+Operator
+Thank you. The last question is from Steve Hansen from Raymond James. Please go ahead.
+Steve Hansen -- Raymond James -- Analyst
+Hi. John, this might be better off-line, but I just wanted to follow-up again on the Trinidad gas discussion. Is it -- can you give us any context around, again, what the issue might be? Is it -- presumably, they're looking for a higher price or sort of certainty, but is the concept of floating the scale formula still on the table? Or is the base price that's set to be? Just trying to get a sense for what the outcome might be here as we think about modeling going forward?
+John Floren -- President and Chief Executive Officer
+Well, I think we're going to pay a higher price for gas in Trinidad. We want to pay a price that we can still earn EBITDA and invest in the plant. So it's usually around price when you have these negotiations and that sliding scale related to methanol will -- we're continuing to be in place. And we just want to make a deal that we can make sure that we can survive in the low end of the cycle and do well at the high end of the cycle. So I think you should model it higher, but we're not going to sign a deal that doesn't make sense, where we can earn profits from that plant. We'd rather shut it down than to run it for no profit.
+Steve Hansen -- Raymond James -- Analyst
+That's very helpful. Thanks Appreciate it.
+Operator
+Thank you. There are no further questions registered at this time. I'd now like to turn the meeting back to Mr. Floren.
+John Floren -- President and Chief Executive Officer
+Well, thank you. Commodity cycles are anticipated part of our business. We have witnessed many cycles in the past and assume we will see more in the future. We remain focused on what we can control by further strengthening our global leadership position in the methanol industry through low-cost growth opportunities and by operating our plants safely and reliably. This enables us to consistently deliver quality, reliable methanol supply, maintain our competitive advantage and our preferred supplier status to customers around the world. Our balanced approach to capital allocation remains unchanged. We believe we are well positioned to meet our financial commitments, execute on our growth projects in Louisiana and deliver on our commitments to return excess cash to shareholders through dividends and share repurchases. Thank you for the interest in our company.
+Operator
+[Operator Closing Remarks]
+Duration: 43 minutes
+Call participants:
+Kim Campbell -- Manager, Investor Relations
+John Floren -- President and Chief Executive Officer
+Mike Leithead -- Barclays -- Analyst
+Joel Jackson -- BMO Capital Markets -- Analyst
+Steve Hansen -- Raymond James -- Analyst
+Hassan Ahmed -- Alembic Global -- Analyst
+Eric Petrie -- Citi -- Analyst
+Nelson Ng -- RBC Capital Markets -- Analyst
+Jonas Oxgaard -- Bernstein -- Analyst
+Matthew Blair -- Tudor, Pickering, Holt -- Analyst
+Cherilyn Radbourne -- TD Securities -- Analyst
+
+More MEOH analysis
+
+All earnings call transcripts

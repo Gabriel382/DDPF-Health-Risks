@@ -1,0 +1,43 @@
+Watching bat coronaviruses with next-generation sequencing 
+ Credit: CC0 Public Domain
+                    
+    
+
+
+In late 2019, a mysterious coronavirus—now called 2019-nCoV—began making people sick in Wuhan, China. Now the virus has spread to at least four other countries, including the United States, and killed at least nine people.
+                                                                                                                               
+To monitor how viruses like this one spread and evolve in animal populations, researchers have been using next-generation sequencing (NGS). However, routine and large-scale surveillance with NGS can be both costly and laborious. It can also miss less abundant viral markers in the host sample. These challenges have driven geneticists to develop NGS-based strategies that are less expensive and more efficient.
+
+This week in mSphere, a journal of the American Society for Microbiology, an international group of researchers describe how to use enrichment—one such emerging NGS strategy—for monitoring coronaviruses, especially those that originate in bats. The NGS is "enriched" with probes (or baits), which are tiny fragments of genetic material that find and bind to the viral DNA. These probes suggest a quick way to identify where the viral genetic material might be hiding.
+
+In test sets of clinical samples, the probes successfully identified coronaviruses, and the researchers reported that their approach both increased sensitivity and reduced sequencing costs.
+
+"We don't want to declare that enrichment is the panacea for all NGS challenges, but in this case, I do think it's a step in the right direction," said Lin-Fa Wang, Ph.D., who directs the Programme in Emerging Infectious Diseases at Duke-NUS Medical School, in Singapore. Wang led the study with Peng Zhou, Ph.D., a virologist at the Chinese Academy of Science's Center for Biosafety Mega-Science in Wuhan, China.
+
+Coronaviruses in bats, says Wang, are particularly important to monitor. Many researchers believe that these viruses have the potential to infect other animal populations—and even people. The coronavirus that caused 2003's deadly outbreak of SARS, or severe acute respiratory syndrome, is closely related to those found in bats and likely originated with the animals. The same is true of the viruses behind a mysterious January 2020 outbreak in Wuhan, China, and the 2018 outbreak of swine acute diarrhea syndrome, or SADS. Bats are also known reservoirs of the Ebola virus, Marburg virus, Nipah virus, and Hendra virus, even though they usually don't exhibit symptoms.
+
+"Coronaviruses, especially those that are bat-borne, remain an important source of emerging infectious diseases," Wang said. During times that are free of outbreaks, or what Wang calls "peace time," researchers can build up-to-date banks of probes associated with known forms of coronaviruses. During outbreaks, or "war time," they can use that information to track the evolution of viruses and spread of infections, in animal and even human populations.
+
+One challenge of using enriched NGS is that "you only find the viruses you know," Wang said. That's because the probes used to flag the viruses in the host sample genome are derived from previously identified sequences. However, the bat coronavirus, like all viruses, is constantly changing. If this approach is going to be useful for surveillance and tracking outbreaks, Wang said, then the probe library will need frequent updates.
+
+"To really have enrichment NGS be successful," Wang said, "we need to treat our probe library as a living library. This will be an ongoing pursuit for us." He's optimistic that the work will pay off.
+                                                                                                                        
+										
+                                        										
+                                        
+                                        																				
+                                        											
+																					
+                                                                                                                        
+                                        
+                                        
+                                            
+                                                 Citation:
+                                                 Watching bat coronaviruses with next-generation sequencing (2020, January 29)
+                                                 retrieved 29 January 2020
+                                                 from https://phys.org/news/2020-01-coronaviruses-next-generation-sequencing.html
+                                            
+
+                                            
+                                            This document is subject to copyright. Apart from any fair dealing for the purpose of private study or research, no
+                                            part may be reproduced without the written permission. The content is provided for information purposes only.

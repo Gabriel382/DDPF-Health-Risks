@@ -1,0 +1,93 @@
+TREASURIES- yields drop as new virus fears escalate 
+ * U.S. 10-year, 30-year yields drop to multi-month lows
+    * U.S. 2-year note yields fall to two-week lows
+    * U.S. yield curve flattens again, tightest gap in 5 weeks
+    * FOMC meets next week, likely to keep rates unchanged
+
+ (Adds new comment, updates prices)
+    By Gertrude Chavez-Dreyfuss
+    NEW YORK, Jan 24 (Reuters) - U.S. Treasury prices advanced
+on Friday, pushing yields lower for a fourth straight session,
+as news of the latest coronavirus spreading outside China
+continued to undermine risk appetite and spur demand for
+safe-haven assets.
+    U.S. 30-year yields declined to a nearly three-month low,
+while those on benchmark 10-year notes dropped to more than
+two-month troughs. U.S. two-year notes also slid, dropping to a
+two-week low.
+    U.S. 10-year yields have lost nearly 15 basis points this
+week, their largest weekly drop in about 3-1/2 months.
+Thirty-year yields, meanwhile, have fallen roughly 16 basis
+points this week, the biggest weekly decline in four months.
+    As rates fell, the yield curve flattened again on Friday as
+market sentiment took a hit amid a host of unknowns about the
+Chinese coronavirus. The spread between the two-year and 10-year
+note yields contracted to as low as 18.78 basis points
+, the narrowest gap in five weeks.
+    "The virus clearly in the short term has spooked the
+market," said Gregory Faranello, head of U.S. rates at Amerivet
+Securities in New York. 
+    On Friday, China shut part of the Great Wall and suspended
+public transport in 10 cities, stranding millions of people at
+the start of the Lunar New Year holiday. Authorities rush to
+contain a virus that has killed 26 people and infected more than
+800 already.
+    The virus has also spread to the United States, Asia, and
+parts of Europe.
+    "The economic impact of the Wuhan coronavirus is ... (an)
+unknown with potential downside skew. The quarantine of Wuhan
+and surrounding cities is already restricting travel, and fear
+of exposure could further restrict economic activity," said
+Chris Low, chief economist, at FHN Financial.
+    It  may not constitute a material threat to growth forecasts
+if contained, Low said. But he said experts worry that it may be
+too late to prevent the disease from going global.
+    "If that happens, growth will weaken worldwide. Any recovery
+after the virus is contained is not clear this early in the
+process," Low added.
+    In afternoon trading, U.S. 10-year yields fell
+to 1.682%, from 1.739% late on Thursday. Earlier in the session,
+10-year yields fell to more than two-month lows of 1.67%.
+    Yields on U.S. 30-year bonds were at 2.14%, down
+from 2.182% on Thursday. Thirty-year yields earlier fell to
+nearly three-month troughs of 2.121%.
+    On the short end of the curve, U.S. two-year yields fell to
+1.494% from Thursday's 1.518%, after hitting a
+two-week low of 1.478% earlier in the session.
+    The Federal Reserve is expected to meet next week for a
+monetary policy meeting and will likely hold interest rates
+steady.
+    
+      January 24 Friday 3:30 PM New York/2030 GMT
+                                                      
+                                                      
+                                                      
+                               Price        Current   Net
+                                            Yield %   Change
+                                                      (bps)
+ Three-month bills             1.5          1.5305    -0.025
+ Six-month bills               1.5075       1.5441    -0.018
+ Two-year note                 100-63/256   1.4947    -0.023
+ Three-year note               100-14/256   1.481     -0.032
+ Five-year note                101-32/256   1.5121    -0.043
+ Seven-year note               100-232/256  1.6111    -0.048
+ 10-year note                  100-132/256  1.6926    -0.046
+ 30-year bond                  105-16/256   2.1442    -0.038
+                                                      
+   DOLLAR SWAP SPREADS                                
+                               Last (bps)   Net       
+                                            Change    
+                                            (bps)     
+ U.S. 2-year dollar swap         6.00        -0.25    
+ spread                                               
+ U.S. 3-year dollar swap         3.50         0.00    
+ spread                                               
+ U.S. 5-year dollar swap         0.50         0.00    
+ spread                                               
+ U.S. 10-year dollar swap       -5.25         0.00    
+ spread                                               
+ U.S. 30-year dollar swap      -31.75        -0.25    
+ spread                                               
+ 
+ (Reporting by Gertrude Chavez-Dreyfuss; editing by Jonathan
+Oatis and Tom Brown)

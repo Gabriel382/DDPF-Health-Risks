@@ -1,0 +1,34 @@
+Analysis | Why China’s Mystery Illness Is Reviving Fears of SARS 
+ There is always a concern when a new pathogen emerges in a population because people typically lack immunity to it, and there usually aren’t specific treatments or vaccines available. Novel coronaviruses (not seen in humans before) represent a particular concern because they have been known to spark complicated outbreaks that have sickened thousands of people, like SARS did as it swept across the globe from southern China.
+
+The outbreak in Wuhan, a city of 11 million, that began in mid-December appears severe. Additional cases have been confirmed elsewhere in China and other countries, most of them nearby, involving travelers arriving from Wuhan. Initially it seemed the virus wasn’t transmitted readily between people, reducing the potential of it spawning a SARS-like outbreak. But on Jan. 20 the World Health Organization confirmed “some limited human-to-human transmission,” not just from animals to humans. Chinese state media also reported health-care workers had been infected. That put the Wuhan virus in a category similar to SARS.
+
+3. How serious is the virus?
+
+At this stage, it appears to be less virulent, and less deadly, than SARS. Of the first handful of deaths linked to the virus, at least some were people who already were seriously ill. Regular pneumonia, a viral or bacterial infection that inflames the air sacs in one or both lungs, kills about 50,000 people annually in the U.S.
+
+4. What are the symptoms?
+
+Mainly fever, with some patients experiencing fatigue, a dry cough and difficulty breathing. Chest X-rays have shown invasive lesions of both lungs, the WHO said. However, only cases requiring hospitalization have been reported so far. It’s possible other people have been infected and experienced no, or only mild, symptoms. Many people have recovered and been discharged from the hospital.
+
+Chinese authorities identified a novel coronavirus in one of the pneumonia patients in Wuhan after conducting gene sequencing. The WHO has labeled the new virus 2019-nCoV. A report done for the International Journal of Infectious Diseases found it is at least 70% similar in its genetic makeup to the SARS virus, but “appears clinically milder” in terms of severity, fatality rate and transmissibility.
+
+6. Where did it come from?
+
+Unlike during the SARS pandemic, when China was criticized for a lack of transparency, it made genomic data publicly available quickly. That has enabled scientists anywhere to study the genetic fingerprint of the virus for clues about where and how it might have emerged. Investigators in Wuhan have focused on the seafood market, where most people infected early in the outbreak either worked or shopped frequently. It has been closed since Jan. 1, though cases continued to appear, including in people who hadn’t gone there. That raised the possibility that the pathogen is lurking more widely in the city.
+
+7. What are authorities doing?
+
+Chinese President Xi Jinping ordered resolute efforts to curb its spread ahead of the Lunar New Year holiday, which fell this year on Jan. 24 and for which many people travel. Authorities in Wuhan suspended public transport as well as outbound flights and train services, and nearby municipalities restricted the use of transport and public sites. China’s health commission classified the coronavirus in the Class B infectious diseases category, which includes SARS, while taking preventive steps typically used for the most-serious ailments, such as cholera and plague. Patients have been isolated to prevent any spread. Health officials are also looking for, screening and monitoring people the patients had contact with, and searching for current and past cases that may have been treated in medical institutions throughout the city. Environmental samples from the closed market have been taken for analysis. Outside China, airports have begun screening some passengers for symptoms, including in the U.S.
+
+8. What happened with SARS?
+
+SARS is thought to have spread indirectly from a “wildlife reservoir,” believed to be bats, to humans via masked palm civets and other species in live-animal markets. The SARS outbreak began in late 2002 in Guangdong province and spread across the border to Hong Kong and beyond. The WHO issued a global health alert in March 2003 and didn’t declare the outbreak contained until July 5 that year. China’s tourism, transportation and retail sectors were heavily hit as people stayed home; domestic consumption fell sharply, as did real estate prices and financial markets. The epidemic subtracted an estimated 0.8 percentage point from gross domestic product growth in China in 2003, according to a China Daily report that cited a National Bureau of Statistics official. A 2003 academic study estimated the global economic cost at close to $40 billion or more.
+
+Coronaviruses are named for their crown-like shape. There’s a large family of them. Some transmit easily from person to person, while others do not. There’s growing recognition of the role of coronaviruses in severe cases of pneumonia. The WHO says that new coronaviruses emerge periodically in different areas globally, and several known versions are circulating in animals and haven’t infected humans. They tend to morph and mutate a lot, which means the level of risk they pose can change the longer they circulate. Diseases transmissible from animals to humans, sometimes referred to as “zoonoses,” comprise a large percentage of all newly identified infectious diseases.
+
+--With assistance from Dong Lyu, Lin Zhu and Grant Clark.
+
+To contact the reporter on this story: Jason Gale in Melbourne at j.gale@bloomberg.net
+
+To contact the editors responsible for this story: Michael Patterson at mpatterson10@bloomberg.net, Paul Geitner, Jeff Sutherland

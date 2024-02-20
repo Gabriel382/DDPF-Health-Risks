@@ -1,0 +1,50 @@
+GDP Prints At 2.1%, But Strong Export Data Is Anomalous; Likely To Be Revised Downward 
+ We estimate GDP for 2020Q1 will print lower, at 1.7% to 2.0%, due mostly to contagion from China's slowing. The U.S. economy remains the strongest in the G-7.
+
+Inventories in Gross Domestic Investment ("GDI") continued to burn off in 2019Q4, which is likely to reverse in 2020Q1 and 2, so that GDI in those quarters is likely to increase.
+
+Most of the 2.1% print came from Net Exports ("NEX"), but the lead of that was a technical increase from IMPORTS (which normally REDUCE GDP) .
+
+New York (January 30) - Gross Domestic Product growth for the fourth quarter of 2019, or “2019Q4 GDP,” printed at a 2.1%, matching the consensus estimate of 2.1% and at the high end of our range of 1.8% to 2.1%, published in our December jobs report. That matches the 2.1% reading of the last quarter, but is down 100 bps below the comparable period last year.
+
+Average GDP growth for the last four quarters printed at 2.3 percent. That compares to average GDP growth for the prior four quarters (2018Q4 to 2019Q3) of 2.1%. Source: The Stuvesant Square Consultancy from BEA data.
+
+2019Q4 GDP was led by Net Exports, “NEX,” which printed at +1.48%. It is unusual that the net imports of goods and services which led the NEX would produce an increase in GDP, as imports generally are a subtraction from GDP. (The Fed has a blog post that explains the technical aspects of the seeming anomaly for the curious.) We note, also, that NEX is the component of GDP that is most often revised. Source: The Stuvesant Square Consultancy from BEA data.
+
+The weakest of the four GDP components was Gross Domestic Investment, “GDI,” which printed at -1.08%, down 161 bps from the same period last year and 91bps from last quarter.
+
+Once again, 2019Q4 is characterized by the power of consumer spending. Even so, though, PCE fell some 92 bps from last quarter. Inventories burned off even more in Q4. We had looked for growth in that element of GDI in 2019Q4 in our last GDP report and were disappointed to see it continue down. We presume that the drop is attributable largely to the difficulties at Boeing (NYSE:BA) (i.e., stopping production of the 737 Max jet in December) and the GM strike that ran through most of October. We anticipate that a buildup will occur in 2020Q1 and Q2, giving those two quarters a boost. Fixed investment in things like non-residential buildings and equipment continued to decline, but slightly less than last quarter. Residential building investment improved.
+
+We anticipate that PCE will continue to drive GDP growth through the current year, as the IBD/TIPP Economic Optimism Index for January climbed to 57.4, the strongest since May. The index of financial stress of the survey firm fell to its lowest level on record. Debt service as a percentage of disposable household income is at among its lowest levels in a decade.
+
+As stated, 2019Q4 GDP came in at the higher end of our 30 bps spread. We expect, however, that 2019 Q4 will be revised downward in later estimates, closer to the lower end of our 1.9% to 2.1% estimate.
+
+We foresee no recession through 2020, barring a black swan. We continue to have concerns about geopolitical risk with Iran and North Korea, as well as tensions between India and Pakistan over Kashmir. We also fear contagion to US GDP in the early quarters of 2020 from China’s Wuhan coronavirus of 15 to 25 bps, but we do not believe it is yet the “black swan” some advisers believe, nor do we believe – based on current data and the efforts of Asian and Western democracies to contain the virus – that it will likely develop as a pandemic in those countries that would be a true “black swan.” Nevertheless, as we related earlier this week, we believe China’s economy is likely to be severely affected and that there will be substantial defaults as a good percentage of the $30+ billion in bonds maturing in the next few quarters are unlikely to be refinanced. China’s GDP may print as low as 5% to 5.5% in 2020Q1.
+
+We estimate 2020 Q1 to print between 1.7% and 2.0%, principally due to China contagion and some elements of deflation we’re beginning to see. But watch for our monthly jobs reports, where we go through multiple data points, for revisions up or down on that number.
+
+The 3Mo/10Yr yield curve, which has been narrowing, on-and-off, since the end of 2017 and inverting in recent months is improving. Today, the two are separated by just 4 bps, which is disconcerting.
+
+Inflation remains low, seemingly inapposite to the dogma of the Phillips Curve. We even are seeing some signs of deflation. Likewise, a low interest rate environment and a low M2 velocity in a medium-growth economy seem contrary to the Quantity Theory of Money (MV=PQ, sometimes written as MV=PT). We’re of the view that both of these rules are affected - and possibly made obsolete by - the Fed paying interest on excess reserves, something it had not done prior to 2008. This is because so much of the money produced by Fed Open Market Committee operations is being kept in the banking system, at the Fed, instead of in the regular economy. We’ve never had that before; some older economic theorems may now be consigned to the dustbin. That said, we think the Fed erred in increasing the rate it pays on excess reserves at its meeting earlier this week, notwithstanding it was only a slight increase. More, not less, money needs to go into the economy until the China situation stabilizes and it becomes clearer that the Democrats’ nominee will be more centrist than Bernie Sanders or Elizabeth Warren.
+
+Our long-term view of the economy, to 2022Q4, is more optimistic.
+
+AI, 5G, and electric cars will likely be on the brink of being fully “ripe” by then and could make a significant impact on the economy. 5G should boost the GDI segment of GDP by as much as 200bps over four quarters (i.e., 50 bps/quarter) when it starts up. A similar, but lower, boost to PCE could be anticipated as consumers migrate to the new, better, 5G system.
+
+Growth is coming from what we call soft-sectors: personal services, like food and product delivery and on-demand taxi and cable TV services; social media; and consumer items.
+
+Meanwhile, big industrial firms like Boeing and Caterpillar (NYSE:CAT) - where thousands of people are employed and wages tend to be high -are struggling with technological issues and trade.
+
+President Trump’s more protectionist trade rhetoric, and the new USMCA, could add foreign-owned domestic production to drive GDP growth, particularly in the GDI category. We’re beginning to see some of that, as, for example, with the Mitsubishi plant in Alabama. A decade ago, that plant would likely have been located in the Maquiladora or elsewhere in Mexico.
+
+A new UK/US or UK/North American trade deal should be a substantial boost to future GDP as well.
+
+Nevertheless, we anticipate managers will look for growth in certain low-margin industries and to acquire and consolidate competitors to realize cost savings from economies of scale. We also expect internet retailers, like Amazon (NASDAQ:AMZN), to realize enhanced growth by adding to their business of selling “stuff” to their nascent business of selling “experiences” - concert tickets, airlines, cruise lines, car rentals, theme parks, hotel chains, etc.
+
+We have revised our outlook for certain sectors, mostly from the Wuhan coronavirus and the glut of oil.
+
+Note: Our commentaries most often tend to be event-driven. They are mostly written from a public policy, economic, or political/geopolitical perspective. Some are written from a management consulting perspective for companies that we believe to be under-performing and include strategies that we would recommend were the companies our clients. Others discuss new management strategies we believe will fail. This approach lends special value to contrarian investors to uncover potential opportunities in companies that are otherwise in a downturn. (Opinions with respect to such companies here, however, assume the company will not change). If you like our perspective, please consider following us by clicking the "Follow" link above.
+
+Disclosure: I/we have no positions in any stocks mentioned, and no plans to initiate any positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.
+
+Additional disclosure: The views expressed, including the outcome of future events, are the opinions of the firm and its management only as of today, January 30, 2020, and will not be revised for events after this document was submitted to Seeking Alpha editors for publication. Statements herein do not represent, and should not be considered to be, investment advice. You should not use this article for that purpose. This article includes forward looking statements as to future events that may or may not develop as the writer opines. Before making any investment decision you should consult your own investment, business, legal, tax, and financial advisers. We partner with principals of Technometrica on survey work in some elements of our business.

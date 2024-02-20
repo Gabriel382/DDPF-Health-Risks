@@ -1,0 +1,73 @@
+How much longer will we trust Google’s search results? 
+ Happy Friday to you! I have been reflecting a bit on the controversy du jour: Google’s redesigned search results. Google is trying to foreground sourcing and URLs, but in the process it made its results look more like ads, or vice versa. Bottom line: Google’s ads just look like search results now.
+
+I’m thinking about it because I have to admit that I don’t personally hate the new favicon -plus-URL structure. But I think that might be because I am not a normal consumer of web content. I’ve been on the web since the late ‘90s and I parse information out of URLs kind of without thinking about it. (In fact, the relative decline of valuable information getting encoded into the URL is a thing that makes me sad.)
+
+I admit that I am not a normal user. I set up custom Chrome searches and export them to my other browsers. I know what SERP means and the term kind of slips out in regular conversation sometimes. I have opinions about AMP and its URL and caching structure. I’m a weirdo.
+
+As that weirdo, Google’s design makes perfect sense and it’s possible it might do the same for regular folk. The new layout for search result is ugly at first glance — but then Google was always ugly until relatively recently. I very quickly learned to unconsciously take in the information from the top favicon and URL-esque info without it really distracting me.
+
+
+...Which is basically the problem. Google’s using that same design language to identify its ads instead of much more obvious, visually distinct methods. It’s consistent, I guess, but it also feels deceptive. 
+
+Recode’s Peter Kafka recently interviewed Buzzfeed CEO Jonah Peretti, and Peretti said something really insightful: what if Google’s ads really aren’t that good? What if Google is just taking credit for clicks on ads just because people would have been searching for that stuff anyway? I’ve been thinking about it all day: what if Google ads actually aren’t that effective and the only reason they make so much is billions of people use Google? 
+
+The pressure to make them more effective would be fairly strong, then, wouldn’t it? And it would get increasingly hard to resist that pressure over time.
+
+I am old enough to remember using the search engines before Google. I didn’t know how bad their search technology was compared to what was to come, but I did have to bounce between several of them to find what I wanted. Knowing what was a good search for WebCrawler and what was good for Yahoo was one of my Power User Of The Internet skills.
+
+So when Google hit, I didn’t realize how powerful and good the PageRank technology was right away. What I noticed right away is that I could trust the search results to be “organic” instead of paid and that there were no dark patterns tricking me into clicking on an ad.
+
+One of the reasons Google won search in the first place with old people like me was that in addition to its superior technology, it drew a harder line against allowing paid advertisements into its search results than its competitors. 
+
+With other search engines, there was the problem of “paid inclusion,” which is the rare business practice that does exactly what the phrase means. You never really knew if what you were seeing was the result of a web-crawling bot or a business deal.
+
+This new ad layout doesn’t cross that line, but it’s definitely problematic and it definitely reduces my trust in Google’s results. It’s not so much paid inclusion as paid occlusion. 
+
+Today, I still trust Google to not allow business dealings to affect the rankings of its organic results, but how much does that matter if most people can’t visually tell the difference at first glance? And how much does that matter when certain sections of Google, like hotels and flights, do use paid inclusion? And how much does that matter when business dealings very likely do affect the outcome of what you get when you use the next generation of search, the Google Assistant? 
+
+And most of all: if Google is willing to visually muddle ads, how long until its users lose trust in the algorithm itself? With this change, Google is becoming what it once sought to overcome: AltaVista.
+
+
+More from The Verge
+
+
+└ I trained with Tonal, the ‘Peloton for weightlifting’
+
+Excellent review from Natt Garun.
+
+Tonal is unique in this field for its focus on weight training instead of cardio. Think of the machine like a slimmer, low-profile Bowflex that mounts flush against the wall rather than taking up an entire corner of your room. With arms that can be adjusted and folded away, it’s also a bit less likely to end up as an expensive coat rack.
+
+└ Apple Watch gym partnerships give you perks for working out
+
+└ Google I/O 2020 will kick off on May 12th
+
+Every year Google does a little online game or coding challenge and every year it’s solved really quickly. This year Google leaned into that and it seems to have worked.
+
+It’s a little too early for me to guess what we can expect at I/O this year. Google itself often doesn’t decide until the last minute. Given everything that’s happened in the past year, though, I’l say this: if the entire keynote was just a frank discussion of Google’s privacy policies and how it intends to be more transparent about what data is has on us and how we can control it, I wouldn’t complain.
+
+└ How to FBI-proof your encrypted iPhone backups
+
+Barbara Krasnoff had to do way more legwork to get the full, accurate story here than you might think just by reading this. I do think Apple could do a much better job simplifying the settings for people who don’t want Apple to have the keys for their backups. But I also think writing a similar guide for Android would be similarly complicated.
+
+└ Samsung’s T7 Touch puts a speedier SSD in a smaller, more secure case
+
+└ Comcast plans price hikes for cable customers as it looks ahead to streaming Peacock launch
+
+Price hikes? Check. Reduced investment in building out broadband infrastructure? Check. Data caps? Check. Exempting your own streaming video service from data caps? Check. Huge cable company shamelessly exploiting the fact that net neutrality is dead and doing the very thing that net neutrality opponents promised wouldn’t happen, assuming that either nobody would notice or at the very least nobody would connect the dots between this and the lack of regulation that allowed it? Check check and check again. (Disclosure: NBCU is an investor in The Verge’s parent company, Vox Media.)
+
+└ Everything you need to know about the new coronavirus in China
+
+└ Samsung’s next foldable may have an ‘ultra thin’ glass display
+
+If this turns out to be true, it’s a huge deal. And it will be a huge problem for Motorola, whose Razr will only have been on the market for five days when Samsung announces the Z Flip on the 11th.
+
+Maybe it’s just because it’s a new form factor, but I’m getting more and more excited about folding phones. For years we’ve watched phones get bigger and less pocketable and for whatever reason (the reason is probably that they don’t sell well), nobody is making high-quality small phones anymore.
+
+Foldables aren’t exactly that, but they’re at least heading in the right direction. I will gladly take a little more thickness on the Z axis (maybe THAT is why it’s called the Z Flip!) if it means having a big-screen phone that doesn’t stick out of my pocket.
+
+└ Sonos CEO apologizes for confusion, says legacy products will work ‘as long as possible’
+
+It’s notable that nothing actually changed here policy-wise: Sonos is still going to try to support these speakers, it is still admitting it won’t be able to provide software updates, and it will still try to figure out a way to cordon these legacy products off so they don’t hold newer products back in people’s home.
+
+Okay, one very important thing has changed: Sonos admitted it really screwed up the communication around these changes. It’s been a mess since the recycling mode first came to light. You can’t unring a bell, but it’s at least good to admit you screwed up in the first place.

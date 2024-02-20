@@ -1,0 +1,64 @@
+Coronavirus consequences: Will China still have a role in the next iPhone supply chain? 
+ Rays of hope for global 5G Wireless
+	Scott Fulton explains a colossal win for the Conservative Party in the UK and how the continuation of trade talks between the US and China bode well for the prospects that the world’s telcos will implement a single, global 5G communications system. Scott Fulton explains why keeping everyone talking helps the manufacturers of small-scale transmitters to keep their prices low. Read more: https://zd.net/2TbpjCr
+	
+
+
+In our most recent Jason Squared video, ZDNet's Jason Cipriani and I discuss the high-performing low-end smartphones coming in 2020 from companies like Motorola, OnePlus, ZTE, Huawei, TCL and also presumably, Apple. What do all of these products have in common? Well, they are all made in China. 
+In the very best of scenarios, the Chinese supply chain for the technology industry is a complex beast. The chain comprises many facilities attached to major technology cities, such as the capital Beijing and the financial capital Shanghai, as well as Hong Kong, Guangzhou and Shenzhen, located in the "Greater Bay Area" of Guangdong province in Southern China.   
+Also: How to track the coronavirus: Dashboard delivers real-time view of the deadly virus 
+But due to the overwhelming demand for Chinese products, emerging tech cities, such as Chengdu, Zhengzhou, Nanjing, Xian, and Wuhan have gotten significant investment in research and technological development.  
+It is the last of those technology cities -- Wuhan, in Hubei province -- that has been the focus of much of the world's concern over the past several weeks.   
+China's technology manufacturing centers
+
+                                                    Jason Perlow
+                                                    
+    
+
+
+Wuhan, in Hubei province, is the city where the Novel Coronavirus (2019-nCoV), as it is designated by the Center for Disease Control (CDC), appears to have originated. Coronaviruses, which are named for their distinct shape when examined by electron microscopes, are of zoonotic origin. The 2019-nCoV variant is currently believed to be linked to a large animal and seafood market, possibly beginning in bats, where it may have jumped to other types of animals, such as snakes, before mutating again and jumping to humans, where it became human to human transmissible.  
+Also: DEF CON China conference put on hold due to coronavirus outbreak 
+
+
+
+    Coronaviruses, as well as their spread through wet markets, are not new -- in February 2003, SARS, another coronavirus, originated in a similar wet market and is also thought to have started in bats, before jumping to civet cats, and then humans. Over the next few months, the virus and the related pneumonia-like illness spread to more than two dozen countries in North America, South America, Europe, and Asia before being contained. According to the World Health Organization (WHO), a total of 8,098 people worldwide became sick with SARS during the 2003 outbreak. Of these, 774 died. 
+
+    
+
+                        
+                                        	
+		Special feature
+	
+
+            
+                            
+            
+                            
+                    
+                        How 5G Will Transform Business
+                    
+                
+
+            
+                            5G will be popularized via telecom carriers and the marketing of wire-cutting services, but the biggest impact and returns will come from connecting the Internet of things, edge computing and analytics infrastructure with minimal latency.
+
+            
+            
+                Read More
+            
+
+        
+In only a few weeks, the novel coronavirus has already infected more people than SARS did during an entire year -- as of this writing, over 10,000 people are reported as being infected, and 200 have died according to China's National Health Commission -- and these numbers are believed to be greatly underreported. Nearly 6000 cases in Hubei province have been reported alone.  
+Why is the novel coronavirus spreading so quickly and infecting so many more people than SARS? For starters it appears to have a longer incubation period, so people can travel farther when they aren't showing any signs of illness and can still be a carrier, spreading the virus through person to person contact. But also, in the last 17 years, China has vastly upgraded its transportation infrastructure, such as with its high-speed rail system, so Chinese citizens now have greater mobility. And as the technology industry grew, so did the technology cities, as well as the need to move people and materials through them. 
+Also: Apple Q1 surges as iPhone sales deliver, but coronavirus a wild card for Q2
+The CDC and the NIH, working with China, under the direction of Dr. Anthony Fauci, are currently developing a Phase 1 vaccine that may be effective against 2019-nCoV. However, the vaccine may not be ready to test until the spring and ready for full deployment until the summer. In that intervening period, many more people may become infected and die -- even if this coronavirus is primarily contained within China itself and does not become a worldwide pandemic.  
+It is not unreasonable to assume that the technology supply chain in China will be disrupted by this virus. Even if this is stopped without a significant loss of life, these sorts of illnesses originating in China -- due to the country's ongoing use of wet markets that can infect humans through zoonosis -- will likely continue for years to come. We may very well cure 2019-nCov, but there could be another, and another, as long as the Chinese have wet markets.  
+Given the world's appetite for consumer electronics, a plan is needed to deal with these illnesses and their impact on the supply chain.  
+For starters, the practice of wet markets in China may have to end. On the surface, it sounds like something that can quickly be done with a proclamation by China's ruling party and the general secretary and president, Xi Jinping. However, the reality is that they are of major cultural significance to the Chinese people and phasing these out in favor of more modernized ways of selling food in retail as it is done in western countries may take many years. The Chinese have a strong cultural preference for having live food to purchase, and a typical Chinese city may have hundreds of such markets. A more realistic scenario may be eliminating the sale of live animals that are known carriers of coronaviruses and other potentially dangerous pathogens -- but even that could take a long time.
+Also: Will the smart factory benefit from 5G? Industry experts weigh in 
+Short of eliminating wet markets, Chinese technology manufacturers may have to invest in more robotic and automated systems rather than relying on skilled labor to manufacture their products. Huawei was the top 5G smartphone vendor in 2019 
+ but if nobody shows up to work there are no transmitters and core equipment to build and consequently, no 5g phones.
+This has already begun to some extent, such as with Hon Hai Precision Industry, also known as Foxconn, which along with Pegatron, are the two most important manufacturing and component firms for the iPhone. The two firms manufacture Apple products at their factories and have shipping centers in Zhangzhou, Shenzhen, Shanghai, and other cities. In Wuhan, where 2019-nCoV is thought to have originated, over 10,000 Foxconn workers are said to be affected by the virus outbreak. As of now, every single Chinese province critical to the manufacture of technology products has had reported cases of 2019-nCoV.
+Besides robotics and automation, the other option is to move critical portions of the Chinese manufacturing industry out of China. While moving key component manufacturing -- such as  semiconductors -- would be difficult, it may be possible to move some aspects of final assembly into Latin American nations such as Mexico and Brazil. These countries are far away from Asia, where these illnesses are likely to spread the most. Chinese firms themselves may want to do this, strictly from a business continuity perspective. However, this shift in manufacturing may prove to be an even more challenging than either ending wet markets or introducing more robotics and automation.
+Also: Singapore, Malaysia clamp down on online falsehoods about coronavirus   
+Regardless of how we proceed, the threat of global supply chain disruption in the age of highly infectious pandemics is a problem we will likely be dealing with for decades to come. How should China and the world address the threat of disruption? Talk Back and Let Me Know.

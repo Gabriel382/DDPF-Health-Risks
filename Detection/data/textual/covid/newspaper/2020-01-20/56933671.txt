@@ -1,0 +1,28 @@
+Analysis | How China’s Mystery Pneumonia Illness is Different From SARS 
+ There is always a concern when a new pathogen emerges in a population because people typically lack immunity to it, and there usually aren’t specific treatments or vaccines available. Novel coronaviruses (not seen in humans before) represent a particular concern because they have been known to spark complicated outbreaks that have sickened thousands of people. The outbreak in Wuhan, a city of 11 million, appears severe. Scores of people have been hospitalized since mid-December -- some in serious condition. Fatalities have been reported. Cases have been confirmed in Thailand, Japan and other parts of China involving travelers arriving from Wuhan. On the other hand, many patients have recovered and been discharged and there haven’t been any reported cases of health-care workers becoming infected, which supports early findings that the disease isn’t transmitted easily from person to person. That reduces the potential of it spawning an outbreak like SARS, which began in China and swept across the globe, infecting thousands of people.
+
+2. What are the symptoms?
+
+Mainly fever, with some patients experiencing fatigue, a dry cough and difficulty breathing. Chest X-rays have shown invasive lesions of both lungs, the World Health Organization said. However, only cases requiring hospitalization have been reported so far. It’s possible other people have been infected and experienced no, or only mild, symptoms.
+
+Chinese authorities identified a novel coronavirus in one of the pneumonia patients hospitalized in Wuhan after conducting gene sequencing. The WHO has labeled the new virus 2019-nCoV. Genomic data was made publicly available in mid-January, enabling scientists outside China to study its genetic fingerprint for clues about where and how it might have emerged. A report prepared for the International Journal of Infectious Diseases found it is at least 70% similar in its genetic makeup to the SARS virus, but “appears clinically milder” in terms of severity, fatality rate and transmissibility.
+
+4. How are people being infected?
+
+Like the source of the virus, the way it spreads is also unknown. The WHO quoted the Chinese authorities as saying it doesn’t transmit readily between people. Investigators have focused on the wholesale market in Wuhan, where most people infected early in the outbreak either worked or shopped frequently. It has been closed since New Year’s Day, though cases have continued to appear, including in people who hadn’t gone to the fish market. That raised the possibility that the pathogen is lurking more widely in the city -- a worrying prospect ahead of the Lunar New Year (on Jan. 25 this year), which spurs frenzied grocery shopping, including sometimes exotic foods.
+
+There’s a large family of them, with some causing less-severe diseases, some more. Some transmit easily from person to person, while others do not. There’s growing recognition of the role of coronaviruses in cases of severe pneumonia. The WHO says that new ones emerge periodically in different areas globally, and several known coronaviruses are circulating in animals that haven’t infected humans. They tend to morph and mutate a lot, which means the level of risk they pose can change the longer they circulate.
+
+6. Why does it take so long to identify?
+
+It can vary. HIV, for example, wasn’t discovered as the cause of AIDS for years. In the case of SARS, many of China’s top doctors were initially adamant they were dealing with pneumonia caused by chlamydia, a sexually transmissible bacterium. China fired its then health minister, Zhang Wenkang, for mishandling that crisis. Wuhan houses China’s first maximum bio-containment laboratory, built in 2015 to investigate the planet’s most dangerous pathogens, so it’s well placed for the current outbreak. Scientists there have probably been screening a number of possible culprits. In mid-January, specialists from outside mainland China were invited to Wuhan to share information.
+
+Authorities in Wuhan say they are providing the best possible medical care. Patients have been isolated to prevent any potential spread. Health officials are also looking for, screening and monitoring people the patients had contact with, and searching for current and past cases that may have been treated in medical institutions throughout the city. Environmental samples from the closed market have been taken for analysis.
+
+There are some, albeit narrow, parallels. Both emerged in China. In the case of SARS, it’s thought to have spread indirectly from a “wildlife reservoir,” believed to be bats, to humans via masked palm civets and other species in live-animal markets. The Wuhan outbreak has also been linked to live-animal markets, making it possible the infectious agent has an animal origin. Diseases transmissible from animals to humans, sometimes referred to as “zoonoses,” comprise a large percentage of all newly identified infectious diseases.
+
+--With assistance from Dong Lyu.
+
+To contact the reporter on this story: Jason Gale in Melbourne at j.gale@bloomberg.net
+
+To contact the editors responsible for this story: Michael Patterson at mpatterson10@bloomberg.net, Paul Geitner, Jeff Sutherland

@@ -1,0 +1,138 @@
+CEE MARKETS-Hungarian forint hits fresh record low against euro 
+ WARSAW, Jan 23 (Reuters) - The Hungarian forint
+touched a new record low against the euro on Thursday, with
+central European currencies taking a hit from worsening risk
+sentiment due to rising fears over the spread of a new flu-like
+virus that started in China.
+    The forint was the region's worst performing currency in
+2019 and has shed a further 1.7% so far in 2020. Hungary's
+ultra-dovish central bank is not expected to take any action on
+interest rates at a policy meeting next week.
+    The forint firmed near the 334 mark on Monday, when the
+central bank unexpectedly rejected all bids at a weekly FX swap
+tender, a move that curbed the banking sector's liquidity by 38
+billion forints. But the impact has been short-lived.
+    At 1011 GMT, the forint was bid at 336.80 against the euro,
+down 0.1% on Thursday, after touching a record low of 337.55
+earlier in the session.
+    "It is hard to imagine that in the long-run the central bank
+will manage the exchange rate with this EUR/HUF swap tender in
+the 330-335 range," a Budapest-based currency dealer said.
+   "The move to reject bids at Monday's tender helped the forint
+firm near the 334 mark, but it could not firm past that level.
+It remains to be seen what the central bank does at next
+Monday's tender and at Tuesday's rate meeting."
+    All 18 analysts surveyed in a Reuters poll said Hungary's
+base rate would remain at 0.9%, with inflation set
+to retreat slowly from December's seven-year highs and economic
+growth to lose steam in coming years.
+    The Czech crown, which has already scaled
+seven-year highs this year, was down 0.1% against the euro at
+25.167, while the Polish zloty fell 0.1% to 4.246. The
+Romanian leu was stable.
+    Bond yields fell in line with core-market peers as investors
+looked for safety amid fears around the coronavirus outbreak and
+awaited a meeting of the European Central Bank, which is set to
+launch a broad policy review that is likely to redefine its
+inflation goal.
+    At 0952 GMT, benchmark Polish 10-year yields
+were down just over 1 basis point at 2.257% and Czech ten-year
+yields fell over 5 basis points to 1.683%.
+    The yield on Czech bonds due 2033
+has dropped over 20 basis points in the past two days, which a
+trader attributed to speculations that it could be added to a
+JPMorgan emerging markets bond index.
+    Central European stocks were mixed, with Warsaw's WIG 20
+index rising 0.3%. Prague's PX index touched its
+highest level since August 2011 before giving up its gains to
+turn negative on the day. 
+    London- and Prague-listed antivirus software company Avast
+ has been the PX index's biggest gainer this
+year with a 16% rise, but was down 1.2% by mid-morning.
+  
+ 
+                   CEE      SNAPSHO   AT                      
+                   MARKETS  T        1111              
+                                     CET               
+                            CURRENC                           
+                            IES                        
+                            Latest   Previou  Daily    Change
+                                     s                 
+                            bid      close    change   in 2020
+ EURCZK  Czech     EURCZK  25.1670  25.1405   -0.11%   +1.05%
+ =       crown     =                                  
+ EURHUF  Hungary   EURHUF  336.800  336.420   -0.11%   -1.68%
+ =       forint    =             0        0           
+ EURPLN  Polish    EURPLN   4.2460   4.2407   -0.12%   +0.24%
+ =       zloty     =                                  
+ EURRON  Romanian  EURRON   4.7790   4.7788   -0.00%   +0.19%
+ =       leu       =                                  
+ EURHRK  Croatian  EURHRK   7.4455   7.4375   -0.11%   -0.00%
+ =       kuna      =                                  
+ EURRSD  Serbian   EURRSD  117.520  117.550   +0.03%   +0.04%
+ =       dinar     =             0        0           
+         Note:     calculated from            1800            
+         daily                                CET      
+         change                                        
+                                                              
+                            Latest   Previou  Daily    Change
+                                     s                 
+                                     close    change   in 2020
+ .PX     Prague             1139.90  1140.48   -0.05%   +2.18%
+                                          00           
+ .BUX    Budapest           44508.9  44597.0   -0.20%   -3.42%
+                                  1        5           
+ .WIG20  Warsaw    .WIG20  2150.04  2146.56   +0.16%   -0.00%
+                                                      
+ .BETI   Buchares           10210.1  10131.7   +0.77%   +2.33%
+         t                        9        7           
+ .SBITO  Ljubljan  .SBITO   965.91   967.78   -0.19%   +4.33%
+ P       a         P                                  
+ .CRBEX  Zagreb    .CRBEX  2056.02  2051.37   +0.23%   +1.91%
+                                                      
+ .BELEX  Belgrade  .BELEX   794.30   803.45   -1.14%   -0.92%
+ 15                15                                 
+ .SOFIX  Sofia     .SOFIX   583.86   584.90   -0.18%   +2.77%
+                                                      
+                                                              
+                            Yield    Yield    Spread   Daily
+                            (bid)    change   vs Bund  change
+                                                       in
+         Czech                                         spread
+         Republic                                      
+ CZ2YT=    2-year  CZ2YT=   1.7350  -0.0160   +233bp    -1bps
+ RR                RR                              s  
+ CZ5YT=    5-year  CZ5YT=   1.6160  -0.0590   +216bp    -6bps
+ RR                RR                              s  
+ CZ10YT            CZ10YT   1.6790  -0.0560   +196bp    -4bps
+ =RR     10-year   =RR                             s  
+         Poland                                               
+ PL2YT=    2-year  PL2YT=   1.5420  -0.0290   +213bp    -3bps
+ RR                RR                              s  
+ PL5YT=    5-year  PL5YT=   1.9380  -0.0120   +248bp    -1bps
+ RR                RR                              s  
+ PL10YT            PL10YT   2.2620  -0.0080   +254bp    +1bps
+ =RR     10-year   =RR                             s  
+                   FORWARD                                    
+                            3x6      6x9      9x12     3M
+                                                       interba
+                                                       nk
+         Czech     CZKFRA     2.23     2.22     2.19     2.17
+         Rep       PRIBO                             
+                   R=                                 
+         Hungary   HUFFRA     0.35     0.48     0.60     0.19
+                   BUBOR                             
+                   =                                  
+         Poland    PLNFRA     1.75     1.77     1.79     1.71
+                   WIBOR                             
+                   =                                  
+         Note:     are for ask                                
+         FRA       prices                              
+         quotes                                        
+         ********************************************         
+         ******************                            
+                                                              
+ 
+
+ (Reporting by Alan Charlish in Warsaw, Gergely Szakacs in
+Budapest and Jason Hovet in Prague; Editing by Shinjini Ganguli)

@@ -1,0 +1,106 @@
+There is only one way to know if you have the coronavirus, and it involves machines full of spit and mucus 
+ The new coronavirus, which originated in Wuhan, has spread throughout China, and to at least 19 other countries around the globe.In China, the virus has so far killed at least 170 people, and sickened over 8,200 more. The only way to know for sure that you have 2019-nCoV and not some other viral illness, is with a lab test.If you haven't been in China recently, or been around someone who has been to China's Hubei province and is sick, it's very unlikely that you've caught the bug.Visit Business Insider's homepage for more stories.
+
+
+
+The novel Wuhan coronavirus, formally known as 2019-nCoV, is not easy to diagnose. The virus is in the same family as some common cold bugs, and it is related to both SARS and MERS, which are also coronaviruses. At airports and other travel checkpoints around the globe, authorities are now dispatching thermometer-toting health workers to screen for people with fevers, which is one initial indication the virus might be present. "The symptoms of this disease early are fever, and cough, and respiratory," Dr. Nancy Messonnier, Director of the National Center for Immunization and Respiratory Diseases at the US Centers for Disease Control (CDC) told reporters on Wednesday. But without laboratory testing, there's no way to tell for sure if a person has the novel coronavirus, and not a more commonplace viral illness, like the flu.
+
+
+
+The only way to tell 2019-nCoV apart properly is by studying its viral genome sequence
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A staff member checks the temperature of a passenger entering a subway station in Beijing, China on January 28, 2020.
+ 
+ 
+ 
+ Reuters/Carlos Garcia Rawlins
+ 
+ 
+Professor Christian Drosten, who studies emerging infections at the German Center for Infection Research, developed one of the first novel coronavirus tests for 2019-nCoV at his lab. He says making a test to screen for a virus like the novel coronavirus is pretty easy to do, once you know what specific sequences of the virus genome in question look like. "We anticipated this would be a SARS-related virus, and we've been working on SARS-related viruses, mainly from bats, for a long time," he told Insider.Once news of the new virus outbreak in China reached his lab, his team quickly created several different potential versions of a coronavirus test, hoping some might be a match for the new virus with pneumonia-like symptoms that originated in Wuhan, China."When there was the first release of sequence from China [mid-January], we immediately compared our candidate tests with this sequence, and we saw that almost all our candidate tests were right," he said.
+
+
+
+Now, his tests (and others like them) can be dispatched to determine if someone has the new coronavirus in a kind of genetic sequence matching game.Scientists use patient samples of mucus and saliva to study the virus
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Letters display a portion of the genetic sequence of the novel coronavirus, which originated in Wuhan, China.
+ 
+ 
+ 
+ Smith Collection/Gado/Getty Images
+ 
+ 
+To verify if an illness is the new coronavirus, scientists must first gather viral samples from a patient by taking swabs of saliva or mucus from a sick person's nose and mouth, or a chunk of whatever phlegm the person might cough up. The mucus then gets shipped off (typically on ice pack) to a lab for testing. In the US, tests are being done only at the Centers for Disease Control and Prevention (CDC) in Atlanta, with a reverse transcription polymerase chain reaction test (RT-PCR), which can convert RNA into DNA, and amplify genetic sequences, making them easier to study and compare.In China, like in the US, virus samples were initially sent only to a Beijing lab for testing, but tests are now being run in Hubei province, where the Wuhan virus originated, Reuters reported. Results from each test come back in 24 to 48 hours.Though the testing protocol and machinery is all very similar around the world, Drosten said not every test is exactly the same, and that diversity is a plus. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A scientist operates a RT-PCR machine. Polymerase chain reaction (PCR) is a technique to amplify a single piece (or few copies of a piece) of DNA.
+ 
+ 
+ 
+ Andreas Rentz/Getty Images
+ 
+ 
+"The target regions on the genome of the new coronavirus, they are different," he said. "We want, actually, some diversity in test protocols. If we are in doubt about our test, or if there is something wrong with the test targets, the virus mutates or something, we could still switch to the test that another lab uses. These are all in the public domain, and it's quite easy to switch."
+
+
+
+Drosten also said there is no chance of these tests misfiring, and telling someone they have the new coronavirus when they don't. "We've validated the test for exclusivity for the new virus," he said.In China, over 8,200 people have been diagnosed with the virus to date. (Chinese patients have said it's so hard to get a test there that successfully getting a spit kit is like winning the lottery.) Unless you've recently been to China, or been around someone sick who's been in China in the past 14 days, your chances of contracting the illness are lowSo far, very few virus samples that have been tested in the US have come back positive for the novel coronavirus.
+
+
+
+The CDC has reported that 68 samples from US patients who thought they might have the coronavirus have come back negative. Only 6 cases in the US have turned up positive: one patient in Washington, another in Arizona, two patients from California, and a couple in their 60s from Illinois. The husband of that pair is the first known case of human-to-human transmission in the US. Authorities said he caught the virus from his wife, who'd recently been traveling in China."It's important to note that this spread was among two people who were in close contact for an extended period of time," Dr. Nancy Messonnier, director of the CDC's National Center for Immunization and Respiratory Diseases, told reporters on Thursday. If you or someone you know has been traveling in China in the past two weeks, watch vigilantly for signs of fever, cough, and shortness of breath. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Nurses in protective gear talk to people in the reception area of the First People's Hospital in Yueyang, Hunan Province, China, January 28, 2020.
+ 
+ 
+ 
+ Reuters/Thomas Peter
+ 
+ 
+Drosten doesn't anticipate that any other, more rapid forms of testing that don't require lab work will be dispatched in this outbreak.
+
+
+
+"What we need is power to exclude, right? So we need a really sensitive test," he said.Read more:The Wuhan coronavirus has spread person-to-person in the US for the 1st time — to the husband of a woman who went to ChinaThe Wuhan coronavirus has killed 170 people and infected more than 8,200. Here's everything we know about the outbreak.We're in an 'age of epidemics,' a scientist says. More diseases like the coronavirus will jump from animals to people.Click here for Business Insider's full coverage of the Wuhan coronavirus

@@ -1,0 +1,78 @@
+What You Need to Know About the Wuhan Coronavirus 
+ Consumer Reports has no financial relationship with advertisers on this site.
+
+A new respiratory virus that emerged in Wuhan, China, over the past month has spread to at least six other countries—with two known cases in the U.S., one in Washington state and one in Illinois. Both people in the U.S. were infected while in Wuhan.
+
+The virus causes respiratory problems that can range from a mild cough to severe pneumonia.
+
+Worldwide, there have been 830 cases and 26 deaths confirmed as of Jan. 24, though that number is expected to rise. There are currently 63 potential cases under investigation in the U.S., according to the Centers for Disease Control and Prevention (CDC).
+
+The vast majority of the cases that have been identified so far are in China, with a handful of other cases in people who traveled to the Wuhan area and then flew to other countries, including Thailand, Japan, and South Korea.
+
+Chinese authorities have shut down transit within and departing from 13 cities, including Wuhan, which is home to more than 11 million people in Hubei province, 650 miles south of Beijing.
+
+
+
+On Thursday, the World Health Organization announced it had decided not to declare the outbreak a “public health emergency of international concern,” a designation with the potential to spark a coordinated international response that might further limit travel.
+
+"This is an emergency in China, but it has not yet become a global health emergency," said Tedros Adhanom Ghebreyesus, Ph.D., the director-general of the WHO, at a press conference.
+
+Here’s what we know so far about this coronavirus.
+
+The disease does not yet have a name beyond “2019 novel coronavirus,” which indicates that the virus is a member of the large family of viruses known as coronaviruses. (Under a microscope, these viruses look like they have a crown, or corona.)
+
+Coronaviruses are very common in animals and many strains affect humans, according to Thomas File, M.D., president of the Infectious Diseases Society of America. Most known coronaviruses cause mild conditions like the common cold and conjunctivitis, but the new virus is not the first time a coronavirus has led to hospitalizations and deaths.
+
+“We have seen very serious manifestations of symptoms from other novel coronaviruses such as SARS and MERS,” File says. In 2003, an outbreak of severe acute respiratory syndrome (SARS) sickened more than 8,000 people and killed 774. Almost 10 years later, another coronavirus, known as Middle East Respiratory Syndrome (MERS), emerged and has since infected 2,499 people and killed 861.
+
+According to a study published Jan. 23 in JAMA, the fatality rate so far for the new virus seems to be lower than that of either SARS or MERS. But it’s too soon to know for sure, says File, because there's no accurate gauge on the number of people who are sick. Many cases—especially less serious ones—could still be unreported.
+
+While there’s a lot that we don’t yet know about the new coronavirus, researchers have genetically sequenced the pathogen, which provides some context for what’s happening, what sort of virus this is, and how it may be transmitted.
+
+“From the genetic analysis, it does look like China detected this outbreak in humans very quickly,” says Lisa Maragakis, M.D., the hospital epidemiologist at The Johns Hopkins Hospital and the senior director of infection prevention at The Johns Hopkins Health System. Most of the confirmed cases in humans are similar enough genetically that it doesn’t appear to have been spreading for very long—though we don’t yet know how effective steps taken to stop the spread of the illness will be, she says.
+
+According to the CDC, many of the first cases had links to a large seafood and live animal market in Wuhan. Genetic analysis has shown that the new virus has some similarities to other coronaviruses that circulate in bats and snakes.
+
+Though the first cases seem to have spread from animals to people, the virus can also spread from person to person, according to the CDC. However, it’s not yet known how efficiently it spreads from one person to another and then to yet another, as the flu does.
+
+As a respiratory virus, it is likely to spread in air droplets, when someone coughs or sneezes, according to File at the Infectious Diseases Society of America. If that’s the case, people within 5 or 6 feet of an infected person are most likely to get sick. But some respiratory viruses also remain aloft longer and spread through the air farther, according to Maragakis, so healthcare workers have been told to wear personal protective equipment. Though a number of healthcare workers have been infected so far, we don’t know whether they were wearing protective equipment or not.
+
+And respiratory viruses can vary greatly in terms of how quickly they spread. Much of the person-to-person transmission of SARS and MERS, for example, happened in hospitals, according to a 2017 study—through close, sustained contact, not casual interactions. “Transmission between family members occurred in only 13–21 percent of MERS cases and 22–39 percent of SARS cases,” researchers from the National Institutes of Health wrote in a paper.
+
+On a call on Friday, CDC officials stressed that it was too early to say whether the virus was more or less contagious than SARS.
+
+SARS and MERS also spread, researchers noted, only when people were already visibly sick. With the new coronavirus, people appear to get sick in a time frame of a couple of days to two weeks after being exposed, but we don’t yet know whether they can spread the illness before displaying symptoms.
+
+There have been a wide range of symptoms so far, ranging from mild to severe. In most cases, people have had a fever and cough. In the more severe cases, people have developed pneumonia.
+
+Most of the known cases are clustered in and around Wuhan, and in people who have recently returned from the region. We’re still in the early phases of understanding which segments of the population are most at risk of infection and complications, according to Maragakis, but most of the patients who died have been older men with underlying medical issues.
+
+In general, “elderly patients and those with underlying diseases tend to do worse with any pneumonia," says Richard Wunderink, M.D., a professor of medicine at the Feinberg School of Medicine at Northwestern University, who has written about coronaviruses. “However, younger people may be [more likely to catch the virus] for multiple social rather than medical reasons.”
+
+Taking precautions may be especially important for “healthcare workers, who were disproportionately affected by the SARS epidemic,” Wunderink says.
+
+The CDC on Jan. 23 recommended that travelers avoid all nonessential travel to Wuhan.
+
+In general, travelers should remain vigilant and keep up to date with the latest advisories from the CDC, Maragakis says. People who have recently traveled to an affected area should contact health officials if they notice any symptoms of infection.
+
+The CDC is standing by ready to screen any passengers who come from Wuhan into John F. Kennedy International Airport, Los Angeles International Airport, San Francisco International Airport, Hartsfield-Jackson Atlanta International Airport, and Chicago O'Hare International Airport. The agency has screened more than 2,000 passengers so far.
+
+People who have recently traveled to an affected area should contact health officials if they notice any symptoms of infection.
+
+In the case of the patients in Washington and Illinois, both had re-entered the U.S. before airport screening of those coming from Wuhan had begun. They each contacted their healthcare providers because of their symptoms and travel history.
+
+If you are in or have to travel to an affected region (for now, the CDC advisory covers just Wuhan), Maragakis says you should take the same precautions as you might for any respiratory condition: Try to avoid sick people, wash your hands frequently, cover your nose and mouth if you cough or sneeze, and try not to go out if you are sick.
+
+Otherwise, although this is “the beginning of what could be a large outbreak,” she says, it’s far away from the U.S. And at this point, there have been only a relatively small number of cases. Still, the new outbreak should serve as a reminder that very severe respiratory viruses tend to circulate every few years.
+
+“We do have tens of thousands of people who die of flu every year in this country,” she says. To protect yourself from that, she and File agree, you should get a flu shot.
+
+We still need to learn exactly how the virus spreads from person to person, and how likely people are to get sick when they’re exposed, Maragakis says.
+
+We also need more data to understand the mortality rate and whether or not people can spread the infection before they get sick, File says.
+
+Overall, says File, who was in China in March of 2003 when the WHO first issued a travel advisory for SARS, “this is almost like déjà vu.” But in this case, at least, the virus seems to have been identified much more quickly.
+
+The CDC describes this as a “rapidly evolving situation,” and says information will be updated as it becomes available.
+
+Consumer Reports is an independent, nonprofit organization that works side by side with consumers to create a fairer, safer, and healthier world. CR does not endorse products or services, and does not accept advertising. Copyright © 2020, Consumer Reports, Inc.

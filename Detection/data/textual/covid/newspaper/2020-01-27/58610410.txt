@@ -1,0 +1,50 @@
+Coronavirus Uncertainty Spreads, but Investors Should Remain Calm 
+ What spreads faster: a new strain of coronavirus, or unnecessary uncertainty created by media stories weighing in on it? 
+
+An unusually virulent strain of a coronavirus is spreading from human-to-human contact in China. The Chinese government has taken the unprecedented move to restrict the travel of more than 35 million residents as it tries to contain the outbreak during the Lunar New Year, which is the busiest travel holiday in China. 
+
+It all sounds pretty scary. It sounds even scarier with minute-by-minute updates from major news outlets vying for their share of search traffic. While that's prompted companies like Moderna (NASDAQ:MRNA) and Inovio Pharmaceuticals (NASDAQ:INO) to announce plans to develop vaccines for the strain, investors would do well to make a levelheaded assessment of the situation. To be blunt, the coronavirus outbreak is very unlikely to result in any sustainable business for pharmaceutical companies. 
+
+
+Image source: Getty Images.
+
+
+
+How does the 2020 coronavirus outbreak compare to others?
+
+As of Monday, Jan. 27, the Chinese government has confirmed over 3,000 illnesses and 80 deaths caused by the coronavirus strain in question, 2019-nCoV, according to The New York Times. The actual and eventual numbers are likely to be far higher, but the current mortality rate is roughly 2.6%. 
+
+That's far below the mortality rates of other outbreaks caused by other coronavirus strains. Outbreaks of Severe Acute Respiratory Syndrome (SARS) in 2003 and Middle Eastern Respiratory Syndrome (MERS) in 2012 had mortality rates of roughly 10% and 35%, respectively. What's more, in the middle of the SARS epidemic, the World Health Organization calculated a mortality rate of 15% -- overestimating the real rate by over 50%. 
+
+Much like SARS and MERS, the current outbreak of 2019-nCoV has caught regional and global health systems by surprise. But it's not something to worry about -- or invest in.
+
+For a more relatable example, consider the impact of seasonal influenza (what we call "the flu") in the U.S. The Centers for Disease Control and Prevention estimates that an average of 28.6 million individuals have become ill from the flu each year since 2010. An average of 37,400 individuals died each year in that span, including an estimated 61,000 deaths last year. Did the media provide minute-by-minute updates for that? If they did, then you would know that one person died every four minutes. Did you consider investing in flu vaccines? 
+
+While seasonal influenza has a mortality rate of only 0.1% across the entire population of the U.S., the CDC estimates that between 70% and 85% of all flu-related deaths occur in individuals 65 and older, primarily from respiratory-related complications. The flu has a mortality rate of over 1% in that population. 
+
+That's not unlike the current outbreak of coronavirus, which, like the flu, causes respiratory complications. Nearly every known death from 2019-nCoV occurred in older men. While the current overall mortality rate is nearly three times higher than that for the seasonal flu in older individuals in the U.S., healthcare quality and cultural norms (and the lack of a widely administered vaccine) likely contribute to the difference. 
+
+For example, an estimated 52% of Chinese men smoke cigarettes, which is even more common in older men. Less than 12% of American men over the age of 65 have the same habit. Considering that smoking cigarettes nearly doubles your risk of becoming ill with the flu and other respiratory illnesses, that could be contributing to the current coronavirus outbreak's virulence and mortality rate. 
+
+
+Image source: Getty Images.
+
+
+
+Be wary of coronavirus boosts to these stocks
+
+In late January, Moderna provided a statement to CNBC announcing that it was working with the National Institutes of Health to develop a vaccine for 2019-nCoV. The company said its messenger RNA engineering platform could be uniquely suited for rapid response applications such as this, although it has never tested those capabilities or processes. 
+
+While the stock popped on the disclosure, Moderna has struggled since conducting its initial public offering in late 2018. The biopharma company is valued at $7 billion today but has seen its market cap fall as low as $4 billion. The business reported an operating loss of $416 million in the first nine months of 2019. Therefore, a low-margin coronavirus vaccine would be unlikely to provide much relief to the bottom line, although it might provide more confidence in the technology platform. 
+
+A few days later, Inovio Pharmaceuticals disclosed that it, too, was working on an experimental coronavirus vaccine. The business received a $9 million grant from the Coalition for Epidemic Preparedness Innovations to accelerate its work and has worked on other coronavirus vaccines in the past. 
+
+While shares of Inovio Pharmaceuticals have gained 112% since the company began developing a MERS vaccine in 2013, the vaccine is still in development more than six years later and hasn't had a material impact on the business. The company reported an operating loss of $80 million in the first nine months of 2019. As investors are painfully aware, the stock has declined by 50% in the last five years. 
+
+Investors need to be realistic about the latest coronavirus outbreak
+
+If past outbreaks of SARS and MERS (or ebola or the seasonal flu) are any indication, then investors shouldn't consider the ongoing coronavirus outbreak to be an investing opportunity. Digital publication platforms are covering the outbreak with an urgency that far outweighs its significance.
+
+As for experimental vaccines, development expenses might be partially offset with grants from the NIH, CEPI, and other health institutions, but vaccine development often takes years to complete and rarely has much financial impact for the innovator.
+
+Given all of the nuance and details of the situation, investors should be cautious when reading about the coronavirus outbreak and the pharmaceutical industry's efforts to contain it.

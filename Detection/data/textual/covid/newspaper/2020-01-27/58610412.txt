@@ -1,0 +1,33 @@
+Dow Jones News: American Express Hit by Valuation Concerns; Intel Faces Headwinds in 2020 
+ The coronavirus outbreak in China has now claimed 80 lives and infected thousands, with five confirmed cases in the U.S. Fears that the outbreak will worsen weighed heavily on the stock market on Monday, sending the Dow Jones Industrial Average (DJINDICES:^DJI) down 1.4% by 10:45 a.m. EST.
+
+Shares of American Express (NYSE:AXP) and Intel (NASDAQ:INTC) suffered even steeper losses as analysts weighed in on the stocks. American Express was downgraded on valuation concerns, while Intel was taken down a notch due to potential headwinds in 2020.
+
+American Express may be too expensive
+
+Shares of American Express were down 3.7% Monday morning, losing badly to the broader market. An analyst downgraded the stock to "equal-weight," citing a valuation that has simply grown too expensive. This downgrade follows a strong quarterly report last week that sent shares higher.
+
+
+Image source: American Express.
+
+
+
+Analyst Vincent Caintic of Stephens knocked down his rating on American Express stock solely due to valuation. Caintic can't find any catalysts this year that justify a more optimistic view. He still sees 12% to 15% annual returns for the stock.
+
+Shares of American Express aren't all that expensive relative to the market. The company reported adjusted earnings per share of $8.20 in 2019, putting the price-to-earnings ratio at roughly 16. For 2020, the company expects EPS between $8.85 and $9.25, along with revenue growth adjusted for currency between 8% and 10%.
+
+If American Express can hit its guidance, 2020 will be a solid year for the company. But Caintic doesn't think the guidance alone is enough to justify a bullish rating.
+
+Analyst cools on Intel
+
+Intel stock rallied after the chip giant reported its fourth-quarter results last week. That rally has gone a little too far for Northland Capital, which downgraded Intel to "market perform" on Monday. Intel stock was down 2.9%.
+
+Intel easily beat analyst estimates in the fourth quarter, reporting 8% revenue growth driven by a rebound in demand from cloud customers. Intel's guidance also called for growth in 2020, despite increasing competition from Advanced Micro Devices. Intel sees revenue of $73.5 billion and adjusted EPS of $5.00 in 2020, up 2.1% and 2.7%, respectively.
+
+Northland Capital isn't all that excited about Intel in 2020. It sees both positive and negative catalysts for the company, and it doesn't have any clarity on which will happen first. Its $70 price target still represents some upside for the stock, but not much.
+
+The biggest headwind for Intel may be AMD. Over the past couple of years, AMD has staged a stupendous comeback. Its Ryzen PC CPUs are competitive with Intel's products, and its EPYC server CPUs are putting pressure on Intel in the lucrative data center segment. Last year, AMD launched PC and server chips built on a cutting-edge 7nm manufacturing process. This helped AMD effectively close the performance gap with Intel chips.
+
+Intel has cut prices on some of its chips, and it's reportedly planning broader price cuts this year in an effort to defend its market share. Price cuts aren't good news for the bottom line, especially if those price cuts fail to keep AMD's market share in check.
+
+Intel stock could keep rising in 2020 if the company manages to keep market share losses to a minimum. But that's far from a guarantee.

@@ -1,0 +1,112 @@
+How Worried Should We Be About Coronavirus? 
+ Chinese travelers wearing protective masks on January 21 in Beijing.
+                Photo: Kevin Frayer/Getty Images
+              
+
+            
+
+      
+
+          On Friday, the State Department issued a travel advisory warning Americans not to travel to China, and Delta and American Airlines suspended all flights from the U.S. to China. More than 200 deaths have been linked to the new coronavirus, while about 10,000 infections have been confirmed worldwide.
+
+        
+          On Thursday, the New England Journal of Medicine published a report describing the first case of someone contracting the coronavirus from a person who had not yet experienced any symptoms. The case described a woman from Shanghai who spent three days in Germany, but did not feel her symptoms until her flight home. It was a troubling revelation, considering other viruses, such as SARS, can be transmitted only by people showing symptoms.
+
+        
+          
+        
+          
+        
+          Dr. Angela Rasmussen is a virologist at Columbia University Mailman School of Public Health. She studies how hosts react and respond to infectious diseases like Ebola and MERS. Intelligencer talked to Rasmussen about face masks, the WHO’s decision to label 2019-nCoV an international public-health emergency, and the danger in circulating research based on just a handful of cases.
+
+        
+          
+        
+          What do you make of news that this virus might be transmitted by asymptomatic hosts? 
+It’s kind of hard to tell because that is a letter to the editor — it hasn’t gone through peer review, as far as I know. One thing about this that’s somewhat unprecedented is the speed at which new data is coming out and becoming available for mass consumption. In that article, there’s not a lot of detail about when the initial patient returning to China became symptomatic. It’s really hard to tell. People don’t always accurately report. That’s not on purpose or anything, but people aren’t so self-aware that they’re going to notice a single sneeze, or every little cough, or clearing their throat, or their nose is running and they think it’s allergies. There are a lot of reasons why people might not necessarily recognize that they are symptomatic when they actually are.
+
+        
+          
+        
+          
+        
+          It’s really interesting what you said about the speed at which information is moving. It seems kind of counterintuitive to think about how, in a situation like this, that could be problematic. I would think that the benefits of speedy data sharing would far outweigh any drawbacks. Are there other challenges have you seen? 
+Oh, definitely. I’ll go on record as saying that I think it’s wonderful that data is coming out as rapidly as it is and certainly I think that the availability of preprint — papers that haven’t gone through peer review — has really helped as well. But I think that we need to be really cautious about making too many conclusions about this. We just need to be very cautious in interpreting the data that comes out and also scrutinize it closely.
+
+        
+          A great example of this is one of the first reports of the basic reproduction number for the virus, the R0 [“R naught,” the number of people that an infected person will infect]. A Harvard-trained epidemiologist who has never worked on viruses tweeted out that the R0 of 3.8 was “thermonuclear pandemic level bad.” Aside from the fact that there’s no such thing as a thermonuclear pandemic, the tweet was picked up and retweeted like 30,000 times. [Editor’s note: The tweet has since been deleted.] That kind of thing is really dangerous because an R0, first of all, is really a measure of potential transmission, and it’s highly context-dependent. When that population is small, which it was last week, it’s really difficult to estimate what the R0 is. When people pick stuff like that up and report it — “Oh, this is way worse than SARS, we’re all going to die!” — that’s a really irresponsible way of reporting that data. Other groups have since published the R0, and the original group that published the R0 value of 3.8 has since revised it down to 2.5. A paper came out in the New England Journal two days ago that suggested the R0 from Wuhan is 2.2. This is a number that changes, it doesn’t necessarily reflect the certainty of an apocalyptic pandemic.
+
+        
+          
+        
+          
+        
+          
+        
+          What I think is more important, and this is what we’re finding out right now, is the incidence of severe disease. Many coronaviruses are out there, probably more than we know about, cause mild, cold-like illness. Many are not known to infect humans at all. What really determines how big of a public-health crisis this is going to be, in the absence of fear and panic and all of the things that can come along with that, is how many people end up getting severe pneumonia. Right now, that looks like it’s primarily older people or people with comorbidities. That was also true for MERS and SARS.
+
+        
+          So this may be closer to seasonal flu than “thermonuclear pandemic”? 
+Exactly. Which isn’t to say that we shouldn’t take it seriously because flu is a preventable illness with a vaccine and drugs, while there are no vaccine or drugs for this. People probably haven’t been exposed to something like it before so they’re going to be susceptible. But at the same time, seasonal flu alone kills 30,000 people in the U.S. a year on average. And people are refusing to get flu shots! People need to keep that in perspective.
+
+        
+          Given the limited data we have at this point, where does the threat stand? 
+In the next week we’re really going to figure this out as we figure out how much secondary transmission there is going to be in other countries outside of China. We just need more data on this. Before we can determine what the overall risk is going to be globally, we need to see the circumstances in which this is being transmitted in other countries that it has been exported to.
+
+        
+          
+        
+          
+        
+          My biggest concern is that if it is highly transmissible, and there is a high incidence of severity, and it starts spreading in countries that have less health-care infrastructure and less ability to respond, then I think it can become a very large problem. That’s why I actually think it’s great that the WHO declared the Public Health Emergency of International Concern. What that means is that the WHO has more ability to mobilize resources to places that will need it. China doesn’t [need resources], the U.S. doesn’t, Australia doesn’t, Germany doesn’t. But there are countries that don’t have an existing health-care infrastructure that can handle a large patient load.
+
+        
+          
+        
+          Have we seen confirmed cases in any of those countries yet? 
+There have been a couple of reports of infections in Kenya. Certainly, it would not be good if there were widespread cases in countries in Africa that have seen these problems before, like the 2014 Ebola outbreak. That was a huge problem in large part because that health-care infrastructure did not exist. We don’t really know the incubation period, so it could be that there are these cases but they haven’t become symptomatic yet. They haven’t been recognized for what they are. That’s going to be more difficult to do in countries with less health-care infrastructure.
+
+        
+          How effective is quarantine as a public-health strategy? 
+At this point the virus is out there. It’s here in the States. It’s in Europe. It’s in Japan and other parts of Asia and Australia. It’s everywhere and can be transmitted human-to-human. A country-scale quarantine, travel bans, and things like that are going to be completely ineffective. Furthermore, they’re potentially harmful because they have a huge economic cost and disrupt the supply chain and make it harder to move necessary supplies and resources around. In that regard, country-level quarantines or even large region-level or city-level quarantines could actually be more harmful than beneficial.
+
+        
+          
+        
+          
+        
+          What about face masks? 
+Most of these respiratory viruses are transmitted by droplets, little drops of saliva or snot when you cough or sneeze. Those aerosolized droplets look small but are actually too large to get through a surgical mask and can be blocked from getting into your mucous membranes, your nose and mouth, by a surgical mask. You don’t need an N95 mask. A surgical mask is good enough if you want to feel safer while traveling, or you could even use a cloth mask. As long as it blocks water from getting to your nose. It can help protect it. That said, I don’t know if anybody has ever studied transmission through the eyes. That’s a possibility, but I don’t know if it has ever been looked at. It would be helpful to get public guidance about protective measures from WHO or CDC.
+
+        
+          
+        
+          The most surefire way to avoid catching a virus is to not be around other people. But I realize that may not be viable. I think the biggest thing that people can do that they don’t think about is practice good hand hygiene, meaning wash hands with soap and water and don’t touch your face.
+
+        
+          What are the indicators we should be looking out for over the weekend and early next week? 
+Two things. We need to continue to be looking at the data about disease severity — how many people have severe pneumonia and are hospitalized versus how many people are testing positive. And the other thing we need to look at is the secondary transmission in other countries that the virus has been exported to. If we start to see a lot of that, it’s definitely an issue of concern in terms of spread of the virus outside China. Right now it’s looking like 15 to 25 percent of people have severe disease. Personally, I think that those are probably overestimated because the total cases are probably underreported. Think about it, if you have a cold or a runny nose, really mild symptoms, are you going to the hospital? So those people with the mildest form of the disease are really not showing up to be tested. That’s actually good, because then they are staying home and staying away from the hospital where people are actually more at risk of getting infected. I think that some of the cases that have been reported, we need to look at the proportion of those that are getting the severe disease. That’s going to give us a lot to go on as far as how bad the crisis is going to be.
+
+        
+          
+          
+        
+        
+            
+              
+                
+                  Sign Up for the Intelligencer Newsletter
+
+                  Daily news about the politics, business, and technology shaping our world.
+
+                
+
+        
+                
+                
+              
+
+              
+              
+                Terms  Privacy Notice
+                By submitting your email, you agree to our Terms and Privacy Notice and to receive email correspondence from us.

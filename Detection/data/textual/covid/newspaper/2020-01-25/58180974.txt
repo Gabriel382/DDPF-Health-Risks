@@ -1,0 +1,8 @@
+Here's how to track the coronavirus spread 
+ With the deadly coronavirus spreading across the globe, an online dashboard can help you keep up with the news. The Center for Systems Science and Engineering has built a tool pulling in data from the World Health Organisation, as well as the centers for disease control in the US, China and Europe. It shows all coronavirus confirmed, suspected and recovered patients, and deaths.
+
+Coronavirus, which originated in Wuhan, China, has so far killed 41 people and infected almost 1,000. Cases have been confirmed in the US and Europe, with the illness exhibiting pneumonia-like symptoms. It was first reported to the World Health Organization on Dec. 31, with Chinese scientists linking the disease to a family of viruses known as coronaviruses that include the deadly SARS and Middle East respiratory syndrome (MERS).
+
+As of time of publication, the dashboard showed 916 confirmed cases in mainland China, five in Thailand, three each in Singapore and Taiwan, and two in Hong Kong, Japan, Macau, South Korea, the US, Vietnam and France.
+
+Australia's first case of coronavirus has since also been confirmed, with the patient being held in isolation in a Melbourne hospital. Australia's ABC News reported that five other people are being tested for the virus in NSW.

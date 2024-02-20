@@ -1,0 +1,62 @@
+Not So Common Fixed-Income Preview 
+ In this monthly article, I'll review the less popular fixed-income securities, sorted into several categories: floored preferred stocks, third parties, trust preferred stocks, and the preferred units, including those with K-1. This makes a total of 87 securities, 49 of which are part of the largest primary exchange-traded fixed-income ETF: the iShares U.S. Preferred Stock ETF (PFF).
+
+As we can see in the chart below, despite the fact that just 11% of PFF's market capitalization consists of the aforementioned securities, which also corresponds to 11% of the fund's holdings, we are talking around $1.7B in general. As for the third-party trust securities, they are not part of any of the top 5 fixed-income ETF holdings (PFF, PGF, PGX, PSK, and VRP).
+
+Now, that these products have our attention, we are continuously monitoring all preferred stocks by several groups and will reinstate our Monthly Review, publishing a recap of the groups of interest.
+
+The most significant indicator for all fixed-income investors, the 10-year Treasury Note Yield (TNX), has broken its 1.75%-1.95% range, and it has fallen to the rate of 1.62%. All bond prices are rising as investors prefer to put their money into safer investments, pushing yields lower. The iShares 20+ Year Treasury Bond ETF (TLT) has reached its October 2019 level driven by the more cases of the coronavirus confirmed over the weekend, ratcheting up worries over the virus’s impact on the world economy.
+
+Despite the global economic uncertainties, the fixed income securities remain relatively calm for the moment, with PFF staying at its 2-year high after the sharp rally starting in December. As for the equity markets, the S&P 500 has entered into a 3% correction from its all-time high, after it was previously making a new all-time high almost every day since November due to the strong global economic data and a solid start to the earnings season.
+
+This group of preferred stocks pays a higher spread above LIBOR and sets a minimum nominal yield. Their current yield is their yield to worst, and if they trade below their redemption price, they have some extra value in their sleeping long-term call option on the LIBOR. Currently, almost all of the $25 par floating rate preferred stocks pay a fixed dividend because LIBOR is still too low to trigger their floating nature (the current 3-month LIBOR continues its downtrend to a rate of 1.79538%). The only exception is SLMBP, as unlike most of the "floored" securities, it does not have a minimum nominal yield, and the falling of the LIBOR immediately means lowering the distribution rate. Here, you can see their current yields and at what percentage of par they trade:
+
+Here is the full list:
+
+The big risk with these securities is that they are the lowest nominal yielders. The security with the highest current yield is WTREP, last August listed fixed-to-floating preferred stock, issued 5 years ago, that passed its call date now (the company had redeemed around 76% of all outstanding preferred shares) meaning it is so-called "floored" security now. However, WTREP is the one to be trading above its PAR, meaning it is the only to carry a call risk. Currently, the most appetizing of the group is still SLMBP with its 5.94% qualified current yield and a solid potential capital gain (it is trading at 58% of PAR). After it had been under selling pressure over months and it even fell below 50% of its par value, it's now returned at the path of buying. Still, keep in mind that SLMBP gave a Current yield of 6.65% a month ago. This shift (↑) of 0.70%, makes SLMBP the preferred stock that has the best one-month change.
+
+How have they moved for the last month?
+
+The Third-Party Trust Preferred Securities - TRuPS - are actually debt instruments masquerading as a stock. A company creates a trust and issues a bond to that trust. The trust then issues TRuPS to the public, backed by the interest income the trust receives from the bond.
+
+Since all TRuPS have a stated maturity date, meaning they are term securities, the best way to be observed is by their Yield-to-Maturity which is also their Yield-to-Worst.
+
+The in-depth problems of J. C. Penney (NYSE: JCP) are keeping its securities at no more than 25% of their par value, and it seems that there is no perspective for improvement. It is also "contributed" by this month's sales updates, bringing the common stock a loss of 1/3 of its market capitalization. Furthermore, JCP confirmed that it plans to close six department stores for 2020.
+
+How have they moved for the last month?
+
+3. Trust Preferred Stocks (also known as hybrid securities)
+
+The difference between the ordinary preferred stocks and the trust preferred stocks is that the latter offers a company the advantage of paying tax-deductible interest on the debt securities of the trust while they are somehow able to ignore the existence of the trust's debt on their balance sheet. Another important thing here is that the trust preferred's debentures generally rank senior to the company's traditional preferred stocks.
+
+How have they moved for the last month?
+
+I'm excluding Air T's (AIRT) trust preferred, AIRTP, from the last chart as it had a 1:10 reverse stock split on January 14, becoming a regular $25 stock.
+
+Also, there is one issue that currently pays a floating dividend rate, and after a little more than 5 years, if it does not get redeemed, it will pay a fixed dividend rate: Landmark Infrastructure Partners LP Series C Floating-to-Fixed Rate Cumulative Perpetual Redeemable Convertible Preferred Units (LMRKN).
+
+LMRKN pays a floating dividend rate of the 3-month LIBOR rate plus 4.698% and has a minimum protection clause of 7%. With the current rate of the 3-month LIBOR, its current nominal yield is at its minimum rate of 7.00%. With the price of $26.18, this means it has a current yield of 6.68% and a yield-to-call of 5.96%.
+
+The chart below contains all preferred units and stocks with Schedule K-1 with non-suspended distribution by their yield-to-call and current yield.
+
+Furthermore, for a better idea, SPLP.PA is also excluded from this chart because of its 138% yield-to-call.
+
+5. Ex-Dividend Dates For The Next Month:
+
+Which of the aforementioned securities are ex-dividend until the end of February? The date given is predicted on the base of the previous ones and may vary by a few days.
+
+The ex-dividend dates are very useful for every fixed-income investor that practices the dividend capture strategy.
+
+6. A Look At The Most Recent Redemption:
+
+There are two third-parties and a trust preferred stock called for redemption for December 2019:
+
+7. A Look At The Most Recent IPO
+
+Still, there is only one recently issued series of preferred units for the past few months: Brookfield Property Partners L.P. 6.375% Class A Cumulative Redeemable Perpetual Preferred Units Series 2 (BPYPO):
+
+This is what our small world of not so common fixed income securities looks like at the end of January. After a slight correction at the beginning of December, the fixed-income securities quickly returned to the path of buying with PFF trading at its 2-year high. Despite the heightened fears of the new coronavirus and the drop of the equity markets, the fixed-income securities have remained almost unchanged. When I am looking at all the instruments in our database, my conclusion at the moment is that the fixed income market (exchange-traded instruments) is very hard for investing. I don't see any Alpha in holding the average fixed income portfolio. I understand that many people expect that there are always some buying opportunities, but not the case for me.
+
+Note: This article was originally published for our subscribers on 01/27/2020 and some figures and charts may not be entirely up to date.
+
+Disclosure: I/we have no positions in any stocks mentioned, and no plans to initiate any positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.

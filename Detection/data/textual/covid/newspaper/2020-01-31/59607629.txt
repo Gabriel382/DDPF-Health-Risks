@@ -1,0 +1,44 @@
+How deadly is coronavirus, and can it be contained? 
+ (CNN) As the new coronavirus continues to cross international borders, the two key questions on public health officials' minds are: 'How deadly is it?' and 'Can it be contained?'.
+
+The two outbreaks in recent memory that give the most insight into these questions are the 2002-2003 SARS outbreak , which spread from China to 26 other countries but was contained after eight months, and the 2009 H1N1 influenza pandemic , which originated in Mexico and spread globally despite all containment efforts.
+
+The severity and mortality of a novel emerging virus, which we scientists in this case are calling 2019-nCoV, are very difficult to judge when new data are coming in on a daily basis. During the 2009 influenza pandemic, the earliest reports listed 59 deaths from approximately 850 suspected cases, which suggested an extremely high case fatality of 7%.
+
+However, the initially reported information of 850 cases was a gross underestimate. This was simply due to a much larger number of mild cases that did not report to any health system and were not counted. After several months -- when pandemic data had been collected from many countries experiencing an epidemic wave -- the 2009 influenza turned out to be much milder than was thought in the initial weeks. Its case fatality was lower than 0.1% and in line with other known human influenza viruses.
+
+The case fatality for SARS, during its eight months of circulation, was just under 10%
+
+Is the current epidemic more similar in severity and transmissibility to the SARS outbreak or the 2009 flu pandemic? I am a professor of biology who studies the evolution and epidemiology of infectious disease, and in my view, in late January 2020, we do not yet have enough solid evidence to answer this question. I am optimistic that the scientific community's sharing ethos and rapid data analytics that we have seen over the past two weeks will soon generate the needed data.
+
+These numbers taken alone suggest a case fatality rate of around 2%, very high for a respiratory virus. But the true number of infected individuals circulating in the population is not known and is likely to be much higher than 4,500. There may be 50,000 or 100,000 additional cases in Wuhan that have gone undetected, and, if this is the case, it would put the case fatality of 2019-nCoV infections in the range of 0.1% to 0.2%.
+
+During these early stages of the outbreak investigation, it is difficult to estimate the lethality, or deadliness, of this new virus.
+
+So, with all of this uncertainty, how much effort should public health officials put into containment, quarantine and isolation activities? Should all airports be implementing temperature screening for incoming passengers? There are no easy answers to these questions, as there are only a few historical examples to look back on. And, none of them is guaranteed to be a template for this year's 2019-nCoV epidemic.
+
+Is this virus silent or deadly?
+
+Fortunately for human beings, a pathogen like 2019-nCoV cannot have its cake and eat it too. The virus cannot be both deadly and undetectable. To illustrate, we can consider the hypothetical examples of a severe and a non-severe respiratory virus.
+
+With a more severe symptoms profile, a respiratory infection will have more sudden onset, earlier symptoms, a higher chance of severity and death, and it will probably cause patients to report to hospitals at an earlier stage of infection. An outbreak of a respiratory virus like this will typically be deadly but containable.
+
+With a less severe symptoms profile, patients may stay in an asymptomatic or mildly symptomatic state for a long time, symptoms appearance may be more gradual than sudden, and progression to hospitalization and death would be rare. An infection like this is difficult to detect and thus difficult to control, but fortunately it is much less lethal.
+
+For the 2019-nCoV epidemic, it appears that individuals can transmit the virus before being symptomatic. However, at this early stage, this is far from certain.
+
+Can a pathogen like this have its international spread controlled? Will airport screening and isolation of febrile cases be effective at slowing down the initial outbreak or perhaps containing it entirely?
+
+To answer this question, we can look at data from containment efforts during the 2009 pandemic. In 2009 I was working at the Hospital for Tropical Diseases in Ho Chi Minh City, where containment efforts relied on a live synthesis of airline passenger data, symptoms data, isolation data, and diagnostics data that were coming in on a daily basis.
+
+During the early stages of the pandemic, about 80% of these patients' "infectious days" were spent in isolation, effectively cutting the virus's transmission rate by a factor of five.
+
+On the one hand, a containment effort like this can be viewed as a success. The virus's entry into the city was slowed down, and an epidemic that seemed imminent in mid-June was held off until late July.
+
+On the other hand, with about 200 influenza-positive cases coming in during the three-month containment effort, there were likely dozens of cases that came in undetected in their "pre-symptomatic" stage. The influenza pandemic was not destined to be locally containable.
+
+At this moment, 2019-nCoV looks to me like its severity and transmission profile is somewhere between SARS and the 2009 H1N1 influenza.
+
+If this is accurate, airport screening, case isolation, contact tracing and social distancing efforts may be enough in some cities to delay or fend off the arriving stream of new cases. In the next month or two, we will see how easily newly introduced seed cases are able to establish local epidemics outside the Chinese mainland.
+
+With a little luck some cities may be able to control their outbreaks. With open scientific collaboration we may learn which containment strategies work best, in preparation for our next pandemic later this decade.

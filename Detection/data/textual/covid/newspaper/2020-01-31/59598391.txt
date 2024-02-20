@@ -1,0 +1,94 @@
+Facebook’s trust problem isn’t about being understood 
+ One of the most common and beloved tropes on a reality show comes when a contestant announces, often with a melodramatic flourish, that they are “not here to make friends.” It’s an ingenious and endlessly useful phrase — one that is both recognizably true (the contestant’s only real goal is victory) and terrifying in its implications. A person who is not here to make friends is signaling that they might do anything to win. They lie, they cheat, they throw a glass of pinot grigio in your face — whatever it takes to become become the bachelorette.
+
+I thought of the phrase on Wednesday while reading Mark Zuckerberg’s comments, during Facebook’s quarterly earnings call, about his new goal for the 2020s. He said (emphasis mine):
+
+“We’re also focused on communicating more clearly what we stand for. One critique of our approach for much of the last decade was that, because we wanted to be liked, we didn’t always communicate our views as clearly because we were worried about offending people. So this led to some positive but shallow sentiments towards us and towards the company. And my goal for this next decade isn’t to be liked, but to be understood, because in order to be trusted, people need to know what you stand for.”
+
+What views did Facebook express unclearly because it didn’t want to offend us? Zuckerberg didn’t say, but I have my guesses. That people like personalized ads more than they value their data privacy, maybe. Or that it’s more important to preserve a wide arena for free speech than it is to prevent certain kinds of harms. These are views that would offend many if a Facebook executive said them out loud, and yet also the company acts as if it holds these things to be true. A fun question to ponder after reading these remarks is on which subjects Zuckerberg will now be willing to offend us. 
+
+Here’s another: What does it mean that a CEO would rather be understood than be liked? In an environment where Facebook has more power than ever — its quarterly earnings were stellar as usual, even if growth has slowed a bit from its peak — the answer feels important.  
+
+Being liked is, of course, a basic human need, even for CEOs. Like any other group of people, the tech executives I’ve known vary in how deeply they seem to need affirmation. But starting a successful company has historically been a pretty good way to get the world to like you. You create jobs, you grow the economy, you earn wealth for yourself and your family, and people begin to hang on your every word.
+
+Success also breeds backlash, though. The company’s work typically has externalities that the CEO has not accounted for, or has begun to address only belatedly. As the second-order consequences of your success compound, the world begins to doubt your motives. They excoriate you in the press, they haul you before Congress, and they threaten to smash your company into little pieces. 
+
+It is in such a world, I think, that a CEO might say that, going forward, his goal is no longer to be liked but to be understood. Not because he doesn’t want to be liked — but because the people who like him like him already, the people who don’t are not likely to change their minds, and really the whole matter of reputation seems largely beyond his control.
+
+Being understood, though — that at least seems possible. So what does Zuckerberg hope that we understand about Facebook? Here’s Jeff Horwitz in the Wall Street Journal:
+
+Mr. Zuckerberg said he would defend users’ rights to associate with groups of their choosing, the societal value of targeted advertising and the model of providing free communications services — all of which he said are under attack. He also defended the company’s plans to further integrate its products, which critics have said are meant to make it harder for antitrust regulators to take action against the company.
+
+Presumably, what Zuckerberg really wants here isn’t simply to be understood, but to have more people agree with him. It seems like a stretch to suggest that the growing number of people opposed to highly targeted advertising don’t understand its value. Rather, they believe it does more harm than good. It’s the same with the “right to associate.” On one hand, I suspect most Americans do believe in a right to free assembly. But do they believe Facebook ought to provide a platform for anti-vaccine zealots to congregate and hijack Facebook’s viral machinery to recruit new followers? Either way, the issue doesn’t strike me as one of understanding, per se.
+
+“In order to be trusted, people need to know what you stand for,” Zuckerberg said later in his remarks. That’s true enough, but it’s also the case that many people don’t trust Facebook even when they know what the company stands for. In fact, it’s some of the qualities about Facebook that are best understood — its continuous rapid growth, expansive data collection, and feeds ranked by how likely they are to generate an emotional charge — that most upset the company’s critics.
+
+If Facebook is to turn public opinion around, it has to do more than remind us that it provides a suite of free communication tools. It has to make the case that those tools have a net-positive effect on the world — and are worth the high cost it takes to deliver them. It has to address the viewpoint of some current and former employees that the product is better compared to sugar or nicotine than to a Millsian marketplace of ideas. 
+
+And it can’t make that case through argument alone. The products, and their user base, will have to make the case for themselves. They will have to persuade. They will have to make friends.
+
+The Ratio
+
+Today in news that could affect public perception of the big tech platforms.
+
+  Trending up: Starting today, Twitter will allow users in the United States to report tweets with misleading information about how to participate in the election. It’s the first time this tool has been available in the United States.
+
+  Trending down: A study of YouTube comments suggests the video sharing platform can have a radicalizing effect. A significant amount of users systematically migrated from commenting exclusively on milder content to commenting on more extreme content. 
+
+  Trending down: TikTok told some employees in Europe that tackling inappropriate adult commentary underneath childrenʼs videos was not part of their core business.
+
+Governing
+
+⭐ Facebook agreed to pay $550 million to settle a class-action lawsuit over its use of facial recognition technology in Illinois. The news marks a major victory for privacy groups, report Natasha Singer and Mike Isaac from The New York Times:
+
+
+The case stemmed from Facebook’s photo-labeling service, Tag Suggestions, which uses face-matching software to suggest the names of people in users’ photos. The suit said the Silicon Valley company violated an Illinois biometric privacy law by harvesting facial data for Tag Suggestions from the photos of millions of users in the state without their permission and without telling them how long the data would be kept. Facebook has said the allegations have no merit.
+
+Under the agreement, Facebook will pay $550 million to eligible Illinois users and for the plaintiffs’ legal fees. The sum dwarfs the $380.5 million that the Equifax credit reporting agency agreed this month to pay to settle a class-action case over a 2017 consumer data breach.
+
+
+Mark Zuckerberg is slated to visit Brussels in mid-February, meeting with European Union officials as Facebook fends off antitrust and privacy scrutiny over how it handles user data.
+
+A judge in Texas temporarily blocked the roll out of Facebook’s Off-Facebook Activity tool, which lets users control the data that third-party apps share with the social media giant. A suit filed in 2018 alleged that a woman was lured into sex trafficking via Facebook. Now, the plaintiff argued that the tool could cause evidence in the case to be changed or deleted. (Dwight Silverman / Houston Chronicle)
+
+Our current political failures aren’t the result of bad algorithms, argues this writer. Drawing on Ezra Klein’s new book on polarization, the author suggests that social networks should not be blamed for larger societal problems. (Gideon Lewis-Kraus / Wired)
+
+Republicans and Democrats distrust social media sites for political and election news. The social media sites with the highest percentage of distrust are Facebook (59 percent), Twitter (48 percent), Instagram (42 percent), and YouTube (36 percent). Perhaps they’re all simply misunderstood! (Pew Research Center)
+
+The US House Ethics Committee informed House members that posting deepfakes on social media might be a violation of House rules. (Jay Peters / The Verge)
+
+Government agencies are taking notes from big brands and getting more experimental on social media. In other words: weird tweets. The move seems aimed at expanding their limited bureaucratic footprint. (Luke Winkie / The New York Times)
+
+A new social network called Column is hoping to entice millions of people to pay to get close to superstars of technology, business, and academia. The nascent site, which has not yet launched, is allegedly backed by Peter Thiel. Thiel has denied the connection. (Angela Chen / MIT Technology Review)
+
+Far-right commentator Katie Hopkins was suspended from Twitter after being accused of spreading hate on the platform. Several of her tweets have been shared by President Trump. (Lizzie Dearden / The Independent)
+
+Industry
+
+⭐ A woman discovered a Facebook business page had been created in honor of her anatomy, against her will, and couldn’t get anyone to take it down until Katie Notopoulos at BuzzFeed intervened. Good for Katie, and bad for Facebook: 
+
+
+“I feel like if anybody has found it, it would probably feel way too weird to talk to me about it,” she said. “And if I didn’t get a job over it, they definitely wouldn’t call me and say, ‘Hey, found the Page about your butthole, not going to hire you, bye.’”
+
+Nevertheless, her years long battle has been somewhat frustrating: “I feel like I should’ve been able to get it removed based off the fact that it was my real name, and I was underage, and since it had my old address.”
+
+
+Google temporarily shut down all of its China offices due to the coronavirus outbreak. The shutdown includes all offices in mainland China, as well as Google’s offices in Hong Kong and Taiwan. (Nick Statt / The Verge)
+
+Teens are now claiming they have the coronavirus in order to go viral on TikTok. So far, it appears to be working. Teens! (Blake Montgomery / Daily Beast)
+
+Avast, an antivirus program with more than 435 million users worldwide, said it will stop collecting and selling the private web browsing histories of its users. The company is also shutting down Jumpshot, the subsidiary organization it used to sell this data, after an excellent investigation at Vice. (Jason Koebler / Vice)
+
+Snapchat launched Bitmoji TV, 4-minute cartoons that put you and your friends’ customizable Bitmoji avatars into a flurry of silly animated situations. Fun! (Josh Constine / TechCrunch)
+
+The Unicode Consortium has revealed 117 new emoji that will be rolled out later this year as part of Emoji 13.0. There are 62 new emoji and 55 new gender and skin tone variants of emoji, including more gender-inclusive options. There’s also this! (Jay Peters / The Verge)
+
+And finally...
+
+People seem to think Corona beer is related to the coronavirus, as searches for ‘Corona beer virus’ are trending, according to Google Trends. 
+
+But you have to admit — it does sound delicious. 
+
+Talk to us
+
+Send us tips, comments, questions, and reasons that you both like and understand us: casey@theverge.com and zoe@theverge.com.

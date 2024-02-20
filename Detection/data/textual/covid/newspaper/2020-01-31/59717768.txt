@@ -1,0 +1,19 @@
+Novel coronavirus receptors show similarities to SARS-CoV, according to new analysis 
+ The recent emergence of Wuhan coronavirus (2019-nCoV) has put the world on high alert for transcontinental transmission, reminiscent of the outbreak of SARS -- also a coronavirus -- in 2002-2003.
+
+
+						
+Decade-long structural studies by Fang Li of the University of Minnesota, et al. have shown how the SARS virus (SARS-CoV) interacts with animal and human hosts in order to infect them. The mechanics of infection by the Wuhan coronavirus appear to be similar. These investigators used the knowledge they gleaned from multiple SARS-CoV strains -- isolated from different hosts in different years -- and angiotensin-converting enzyme-2 (ACE2) receptors from different animal species to model predictions for the novel Wuhan coronavirus. (Both viruses use ACE2 to gain entry into the cell, but it serves normally as a regulator for heart function.)
+
+"Our structural analyses confidently predict that the Wuhan coronavirus uses ACE2 as its host receptor," the investigators wrote. That and several other structural details of the new virus are consistent with the ability of the Wuhan coronavirus to infect humans and with some capability to transmit among humans.
+
+"Alarmingly, our data predict that a single mutation [at a specific spot in the genome] could significantly enhance [the Wuhan coronavirus's] ability to bind with human ACE2," the investigators write. For this reason, Wuhan coronavirus evolution in patients should be closely monitored for the emergence of novel mutations at the 501 position in its genome, and to a lesser extent, the 494 position, in order to predict the possibility of a more serious outbreak than has been seen so far.
+
+The research is published in the Journal of Virology, a journal of the American Society for Microbiology. The study provides the basic, translational and public health research communities with predictive insights that may help study and battle this novel coronavirus.
+
+
+
+
+							Story Source:
+
+							Materials provided by American Society for Microbiology. Note: Content may be edited for style and length.

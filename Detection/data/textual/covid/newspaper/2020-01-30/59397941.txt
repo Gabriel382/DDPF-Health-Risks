@@ -1,0 +1,52 @@
+How far could the new coronavirus spread? 
+ With every passing moment, another breaking report about the newfound coronavirus, 2019-nCoV, hits your news feed. So far, more than of the virus have been confirmed, including more than 100 cases beyond China.
+
+But one vital question is on many people's minds: How far will the virus spread?
+
+It can be maddeningly difficult to pin the answer down to a question like this, because the epidemic's extent will depend on a number of factors, including when infected individuals become contagious, how long they remain contagious and how long the virus can survive outside a human host.
+
+However, one estimate predicts that the total number of infections in five major Chinese cities — Beijing, Shanghai, Guangzhou, Shenzhen and Chongqing — will peak between late April and early May, according to a model developed by researchers at The University of Hong Kong . During this period, as many as 150,000 new cases may be reported in Chongqing each day due to the city's large population and the volume of travel from Wuhan to Chongqing, the team reported. The same model predicts that the number of people showing symptoms in Wuhan will spike to more than 50,000 by this upcoming weekend. Of course, things are changing rapidly, and the model’s estimates rely on many unknowns.
+
+Some disease transmission has already taken place beyond Chinese borders, . As the illness has been reported in 22 countries so far, additional international transmission may be inevitable, but whether the outbreak will reach epidemic levels remains to be seen. To answer that question, scientists are working to determine how quickly the virus can spread between people and at what stage the disease is most transmissible.
+
+A pathogen's ability to spread depends on its transmissibility, meaning how easily the bug can hop from one host to the next. Scientists estimate how efficiently a bug spreads between people by calculating a number known as R0, pronounced R-nought.
+
+Also known as the "basic reproduction number," R0 predicts the number of people who can catch a given bug from a single infected person. For example, diseases such as polio, smallpox and rubella have R0 values in the 5 to 7 range; such values mean that, on average, one sick person would be likely to infect five to seven people who were not resistant to the virus, according to the (CDC). The measles virus ranks among the most highly transmissible diseases on the planet, with an estimated R0 value of 12 to 18.
+
+As Chinese health officials confirmed more and more cases of 2019-nCoV, scientists around the world rushed to estimate R0 for the new virus. Last week, placed the figure between 2 and 3, while the that the virus's R0 falls slightly lower, at between 1.4 and 2.5. Other estimates have surpassed this range, . But what do all these numbers really mean?
+
+For context, know that diseases with an R0 below 1 typically disappear from a population before becoming widespread, as infected people recover faster than the bug can be transmitted to new hosts. "In general, you want an R0 below 1; that's how you know the disease is under control," Dr. Nancy Messonnier, director of the CDC's National Center for Immunization and Respiratory Diseases, said in a news briefing held Monday (Jan. 27). An R0 above 1 suggests that a given disease will continue to spread, but the number doesn't reveal how quickly transmission will take place.
+
+Related: Going viral: 6 new findings about viruses
+
+A pathogen's ability to spread depends on its transmissibility, meaning how easily the bug can hop from one host to the next. Scientists estimate how efficiently a bug spreads between people by calculating a number known as R0, pronounced R-nought.
+
+Also known as the "basic reproduction number," R0 predicts the number of people who can catch a given bug from a single infected person. For example, diseases such as polio, smallpox and rubella have R0 values in the 5 to 7 range; such values mean that, on average, one sick person would be likely to infect five to seven people who were not resistant to the virus, according to the (CDC). The measles virus ranks among the most highly transmissible diseases on the planet, with an estimated R0 value of 12 to 18.
+
+As Chinese health officials confirmed more and more cases of 2019-nCoV, scientists around the world rushed to estimate R0 for the new virus. Last week, placed the figure between 2 and 3, while the that the virus's R0 falls slightly lower, at between 1.4 and 2.5. Other estimates have surpassed this range, . But what do all these numbers really mean?
+
+For context, know that diseases with an R0 below 1 typically disappear from a population before becoming widespread, as infected people recover faster than the bug can be transmitted to new hosts. "In general, you want an R0 below 1; that's how you know the disease is under control," Dr. Nancy Messonnier, director of the CDC's National Center for Immunization and Respiratory Diseases, said in a news briefing held Monday (Jan. 27). An R0 above 1 suggests that a given disease will continue to spread, but the number doesn't reveal how quickly transmission will take place.
+
+Related: Going viral: 6 new findings about viruses
+
+Remember that R0 represents the average number of people that could be infected by a single contagious person; that seemingly straightforward number can reflect a variety of scenarios. An infection might ripple through a population in even waves, with each diseased person infecting a similar number of people. Alternatively, transmission might occur in sudden spurts, with a few so-called superspreaders passing on the infection to many people at once while other infected individuals recover before infecting anyone at all.
+
+In the early days of an outbreak, scientists cannot map these transmission patterns in detail, because they have too few data points. Such is the case with 2019-nCoV. "The cases that have been identified skew to the severe … How does this skew our understanding of the virus?" Alex Azar, secretary of the U.S. Department of Health and Homeland Security (HHS), said during a news briefing on Tuesday (Jan. 28).
+
+What's more, R0 estimates vary from location to location, as disease transmission depends on how often people in the affected area come into contact with each other and how prevalent infection is in a given population. The current estimates for  2019-nCoV are specific to the Chinese city of Wuhan, the epicenter of the ongoing outbreak.
+
+R0 values also depend on characteristics of the infection itself, including how long infected people remain contagious, whether asymptomatic people can pass on the disease and how long the bug can survive outside the body, according to a study published in the January 2019 issue of the journal .
+
+Chinese health officials reported isolated cases of disease transmission from asymptomatic people, but the CDC has not yet reviewed this data or verified the conclusion, CDC Director Robert Redfield said during the news briefing on Jan. 28. But even if asymptomatic transmission can occur, "an epidemic is not driven by asymptomatic carriers," added Dr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases. Historically, symptomatic carriers "shed" far more of the virus than asymptomatic people during outbreaks of respiratory infection, he said.
+
+Scientists will continue to refine the R0 estimate for 2019-nCoV as more data rolls in from around the world. Regardless of the final calculation, however, the new virus has already hopped aboard several international flights and spread far beyond Chinese borders.
+
+To prevent 2019-nCoV from spreading further, countries such as the U.S., Australia and the U.K. are screening travelers coming from China and quarantining those with potential infections. This week, the CDC announced that its screening efforts will be . In addition, health officials will monitor both infected people and their close contacts in order to identify more cases and better understand how the disease progresses over time.
+
+For those traveling home from China, passengers seated next to the window may be the least likely to pick up the virus from an infected person onboard, as people in the window seat move about the cabin less often and come into contact with fewer people passing in the aisles, . People seated in the same row as an infected person, however, stand the highest risk of infection.Imported goods from China should not carry infectious strains of the virus, especially given that most coronaviruses can survive on surfaces for only a matter of hours, Messonnier said on Monday (Jan. 27). "There's no evidence to support the transmission of this virus through imported goods," she said.
+
+"While the vast majority of Americans will not have exposure, some will," Messonnier added during the Jan. 28 news briefing. Health care workers stand the greatest risk of being exposed to the virus, but with only five confirmed cases nationwide, the threat of infection remains low for most Americans, she said.
+
+Since the start of the outbreak, the new virus has claimed 170 lives in China and infected more than 7,700 people worldwide. The true lethality and transmissibility of the virus will become clear in time, and meanwhile, health officials will continue developing diagnostics, therapeutics and preventative countermeasures to fight the disease. The average person can lower their risk of infection by washing their hands, covering their mouth when coughing or sneezing, and staying home when ill.
+
+In the words of the CDC's Redfield, "Everyone has a role to play to help contain the spread of this virus."

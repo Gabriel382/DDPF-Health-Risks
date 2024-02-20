@@ -1,0 +1,12 @@
+Apple releases iOS 13.3.1 update for all eligible iPhones, offers more control over U1 chip on iPhone 11 
+ For a while, there have been talks of Apple working to give its iPhone 11 users more control over the new U1 ultra wide band chip with the next update. Today, Apple has finally done that with its latest iOS update. The company has just released the iOS 13.3.1 update that offers more control to users of the iPhone 11 series devices for controlling access to location of the device. The update is coming to all iPhone devices and it brings in more fixes for known bugs in the previous version of iOS 13.
+
+The iOS 13.3.1 update is currently rolling to all iOS devices across the world and users will need to connect to a Wi-Fi network in order to download the update. The update package may vary in size from device to device but it should be mostly under 300MB. All iPhone users currently on iOS 13 will need to head over to the Settings app and navigate to the Software Update to check for the download prompt.
+
+
+
+The iOS 13.3.1 update has a rather elaborate list of bug fixes and improvements. The major changes come to the iPhone 11 models where Apple now offers users the ability to manually control the U1 ultra wide band chip. The U1 chip is used for collecting precise location data from other U1 chip enabled devices. Apple currently uses the chip for AirDrop in the current iteration of iOS 13.
+
+iPhone 11 users will also see another issue fixed that involved a momentary delay before editing photos taken with Deep Fusion enabled. For other iPhone users, Apple has also released a couple of fixes related communication limits, multiple undo dialogues in mail and more. The new update also brings support for Indian Siri voice to HomePod devices as Apple finally announces the HomePod smart speaker for India at a price of Rs 19,900.
+
+While Apple maintains its tradition of timely software patches to iPhones, rumours suggest that its upcoming iPhone 9 launch could be delayed due to the outbreak of the deadly Coronavirus in China. Several reports have suggested that the low-cost iPhone 9 could face delays before making it to the markets. Apple is expected to release the iPhone 9 before the end of March 2020.

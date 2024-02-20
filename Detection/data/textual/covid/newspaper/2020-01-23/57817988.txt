@@ -1,0 +1,22 @@
+How We Are Hedging China's Coronavirus Crisis 
+ The most interesting thing happening at the moment is the Chinese coronavirus that has sent the Chinese markets down 5% already this week and our 5% Rule™ says a weak bounce is 1% and a strong bounce would be 2% - so we'll see if the weak bounce fails tonight and, if so, we may be heading lower.
+
+Two more Chinese cities were placed on lockdown as over 1,000 people are now infected, up from 300 on Tuesday and 500 yesterday. At Wuhan’s Hankou rail station, thousands of travelers hustled to catch trains, many booked or changed at the last minute, to get out of the city before the lockdown on public transportation. Inside the station, people wearing face masks and dragging luggage jogged to catch departing trains. Almost every seat on the trains was occupied.
+
+In Hong Kong, health authorities on Thursday said they were investigating two patients who are suspected of having been infected with the new coronavirus, in what would be the Chinese territory’s first confirmed cases. Keep in mind they are "investigating" the disease in Hong Kong, AFTER the patients traveled from Wuhan on trains and in stations where they had contact with thousands of other people and AFTER they spent days in Hong Kong before getting sick enough to seek medical attention.
+
+There is still way too much market complacency here...
+
+So why are we cashing out our Futures Shorts? Well this market tends to be very bouncy so we're just playing the odds and we also have index shorts (SQQQ). We will be looking at adding more of those if the market opens weak. The Futures are just a good way of giving us overnight protection ahead of something like this weekend's announcement that there are thousands of people infected right at the beginning of Chinese New Year - that could be good for a huge overnight drop.
+
+The 2003 SARS Outbreak also began in January and was a crisis by March and lasted until about July, when vaccines were developed. It's good that people are freaking out about this early as we certainly don't want a repeat of SARS as it knocked over 2.5% off Hong Kong's GDP and over 1% off the GDP of all of China - something like that could topple the Chinese banking system as they are in the middle of a bad loan crisis already.
+
+We can hedge China's potential crisis with a long position on the China Ultra-Short (FXP), which should open this morning at $55 and just the straight stock should do well if Chna does poorly but I'd rather set up an options hedge as follows:
+
+That's net $4,850 on the $30,000 spread so there's $25,150 of upside protection if FXP gets to $65 into June expirations. If China recovers and we get completely burned, we're promising to buy 500 shares of FXP for long-term protection at $50 (20% off) and 500 shares of China Mobile (CHL) at net $41 (10% off). I don't see why the flu would have a long-term impact on China Mobile and Chinese stocks are very stretched and people are pretending the Government will bail out the banks but it's doubtful that will go smoothly, so I like the idea of having some FXP in our Short-Term Portfolio for the long term.
+
+Let's be careful out there!
+
+Disclosure: I am/we are long CHL, FXP, SQQQ. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.
+
+Additional disclosure: Positions as indicated but subject to RAPIDLY change (currently mainly cash and an otherwise slightly bearish mix of long and short positions - see previous posts for other trade ideas). Positions mentioned here have been previously discussed at http://www.Philstockworld.com - a Membership site teaching winning stock, options & futures trading, portfolio management skills and income-producing strategies to investors like you.

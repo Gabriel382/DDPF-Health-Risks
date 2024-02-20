@@ -1,0 +1,19 @@
+How to track the coronavirus: Dashboard delivers real-time view of the deadly virus 
+ The Center for Systems Science and Engineering has launched an online dashboard that is tracking the spread of the deadly coronavirus as it makes its way across China and beyond. 
+
+    
+        The live dashboard pulls data from the World Health Organization (WHO) -- as well as the centers for disease control in the US, China and Europe -- to show all confirmed and suspected cases of coronavirus, along with recovered patients and deaths. The data is visualized through a real-time graphic information system (GIS) powered by Esri. 
+Coronavirus is believed to have originated in Wuhan City, China, and so far has killed 81 people and sickened more than 2,800 in mainland China alone. Despite efforts by the Chinese government to quarantine the virus, cases have also been confirmed across Asia, Australia, Europe and North America. 
+As of Monday, there have been five confirmed coronavirus cases in the United States. In addition to those five patients, US health officials are currently monitoring 110 people across 26 states for the virus. Those infected with coronavirus are exhibiting pneumonia-like symptoms, including fever, cough, and shortness of breath.
+Additional resources for tracking the virus include this page from the US Centers for Disease Control and Prevention and another from the WHO. These websites list up to date news on the spread of the virus as well as situation reports and maps of infected areas.
+    
+    
+
+
+Coronavirus was first reported to the WHO on Dec. 31, with Chinese investigators linking the disease to the coronavirus family of viruses, which also includes the deadly SARS and Middle East respiratory syndrome (MERS). 
+Dr. Nancy Messonnier, the director of the National Center for Immunization and Respiratory Diseases, said on a conference call Monday that the public risk in the US right now is still considered low.
+
+
+
+    "We understand that many people in the United States are worried about this virus and how it will affect Americans," Messonnier said. "Every day we learn more, every day we assess to see if our guidance or our response can be improved."
+Nonetheless, financial markets have started reacting to the fears of a global pandemic. On Monday the DOW Industrial was down as much as 549 points after the opening bell. The SP 500 also fell 1.3% and the Nasdaq Composite (COMP) dropped 1.7%.

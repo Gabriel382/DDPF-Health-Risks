@@ -1,0 +1,56 @@
+Diana Shipping: Another Storm Is In, But A 60%+ Discount To NAV Is Enticing 
+ There still may be more downside due to the nCoV black-swan, but I'll be buying this dip.
+
+One of my favorites, Diana Shipping, is now trading at a staggering 60%+ discount to Net-Asset-Value based on the age of its vessels and total DWT.
+
+Following the enactment of IMO 2020 and the Coronavirus, the Baltic Dry Index has crashed toward its long-term support level.
+
+Shipping stocks have been unable to catch a wave over the past decade. Whenever a rebound occurs, it is often followed by a large decline to new lows. Shipping rates have crumbled as commodity production has been in a decade-long glut, leading to a slightly lower demand for shipping. Even more, Asian nations have drastically increased their dry-bulk fleet size and the volume of bulk carriers has essentially doubled over the past decade.
+
+The increase in competition has pushed numerous major shipping companies into bankruptcy. The baltic-dry index recently fell back to its long-term support level which means that shipping revenues are likely to decline over this quarter for all shipping companies. That said, following the recent sell-off, there is blood in the seas and it may be a good time to hunt for some deep value plays.
+
+There are reasons to believe that the long-term trend in shipping is making a bottom. First of all, the primary reason for the depression in shipping was the tremendous annual growth of vessels during the 2000s that has since fallen dramatically:
+
+As a percent of dead-weight-tonnage, the weighted average age of the volume of ships is about 8-11 years depending on the type. Most dry-bulk ships last about 20 years, but production has been so low (50K DWT's on order in 2019 compared to 325K in 2010) that there is likely to be a significant shortage toward the latter half of the decade.
+
+The shortage maybe even sooner as the sweeping IMO 2020 regulation that aims to reduce sulfur emissions by 80% via ship upgrades that add a scrubber or using higher-cost cleaner fuel. Since profits were high last year and it takes around 6 months for a scrubber to be made, there has been limited adoption of the upgrade. So far, reports from Shipping companies generally express the feeling that enforcement has begun with a rough-start, but it seems likely that there will be a drop in supply as China recently busted two vessels for non-compliance. Furthermore, this has brought about a surge in ship demolition.
+
+While these changes may increase capital expenditures in the short-run, I believe they mark a fundamental shift in the shipping market. Counter to the trend over the past decade, demand is likely to grow faster than supply. Add on the impact of a rise in commodity prices (due to slowing supply growth in fossil fuels and metals), and it is likely that the 2020s will be a strong bull-market for shipping.
+
+In my opinion, Diana Shipping (DSX) is a solid way to bet on a turnaround in shipping stocks. The company has been selling its older lower-profitability vessels and using the funds to finance share buybacks. Importantly, the company has specifically taken this approach instead of buying in high-cost scrubbers, meaning that the company will need to pay a bit more for cleaner fuels. When the new bull-market for shipping arrives, this will bring about a significant increase in the share price given a stable increase in earnings.
+
+To illustrate, take a look at the company's shares outstanding, total asset value, and cash reserves:
+
+As you can see, the company has been using much of the proceeds from these asset sales to reduces shares outstanding and increase much-needed cash reserves. I'm often skeptical of share-buybacks when they occur in large highly valued firms, but when a company is trading far below its NAV, the practice is likely to reward long-term investors.
+
+As you can see below, the trend in DSX's price is highly correlated to the level of the Baltic Dry Index which tracks the price of shipping rates that Diana's vessels ship:
+
+When the index is below the 1000 level, it is likely that Diana, and most dry-bulk shippers, will see losses. The index is currently at 546 which implies a dire situation for many shippers. The rise last year was due in part to higher-than-expected economic growth combined with fears over a supply shortage following IMO 2020. As those fears have yet to pan-out and short-term commodity demand & supply from China likely to drop due to the Coronavirus, the index has crashed back to its long-term support level.
+
+The relationship between the index and Diana shipping's price is seen better through the Breakwave Dry Bulk Shipping ETF (BDRY) which tracks the index via futures:
+
+As you can see, the two have been trading together over the past two years. Last time BDRY was at this level, it and DSX both bounced higher.
+
+Because the index is at a long-term support level and supply of vessels may be constrained, I do not believe it can fall much lower. At this level, there are very few, if any, shipping companies that will be able to turn a profit and, if the index does not return higher, shipping-scrapping (demolition) is likely to continue to soar.
+
+Because most shipping companies do not return a profit or even an EBITDA profit, they are notoriously hard to value. Our best bet is to try to use recent comparable vessel sales to estimate the company's liquidation value.
+
+Diana Shipping currently has 13 Panamax carriers, 5 Kasmsarmax carriers, 5 post-Panamax carriers, 14 capsize carriers and 4 Newcastle max carriers. Most were built during the "building boom" in the late 2000s to the early 2010s. This adds up to a carrying capacity of 5.2M DWT's with a weighted average age of 9.6 years.
+
+Using current bulk vessel prices from the broker Hoizonship and recent sales data from Compass Marine I calculated the price/DWT of 13 ships and regressed against their age. See results below:
+
+While there are many variables that impact the value of a vessel (that are beyond my expertise), age is the dominant factor and is a very strong predictor of value. Considering Diana has 41 ships, most of the "errors" (from other explanatory variables) should cancel out.
+
+With a fleet weighted average age of 9.6 years, we can assume that the value/DWT of Diana's ships is, on average, $224. Multiplying by Diana's 5.2M DWT's, we get a liquidation value of $1.16B which is nearly the same as the company's total assets of $1.1B. Subtract the company's $508M in total liabilities and add its $127M in cash, and we come to a NAV of $779M. Importantly, the company's current market capitalization is far lower at $255M, meaning a staggering in 200% in potential upside just to reach NAV.
+
+Now, given the current situation in shipping, it is understandable for a company to be trading at a discount to its NAV. Using NAV as the high-end price-target and a 30% discount to NAV as its low-end target, we come to a per-share target range of $5.9-$8.4 which is considerably higher than the stock's current $2.75 price.
+
+If you're a long-term buyer who is willing to dance with volatility, now could be a good time to buy shipping stocks as, more likely than not, the Baltic Dry Index is unlikely to fall further. That said, as fears regarding nCoV-2019 grow and investors realize its economic implications, there could be a more significant downside in shipping stocks. As witnessed by Diana's 10% drop this month, the company is not immune to this problem.
+
+That said, the company is trading at a significant discount not only to its recent price (it was at $4 just three months ago and is now at $2.75), but also to its Net-Asset-Value.
+
+While it is a gamble for the company not to pursue upgrades and stick with the more expensive clean low-sulfur fuel. This is offset by their repurchase of shares from asset sales and the fact that refineries increased production of the clean-fuel ahead of time, resulting in stable fuel prices.
+
+Obviously, there may be more storm before the calm, but when the calm comes, shipping stocks will likely perform very well. I will likely be looking to buy the ongoing dip over the coming weeks with an emphasis on firms trading at least 50% below NAV like Diana.
+
+Disclosure: I/we have no positions in any stocks mentioned, but may initiate a long position in BDRY, DSX over the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.

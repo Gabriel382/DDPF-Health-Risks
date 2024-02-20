@@ -1,0 +1,26 @@
+Worried you were on a train with someone infected with the Wuhan coronavirus? This AI-backed platform lets you find out 
+ Chinese internet company Qihoo 360 has partnered with a Chinese tech firm to introduce a platform that lets users check if they have recently travelled with someone who contracted the new coronavirus.
+
+By entering the date of their journey, together with flight or train numbers, users can find out if they were travelling with someone who has been infected with the virus. The platform also advises those who have travelled with a person confirmed to have the virus to self-quarantine and seek medical attention if they observe symptoms such as a fever.
+
+NoSugar Tech compiled and manually verified public data from sources such as China’s state television broadcaster and state media such as People’s Daily for input into the platform, which employs Qihoo 360’s artificial intelligence (AI) and big data technology to ensure that the information is updated and reliable.
+
+According to local media reports, more than 21 million people used the service within two days of its launch.
+
+Under the partnership between Qihoo 360 and NoSugar Tech, users of 360 products can access the platform via 360’s apps and services, including its browser and mobile security app.
+
+The roll-out of such a service comes amid the Wuhan coronavirus outbreak, in which nearly 8,000 cases have been recorded with 170 deaths as of Thursday afternoon– the vast majority of both occurring in China. The outbreak coincided with the Lunar New Year, exacerbating the spread of the virus as millions of Chinese travelled across the country and internationally for the holidays.
+
+Separately, some Chinese tech companies are offering use of their AI technology at no cost. A Chinese company called AISpeech wrote in a WeChat post that its AI chatbots, which can make automated calls to people and record their responses, would be free of charge for governments, medical institutions and charities.
+
+AISpeech’s robot calling system would enable these organisations to reach out to a large number of people to survey their recent travel history and record their responses. It can also provide recommendations for quarantine or information about the new coronavirus situation based on people’s responses.
+
+Large tech companies, such as Baidu and Alibaba, have made their cloud computing technology available to researchers for free in the hope that it will help accelerate research and development of cures and vaccines for the virus. Alibaba is the parent company of the South China Morning Post.
+
+Baidu on Thursday said it was making its AI algorithm, which it claims can analyse the genome secondary structure of the new coronavirus within just 27 seconds, available for free to gene testing institutions, epidemic prevention centres and scientific research centres around the world.
+
+Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis into the latest industry developments, and actionable and objective intelligence about China AI that you should be equipped with.
+
+This article Worried you were on a train with someone infected with the Wuhan coronavirus? This AI-backed platform lets you find out first appeared on South China Morning Post
+
+For the latest news from the South China Morning Post download our mobile app. Copyright 2020.

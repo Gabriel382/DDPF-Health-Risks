@@ -1,0 +1,38 @@
+Samsung Profit Slides 38% With Stubborn Memory-Chip Slump 
+ (Bloomberg) -- Samsung Electronics Co. reported a 38% decline in profit due to falling memory chip prices, a warning sign for the global technology industry as it navigates trade tensions and the coronavirus outbreak.
+
+Net income tumbled to 5.23 trillion won ($4.4 billion) for the three months ended December, compared with the 5.31 trillion won average of projections. The miss is a surprise because Samsung carefully orchestrates earnings, including reporting preliminary numbers a few weeks before final results. The early numbers this month beat analyst estimates.
+
+Samsung has been struggling with a stubborn slump in the memory chip business, historically its most profitable division, and said the weakness would affect first quarter results. The company also flagged soft demand in the display business for some premium mobile screens and a bigger loss on large displays because of sliding LCD prices.
+
+“There are too many factors that need to be considered to conclude that we have entered into a definite demand upcycle,” said Jinman Han, senior vice president of the semiconductor business at Samsung, highlighting macroeconomic and geopolitical uncertainties that may have a negative impact in the future.
+
+Samsung shares fell about 2% in Seoul. They had increased 5.9% this year through Wednesday, after rising about 44% in 2019. Operating profit was 7.16 trillion won on sales of 59.9 trillion won, the company said, in line with preliminary numbers released earlier this month.​
+
+Apple Inc., a rival and customer, reported strong earnings this week, sending shares to a record in U.S. trading. Earlier this month, chip giants Taiwan Semiconductor Manufacturing Co. and Intel Corp. provided bullish outlooks for 2020, driven by demand for cloud-computing centers and fifth-generation smartphones.
+
+The coronavirus that began in China has closed stores and factories in the country, the manufacturing base for much of the tech industry. Several companies, including Apple, have said they are uncertain how the outbreak will affect them.
+
+Samsung, SK Hynix Inc. and Micron Technology Inc. together control more than 90% of the market for dynamic random access memory, or DRAM, chips, used in everything from data servers to smartphones. Spot prices of DRAM and NAND started increasing in December after getting hammered for a year amid rising trade tensions between the U.S. and China as well as plateauing smartphone sales.​
+
+The chip industry has been anticipating a recovery as the roll-out of fifth-generation wireless technology spurs higher demand for memory and greater speeds to process data. Samsung did say there are signs of recovering demand from data center customers and wireless operators.
+
+Contract prices for 32-gigabyte DRAM server modules fell about 5.9% in the December quarter, narrower than the 14% slide of the September quarter, according to InSpectrum Tech Inc. Prices for 128-Gb MLC NAND flash memory chips held steady in the final three months of 2019.
+
+“Memory-chip suppliers still have a high level of inventories,” said Lee Joo-wan, research fellow at Hana Institute of Finance. “As the first half of the year is off-season, it may take time for recovering prices to be reflected in the performance of suppliers.”
+
+Samsung’s smartphone division had a stronger quarter, posting 2.52 trillion won in operating income, up from 1.51 trillion won a year earlier. Although the total shipments of smartphones slightly decreased, high-end devices such as the Galaxy Note 10 and Galaxy Fold boosted profits in the fourth quarter.
+
+The average selling price of Samsung handsets and tablets was $216 in 4Q, which the company forecasts will increase this quarter as it launches new flagship and premium models. Samsung’s new clamshell-type foldable phone, which will be unveiled Feb. 11, is expected to further fuel growth, said Greg Roh, senior vice president at HMC Securities.
+
+Samsung’s operating profit from its display business was about 220 billion won, down from about 970 billion won a year earlier. The company is investing heavily in flexible organic light-emitting diode panels, upgrading its technology to ward off rising competition from Chinese suppliers such as BOE Technology Group Co.
+
+The consumer electronics unit, which includes TVs and appliances, had operating profit of about 810 billion won.
+
+To contact the reporter on this story: Sohee Kim in Seoul at skim847@bloomberg.net
+
+To contact the editors responsible for this story: Edwin Chan at echan273@bloomberg.net, Peter Elstrom, Vlad Savov
+
+For more articles like this, please visit us at bloomberg.com
+
+Subscribe now to stay ahead with the most trusted business news source.

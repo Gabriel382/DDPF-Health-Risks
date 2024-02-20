@@ -1,0 +1,8 @@
+As virus spreads, Facebook and Instagram will remove posts with coronavirus misinformation 
+ Hours after the World Health Organization declared the coronavirus an international public health emergency, Facebook has announced that two of its platforms, Facebook and Instagram, will remove posts that have been rated by its fact-checkers to contain false information about the virus. As Facebook stated in a blog post:
+
+We will also start to remove content with false claims or conspiracy theories that have been flagged by leading global health organizations and local health authorities that could cause harm to people who believe them. We are doing this as an extension of our existing policies to remove content that could cause physical harm. We’re focusing on claims that are designed to discourage treatment or taking appropriate precautions. This includes claims related to false cures or prevention methods — like drinking bleach cures the coronavirus — or claims that create confusion about health resources that are available.
+
+Beyond removing coronavirus misinformation, users will also be warned when they try to share posts with misinformation about the virus. Additionally, the company will restrict hashtags about the virus on Instagram—or block some hashtags entirely.
+
+As of today, the coronavirus has spread to 18 countries. China is the worst hit with more than 10,000 cases nationally so far. Of those 10,000 cases, 213 of the infected have died, reports the BBC. The other countries have a combined total of around 100 cases of infection, though the fear is those cases could cause rapid spread in countries with less developed disease surveillance and screening methods.

@@ -1,0 +1,24 @@
+Coronavirus treatment and vaccine could be one step closer thanks to an antibody which can neutralise 2019-nCoV 
+ Scientists believe an antibody could soon help develop antiviral drugs and vaccines for the new and deadly Wuhan coronavirus, dubbed 2019-nCoV. Since the end of last year, the virus has killed 213 people, all in mainland China.
+
+The team of scientists in China looked at what are known as monoclonal antibodies which were created for severe acute respiratory syndrome (SARS), which like 2019-nCoV is a member of the large coronavirus family of pathogens. Antibodies are proteins which the immune system creates to remove foreign objects like viruses, known as antigens, from the body. The monoclonal kind are made in labs to mimic the body's responses to antigens.
+
+The researchers found an antibody which bound to the surface of the 2019-nCoV and appeared to neutralize it.
+
+The team also found several other antibodies which bound to and neutralized SARS, but not 2019-nCoV. That means it is still necessary to develop new monoclonal antibodies specifically for 2019-nCoV. The findings were published as a preprint on the website bioRxiv, meaning it has not been peer reviewed.
+
+Experts welcomed the findings but cautioned the antibody is not yet close to being harnessed against the new virus which is thought to have first started spreading from a wholesale food market in the central Chinese city of Wuhan, Hubei province, in December 2019. Since then it has spread to over a dozen countries, including the U.S., as the infographic from Statista below shows.
+
+Dr. Andrew Freedman, a reader in infectious diseases and honorary consultant physician at Cardiff University in the U.K., told Newsweek the discovery may aid the development of methods for preventing and treating the new bug.
+
+But Freedman said: "much more work would be required before this could be used in patients and it is unlikely to work on its own. More likely a 'cocktail' of different antibodies would be required."
+
+He explained: "Most effective antiviral agents, such as for HIV, work by blocking replication of the virus or entry of the virus into cells, rather than by neutralising the virus with antibodies which have to be administered by injection, rather than orally.
+
+"That said, work like this is important to gain further understanding of this new virus in order to develop effective treatment and vaccines."
+
+Referring to the part of an antigen molecule which an antibody attaches to, Bill Keevil, professor of environmental healthcare at the University of Southampton, U.K., told Newsweek: "If true then they are fortunate to have found a common epitope between SARS and Wuhan [2019-nCoV] for the same antibody to bind to, especially since SARS is only 80 percent related genetically to Wuhan [2019-nCoV]."
+
+But first the team of scientists must find a way to scale up production, work out doses needed, and confirm it is safe to use in patients before it can be rolled out. "Not trivial," he said.
+
+Paul Hunter, professor in medicine at the U.K.'s Norwich School of Medicine, University of East Anglia, told Newsweek that "the identification of a potent blocking antibody could have major implications for development of a therapy that reduced severity and mortality of the infection."

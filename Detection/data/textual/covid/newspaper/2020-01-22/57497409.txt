@@ -1,0 +1,8 @@
+Biotech firm Moderna is working on a vaccine for China's deadly coronavirus 
+ Moderna on Tuesday said it is working with U.S. government health agencies to develop a vaccine for the current strain of coronavirus that has killed nine and infected hundreds more in China.
+
+The biotech company is working with the National Institutes of Health, the National Institute of Allergy and Infectious Diseases, and the Vaccine Research Center on a potential vaccine, the company said in a Securities and Exchange filing.
+
+"Moderna's mRNA vaccine technology could serve as a rapid and flexible platform that may be useful in responding to newly emerging viral threats, such as the novel coronavirus," the company said in the filing. "While we have not previously tested this rapid response capability, Moderna confirms that we are working with NIH/NIAID/VRC on a potential vaccine response to the current public health emergency."
+
+Moderna, founded in 2010, is using Amazon's cloud platform for more than a dozen drug candidates in the pipeline, with seven going through trial studies, according to Amazon Web Services. The cloud service is used to help speed up the amount of time it takes to get the drugs from research to clinical trials.

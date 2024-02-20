@@ -1,0 +1,24 @@
+Beginning to look 'pretty intense': Former CDC head who led U.S. SARS response speaks about coronavirus 
+ The world is in the midst of an ongoing and accelerating outbreak of a deadly new coronavirus.
+
+But this is not the first time the world has faced a new viral threat that originated in China. In 2003, more than 8,000 people were infected with the virus that caused SARS, or severe acute respiratory syndrome, and nearly 800 died.
+
+As director of the Centers for Disease Control and Prevention during that time, Dr. Julie Gerberding led the U.S. public health response to SARS. She is now chief patient officer for Merck & Co.
+
+NBC News spoke to Gerberding about the ongoing coronavirus outbreak.
+
+As an epidemiologist, I'm especially interested in the transmission. What is the incubation period? What is the period when people can pass the infection onto someone else? How readily is it transmitted?
+
+We have a lot of numbers floating around out there in terms of incubation. We just really need to nail down what we call the transmission parameters, so that we can model and predict: What's the likely propagation of this outbreak? What threat does it really represent to the rest of the world?
+
+That’s part of it. Any time we have a new outbreak with a new pathogen, it does create an element of fear. But I think we're seeing also that it does seem to be spreading very fast. We went from a few hundred cases, now we're over 3,000 cases and climbing. [Editor's note: By the time of publication, cases have exceeded 4,500.] We had one hot spot, now we have several cities across China where there are some clusters of cases.
+
+We've seen transmission in families. We've seen health care workers get infected, so it's beginning to look like the transmission pattern is pretty intense. In medical terms, it seems to have some characteristics that look more like influenza than SARS.
+
+I don’t really want to speculate because influenza is so variable from one season to the next. But some of the characteristics of the early phase in this look more like a very rapidly spreading influenza situation. The good news is that the mortality isn't as high as we saw with SARS, and that's reassuring.
+
+The bad news is that the mortality is high enough, and if you have large numbers of people infected with the kinds of crude estimates of mortality that we have right now, that's going to affect a lot of people. And that's what really concerns me the most.
+
+Honestly, we don't know, and part of the reason that it's continuing at this point in time is because testing is just becoming available. So, while we’re seeing a big bolus [large number] of diagnosed cases, we don't yet know when they were actually infected.
+
+What we're waiting for from the World Health Organization is the "epi curve," which is the graph that shows, by date, the number of new cases and the date of onset of their symptoms. It may be that we've been seeing 200 cases a day over 10 days, or it may be that we saw 3 cases, and then we saw 15 and then we saw 100 and then we saw 500 and now a thousand.

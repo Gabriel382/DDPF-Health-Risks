@@ -1,0 +1,27 @@
+Coronavirus update: Scientist reveals how contagious and deadly virus is 
+ There are now more than 6,000 confirmed cases of the Wuhan coronavirus across Earth, with many more anticipated. The virus first broke out in December, but since January 20 there has been a major boom in patients.
+
+This is because of the way the virus spreads, according to a doctor who has analysed just how contagious the Wuhan coronavirus is.
+Scientists calculate how contagious a virus is by determine its reproduction number, known as R0.
+The R0 is the average number of people one person infects on average.
+For example, if a virus has an R0 of two, the first person infects two people, then those two people infect two people each, then those four people infect two more each and so on.
+
+According to estimates from the World Health Organisation (WHO), the Wuhan coronavirus has an R0 of between 1.4 and 2.5.
+Raina MacIntyre, professor of global biosecurity at the Kirby Institute, UNSW Sydney, wrote in an article for The Conversation: “Researchers and public health officials determine how contagious a virus is by calculating a reproduction number, or R0.
+“The R0 is the average number of other people that one infected person will infect, in a completely non-immune population.
+“Different experts have estimated the R0 of the Wuhan coronavirus is anywhere from 1.4 to over five, however the World Health Organisation believes the R0 is between 1.4 and 2.5.
+READ MORE: Coronavirus revelation: Why certain viruses are emerging from China
+
+“Coronaviruses are respiratory viruses, so they can be found in the nose, throat and lungs. The amount of Wuhan coronavirus appears to be higher in the lungs than in the nose or throat.
+“If the virus in the lungs is expelled, it could possibly be spread via fine, airborne particles, which are inhaled into the lungs of the recipient.”
+Prof Raina added that up to three percent of cases result in death, wile up to 21 percent of people who catch the virus become “severely ill”.
+Researchers from the prestigious Johns Hopkins University in the US have created a live map of the virus, which allows you to track in real-time.
+DON'T MISS
+Coronavirus: Britons returning from Wuhan face two-week quarantine [NEWS]
+Coronavirus: Eerie pictures capture Beijing GHOST TOWN [PICTURES]
+Olympic events at risk due to coronavirus as fears grow over virus [INSIGHT]
+
+Using data from the WHO and the Centers for Disease Control (CDC), the map shows where the virus has reached, the death toll and even how many people have recovered from the virus - 110 at the time of writing.
+According to the map on January 29, there has been a total of 6,057 confirmed cases of coronavirus worldwide, with 110 deaths, at the time of writing.
+Lauren Gardner, a civil engineering professor at Johns Hopkins Center for Systems Science and Engineering, who helped to create the map, said: “We built this dashboard because we think it is important for the public to have an understanding of the outbreak situation as it unfolds with transparent data sources.
+“For the research community, this data will become more valuable as we continue to collect it over time.”

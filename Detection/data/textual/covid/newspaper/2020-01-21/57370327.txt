@@ -1,0 +1,36 @@
+The Markets Catch A Mild (Corona)Virus (Technically Speaking For 1/21) 
+ While actively managed funds did well last year, the number of funds able to repeat that performance was small.
+
+The Bank of Japan voted to continue with a -0.1% rate applied to the "policy rate balances." The bank will maintain "Yield Curve Control" which means it will buy a sufficient amount of 10-year bonds to keep long-term rates at 0%. This is how they described the current state of the Japanese economy (emphasis added):
+
+Japan's economy has been on a moderate expanding trend, with a virtuous cycle from income to spending operating, although exports, production, and business sentiment have shown some weakness, mainly affected by the slowdown in overseas economies and natural disasters. Overseas economies have been growing moderately on the whole, although slowdowns have continued to be observed. In this situation, exports have continued to show some weakness, and industrial production has declined recently, due partly to the effects of natural disasters. On the other hand, with corporate profits staying at high levels on the whole, business fixed investment has continued on an increasing trend. Private consumption has been increasing moderately, albeit with fluctuations due to such effects as of the consumption tax hike, against the background of steady improvement in the employment and income situation. Housing investment has been more or less flat, and public investment has increased moderately. Meanwhile, labor market conditions have remained tight.
+
+The following table shows key coincidental economic data: Data from Tradingeconomics.com and various Japanese governmental statistics agencies; compiled by author.
+
+According to Markit PMI data, both the manufacturing and service sectors are in a contraction. GDP growth is moderate. The retail sales number has bounced around due to a consumption tax hike that went into effect a few months ago. Industrial production has been hurt by the trade war. Unemployment is very low as is inflation. The bank is betting that short-term weakness is temporary. This is a good bet as China -- the epicenter of Asian economic activity -- has stabilized.
+
+Scott Grannis argues that there are currently a number of "green shoots" present in the US economy:
+
+This leads to his conclusion that the possibility of a recession is very low -- an assessment I agree with.
+
+While actively managed funds did pretty well last year, the number of funds that were able to repeat that performance remains small (emphasis added):
+
+Finally, we took a closer look at active funds that had succeeded in a given calendar year to see how many of those funds were “repeat” (that is, two successful calendar years in a row) or “threepeat” (that is, three consecutive successful years) winners. What we found was that 12% of the 1,999 active funds that beat their benchmark in 2019 had achieved that same feat in 2018, and only 16% had pulled off a hat trick by topping their index in 2017 and 2018. In other words, around 11% of all active funds were repeat or threepeat winners in 2019.
+
+This explains a key philosophy underlying my new newsletter, the Passive-Aggressive Investor.
+
+Let's take a look at today's performance tables. This is a classic defensive table. The long end of the Treasury market led the way higher followed by the belly of the curve. The QQQ was the "best" performing equity index, and it was off 0.02%. At the bottom are mid and small-caps. The sector performance supports the defensive analysis. Only four sectors rose; all are defensive. And the other end are basic materials, industrials, and energy.
+
+Let's take a look at today's chart for the SPY: Prices opened lower, then rallied to unchanged in the late AM. News of the coronavirus hitting the US shores sent the market lower.
+
+There's also a touch of weakness in the 5-day time frame: Small-caps have rolled over during the last two trading sessions, and ... ... mid-caps are a touch weaker.
+
+That weakness is also visible in a few 2-week charts: Mid-caps have broken a trend, as have ... ... small-caps. But the SPY is still in a solid uptrend.
+
+And there are also several positive trends at the sector level. Tech is still in an uptrend, although today's action sent the ETF down modestly. Communication services are still moving higher, as is ... ... healthcare.
+
+Today's action is as much a blowing-off steam session as anything else. Let's see if that trend continues tomorrow.
+
+Author's note: This is my regular post for Tuesday-Friday which covers economic and technical developments in the US equity markets. Please see my weekly bond market and international post for developments in those areas. This column will periodically reference those columns for context. My Friday Technically Speaking column includes an overview of the US economy to provide an investing backdrop. Finally, the Passive-Aggressive Investor, which is published on Mondays, explains my basic portfolio strategy.
+
+Disclosure: I/we have no positions in any stocks mentioned, and no plans to initiate any positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.

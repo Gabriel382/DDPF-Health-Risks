@@ -1,0 +1,42 @@
+Facebook, Google and Twitter scramble to stop misinformation about coronavirus 
+ Already, Facebook and its peers have tried to battle back pervasive conspiracy theories, including a hoax that wrongly claims U.S. government officials secretly created or obtained a patent for the illness. Some of the misinformation has circulated through private Facebook groups — channels that are hard for researchers to monitor in real-time — that came into existence after news first broke about the coronavirus.
+
+“Oregano Oil Proves Effective Against Coronavirus,” read one post that had been shared at least 2,000 times across multiple groups by Monday. The original post is a decade old, originating on a holistic care website — and scientists have said there is no such cure for coronavirus.
+
+Nine organizations that partner with Facebook on fact checking have rated multiple coronavirus claims as false, including those peddling fake treatments, the company said Monday. Facebook said it has labeled the inaccuracies and lowered their rank in users’ daily feeds. 
+
+Twitter, meanwhile, has started steering some users searching for coronavirus-related hashtags to more authoritative sources. And Google-owned YouTube said its algorithm also prioritizes more credible sources. Still, a number of videos there — including one with more than 430,000 views —pushed dubious information about the origin of the coronavirus and its means of transmission.
+
+The threat of fast-encroaching falsehoods freshly illustrates how powerful social-networking tools for organizing and creating communities quickly can become problematic echo chambers during heath scares. Whether out of malice, fear or misunderstanding, users easily can share and reinforce misinformation in real time, complicating the work of doctors and government officials in the midst of a public-health crisis.
+
+“It’s captivated the public and been trending on social media as people look for more information,” said Renee DiResta, research manager at Stanford Internet Observatory. “So, the platforms should certainly be putting their fact-checking and algorithmic downranking of conspiracy content to work here.”
+
+She added: “This kind of content dynamic is not unique — it shows up for any new outbreak, at this point.”
+
+In seeking to head off misinformation about the coronavirus, Facebook, Google and Twitter also are grappling with their responsibilities as online gatekeepers.
+
+On one hand, these and other tech giants forcefully argue against acting as “arbiters of truth,” in the words of Facebook CEO Mark Zuckerberg, deciding what users can say online. At the same time, they also recognize that totally unfettered speech carries immense risks, particularly in the fields of health and medicine, where the posts, photos and videos people share can shape how patients think and their decisions to seek and obtain much-needed care.
+
+Generally, all three tech giants maintain specific policies around health-related posts, aiming to ensure digital debates don’t cause real-world harm. But Silicon Valley’s most popular services still have struggled to strike the right balance in the eyes of regulators and health professionals. It took months of criticism, for example, before Facebook responded to critics and acted in response to content that wrongly linked vaccines to autism. Many such groups promoting “natural” cures still remain on the site, though Facebook now warns people before they join them.
+
+Similarly awash in anti-vaccine videos, Google tweaked its YouTube algorithms last year to stop a wide array of harmful content from surfacing in search results, and Twitter introduced similar efforts to redirect users searching about anti-vaccine topics to more credible results. But dangerous disinformation remains available on those platforms, too, prompting rebukes from U.S. health officials who still see social media as a vulnerability.
+
+Major disease outbreaks threaten to serve as breeding grounds for even more harmful disinformation, experts said. Almost four years ago, inaccurate posts about the global, mosquito-borne Zika illness dwarfed the popularity of more authoritative sources of information about the outbreak, according to researchers at the Medical College of Wisconsin in Milwaukee. Their findings in 2016 raise fresh concerns for Facebook, Google and Twitter as the coronavirus surfaces as a new global health threat.
+
+“We’re in a low information zone. Scientists have been looking at this, but there isn’t a ton of well marked patterns around how this particular virus spreads,” said Joan Donovan, director of the Technology and Social Change Research Project at the Shorenstein Center.
+
+As the infection count ticked higher, Facebook and Twitter over the weekend experienced an influx of popular posts suggesting U.S. or other foreign governments previously had obtained patents for the coronavirus. One tweet calling the coronavirus a “fad disease” — again repeating it had been patented — had been shared roughly 5,000 times on Twitter as of Monday.
+
+Six of Facebook’s third-party fact-checkers have rated those claims false, pointing to the fact that researchers had patented gene sequences for other, older viruses. But closed, private Facebook groups with thousands of members who swear off medicine formed around topics like “natural healing” and helped to incubate the hoax anyway.
+
+Thousands of Facebook users joined newly created communities specifically to swap insight around the coronavirus, a search of the social-networking site shows. That creates bubbles of potential misinformation that researchers say can be hard to penetrate.
+
+More than 1,100 Facebook users, seemingly fearful of the deadly illness, flooded into the group “Coronoavirus Warning Watch.” People there have traded theories about its spread — in some cases suggesting it’s about “population reduction” — along with links for where to buy masks and other medical gear. As with all groups, posts, photos and videos shared there are pushed toward the participant’s news feed, enhancing their reach.
+
+Still others have used private, coronavirus-focused groups to hawk theories that oregano oil or colloidal silver can treat such maladies, which is false. In a few cases, the posts link to YouTube videos, including an 11-minute clip — now with more than 20,000 views — that wrongly say the virus has left “180,000 dead” in China while hawking fake cures.
+
+Farhad Shadloo, a spokesman for YouTube, said the company is “investing heavily to raise authoritative content on our site and reduce the spread of misinformation on YouTube,” such as ensuring that people searching for news first see authoritative results. YouTube declined to detail if it is taking any other specific action around coronavirus-related videos.
+
+On Twitter, meanwhile, some users with large followings have shared unsubstantiated claims that coronavirus spread to humans because of Chinese dietary habits. The tweets and videos — many with thousands of shares on the social-networking site — play on racist tropes about the Chinese, experts said, at a moment when scientists have not yet pointed to a specific origin for the contagion.
+
+In response, Twitter spokeswoman Katie Rosborough pointed to policies that prohibit people from coordinating efforts to mislead users. She said the company also is expanding a feature in the Asia-Pacific region so that “when an individual searches a hashtag they’re immediately met with authoritative health info from the right sources up top.”

@@ -1,0 +1,22 @@
+Microsoft's Surface sales near $2 billion, but its Azure cloud business is growing faster 
+ Cloud, cloud, cloud, followed by Office, gaming, Surface and then Windows: By now, Microsoft has laid out its priorities, and the financial results Microsoft reported Wednesday afternoon reflected this.
+
+For consumers, the high point of Microsoft’s fourth-quarter calendar 2019 results was the fact that Microsoft reported $1.98 billion in Surface sales alone—almost, but not quite, making Surface a $2 billion-dollar business. Interestingly, chief financial officer Amy Hood implied that sales could have been higher, referring to unexplained “execution challenges” in the consumer portion of the Surface business.
+
+Overall, Microsoft reported profits of $11.6 billion during the second quarter of its fiscal 2020 calendar, up 38 percent from a year ago, from revenue of $36.9 billion, up 14 percent from the same period.
+
+The More Personal Computing business that includes Windows, Xbox, and Surface still generates the most revenue at $13.2 billion. However, it reported just two-percent growth—and that was better than expected, Hood said, due to strong Windows PC sales.
+
+Microsoft's growth is primarily being driven by the Intelligent Cloud business, and specifically Microsoft Azure. The Intelligent Cloud business recorded $11.9 billion in revenue, growing by a whopping 27 percent. Within that business, Azure grew by 62 percent just by itself. In all, Intelligent Cloud once again edged out Microsoft’s Productivity and Business Processes ($11.8 billion) in terms of revenue.
+
+Microsoft’s Productivity and Business Processes—Office and Microsoft Dynamics, plus related services—saw 17-percent growth, fueled by 20-percent growth in Office 365 consumer revenue and 37.2 million consumer subscribers.
+
+Microsoft’s MPC business faces more uncertainty than it has in the past. Revenue is expected to drop fairly substantially during the first quarter, Microsoft said, due to a variety of factors. The first, of course, is seasonality: Consumers buy far less during the first calendar quarter than they do during the holidays. Then there are flagging parts of the business, such as search advertising revenue, which dropped from 14-percent growth a year ago to just 6 percent.
+
+Microsoft also acknowledged that the PC market supply chain is changing to adjust for reduced demand. The corporate PC market hastily bought new Windows 10 PCs in advance of the January 14 deadline that just passed, when Microsoft stopped supporting Windows 7. Windows OEM revenue in the current quarter might grow just by low to mid-single digits, Hood said. Overall, the MPC revenue outlook ranges between $10.75 billion and $12.05 billion, a wider spread than normal. Hood called out the uncertainty of the public coronavirus health scare in China, too.
+
+It’s unclear what Hood meant when she predicted low single-digit growth for Surface as the company “works through challenges in the consumer segment.” Neither Hood nor Microsoft CEO Satya Nadella explained whether Hood was referring to slower-than-expected sales in consumer Surface devices (versus Surface for Business sales), or whether Microsoft had designated certain devices like the Surface Go as specifically consumer products. (A Microsoft representative declined to comment further when asked to clarify Hood's remarks.)
+
+Gaming revenue, which Microsoft said fell 21 percent, will be understandably slow at the moment. AMD, the supplier responsible for the chips powering the Xbox One as well as the upcoming Microsoft Xbox Series X, said that SoC chip sales would be negligible for the near future. Xbox content and services fell 11 percent, Microsoft said, in part because of strong sales of games a year ago. As sales of the Xbox Series X begin to come in, however, revenue contributions will begin to increase during the second half of the year, Hood added. Nevertheless, Microsoft said it reached a new record level in Xbox Live users, and that GamePass subscriptions had doubled.
+
+Microsoft’s Project xCloud, allowing consumers to play games on a cellular phone directly from the Azure cloud, has attracted “hundreds of thousands” of users, according to Nadella.

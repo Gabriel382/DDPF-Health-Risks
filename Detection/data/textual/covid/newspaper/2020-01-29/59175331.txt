@@ -1,0 +1,95 @@
+Canada draws on lessons from SARS to address novel coronavirus 
+ Toronto, Canada - The novel coronavirus reached Canada earlier this month, with two presumptive positive cases in Toronto and one in British Columbia as of Wednesday afternoon.
+
+All the patients had recently returned from Wuhan, China, where the virus originated. More than 6,000 people have been infected in China, officials say, with more than 130 deaths worldwide.
+
+More:
+
+
+
+
+While the three patients in Canada are in isolation and officials say the risk remains low, Canada's approach to addressing the mysterious coronavirus has been driven by the lessons learned during the SARS outbreak more than 16 years ago.
+
+Severe acute respiratory syndrome (SARS) was another respiratory coronavirus that originated in China, infecting more than 8,000 people worldwide and killing more than 900.
+
+Outside of Asia, Canada was hit the hardest by SARS, accounting for 438 suspected cases and 44 deaths. The virus was an unprecedented challenge to modern healthcare systems, especially in Toronto where the cases were concentrated.
+
+Nearly 17 years later, experts say Canadian healthcare workers are better trained, global communication has improved, more efficient plans are in place for outbreaks and there has been a "revolution" in virus detection - although testing is still far from instantaneous.
+
+Virus detection
+
+Following the SARS outbreak, Canada established a committee to assess how the system responded to the illnesses and suggest improvements. Its report, Learning From SARS, found one of the biggest challenges was that SARS resembled many other respiratory infections, and there was no reliable lab test for the virus, so it was, therefore, hard to diagnose.
+
+The toll it took on healthcare workers was especially devastating; 100 were infected and three died. They worked under intense pressure and fear of contracting the new and deadly virus.
+
+While working to contain SARS in Toronto in 2003, Dr Allison McGeer contracted the virus, and survived. She said the key difference between the 2019 novel coronavirus and SARS is the ability to test patients.
+
+"When SARS first started arriving, we had no capacity to know whether somebody had SARS or something else because there was no diagnostic test for it, so everyone had to be treated as if they might have SARS," she told Al Jazeera. "And that, of course, is much more difficult - it's an enormous load on the system. Now, you come in, we think you might have SARS, you get a test, we find out."
+
+
+
+
+A directions sign is seen at Sunnybrook Hospital, where a patient is being treated in isolation for what Canadian health officials call the first presumptive confirmed case of novel coronavirus, in Toronto, Ontario [Carlos Osorio/Reuters] 
+
+
+
+
+
+The science of detecting and sequencing viruses has vastly improved since SARS, McGeer said. On December 31, 2019, the World Health Organization (WHO) became aware of several cases of pneumonia in Wuhan that did not match other known viruses. On January 7, Chinese authorities confirmed to WHO that they had a new coronavirus, which has temporarily been named 2019-nCoV. Chinese health officials published the genetic sequence of the virus online, allowing other health agencies to develop diagnostic tests.
+
+"In the last 17 years, there's been a revolution in viral diagnostics, and so the concept that you could identify a virus and have it sequenced and post the sequence in a week 15 years ago was completely out of the question," McGeer said.
+
+"It's this really rapid evolution of the ability to sequence DNA and RNA and the development of pipelines to put those sequences together and make sense of them," she added. "So, a big piece of it is just straight technology, but the second piece is about sharing information."
+
+Communication
+
+Another major issue during the SARS outbreak was the sharing of basic information.
+
+The virus now known as SARS broke out in China in November 2002, but Chinese officials did not report it to WHO until February 2003, actively covering up its spread.
+
+With the novel coronavirus, Chinese officials initially said the virus was under control, leading to accusations that China was slow to act. Wuhan police arrested eight people for spreading "falsehoods" about the virus online, and detained journalists reporting on the outbreak. But on January 19, a Communist Party newspaper warned against concealing cases, and the next day a Chinese health official stated on a CCTV news programme that people should avoid Wuhan. After that, it appears China became more transparent about the threat, and Chinese scientists made their research public.
+
+During SARS, Canada's provincial and federal governments were not great at sharing information, either, according to the 2003 review. Ontario's infectious disease software was "an archaic DOS platform used in the late '80s that could not be adapted for SARS." There were no data sharing protocols between jurisdictions. The report recommended creating an arms-length agency at the federal level, to "reduce the chances that the health of Canadians would inadvertently be held hostage in a jurisdictional disagreement among levels of government".
+
+As a result of the review, Canada created the arms-length Public Health Agency of Canada and similar agencies at the provincial level.
+
+
+
+
+Healthcare workers help a visitor going to the intensive care unit put on a gown and mask to protect against contracting SARS at North York Hospital in Toronto [File: Mike Cassese/Reuters]
+
+
+
+
+
+Dr Theresa Tam, chief public health officer of Canada's Public Health Agency, said that in the years following SARS, the country's agencies work together through a federal-provincial-territorial council.
+
+"This allows us to stand up very quickly, such as in this instance [with the novel coronavirus]," she said.
+
+Unlike during SARS, there are also now cross-jurisdictional response plans in place for biological agents and influenza pandemics, she added.
+
+The SARS epidemic exposed a lack of international cooperation, so in 2007, WHO implemented its International Health Regulations (IHR), an agreement between 196 countries to build their capacities to detect, assess and report public health events.
+
+Travel and trade restrictions can be economically devastating for countries, so, to avoid travel restrictions, the IHR includes specific measures at ports, airports and ground crossings to prevent the spread of viruses across international borders.
+
+Despite the improvements, however, World Health Organization (WHO) chief Tedro Adhanom Ghebreyesus on Wednesday called for reforming the current system for declaring international emergencies to potentially a three-phase system.
+
+Screening and training
+
+China now has travel restrictions in place in Hubei province where the virus originated, and 45 million people are under quarantine.
+
+When travellers arrive in Canada from China, they interact with primary inspection kiosks that scan passports, take a photo of them, and ask them to declare goods. These kiosks are now programmed to ask about travel history to Wuhan and Hubei province.
+
+If travellers say they have visited the relevant areas of China, that information is flagged to a border agent who will ask questions about their health.
+
+If travellers develop symptoms, they are directed to call health professionals to notify them in advance that they recently travelled to Hubei province, so that healthcare workers can be prepared and shield themselves with protective gear.
+
+McGeer said professionals would be cleaning their hands carefully, wearing gloves and protective gowns, face shields to protect their skin and eyes, and a respirator that prevents them from inhaling the virus.
+
+Compared with SARS, McGeer said there is no difference in what health professionals are wearing or doing.
+
+"If anything the precautions we were using at the beginning of SARS were more stringent than what we're using now, because we know more about coronaviruses than we used to. But our practice in using [protective gear] is better, and generally speaking, our healthcare workers are much better trained," she said.
+
+Because McGeer has been in a similar situation, she said feels for the Chinese healthcare workers, patients and their families.
+
+"I've been there, albeit, on a much smaller scale, our outbreak was not as large, and it was different because it was primarily in hospitals, and this outbreak is not the same, but it's the same thing in terms of intensity of testing, and shortages of things, and just the chaos of trying to take care of patients well in an outbreak when many things are uncertain."

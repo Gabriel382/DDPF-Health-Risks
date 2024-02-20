@@ -1,0 +1,20 @@
+How a Chinese coronavirus outbreak turns into an epidemic 
+ January 20 2020, 5:00pm, The Times
+How a Chinese coronavirus outbreak turns into an epidemic
+newTom Whipple, Science Editor
+
+The number of cases of novel Chinese coronavirus, we now know, may be ten times higher than initially thought. It is not the raw numbers that are worrying, though. It is that if these latest estimates are indeed correct, they imply only one reasonable explanation: the disease is spreading from person to person.
+ The difference between an outbreak and an epidemic comes down to one number, the most important number in disease modelling. That number is called R0, and it is known as the reproduction number — the number of cases created by each newly infected person.
+ If R0 is less than one, if it is even 0.9999, then a disease will die out.
+ More than one, and it will conquer the world.
+ When this…
+ 
+Want to read more?
+Subscribe now and get unlimited digital access on web and our smartphone and tablet apps, free for your first month.
+
+Previous articleBeijing suspected of virus cover‑up
+
+Previous article
+Next articleFrench teens taking sex tips from the Brits
+
+Next article

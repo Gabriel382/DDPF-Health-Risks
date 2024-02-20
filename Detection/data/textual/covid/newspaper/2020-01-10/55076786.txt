@@ -1,0 +1,36 @@
+Mystery virus found in Wuhan resembles bat viruses but not SARS, Chinese scientist says 
+ SHANGHAI—A new coronavirus identified by Chinese scientists is the putative cause of an outbreak of unusual pneumonia in the central city of Wuhan, according to Chinese news reports yesterday. In an interview today with , Xu Jianguo, head of an evaluation committee advising the Chinese government, confirmed that scientists have a complete sequence of the novel virus’s genome.
+
+The World Health Organization has requested that China release the data, a spokesperson in Geneva says, and many scientists urge the country to do so quickly, but the decision is up to the top leadership of the Chinese Center for Disease Control and Prevention (China CDC), says Xu, who is director of the Beijing-based State Key Laboratory for Infectious Disease Prevention and Control, part of China CDC. (The center’s head, George Gao, did not immediately respond to an email from seeking comment.)
+
+Xu says the investigation is being led by China CDC but numerous groups in other government agencies are involved. “Plenty of people are working on the outbreak,” he says. The role of the evaluation committee Xu leads is to review all the findings and make recommendations to the National Health Commission. Xu also said the novel coronavirus resembles known bat viruses, but not the coronaviruses that cause severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS).
+
+The following transcript has been edited for clarity and brevity.
+
+Q: The virus has been isolated from one patient, is that correct?
+
+A: Correct. Two groups isolated the virus from samples from one patient. The viruses are nearly identical in morphology under electron microscopy. Researchers did laboratory investigations of 34 patients. A total of 15 were positive for the novel virus, [based on] sequencing samples of [fluid injected into the lung and collected for examination]. The teams got complete genome sequence data from about 10 patients. They are now attempting to isolate the virus from those samples as well. There are 19 cases with no evidence of the virus. There is no information available for the results of the remaining 25 cases.
+
+Q: How close is this new virus to the SARS coronavirus?
+
+A: The virus is similar to some of the published viruses collected from bats. But it is not close to SARS and not close to MERS.
+
+Q: Are close contacts of patients and market workers being tested for antibodies to the new virus?
+
+A: [Investigators] have just gotten the virus, they now need the chance to prepare reagents for antibody tests, but there are no data yet.
+
+Q: The 5 January report from the Wuhan Municipal Health Commission, the latest available, says a total of 59 pneumonia patients have been identified as possibly carrying the virus. Have more patients been found?
+
+A: It should be mentioned that the 59 reported pneumonia patients in Wuhan were clinically diagnosed; of those, 15 were confirmed to be infected by the new coronavirus. No new patients have appeared, as far as I understand. It’s good news. People fear something like SARS in 2003, but this is a different case. The outbreak is limited, but we should test patients one by one [to identify] pneumonia caused by other pathogens.
+
+Q: Are researchers trying to replicate the disease in lab animals to prove that it is really the cause of the outbreak?
+
+A: People have recommended that [investigators] do tests to see if the virus can cause the infection in animals, but they need time.
+
+Q: Is there any progress in tracing the original source of the virus?
+
+A: I have no information. Personally, I’m interested, too. The virus looks like viruses isolated from bats, but how it was transmitted from bats to people is still a question. Several groups in China have been working on bat coronaviruses for years. I imagine they’re working on this but so far there is no information.
+
+Q: Are other live animal markets being checked?
+
+A: The Wuhan market has been closed. I have no information about other [markets]. Wild animals carry the risk of exposing people to new viruses. I think we should have more strict regulations and inspections of markets that sell wild animals, especially since the source of the new coronavirus has not been identified and eliminated.

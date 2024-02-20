@@ -1,0 +1,87 @@
+Smartphone shipments struggle to bounce back in fourth quarter 
+ Global shipments of smartphones failed to gain much ground in the fourth quarter of 2019, according to new data from analytics firms Canalys, Strategy Analytics, and IHS Markit.
+    
+
+
+	
+        
+                                                                                    
+                        
+                
+    
+
+
+
+
+    5G and foldable phones: The promises and problems
+    TechRepublic's Karen Roby and CNET's Jessica Dolcourt discuss the current and future state of the smartphone industry and the much-anticipated benefits of 5G.
+    
+
+
+    
+Smartphone vendors had a tough year in 2019. An oversupply of devices affected key markets, while more customers decided to hang onto their existing phones. Those and other factors took a bite out of shipments for the year. The holiday-seasoned fourth quarter may have offered fresh signs of life. But new reports from Canalys, Strategy Analytics, and IHS Markit show that smartphone shipments for 2019's final quarter were mixed at best.
+SEE: Smartphones and Mobile Tech (TechRepublic Flipboard magazine) 
+Canalys painted the brightest picture, saying that global smartphone shipments rose 1% last quarter to 369 million, the second consecutive quarter of growth. Buoyed by heavy demand for 
+        the iPhone 11 lineup
+    , Apple took the lead by shipping 78 million units, beating arch-rival Samsung, which Canalys reported shipped 71 million phones, including 
+        the Galaxy Note 10
+    .
+
+        Huawei
+     came in third place, though its shipments declined for the quarter. Next in the top five were Xiaomi and Oppo, which both saw their smartphone shipments and market share increase. Emerging markets played a big role for the vendors that did well in the quarter.
+
+                                            Canalys
+                                        
+
+
+"Chinese vendors were particularly diligent in developing regions over the past quarter," Canalys Research Analyst Shengtao Jin said in a press release. "Smartphones under $100 have been a major focus, as vendors targeted the installed base of users still using feature phones. Vivo, for example, had exceptional success with the cheap Y91C in Indonesia this quarter. Apple also saw success in emerging regions as the cheaper iPhone 11 tempted a broader base of customers than it is used to."
+Smartphone market in India
+
+    
+        	
+    
+
+
+The smartphone market in India started slowly in 2019 but finished with a boom as shipments hit 39 million in the fourth quarter, up from 30 million in the same quarter for 2018, according to Canalys. Xiaomi led the market in India last quarter as its shipments rose by 13% to 11.2 million units. Samsung held onto its second-place perch although its fourth-quarter smartphone shipments in India dropped by 7% to 8.1 million. In third place was Vivo, followed by Realme and Oppo.
+Though not in the top five in India's smartphone market, Apple achieved its best quarter ever by shipping almost 925,000 phones in the country, a gain of more than 200% from the prior year's quarter. Canalys pegged Apple's gain on a cheaper iPhone 11 and excitement around its dual and triple cameras.
+"India has pulled through this year," Canalys Analyst Madhumita Chaudhary said in a press release. "While the current slowdown continues to shroud the market with much uncertainty, the end-of-year surge saved the market from an otherwise poor first-half performance. Online sales have been a silver lining, with vendors boosting sell-in to online retailers Flipkart and Amazon via exclusive tie-ups."
+Strategy Analytics was less upbeat about the fourth quarter, seeing global smartphone shipments as essentially growing zero percent to 374.5 million from 376 million in the same quarter in 2018. The firm said that global smartphone demand remains mixed for now as sharp declines in China were balanced by strong demand across India and Africa.
+For the quarter, Apple snagged the top spot with smartphone shipments of 70.7 million, leaving Samsung in second place with 68.8 million, according to Strategy Analytics. That put Huawei in third place with 56 million shipments, followed by Xiaomi and Oppo.
+
+                                            Strategy Analytics
+                                        
+"This was Apple's best growth performance since 2015," Neil Mawston, executive director at Strategy Analytics, said in a press release. "Apple is recovering, due to cheaper iPhone 11 pricing and healthier demand in Asia and North America…Samsung's global market share stayed flat at 18%, the same level as a year ago. Samsung continues to perform relatively well across all price-bands, from the entry level to premium models such as Galaxy Note 10+ 5G."
+Finally, IHS Markit's analysis of last quarter's global smartphone shipments was the most negative of the bunch. For the quarter, shipments dropped by 359.2 million, a decline of 1.5% from 364.8 million in the fourth quarter of 2018.
+
+                                            IHS Markit
+                                        
+IHS placed Samsung in first place for the quarter with smartphone shipments of 70.7 million and a market share of 20%. That put Apple in the second spot with shipments of 67.7 million and a 19% slice of the market. Following in the top five were Huawei, Xiaomi, and Oppo.
+"Samsung's focus on the mid-range paid dividends in 2019, helping the company to fend off global competition from Huawei, Xiaomi, Oppo, and Vivo," Gerrit Schneemann, senior analyst for smartphones at IHS Markit, said in a press release.
+Looking at 2020
+Projections for 2020 were a bit more optimistic. Smartphones are more important than ever, according to Canalys, which said that declines don't mean that people are using smartphones less. However, Strategy Analytics pointed to certain barriers for smartphone growth this year, such as US trade wars and the China coronavirus scare. Of course, 5G will be another factor in 2019.
+5G smartphones are a key trend, IHS said. Shipments of 5G phones may not be huge enough to dramatically boost the market. But the new flavor of cellular technology should excite a larger number of markets and will present more choices to buyers. Chipset vendors have already announced lower prices on 5G system-on-chip devices, IHS added, helping the smartphone industry in its effort to trim the high prices of 5G smartphones.
+
+                                                                                
+                                                        
+                            
+                                5G and Mobile Enterprise Newsletter
+
+                                
+                                    Mobile security, remote support, 5G networks, and the latest phones, tablets, and apps are some of the topics we'll cover.
+                                    Delivered Tuesdays and Fridays
+                                
+
+                                
+                                        
+ Sign up today
+                                
+                            
+
+                        
+
+                                                
+Also see
+The iPhone 11 lineup helped Apple's sales in Q4.
+
+
+                                            Image: Apple

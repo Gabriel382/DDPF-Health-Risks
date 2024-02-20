@@ -1,0 +1,44 @@
+INDA: A Major Devaluation Could Be Coming For The Rupee 
+ Despite the significant economic risks, the iShares INDA ETF boasts an incredibly high weighted-average "P/E" ratio of nearly 24X, making Indian equities among the most richly valued in the world.
+
+The iShares India ETF (INDA) focuses on large-cap Indian equities and generally reflects the dominant businesses in the country. It is a solid way for investors to gain exposure to the Indian economy, but it may not be the best time to assume that exposure.
+
+Technically speaking, it has been over four decades since India has seen negative economic growth (1976). The country's tremendous economic growth rate has been enabled by consistently high population growth, a slow but steady transition to industrialization, and more recently, an emergence of a middle class.
+
+With a GDP per capita of $2K, the country still has a lot of growth ahead of it which will likely continue to make for strong long-term stock market returns. That said, the recent slowdown in the Indian economy appears as if it will turn into a recession. Further, the RBI has been working to combat the slowdown by drastically lowering interest rates which are now far below the nation's skyrocketing inflation rate. This drastically increases the chance of a drop in the Rupee exchange rate, which feeds directly into INDA's price.
+
+INDA is one of the more popular of the single-country ETFs with a total AUM of $5.5B, making it highly liquid. The fund has 84 holdings that are mainly in the country's financial, technology, and energy sectors, making for a relatively well-diversified fund. See below:
+
+This exposure breakdown is more diverse than is typical for emerging market countries as it includes a higher-than-normal share of technology, most of which are IT companies. Overall, the fund is diversified such that it is generally similar to the Indian economy, though with less exposure to manufacturing and industrials. This is good as that section of the Indian economy is currently struggling the most.
+
+The fund has a normal expense ratio of 65 bps, but only has a yield of 1% as its holdings have high valuations with a weighted-average "P/E" of 23.9X. This valuation is among the highest in the world and implies investors in Indian stocks are currently expecting very high earnings growth. Given the current state of the Indian economy, I have substantial doubts that the growth currently priced into the market will become a reality.
+
+We must also consider the fact that India's lending rate is 5% while it is only 1.5% in the U.S. Higher interest rates usually call for lower valuations to adjust for borrowing costs. For example, if you wanted to buy INDA but use a currency hedge to adjust for the volatile INR/USD exchange rate, the hedge would likely cost around 3.5% per year. A share of INDA is $35.36 today so the hedge would cost $1.23 per year while, given INDA's weighted-average "P/E" of 23.9X, a share of INDA has an "EPS" of $1.48 the net expected profit is merely 0.25% per share. You could not hedge, as most wouldn't, but as I'll explain in the next section, the Rupee may be headed for another slide lower.
+
+Despite years of consistent 6%+ GDP growth in India, INDA has failed to deliver substantial returns since its inception due to a long-term slide in the INR/USD exchange rate.
+
+To illustrate, take a look at the total returns of INDA, those of the exchange rate, and how those returns if were in India and were seeking a profit in local currency.
+
+As you can see, INDA has actually had strong performance when priced in Rupees but essentially flat performance in local currency. This is a problem in most EM single-country ETFs as their central banks generally keep interest rates below inflation in order to boost economic growth. While this tends to successfully promote growth, it usually causes seemingly endless currency devaluations that make for poor US-dollar-denominated investments.
+
+As you can see below, the RBI recently cut interest rates to 5% despite a surging inflation rate that is now nearing 8%:
+
+With a large -3% interest rate minus inflation differential, it is highly unlikely that the INR/USD exchange rate will hold ground. Simply put, if putting money in the bank causes savers to lose a significant amount of purchasing power, they'll take their money out of the bank or rapidly look to buy foreign currency (often dollars). Such a large potential currency devaluation is a huge risk to INDA.
+
+Usually, high inflation is not necessarily bad because it tends to be driven by demand. Logically, if demand is greater than supply, prices rise and an interest rate hike (which slows demand) will easily slow it. However, in India's case, it is the "bad" supply-side inflation similar to that of the US in the 70s.
+
+India's GDP growth is rapidly slowing from 8% per year in 2018 to 4.5% today. While 4.5% is high in the US, it is among the lowest the country has seen this century. The primary reason for the spike is a rapid increase in food prices as you can see below:
+
+Food inflation is now near 15% in India and is helping fuel social upset in the country and causing some families to skimp on meals. One of the major reasons for the price spike was a poor onion harvest (a staple crop in India) that caused onion prices to rise 80%. However, the inflation has now spread into many other food groups and energy prices, making a likely "wage-price spiral." Just a few weeks ago, ten large national trade unions in India staged a nationwide protest that demanded higher wages and greater fiscal stimulus.
+
+Almost all leading economic indicators point to a recession in India. Take a look at the recent collapse in vehicle sales and consumer confidence:
+
+This is highly problematic as INDA's holdings are currently priced for high real earnings growth that is unlikely to occur in the country's increasingly stagflationary environment.
+
+Overall, it does not seem like a good time to invest in the Indian economy. India has been able to avoid a major recession for decades and it appears that anything the government can do to try to stop it will only make its growing inflation problem worse. Add on the country's growing water shortage (that is only expected to get worse) and the likely chance that Coronavirus makes its way south, and you've got a dangerous situation where inflation is likely to rise even higher while economic growth lowers.
+
+Result? Likely lower earnings for companies in INDA, and a devaluation in INR/USD on which INDA's US-dollar-denominated value rests. This could quickly bring the fund far lower. Since the exchange rate is so volatile, it is functionally impossible to give a reasonable price target on INDA. That said, I would not be surprised by a 40%+ decline over the next two years with the chance of the current positive trend continuing much longer quite low.
+
+Given INDA has a borrowing fee of only 30 bps today, I believe it is a solid short target and give the ETF a "strong sell" rating. The same holds for the less popular Invesco India ETF (PIN) which is nearly identical to INDA fundamentally.
+
+Disclosure: I/we have no positions in any stocks mentioned, but may initiate a short position in INDA over the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.

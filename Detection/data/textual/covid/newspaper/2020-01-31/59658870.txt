@@ -1,0 +1,56 @@
+Agricultural Commodities May Be Misreading The Coronavirus 
+ Interest rate data suggests that the U.S. dollar, which has been suppressing U.S. food commodity exports, has made its peak.
+
+Agricultural prices have been highly volatile over the past few months due to many rumors surrounding the U.S-China mini-trade deal. As touted by Trump, the market expected significant purchasing of U.S. farm goods from China over the coming months. The deal was originally said to be worth $50B per year but has since dwindled to purchases dependent on "market conditions". Quite frankly, given the instability of this deal, investors would probably best to expect no extra purchasing of U.S. agricultural products unless there is a large supply-demand imbalance or if the U.S. dollar declines considerably. I expect both of those to occur.
+
+As you can see below, the agricultural market is reacting very poorly to this news, particularly meats as many, including myself, expected a large pork-buying spree to make up for China's 50%+ decline in pigs population.
+
+While the market may be bearish, there is reason to believe the sell-off is a major buying opportunity for these commodities. Due to its large population, China is the world's largest consumer of agricultural goods while the U.S. is the world's dominant exporter of food.
+
+Of course, the rise in the U.S. dollar over the past few years has drastically hampered U.S. farmer's ability to market product, but evidence suggests that the top is likely in for the dollar. As the unwind grows, U.S. farmers will finally regain their competitive advantage and commodity prices are likely to rise back above production costs.
+
+Furthermore, it seems the agricultural market may not be reacting correctly to coronavirus. As the virus spreads, people in China have been stockpiling food and leaving many grocers completely empty whilst causing prices to skyrocket. To deal with the shortage, the PRC is, quite literally, ordering its farmers to increase production which may not be physically possible given the situation.
+
+Remember, China began the crisis with a shortage of food. Just take a look at the country's skyrocketing food inflation rate as well of that of its neighbor India (which is beginning to see coronavirus cases):
+
+So, food prices are skyrocketing for over a third of the global population. Add on the impacts of a virus that will likely throw a large wrench into their food production supply-chain, not to mention put many out of work, and it is difficult to see how U.S. exports won't rise considerably.
+
+I would argue that the most important factor in U.S. agricultural commodity prices is exports which are driven by fluctuations in the U.S. dollar. During periods like today where the U.S. dollar is very strong, overseas importers are likely able to find cheaper products from South America which drive commodity prices lower in the U.S.
+
+As you can see, the last time the U.S. dollar was strong in the late 90s, food exports were stagnant and the food price index was flat. As the dollar weakened following the tech-bubble, U.S. exports began to rise dramatically and agricultural commodities doubled in value.
+
+Due primarily to high inflation rates overseas and external debt buildups, emerging market countries have been bad struggling with currency crises for years, driving the U.S. dollar higher every time.
+
+However, the core fundamentals that have enabled the U.S. dollar's rally are now gone. The U.S. dollar's strength comes from the fact that the U.S., generally, holds interest rates above inflation. For example, if you live in Europe, inflation is around 1-2%, but the euro will only give you a 0% return, so you'd lose purchasing power every year and would be better off exchanging for U.S. dollars, driving the exchange rate higher.
+
+Now, the "real interest rate" (interest rate minus inflation) in the U.S. has since turned negative. This can be measured via the yields on inflation-index U.S. Treasuries which pay the CPI change (hence inflation-index) plus (or minus) a small yield. The U.S. dollar is, historically, highly correlated to these yields, however, that correlation has faded dramatically over the past two years:
+
+As you can see, real rates have been falling while the U.S. dollar is rising. As with many commodity prices, the euro is back around its 2016 lows and the ECB will need to consider a rate hike to stop the floor from falling out on its currency.
+
+While a rate hike may not be in order soon, the interest rate differential between the U.S. and the other major currencies is quickly falling:
+
+This adds yet another signal that the U.S. dollar has made its peak and that the recent rally is largely based on inertia due to high global dollar-denominated debt.
+
+As the dollar reverses, it is likely that U.S. food prices will converge back toward those of Japan and Europe which have been rising for years:
+
+It is interesting to note that food prices have been rising above inflation in most of the world for years. This is logical as much of the world still depends on the U.S. for imports and the U.S. dollar strength makes those imports expensive, particularly in emerging market countries that have depreciating currencies.
+
+As the U.S. dollar makes its peak, U.S. agricultural commodity prices are likely to rise as the export outlook finally improves. This is likely to occur regardless of any external events, but the Coronavirus in China (and perhaps India) is likely to add fuel to this transition.
+
+While quarantines and travel-bans will certainly negatively impact demand for crude oil, it will not impact food demand. Further, it is very likely to negatively impact supply. China is already missing most of its pigs (their primary source of meat) and wild animal markets are now banned.
+
+Because the U.S. dollar is strong and due to the trade war, China has been trying to cut off U.S. food imports. This built-up a food shortage before the crisis and now the country's leadership is scrambling to get its farmers to increase production following mass grocery-store shortages. As food prices continue to rise, U.S. agricultural commodities effectively become cheaper. Add on the likely impact of a falling U.S. dollar, and export demand for these commodities is likely to skyrocket.
+
+While I believe this will bring gains for most agricultural commodities, it seems that hogs may benefit the most. According to data from Pig333.com, U.S. fattening pigs are currently the cheapest in the world when adjusted in U.S. dollar prices (besides those in Ontario Canada). Today fattening pigs sell for $1.2/kg in the U.S. while $1.5-$2 in Europe and a staggering $5.17 in China.
+
+The U.S-China trade deal may not mandate as much agricultural purchases as traders hoped, but basic economics indicates that global export growth over the coming year is likely to be better than the deal currently suggests.
+
+While I expect returns from today to be the highest in the livestock ETF (COW), I generally prefer the Invesco ETF (DBA) which offers broad exposure to agricultural commodity prices. As you can see below, it is generally highly correlated with the U.S. food price index:
+
+Of course, DBA does underperform the index as you must pay the roll-costs to offset food storage costs. Last time I covered DBA, I calculated this to be about 4% per year including the fund's 89 bps expense ratio.
+
+For that cost you gain exposure to corn (13.5%) (CORN), soybeans (13.5%) (SOYB), cattle (17%) (COW), cocoa (13%) (NIB), sugar (11.8%) (CANE), coffee (10%) (JO), hogs (9%) (COW), wheat (10%) (WEAT) and a little bit of cotton. Importantly, and unlike a few of the previously mentioned commodity ETFs, DBA is highly liquid with a total AUM of $330M and options available.
+
+Given the large price-mismatch between food overseas and in the U.S, it seems very likely that a new bull-market promptly occurs in agricultural commodities. World food prices are rising very quickly and will soon offset the strength of the U.S. dollar. The coronavirus is only likely to accelerate this price increase and will likely quickly change the generally bearish tune on U.S. exports. Quite frankly, I would not be surprised if we see a rally in DBA akin to that of 2010 this year (50%+).
+
+Disclosure: I am/we are long COW, CORN, SOYB. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.

@@ -1,0 +1,86 @@
+2 Defensive High Yielders, 5%-Plus To 6%, Outperforming During Pullbacks, No K-1s 
+ These are not energy stocks - there's no K-1.
+
+Both have outperformed the market during the most recent pullbacks.
+
+It has been a bit of a bumpy ride in these early days of 2020, with the market gyrating to the tunes of crude oil, impeachment drama, and the corona virus outbreak:
+
+This kind of environment can inspire investors to seek a hideout from market fallout, but safe havens with attractive dividend yields can be hard to find.
+
+Two high yield income vehicles which have outperformed during the most recent market pullbacks are a Healthcare REIT, the Global Medical REIT Inc. (GMRE), and a Closed-End Fund (CEF), the Principal Real Estate Income Fund (PGZ).
+
+GMRE has an attractive healthcare asset mix, with its two largest segments being a ~55% concentration in Medical Office Buildings (MOBs) and 28% in In-Patient Rehab facilities (IRFs).
+
+Texas is its biggest geographical concentration at 18.3%, followed by Ohio at 11.1%, and Pennsylvania at 9.6%, with the remaining top 10 states running from California at 3.2% to Arizona at 8.9%.
+
+Its largest tenant is Encompass (EHC) with 10.9% of annualized base rent, followed by Memorial Health at 8.3% and Kindred Health at 7.6%.
+
+PGZ's top allocation is in Commercial Mortgage Backed Securities, 63.87%, followed by International Real Estate Securities, 18.85%, and US Real Estate Securities, 16.98%:
+
+Its top holdings include major US banks, such as JPMorgan Chase, Wells Fargo, and Goldman Sachs, and account for ~30% of its total portfolio:
+
+PGZ has a net expense ratio of 2.62%, with leverage of 27.86% and 138 holdings. Its weighted average debt security duration was 4.51 years as of 11/30/19.
+
+GMRE has had the best performance by far in these time periods, but PGZ has also outperformed the Dow and the S&P 500.
+
+Although both of them declined in price during the big 20% Q4 '18 pullback, GMRE only fell -9.27% and PGZ fell -12.33%, and they've outperformed the market since then, with GMRE up ~55% and PGZ up ~21%, vs. ~7% for the Dow and ~11% for the S&P.
+
+During the May 2019 pullback, GMRE actually gained 2.9% and PGZ was roughly flat, while the market fell ~-6%. GMRE is up ~43% and PGZ is up ~11% since the July '19 market highs, vs. 5.67% for the Dow and 8.23% for the S&P:
+
+So far in 2020, GMRE has continued its outperformance, gaining 11.5% YTD, while PGZ is up a modest .24%. Looking back a bit further, they've both outperformed the S&P over the past month, while only GMRE has done so in the past quarter. Over the past year, GMRE is up ~53%, while PGZ is up ~23%.
+
+That's pretty good pullback protection performance, but it doesn't include the attractive distributions that both of these income vehicles paid through these periods.
+
+GMRE pays $.20 quarterly in a March/June/Sept./Dec. schedule with pay dates in the following months. It switched from a monthly to a quarterly schedule in 2016. It should go ex-dividend next in late March. It yields 5.42%, with an FFO Payout Ratio of 106.67%, which is much higher than its sector median payout ratio of 67.84%.
+
+PGZ yields 6.24%, paying $.11/month, and management usually pre-announces the current quarter's monthly ex-dividend and pay dates. It will go ex-dividend on 2/13/20 with a 2/28/20 pay date.
+
+PGZ's 91.68% payout ratio is based upon Net Investment Income (NII) and Realized Capital Gains. Looking strictly at NII gives it a much higher 118.28% payout ratio:
+
+GMRE issues a 1099 at tax time. As a REIT, its distributions don't qualify for the 15-20% preferential tax treatment.
+
+PGZ also issues a 1099. For its fiscal year ending 10/31/19, its distributions included no Return of Capital:
+
+GMRE had major growth in Revenue, up 29.52%, FFO, up 48%, and Net Income, up 248%, during Q1-3 2019, due to a string of acquisitions by its management.
+
+However, that growth came at a cost - the unit count swelled by ~53%, which caused the FFO/unit to decline slightly, by -3.57%.
+
+Q1 -3 2019 has been GMRE's biggest period for acquisitions since 2017, with its asset base growing by $239 million:
+
+PGZ grew its FY 2019 NII by ~3.7%, while its net realized gains rose by 4.9%:
+
+Looking back at PGZ's NAV returns as of 12/31/19 shows a 1-year NAV return of 25.25%, vs. the Bloomberg Barclay's Bond Index's 8.72% return and the MSCI World Index's return of 27.67%.
+
+PGZ has outperformed both of those indexes on a 3- and 5-year basis:
+
+A $10K investment in PGZ since 2013 would have grown to $18.56K, vs. $18.37K for the MSCI and $12.469K for the Bloomberg Barclay's Bond Index, as of 11/30/19:
+
+Predictably, after its fabulous run over the past year, GMRE doesn't look cheap - other than Price/Book, its valuations are all a bit higher than its sector median values.
+
+PGZ's current -7.72% illustrates a quirky property of CEFs. When you first see that a CEF is trading at a -7.72% discount, your initial reaction may be to pounce, but here's what to look for - compare its current discount to past 1-5 year discounts to see if it's a deeper or shallower discount than those historical figures.
+
+Since CEF discounts tend to work on mean reversion, if you can buy one at a deeper-than-normal discount, you may have a better chance of attaining a price gain, in addition to earning an attractive yield.
+
+Although PGZ's -7.72% NAV discount looks juicy, it's not as juicy as its 1-, 3-, 5-year NAV discounts, which have run from -10.13% to -10.86%:
+
+After its big price gains, GMRE is now ~1.4% above analysts' average $14.54 price target.
+
+What stands out here is GMRE's Net Debt/EBITDA leverage - at 8.45X, it looks high. Although we don't have sector medians for this metric, other Healthcare REITs with a high concentration of MOBs have Net Debt/EBITDA ratios more in the 6.2X-6.4X range.
+
+As of 9/30/19, GMRE had total liquidity of $136 million, including $133 million of availability on its Credit Facility.
+
+GMRE has a preferred A series, but it is currently priced at $26.80, with a $25 call value and a call date of 9/15/22. It pays $1.88/year, so it would take you just about a year of payouts to get back to a $25.00 breakeven.
+
+At their current prices, these two defensive stocks are good candidates for a watch list. Look for a discount closer to ~-10% for PGZ. Meanwhile, GMRE should report its Q4 '19 earnings on 2/5/20. We like the MOB/IFR asset mix, but better distribution coverage and lower leverage would be welcome.
+
+All tables furnished by HiddenDividendStocks, unless otherwise noted.
+
+Disclosure: I am/we are long PGZ. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.
+
+Additional disclosure: Our DoubleDividendStocks.com service has featured options selling for dividend stocks since 2009. 
+
+It's a separate service from our Seeking Alpha Hidden Dividend Stocks Plus service.
+
+
+
+Disclaimer: This article was written for informational purposes only, and is not intended as personal investment advice. Please practice due diligence before investing in any investment vehicle mentioned in this article.

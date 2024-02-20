@@ -1,0 +1,259 @@
+Dover Corp (DOV) Q4 2019 Earnings Call Transcript 
+ Image source: The Motley Fool.
+
+
+
+Dover Corp (NYSE:DOV)
+Q4 2019 Earnings Call
+Jan 30, 2020, 10:00 a.m. ET
+Contents:
+
+
+Prepared Remarks
+
+Questions and Answers
+
+Call Participants
+
+
+
+Prepared Remarks:
+
+Operator
+Good morning and welcome to Dover's Fourth Quarter 2019 Earnings Conference Call. Speaking today are Richard J. Tobin, President and Chief Executive Officer, Brad Cerepak, Senior Vice President and Chief Financial Officer, and Andrey Galiuk, Vice President of Corporate Development and Investor Relations. After the speakers' remarks, there will be a question-and-answer period. [Operator Instructions] As a reminder, ladies and gentlemen, this conference call is being recorded and your participation implies consent to our recording of this call. If you do not agree to these terms, please disconnect at this time. Thank you.
+I would now like to hand the call over to Mr. Andrey Galiuk. Please go ahead, sir.
+Andrey Galiuk -- Vice President, Corporate Development and Investor Relations
+Thanks, Nicole. Good morning and welcome to Dover's fourth quarter 2019 earnings call. This call will be available for playback through February 20th and the audio portion of this call will be archived on our website for three months. Dover provides non-GAAP information and reconciliations between GAAP and adjusted measures are included in our investor supplement and presentation materials, which are available on our website.
+Our comments today may contain forward-looking statements. We caution everyone to be guided in their analysis of Dover by referring to our Form 10-K for a list of factors that could cause our results to differ from those anticipated in any forward-looking statements. We undertake no obligation to publicly update or revise any forward-looking statements except as required by law.
+With that, I will turn this call over to Rich.
+Richard J. Tobin -- President  Chief Executive Officer
+Thanks, Andrey. Good morning, everyone and thanks for joining us on this morning's conference call. Let's get started on Slide 3 with key highlights for the fourth quarter and the full year of 2019. Q4 revenue declined 1% organically due to a tough revenue comp of -- with Q4 of 2018 that we have been highlighting throughout the year. Overall, 2019 revenue growth was solid, up 4%, at the high-end of our initial annual guidance as four of our five segments delivered robust growth despite uncertain industrial macro environment in some of our end markets and operating geographies.
+Bookings in the quarter were approximately flat year-over-year, posting a solid book-to-bill of 1.04. We are encouraged with the strength of our backlog, which stands at 8% higher than at the beginning of 2019 and is up in four out of our five segments, which we'll cover later in the presentation. Despite posting lower revenue, our earnings from continuous operations increased with margins in Q4 expanding 140 basis points, giving us confidence about our margin aspirations in 2020. We are forging ahead with our productivity and margin improvement efforts as outlined in our investor presentation in September.
+Adjusted Q4 earnings were up 7% and for the full year our earnings grew 15%. Adjusted diluted EPS was $1.54 a share for Q4 and $5.93 for the full year, which represents a 19% increase year-over-year. Summing up, 2019 was another year of strong performance for Dover. We delivered industry-leading organic growth rates in the topline, expanded margins materially, improved our cash flow conversion metrics and continued to enhance the quality of the Dover portfolio through organic investments and four bolt-on acquisitions. On the back of a solid order backlog and continued momentum and execution of our margin improvement plans, we are announcing full-year adjusted EPS guidance of $6.20 to $6.40 a share.
+Let's move on to Slide 4 for more detail on the segment performance. Engineered Products segment had a solid finish to a strong year. Q4 growth was 3% and full year 5%. Topline grew in the quarter on continued strong demand for our refuse collection vehicles as well as continued double-digit growth in associated software. Our vehicle service business saw improvement in its European and OEM businesses and we also introduced a new ADAS calibration digital offering and we are excited about its growth prospects. Our MPG business grew in high-single digits as it began shipping against a strong backlog built earlier in the year. Demand in our industrial winch and industrial automation businesses remained subdued as a result of cyclical weakness in industrial goods and automotive. Segment bookings in the fourth quarter were solid at a book-to-bill of 1.08 and resulting backlog higher than at the beginning of 2019. Our Q4 adjusted segment margin expanded 200 basis points on solid volume, product mix and productivity measures.
+Fueling Solutions finished strong and delivered a year of exemplary results. Full-year growth was broad-based at a 11% and the segment delivered 320-basis point margin improvement with the aboveground businesses exiting the year well into the target range of 15% to 17% that we had set for it in 2018. Demand remained healthy in Q4, yielding 5% growth for the segment and was particularly strong in North America, where EMV compliance demand appears to be gaining momentum. Bookings in the segment were up 11% organically in Q4, providing a solid base for 2020. We have completed the integration of Belanger into our vehicle wash platform and the business is on pace to meet or exceed our return on invested capital hurdle.
+Imaging  Identification declined 2% in the quarter and ended the year with 1% organic growth. Marking and coding activity was slow in Asia throughout the year, including in Q4, while other regions performed as expected. As you know, our digital textile printing business can be lumpy on the timing of orders and shipments and impacted by tariffs and financing availability in the Asian textile-producing markets. Combination of these factors contributed to a slower Q4 in the textile industry activity, but we continued to work with a solid pipeline of prospective orders. Also, our digital printing workflow software is showing very good momentum with double-digit growth. Backlog for the segment is up 7% year-over-year. The segment expanded margin by 270 basis points in Q4 and by 260 basis points for the full year, despite slower topline, exemplifying our commitment to improve productivity, cost control and pricing discipline.
+Lastly, we recently closed the previously announced acquisition of Systech, a leading provider of traceability and brand protection software solutions, primarily to global pharmaceutical manufacturers. This offering fits logically into our marking and coding portfolio and expands the share of software and service revenue within Markem-Imaje to over 15%. We are excited about the prospects of driving growth by expanding this offering into our high-value, fast-moving consumer goods customer portfolio.
+Pumps  Process Solutions posted an 8% decline as the segment faced a tough comparable in Q4 as a result of Maag shipment timing and witnessed a steady slowing during the quarter in the industrial pump market, where distributors were actively managing down inventory levels. Within the biopharma pump and connectors business, revenue continued its strong double-digit growth and carries a very strong backlog into the new year. We expect the biopharma business to continue its double-digit trajectory into 2020.
+With respect to DPC, our Precision Components business, activity slowed in what appears to be a temporary lull in the natural gas transportation infrastructure build out, but we remain confident about its long-term attractiveness. Despite the aforementioned order timing differences, Maag ended the year well and carries a strong backlog into 2020. Summing up, all the businesses in this segment posted organic growth in 2019, yielding a segment growth rate of 4%. The segment delivered an outstanding 310-basis point margin improvement for the full year. The segment is entering 2020 with a backlog that's 12% higher year-over-year, but we expect to get off to a slower start in industrial pumps and DPC in the first half.
+On Refrigeration  Food Equipment, it's been an unmistakably tough year for the segment with new food retail store construction continuing to lag expectations and negatively impacting our systems and services businesses. This effect was partially offset by strong sales in the case product line that primarily serves store remodels, which continued to expand at a double-digit rate year-over-year, including on revenue, bookings, and backlog. We have not stood still during this period with site consolidations in Unified Brands and factory automation and case set that contributed positively to earnings in 2020. Despite a challenging demand environment in 2019, our can forming and heat exchanger businesses returned to growth in Q4. Belvac's backlog is nearly doubled compared to the start of 2019. Overall, the segment enters 2020 on a positive note with a 19% higher backlog year-over-year. Our operational productivity initiatives remain on track to start delivering results, primarily in the second half of 2020.
+I'll pass it on to Brad here.
+Brad M. Cerepak -- Senior Vice President  Chief Financial Officer
+Thanks, Rich. Good morning, everyone. Let's start going through the details on Slide 5. Rich has provided color on the growth dynamics by segment. I will point out that on top of the 1% organic revenue decline, FX continued to be a headwind in Q4, reducing topline by 1% or $20 million. We expect FX headwinds to subside in 2020. Acquisitions and dispositions, principally Belanger and Finder, contributed a $5 million net increase to revenue in the quarter. Bookings were flat organically and were similarly negative impacted by FX and positively supported by acquisitions.
+From a geographic perspective, the U.S., our largest market grew, 4% organically for the full year, with all businesses except Refrigeration posting solid growth. Europe was up 6%, where all five segments posted organic growth in 2019. All of Asia grew 2% organically for the full year, while China posted 3% growth. Activity in Asia was mixed across our businesses. Strong regulatory and new build demand in the fueling and plastics and polymer markets were offset in part by slower demand in industrial heat exchangers and marketing -- marking and coding. Latin America was slightly down for the year, with a strong first half and a slower second half.
+Now to the earnings bridges on Slide 6. Starting at the top, Engineered Products adjusted segment EBITDA improved $9 million, largely driven by volume and mix, more than offsetting headwinds from FX. Fueling Solutions growth of $17 million reflects a combination of robust growth, continued margin improvement in retail fueling and in part the acquisition of Belanger. Imaging  Identification grew $6 million on strong expanded margin despite lower volumes. The $6 million decline at Pumps  Process Solutions was driven by lower comparable volumes and was partially offset by stronger margins. Lastly, the decline of $7 million in Refrigeration  Food Equipment reflects lower volumes in the quarter.
+Going to the bottom of the chart. Adjusted earnings from continuing operations improved $15 million or 7%, primarily driven by higher segment earnings and lower interest and tax expenses, partially offset by higher corporate costs. The effective tax rate, excluding discrete tax benefits, is approximately 22% for 2019. Discrete tax benefits in the quarter were approximately $0.06 per share. Rightsizing and other costs were $18 million in the quarter or $14 million after-tax, providing confidence on further reducing costs and increasing margins in 2020. In the quarter, we also refinanced debt due to mature in 2020 and in 2021, resulting in a $24 million loss on extinguishment or $18 million after-tax. This loss is treated as an adjustment item to EPS in the quarter. The refinancing results in approximately $13 million lower interest expense on long-term debt in 2020.
+Now on Slide 7. We finished the year with very strong cash flow. Free cash flow for the year was $758 million or $140 million over last year, including a $16 million increase in capital expenditures. The free cash flow increase exceeded growth in earnings, reflecting improved working capital discipline and resulting in a more than 500-basis point improvement in cash flow conversion as a percent of adjusted earnings. As a percent of revenue, free cash flow was 10.6% for the year or 11.1% if we exclude cash restructuring expenses, both of which are above the midpoint of our annual guidance of 8% to 12%. Capital expenditures were $187 million for the year, slightly increased compared to last year, but below our original plan. While our major expansion projects remain on pace with our plan, timing of payments related to several large projects will spill over into 2020.
+Lastly, let's review Slide 8 with the EPS bridge. We finished the year with a strong 19% increase in earnings per share. This was driven by revenue growth conversion as well as margin improvement activities, resulting in revenue conversion margin well in excess of 100%. As you can see on this -- on the chart, the strength of the dollar in 2019 resulted in a negative FX impact of approximately 13% -- $0.13 of EPS, which we do not expect to reoccur in 2020. All in all, we can expect the same dynamic into 2020, a healthy conversion on revenue growth and operational savings driving year-over-year EPS accretion.
+With that, I'll turn it back to Rich.
+Richard J. Tobin -- President  Chief Executive Officer
+Thanks, Brad. Let's take a look at the outlooks on Slide 9. We are entering the year with encouraging backlog and a constructive demand environment across the majority of our markets, allowing us to forecast organic growth of 2% to 3%, which I'll cover in detail on the next slide. Adjusted EPS is forecasted to be $6.20 a share to $6.40 a share as a result of solid revenue conversion and our previously announced cost savings initiatives. We expect earnings growth to modestly levered in the second half as a result of seasonality and timing of productivity measures. We expect another strong year of cash flow conversion of 85% to 90% of adjusted net earnings, despite higher spending on capital investment. Engineered Products is expected to grow 3% to 5% organically on continued strength in waste handling, vehicle services and our aerospace and defense business. Fueling Solutions is expected to have a slower 2020 compared to the strong past couple of years as the underground upgrade cycle in China rolls off, EMV activity in the U.S. is picked up, and we expect to gain better visibility in the next couple of quarters about potential upside here. Imaging  Id is expected to grow 2% to 3%, with the outlook largely dependent on conditions in Asia for both marking and coding and textile printing. Pumps  Process Solutions enters the year with a very strong backlog, and we expect it to grow 3% to 5%, geared toward the second half. And finally in Refrigeration  Food Equipment is expected to grow modestly in 2020. We are entering the year with a very strong backlog, but the trajectory of the past two years calls for caution early in the year. Overall, our multi-industrial portfolio with significant share of aftermarket component and service and software revenue is expected to deliver healthy growth in what continues to be an uncertain macro environment.
+Go to Slide 11, Dover strategy is simple, but our aspirations are ambitious. We laid out key priorities in 2018 and are tracking very well delivering against those. We plan to advance the same strategy further in 2020. First, you can see from the result of our rightsizing and operational improvement in our bottom line and our cash flow. We achieved target margin performance in our Fueling business. In 2020, we will continue with the previously announced $50 million cost reduction program as well as our ongoing footprint and productivity programs in Dover Food Retail. Coupled with healthy growth in conversion, these actions will continue providing a margin accretion tailwind. Our business has sustained strong growth, while taking costs out and working on their productivity, all under uncertain macro conditions. And our top priority in capital deployment is organic reinvestment. We initiated several growth and productivity capital projects and are starting investments in our can forming and heat exchanger businesses to capture growing volumes and upgrade competitive capabilities. Part of our SGA reduction program was reinvest in its various growth, RD, and digital initiatives and we will continue investing in world-class digital and operational capabilities in 2020.
+Lastly, we committed to disciplined portfolio-enhancing MA. Over the last 12 months, we have consummated four bolt-on, high-fit, accretive proprietary transactions. In the priority areas of our portfolio, the MA pipeline remains active going into 2020.
+On a final note, I'd like to address the inevitable Coronavirus questions as best I can at this early stage of developments. First and foremost, we have been in regular contact with our in-country employees and have issued policy guidance using our experience from the SARS time period. We have also put in appropriate travel policies Companywide. Our production sites had planned to be down from January 24th to 30th for Chinese New Year, but we expect to remain down through February 9th in most sites, as a result of cantonal-enacted safety measures. In preparation for Chinese New Year, Dover and our supplier network had built inventory to cover this period as normal practice, but we are working closely with our global supply base on potential mitigation strategies actively.
+I would like to thank everybody at Dover for delivering a strong year and the hard work, setting us up for a good outlook of 2020. And that's it and hand it over to you, Andrey, for QA.
+Andrey Galiuk -- Vice President, Corporate Development and Investor Relations
+Nicole, let's open the QA.
+Questions and Answers:
+Operator
+[Operator Instructions] The first question will come from the line of Andrew Kaplowitz with Citi.
+Andrew Kaplowitz -- Citi -- Analyst
+Hey, good morning, guys.
+Richard J. Tobin -- President  Chief Executive Officer
+Hi, Andy.
+Andrew Kaplowitz -- Citi -- Analyst
+Rich, in RFE, obviously, strong backlog now leaving 2019. I think you said last quarter that good door and case bookings could give you more confidence that you're at the floor of the system side. So, did the bookings plus the return to growth in beverage can and heat exchangers actually mean that you finally have good visibility into organic revenue growth in 2020?
+Richard J. Tobin -- President  Chief Executive Officer
+Well, I think on the can forming for sure and on the case side of the Refrigeration business, yes. On the systems and service portion, no, because that tends to be relatively short cycle in terms of -- really doesn't carry much of a backlog. So, I think we feel pretty good about the case door backlog that we have going into the year and I think that we feel good about Belvac and I think that we feel reasonably good on SWEP on the heat exchangers.
+Andrew Kaplowitz -- Citi -- Analyst
+Okay, that's helpful. And then just follow-up on RFE margin, you talked about a 15% margin as the exit run rate for 2020. So the good bookings in Q4 gives you a better shot of hitting that run rate? Is it still on track? And the margin in the quarter, obviously, you've talked about labor availability and over time is an issue. I assume that's what it was again in the quarter and that mitigates as you get the automation project online.
+Richard J. Tobin -- President  Chief Executive Officer
+It wasn't as much labor issues that we've had. I think those moderated in case door production. I think that if we had any disappointment during the quarter was in Unified Brands. We had the orders, we could have shipped, but we are in the middle of doing a plant consolidation and our performance has been a little bit lumpy there. So, I think that we've got some of our labor issues behind us in case door leading into automation and I think that from what I've seen at least at the beginning of this year, the Unified Brands has begun -- their shipment rates have gone back up. So, I think we're OK there also.
+Andrew Kaplowitz -- Citi -- Analyst
+So do you think you could hit mid-teens as you go out end of the year here, Rich?
+Richard J. Tobin -- President  Chief Executive Officer
+Right. Yeah, I mean, I think that our expectation is to exit at our target margin, Andy.
+Andrew Kaplowitz -- Citi -- Analyst
+Excellent. Nice quarter.
+Richard J. Tobin -- President  Chief Executive Officer
+Thanks.
+Operator
+The next question will come from the line of Jeff Sprague with Vertical Research.
+Jeff Sprague -- Vertical Research Partners -- Analyst
+Yeah, thanks. Good morning.
+Richard J. Tobin -- President  Chief Executive Officer
+Good morning, Jeff.
+Jeff Sprague -- Vertical Research Partners -- Analyst
+Good morning. Just on the automation project itself, Rich, can you just update us just kind of what happens here in the next quarter or two? So you're starting to run beta and cut over -- like where is kind of the stress point on the organization to get this right?
+Richard J. Tobin -- President  Chief Executive Officer
+That organization has been under a lot of stress, but in this particular case, we will be building inventory for the transition through the first six months of the year. So, I think it's going to be a little bit challenge from a working capital point of view. We'll be getting the beta units off with the next month or so and then our target is to -- the cutover of manufacturing on a single product line in approximately June. But as we mentioned before, we're not -- this automation project is not running inside the existing assembly operations of case door. So we don't expect to have any downtime associated with the start-up, it's just the costs associated with the start-up, including the working capital build.
+Jeff Sprague -- Vertical Research Partners -- Analyst
+And just thinking about the profitability in your backlog, right, I mean a lot of that will hinge on the execution in the factory, but as you've tried to kind of streamline the SKU count and the like, do you feel like you have kind of real visibility on the backlog profitability itself and how much of a part is that to the kind of the exit rate that you're talking about for the year?
+Richard J. Tobin -- President  Chief Executive Officer
+I think that we've got better visibility that we have had, I guess, previously. So, part and parcel to reaching our exit margins is some confidence in terms of what we have in the backlog and the margin that we should generate off of it. So it's not predicated completely on cost reduction as a result of labor content and assembly.
+Jeff Sprague -- Vertical Research Partners -- Analyst
+Okay, great. I'll leave it there. Thank you.
+Operator
+The next question is from the line of John Inch with Gordon Haskett.
+John Inch -- Gordon Haskett -- Analyst
+Thank you. Good morning, everybody. Good morning, Rich and Brad.
+Richard J. Tobin -- President  Chief Executive Officer
+Good morning.
+John Inch -- Gordon Haskett -- Analyst
+And Andrey. So the 0 to 2% RFE guide, with SWEP and Belvac coming back, and Rich, you called out case and door strength, I mean, does that -- that obviously implies that the rest of that business is down. Is that business down getting better? Or are you just assuming it's down the way it's always been down or how should we think about it?
+Richard J. Tobin -- President  Chief Executive Officer
+I think that we -- well, we need to parse some of the pieces, but if you go back and listen or when you read the transcript, I think that we are being cautious with that particular segment because the fact of the matter is, it needs to demonstrate a couple of quarters of getting its feet under it, but I think that the part that we're going to wait and see mode is on the systems and service portion of the portfolio. We're confident that case door should be up year-over-year. As I mentioned, we feel good about SWEP and we feel good about Belvac and then we'll see.
+John Inch -- Gordon Haskett -- Analyst
+The 5.4% margin this quarter, I mean, if you haven't been running these parallel systems and the automation project, where -- is there any way to get a sense of where that margin might have been if you haven't been doing this stuff?
+Richard J. Tobin -- President  Chief Executive Officer
+I guess there could be, but I don't have it in front of me, right? But there are -- there is a bunch of cost that we did take during the quarter that because of both the transitions are largely in UB this time around that we could normalize, but I don't want to give out. That's like, well, if this didn't count, this is what our margin would be. I just can't give you an idea of what we expect it to be in 2020 without recasting the quarter. We're just going to have to take our lumps, we're not happy with the performance and we think we've got some good line of sight on the non-Refrigeration portion of the portfolio and it's up to us to deliver on the Refrigeration piece.
+John Inch -- Gordon Haskett -- Analyst
+That's fair. Just lastly, Rich, I remember conversation we had where you were pretty adamant we're not going to chase industrial "software deals" and pay the big multiples some of these other companies have paid and now you've done and what appear to be a couple of pretty nice fit bolt-on software deals, I'm wondering how you're now thinking about this. If you've been able to find kind of a niche of some higher technology, higher value add without overpaying as you look at the portfolio and look to ramp up MA going forward?
+Richard J. Tobin -- President  Chief Executive Officer
+I think that software by its nature, the valuations, they're higher than kind of core industrial and so it's not -- but I think that my comment was more that we were not going to chase software, damn the torpedoes, right?
+Brad M. Cerepak -- Senior Vice President  Chief Financial Officer
+Independent of our business.
+Richard J. Tobin -- President  Chief Executive Officer
+Independent of our business. So, the software deals that we've done are highly complementary to both to MI and to ESG. I think that we paid a fair price, but the fact of the matter is that software commands a higher multiple.
+John Inch -- Gordon Haskett -- Analyst
+Got it. Thanks very much. Appreciate it.
+Operator
+The next question is from the line of Julian Mitchell with Barclays.
+Julian Mitchell -- Barclays Capital Inc. -- Analyst
+Thanks, good morning. Maybe just following up on how you're thinking about the seasonality through the year. I think you had mentioned in Pumps  Process and Refrigeration  Food, in particular, quite a back-end loaded year. So just wanted to check if you think Dover as a whole can be in that 2% to 3% organic sales growth range through each quarter? And also, whether that net $50 million of cost save we should just spread out evenly through the year?
+Richard J. Tobin -- President  Chief Executive Officer
+Let's take the second question first. Yes, on the $50 million to spread it evenly through the year. I think it's the safest bet. It's not incredibly material to the overall earnings, but I get it, it's material to the year-over-year projected change. I look -- I think that I would -- I don't think it's going to be disproportionate in terms of the revenue growth, but it clearly -- we need to see where we are on pumps -- on industrial pumps in Q1. We know that Maag and DPC are going to be levered because those are bigger projects. So there is some caution in those two particular businesses. The upside is EMV, right? So, if we take it -- if we go back and take a look at Q4, I think we were a little bit disappointed in the demand. I think we had signaled that industrial pumps were slowing at the end of Q3, it slowed, slowed quite a bit, as you can see in Q4, so that was a kind of a disappointment versus what our forecast were, but we over-delivered to such an extent on EMV and kind of net neutralized where we were.
+On DF, I think that the earnings are back-end loaded, not necessarily the revenue, because we've got some pretty healthy backlogs on Refrigeration.
+Julian Mitchell -- Barclays Capital Inc. -- Analyst
+Thank you very much. And just my follow-up on capital deployment, in 2019, if I look at the cash you spend on buyback and MA and capex, each of those three items were in that sort of $150-ish million to $200 million range, rounding wise. Just wondered when you're thinking about 2020, can see the share count assumption you've pegged, can see the capex range you've provided, but would we be surprised if that spread is broadly similar in 2020 as it was in '19?
+Richard J. Tobin -- President  Chief Executive Officer
+I think that the capex is our best estimate at this time. I think that we would prefer the weighting toward inorganic investment to go up and capital return to go down. But if we're not spending it on one side, then it's going to come back on the other side.
+Julian Mitchell -- Barclays Capital Inc. -- Analyst
+Great, thank you.
+Richard J. Tobin -- President  Chief Executive Officer
+You're welcome.
+Operator
+Next we have Andrew Obin with Bank of America.
+David Ridley-Lane -- Bank of America Merrill Lynch -- Analyst
+Hi, this is David Ridley-Lane on for Andrew. What gives you confidence around the demand improving in Pumps  Process Solutions as you go through 2020? I definitely heard your commentary that it could be softer here in the first half?
+Richard J. Tobin -- President  Chief Executive Officer
+Our biopharma business, we expect to again grow in double-digits. I think that our caution is around industrial pumps. We have good backlogs on a project basis in Maag. So, we feel good about that. And then DPC, we're betting on a little bit of a return to growth largely in the second half. So I think we've got -- it's a glass half full scenario. We've got some backlogs in our project-related businesses that to the extent everything remains firm, we'll deliver on those. We're going to be a little bit cautious on industrial pump demand until we see and interact with our dealers a little bit about where they stand in their stocking levels and the like. So, I think that that gives us some confidence that the only risk that we're taking in terms of the growth is largely on the industrial pumps side.
+David Ridley-Lane -- Bank of America Merrill Lynch -- Analyst
+Got it. And did the tone shift with customers around EMV upgrades? Is there a greater sense of urgency and any updated thoughts on EMV demand after 2020 would be the question?
+Richard J. Tobin -- President  Chief Executive Officer
+I guess, if we look at Q4, you could make an argument that the phasing of the demand could be pulled into 2020, but we don't have enough data that allows us to say, let's move that number up in terms of how it extrapolates into revenue. But clearly, what's happening is, as you can read the newspaper every day, you're getting now the first instances of credit card fraud at retail operations and once you have that that kind of jolted a lot of people into actions. So I think that's the phenomenon that we see.
+David Ridley-Lane -- Bank of America Merrill Lynch -- Analyst
+Understood. Thank you very much.
+Richard J. Tobin -- President  Chief Executive Officer
+You're welcome.
+Operator
+The next question comes from the line of Nigel Coe with Wolfe Research.
+Nigel Coe -- Wolfe Research -- Analyst
+Thanks. Good morning. So, Rich, I just wanted to kind of follow-up on the pumps side. Look, obviously, industrial pumps is the area of concern. How much backlog do you have kind of underwritten already for 2020 in that revenue growth outlook you've got? And how is that compared to sort of a normal sort of backlog builds into the fiscal year?
+Richard J. Tobin -- President  Chief Executive Officer
+Well, the absolute value of the new segment in terms of backlog is up, but that is weighted toward DPC and Maag, which tend to be project-driven. So we've got some line of sight on that. The industrial portion of the business outside of biopharma is flat and that's also where the vast majority of the revenue stream goes through distribution. So, as I mentioned earlier, we saw an amount of inventory management going into Q4. We need to see where we stand and we need to get a quarter under our belt to kind of -- so I think that we're cautious about industrial -- on the industrial pump demand, but I think -- we think -- we feel good about biopharma and we feel good about Maag just based on the backlog.
+Nigel Coe -- Wolfe Research -- Analyst
+Okay, that's helpful. I mean, it would be also helpful if you got any color on in terms of where distributor and channel inventories are right now, but I did want to touch on capex, because I was just wondering at $200 million, which is about 3% of sales. Typically, you've been running at 3% [Phonetic] and I think most of your [Indecipherable]. I know -- yeah, I know you're investing. You just mentioned you've got a preference for internal investment. I'm just curious how long do you think capex remain at these levels? And when do you see it dialing back?
+Richard J. Tobin -- President  Chief Executive Officer
+I think we're still spending on the brand new site for our biopharma business that is going to roll off. So, as Brad mentioned before, we underspent our guidance on capex. One of the reasons that we did was, I think, we underestimated how cold it is in Minneapolis to get that building stood up. So, part of the spending is rolled into 2020. That to me is a one-timer and we don't have anything like that. So we really have two or three really big projects running through our capex spending now. I think we highlighted in 2018. Using round figures in aggregate that is close to between $90 million and $100 million of capex spend. We probably spent 60% -- 50% to 60% in 2019. We're going to roll forward to 40%. Unless we come up with another project that says the brand new building based on growth, I would expect that amount of capex to come down as a percent of revenue.
+Nigel Coe -- Wolfe Research -- Analyst
+Thanks, Rich.
+Operator
+Next we have a question from the line of Josh Pokrzywinski with Morgan Stanley.
+Josh Pokrzywinski -- Morgan Stanley -- Analyst
+Hi, good morning, guys.
+Richard J. Tobin -- President  Chief Executive Officer
+Hey, Josh.
+Josh Pokrzywinski -- Morgan Stanley -- Analyst
+Rich, just on Imaging  ID, I think the 2% to 3% seems like it would be similar to what would be in a normal year. I know maybe some persistent weakness in the fourth quarter that doesn't give you all the optimism in the world. But you're coming off some fairly easy comps, the business doesn't seem like it takes a long time to build momentum once it's generated. At what point in time could we start to see more momentum there? Or are we kind of locked into a weak 1Q, just based on your visibility and from there it becomes more of a macro call? Can you just kind of walk us through the phasing of what a better scenario would look like timing-wise?
+Richard J. Tobin -- President  Chief Executive Officer
+It's very Asia-dependent and forget the recent news around Asia, Asia had slowed progressively in that particular sector. I'm talking about the Printing  ID portion of the business throughout 2019. So I think we're relatively cautious about expectation there quite frankly going into '20. We didn't make some deliveries that we thought we were going to make in digital printing in Q4 because of financing, letters of credit and the like. So, part and parcel to that growth rate for '20 is somewhat levered onto the textile printing business, because we believe that the orders are there, we just need to sort out some of the financing on it. So, it's hard to say. I mean, I think that's a question that we can probably answer at the end of Q1 once we see what's actually happening in Asia on the Printing  ID side to say whether we're going to have an inflection point. Having said that, we've just invested in a complementary revenue stream for Markem-Imaje. So, let's see what we can do with that going forward.
+Josh Pokrzywinski -- Morgan Stanley -- Analyst
+Got it. And then just taking a step back, obviously, a lot of focus the last couple of years on productivity and 2020 certainly has a lot more with some of the investments you're making, capex and otherwise. Is 2020 a year where you can start to shift your gaze toward the portfolio, whether it's on the MA side or examining maybe non-core pieces of the business? Or is this still going to be kind of like an eyes down productivity-focused year in its entirety?
+Richard J. Tobin -- President  Chief Executive Officer
+I'm sure the management team is not going to like when I say this, but the productivity issue never goes away, right? So, what we are going to grind out in '20 is our expectations to grind down in '21 and going forward, and that's why we're investing quite a bit in our digital efforts and our back office efforts and a variety of other things. So we're taking the PL cost of investing in those areas with the expectation that we can grind out the productivity in the following years. So that really doesn't go away. We actually have spent a considerable amount of time on our portfolio. It hasn't translated into a lot of inorganic activity, but it's not from a lack of trying.
+Josh Pokrzywinski -- Morgan Stanley -- Analyst
+Got it. Appreciate it.
+Richard J. Tobin -- President  Chief Executive Officer
+Thanks.
+Operator
+The next question is from the line of Joe Ritchie with Goldman Sachs.
+Joe Ritchie -- Goldman Sachs -- Analyst
+Thanks. Good morning, everyone.
+Richard J. Tobin -- President  Chief Executive Officer
+Good morning.
+Brad M. Cerepak -- Senior Vice President  Chief Financial Officer
+Good morning.
+Joe Ritchie -- Goldman Sachs -- Analyst
+Just in your Fueling Solutions organic growth guide, how much of a headwind is baked in for China underground subsiding here in 2020?
+Richard J. Tobin -- President  Chief Executive Officer
+In percentage terms, I don't recall. I think it was $50 million more or less in terms of absolute revenue.
+Joe Ritchie -- Goldman Sachs -- Analyst
+Okay. All right, cool. And then specifically on capital deployment, I may have missed this earlier, I know we talked a little bit about MA, but how are you guys thinking about the toggle on buyback and what should we kind of bake-in or what is baked into your expectations for 2020?
+Richard J. Tobin -- President  Chief Executive Officer
+I kind of -- we reset the clock, Joe, back to 2018. We said we weren't going to sit on a cash pile. Our preference is to deploy inorganically. Obviously, we did purchase -- what's the total, $140 million in total?
+Brad M. Cerepak -- Senior Vice President  Chief Financial Officer
+Yeah, $143 million.
+Richard J. Tobin -- President  Chief Executive Officer
+$143 million of equity back this year, just because we haven't been deploying it inorganically. My preference in '20 would be the proportionality of inorganic investment to rise. But if we can't deploy it efficiently with high returns, then you can expect the same.
+Joe Ritchie -- Goldman Sachs -- Analyst
+Makes sense. Thanks, guys.
+Operator
+Next we have a question from the line of Deane Dray with RBC.
+Andrew Krill -- RBC Capital Markets -- Analyst
+Hi, thanks. Good morning. This is Andrew Krill on for Deane. Can you comment on the price cost environment you're seeing now, and then what's being assumed for 2020 and if you're still seeing any impacts from tariffs? Thanks.
+Richard J. Tobin -- President  Chief Executive Officer
+I think that that we're neutral on year-over-year input costs right now. I think that we've got -- we picked up, I think, the year-over-year benefit on inputs in the second half of 2019. So our expectation is relatively neutral and we think that pricing should be in excess of inflationary inputs, which includes labor is really our goal.
+Andrew Krill -- RBC Capital Markets -- Analyst
+Got it, thanks. And then just a quick follow-up on -- so we know you have the $50 million takeout -- cost takeout target for 2020. Just if the macro were to slow down more than expected, is there any potential to engage in further restructuring? And can you just size maybe what additional savings that you could read from that? Thank you.
+Richard J. Tobin -- President  Chief Executive Officer
+Yeah, I think that what we're taking out of the $50 million has nothing to do with the demand cycle. So that $50 million is just core reduction of costs. If the demand cycle was to turn against us, clearly, we would take action on our cost base.
+Andrew Krill -- RBC Capital Markets -- Analyst
+Okay, thank you.
+Richard J. Tobin -- President  Chief Executive Officer
+Yep.
+Operator
+And the last question comes from the line of Steve Tusa with J.P. Morgan.
+Steve Tusa -- J.P. Morgan -- Analyst
+Hey, guys, thanks for fitting me in [Indecipherable].
+Richard J. Tobin -- President  Chief Executive Officer
+[Indecipherable] Steve.
+Steve Tusa -- J.P. Morgan -- Analyst
+That's all right. When you guys think about kind of the dynamics around EMV, just -- can you just remind us kind of how that plays out beyond '20 and what -- how you see that kind of trending in '21 and '22? What we have to keep in mind on that front?
+Richard J. Tobin -- President  Chief Executive Officer
+Yeah, we had -- our previous estimates was the peak amount would be 2020 and they would have reduced progressively in '21 and '22 more or less about 30% a year. Based on the exit rate that we saw in the fourth quarter, there is an argument to be made that it may be higher in 2020 and '21, because of adoption rates, but look, we only have one quarter of data point to model it, but I think that, as I mentioned, maybe you heard during the presentation, we know that we've got a headwind in China demand on the underground side. We may have a tailwind on EMV but we like to get a quarter under our belt to see how that's progressing.
+Steve Tusa -- J.P. Morgan -- Analyst
+Okay, great. And then just on Refrigeration, at what stage do you kind of reevaluate the strategy with kind of trying to operate that business better? Is that -- do you feel better about that today or a little more cautious about it given the kind of the sluggish -- stubbornly kind of sluggish performance?
+Richard J. Tobin -- President  Chief Executive Officer
+Look, I mean, we're committed to intervening on the cost base and this is the year when it takes place, Steve. So, I think that we're going to run it for the year. I think that where we're intervening is where our backlog is the strongest. So that gives us some pause for a success. There were tertiary pieces of the Refrigeration side that we're taking a look at that but not active -- not kind of the production of case door, but on the case door side, I think that this is the year that we got to deliver quite frankly.
+Steve Tusa -- J.P. Morgan -- Analyst
+Got it. Okay, thanks a lot.
+Richard J. Tobin -- President  Chief Executive Officer
+Thanks.
+Operator
+Thank you. That concludes our question-and-answer period. I will now turn the call back over to Mr. Galiuk for closing remarks.
+Andrey Galiuk -- Vice President, Corporate Development and Investor Relations
+Thanks. This concludes our conference call. Thank you for your interest in Dover and we look forward to speaking to you next quarter.
+Richard J. Tobin -- President  Chief Executive Officer
+Thank you, everyone.
+Operator
+[Operator Closing Remarks]
+Duration: 46 minutes
+Call participants:
+Andrey Galiuk -- Vice President, Corporate Development and Investor Relations
+Richard J. Tobin -- President  Chief Executive Officer
+Brad M. Cerepak -- Senior Vice President  Chief Financial Officer
+Andrew Kaplowitz -- Citi -- Analyst
+Jeff Sprague -- Vertical Research Partners -- Analyst
+John Inch -- Gordon Haskett -- Analyst
+Julian Mitchell -- Barclays Capital Inc. -- Analyst
+David Ridley-Lane -- Bank of America Merrill Lynch -- Analyst
+Nigel Coe -- Wolfe Research -- Analyst
+Josh Pokrzywinski -- Morgan Stanley -- Analyst
+Joe Ritchie -- Goldman Sachs -- Analyst
+Andrew Krill -- RBC Capital Markets -- Analyst
+Steve Tusa -- J.P. Morgan -- Analyst
+
+More DOV analysis
+
+All earnings call transcripts

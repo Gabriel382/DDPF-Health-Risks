@@ -1,0 +1,87 @@
+TREASURIES-Yields fall on virus concerns, Fed leaves rates unchanged 
+ (Adds Fed, updates prices)
+    * Investors concerned about economic impact of virus
+    * Fed keeps rates unchanged, raises IOER
+    * Fed to continue expanding balance sheet to boost reserves
+
+    By Karen Brettell
+    NEW YORK, Jan 29 (Reuters) - U.S. Treasury yields fell on
+Wednesday as the death toll from a Chinese virus rose sharply,
+and dipped to session lows after the Federal Reserve left
+interest rates unchanged and said it would continue expanding
+its balance sheet.
+    The death toll from a new coronavirus in China rose to 132
+on Wednesday with nearly 1,500 new cases, as Japan said it flew
+citizens out of Wuhan, the epicenter of the virus.
+    Uncertainty over the economic impact of the virus has
+resulted in sharp swings in risk sentiment over the past few
+days.
+    Benchmark 10-year note yields fell five basis
+points to 1.59%. They dropped to 1.57% on Tuesday, the lowest
+since Oct. 10, before bouncing sharply higher as stock markets
+rallied.
+    Yields dipped to session lows after the Fed held interest
+rates steady, with officials pointing to continued moderate U.S.
+economic growth and a "strong" job market.
+    Fed Chairman Jerome Powell also committed to continuing to
+expand its balance sheet in order to ensure ample reserves are
+in the financial system. 
+    He said that $1.5 trillion is the bottom end of the range
+and that their targeted reserve level will likely be reached in
+the second quarter.
+    A scarcity of reserves was blamed as a factor that caused a
+spike in overnight borrowing costs in September, leading the Fed
+to intervene in the repurchase agreement (repo) market.
+    The cost of borrowing overnight in repo edged higher after
+the Fed raised the interest it pays banks for excess reserves by
+five basis points to 1.60%, a technical adjustment officials say
+was needed to keep the federal funds rate around the middle of
+the target range.
+    "There was a bit of a split about whether they would raise
+IOER," said Gennadiy Goldberg, an interest rate strategist at TD
+Securities in New York. "The very front-end of the curve
+reacted."
+    The overnight repo rate increased to 1.59%, from
+1.58%.
+    The closely watched yield curve between three-month bills
+and 10-year notes very briefly inverted on Tuesday for the first
+time since October. It traded at 3 basis points on Wednesday.
+    That part of the yield curve inverted last March for the
+first time since the financial crisis, signaling that a
+recession is likely to follow in one-to-two years.
+
+  January 29 Wednesday 3:02PM New York / 2002 GMT
+    
+    
+                               Price        Current   Net Change
+                                            Yield %   (bps)
+ Three-month bills             1.53         1.5615    -0.011
+ Six-month bills               1.535        1.5728    -0.002
+ Two-year note                 99-235/256   1.4167    -0.040
+ Three-year note               100-78/256   1.3945    -0.051
+ Five-year note                99-210/256   1.4124    -0.054
+ Seven-year note               99-240/256   1.5094    -0.050
+ 10-year note                  101-112/256  1.5908    -0.050
+ 30-year bond                  107-68/256   2.0479    -0.047
+                                                      
+   DOLLAR SWAP SPREADS                                
+                               Last (bps)   Net       
+                                            Change    
+                                            (bps)     
+ U.S. 2-year dollar swap         6.00         0.00    
+ spread                                               
+ U.S. 3-year dollar swap         2.50         0.50    
+ spread                                               
+ U.S. 5-year dollar swap         0.25         0.75    
+ spread                                               
+ U.S. 10-year dollar swap       -4.75         0.75    
+ spread                                               
+ U.S. 30-year dollar swap      -31.50         0.50    
+ spread                                               
+ 
+
+
+    
+    
+
+ (Editing by Kirsten Donovan and Nick Zieminski)

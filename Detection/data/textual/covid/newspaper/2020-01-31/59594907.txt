@@ -1,0 +1,42 @@
+EUR/CAD: Short-Term Upside Risk, With Long-Term Downside 
+ Nevertheless, should the concerns surrounding the coronavirus ease, and should the threats to global trade abate, we should eventually start to see the EUR/CAD pair continue to pull back and through to the 1.40 level in 2020. Yet due to CAD's exposure and correlation to oil and pro-risk activity in markets, one would be wise to avoid 'short' exposure on this particular currency pair in the short term.
+
+This uncertainty will likely continue to put pressure on oil prices, which CAD is correlated to. Meanwhile, the funding currency characteristics of the euro could send flows back into euros as risk-on trades are unwound. Together, this could create near-term upside volatility for EUR/CAD.
+
+It would take many cuts for the Bank of Canada to erode this margin. However, due to the emerging coronavirus pandemic, further uncertainty will likely to persist.
+
+The EUR/CAD currency pair, which expresses the value of the euro in terms of Canadian dollars, captures the currency market's relative expectations of the eurozone versus Canada. Expectations concern these economic regions' inflation rates, interest rates and (trade) current accounts, among various other factors.
+
+Other "idiosyncratic" factors that are important to this pair include the fact that the euro can be used as a funding currency, due to the negative interest rates in the eurozone, making the currency profitable to sell against higher-yielding currencies. Another factor to consider, especially recently, is that Canada's significant export exposures to oil-related products mean that the downside in oil prices can quickly translate into downside volatility in CAD.
+
+The chart below, which uses daily candlesticks, shows the recent price action of the EUR/CAD pair.
+
+However, in order to understand EUR/CAD, we need to first look at CAD specifically; in this case, we can set it against the world reserve currency, the United States dollar. This will enable us to see how the Canadian dollar is moving and why. As noted, oil prices are important for the Canadian dollar. The chart below is a daily chart for CAD/USD, showing the clear correlation with WTI crude oil prices (see blue line, set against the far-right y-axis for oil prices; the daily candlesticks are for CAD/USD).
+
+Oil prices might be bottoming, or they might not; regardless, it is possible that the pressure will remain over the next few days and weeks due to the headlines surrounding the coronavirus.
+
+The chart below from John Hopkins University's coronavirus tracker shows that while the growth in the number of (reported) cases of the virus is not quite exponential, the total number of cases is nevertheless growing (compounding) and only 143 sufferers have "recovered," versus 171 deaths. The mortality rate is being quoted as being less than 3%, yet due to the uncertainty surrounding those sufferers of the virus who have not yet recovered, and the potential for many more cases to arise, the uncertainty surrounding this virus outbreak is likely to persist going forward.
+
+The virus threatens businesses (and consumers) in China, which will (continue to) have ripple effects throughout the world economy (via both the demand side, and via supply chain disruptions). The longer this virus causes disruption, the worse the effects will be globally, and a shutdown of local factories and business activity in China could drag down the demand for oil (hence putting further pressure on oil prices). The Severe Acute Respiratory Syndrome (or SARS) outbreak of November 2002 to July 2003 caused oil prices to drop significantly, as you can see in the chart below (the chart covers this period, from start to end).
+
+Notice that oil prices fell by around 30% in a short space of time between late February 2003 and before the end of March 2003. This is what markets currently appear to be attempting to price in: the risk of a significant decline in oil prices (which has effectively already occurred, yet this could easily continue if coronavirus threats persist).
+
+Meanwhile, the bond market is pricing in a lower one-year bond yield for Canada, which is also following a weaker CAD (lower interest rates make currencies less attractive to hold; in this case against the USD in the chart below).
+
+The Bank of Canada is next due to convene on March 4, 2020. The bank's current rate of +1.75% could therefore fall, if the committee were to decide to cut rates by, say, 25 basis points. However, this date is still a month off, and therefore throughout February, the market will likely continue to focus on the coronavirus and data coming out of China and the rest of the world on this emerging pandemic. Generally speaking, it is fair to say this issue will not go away in the near term, and hence the Canadian dollar is likely to find continued downside pressure.
+
+The euro, from the perspective of rates, is less attractive to hold than the Canadian dollar. However, as the euro is not significantly correlated to oil, any interest rate differential becomes less important when oil volatility is in abundance. Nevertheless, the chart below shows that the EUR/CAD pair does still correlate with the bond market's ongoing assessment of the pair's one-year interest rate spread (German bonds are used to serve as a proxy for the one-year yield of the euro).
+
+The significant jump in the interest rate differential recently would suggest an upside for EUR/CAD. However, this is not because euro rates have been rising (on the contrary, the bond market's assessment has been weakening if you look at German yields), but rather the Canadian yield has dropped significantly in line with oil prices (as shown in the chart preceding the one immediately above).
+
+Per the chart below, taking a longer-term view (using monthly candlesticks), we can see that the EUR/CAD pair has broken out of an extended bullish trend to the downside. This is important to consider; in spite of CAD weakness, any upside in EUR/CAD is probably likely to be short-lived.
+
+From a rates perspective, EUR/CAD still favors downside (due to the negative interest rate differential; the ECB's deposit facility rate of -0.50% compares to the Bank of Canada's comparable rate of +1.75%). Further, wherever oil prices stabilize, once they do stabilize, the CAD should begin to find support again.
+
+Therefore, longer term, we are probably going to see EUR/CAD return downward to a level in line with approximately 1.40 (see the chart below, which uses monthly candlesticks).
+
+The chart below is substantially the same as above, only with weekly candlesticks, for a nearer-term perspective.
+
+However, in the near term (through February 2020), there is going to be plenty of opportunity for the pair to see some short-lived upside volatility. One would probably be wise to avoid entering a position in this pair unless for short term, tactical reasons; possibly on the long side, as coronavirus headlines will continue to show across global media. Longer term, EUR/CAD is likely to remain a short (firstly to 1.40), on the basis of the wide interest rate differential which does not look set to close for the foreseeable future.
+
+Disclosure: I/we have no positions in any stocks mentioned, and no plans to initiate any positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.

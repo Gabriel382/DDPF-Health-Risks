@@ -1,0 +1,38 @@
+Coronavirus infection weakens stock markets 
+ Synovus Trust portfolio manager Dan Morgan discusses tech companied reporting better than expected earnings, Facebook CEO Mark Zuckerberg’s being “proactive” by going to Brussels to talk to European Union officials and whether tech stocks still have room for growth. 
+
+
+
+
+U.S. equity markets were lower Friday as the coronavirus continued to spread and corporate earnings rolled out.
+China’s National Health Commission has confirmed 9,692 cases and 213 deaths related to the virus. The World Health Organization declared the outbreak is a “global health emergency.”
+TickerSecurityLastChangeChange %
+SP500SP 5003283.66+10.26+0.31%
+I:DJIDOW JONES AVERAGES28704.36-155.08-0.54%
+I:COMPNASDAQ COMPOSITE INDEX9298.934065+23.77+0.26%
+Drugmakers and medical mask makers continued to climb as the coronavirus expanded its reach while airlines and casino operators fell.
+TickerSecurityLastChangeChange %
+NNVCNANOVIRICIDES INC12.00+2.52+26.58%
+NVAXNOVAVAX INC.7.00+0.16+2.34%
+LAKELAKELAND INDS13.82+0.68+5.17%
+UALUNITED AIRLINES HLDG.77.75+2.54+3.38%
+LUVSOUTHWEST AIRLINES CO.55.83-1.06-1.86%
+WYNNWYNN RESORTS LIMITED126.62+2.77+2.24%
+Looking at earnings, Amazon’s market capitalization reclaimed the $1 trillion level after the e-commerce giant reported earnings and revenue that were well ahead of expectations.
+Caterpillar reported fourth-quarter sales slumped 8.4 percent year over year and forecast its full-year 2020 profit below Wall Street estimates, citing weak user demand amid an uncertain global economic backdrop.
+Visa’s first-quarter profit jumped 10 percent to a record $3.27 billion as the credit card company processed more than $3 trillion of transactions.
+TickerSecurityLastChangeChange %
+AMZNAMAZON.COM INC.1,870.68+12.68+0.68%
+CATCATERPILLAR INC.135.37-0.41-0.30%
+VVISA INC.208.21+3.35+1.64%
+Oil giant Exxon Mobil’s fourth-quarter profit fell 5.2 percent to $5.69 billion amid weakness in its refining and chemicals unit. Production in the Permian Basin, the largest U.S. shale field, jumped 54 percent from last year. Meanwhile, rival Chevron reported a $6.6 billion loss as a result of writedowns related to North American shale assets.
+TickerSecurityLastChangeChange %
+XOMEXXON MOBIL CORPORATION64.79+0.68+1.06%
+CVXCHEVRON CORP.111.40+1.03+0.93%
+IBM shares spiked after CEO Ginni Rometty announced she is retiring from the company after almost 40 years. Arvind Krishna, head of IBM’s cloud unit and a key architect of the company’s Red Hat acquisition, will be Rometty’s replacement.
+TickerSecurityLastChangeChange %
+IBMINTERNATIONAL BUSINESS MACHINES CORP.136.77-0.92-0.67%
+West Texas Intermediate crude oil was down 0.4 percent at $51.95 a barrel and gold was weaker by 0.3 percent at $1,584 an ounce.
+U.S. Treasurys were little changed with the yield on the 10-year note holding at 1.56 percent, near a four-month low. 
+In Europe, Britain’s FTSE tumbled 2.1 percent ahead of the United Kingdom’s exit from the European Union. Germany’s DAX and France’s were down 0.3 percent and 0.6 percent, respectively. 
+Asian markets were mixed, with Hong Kong’s Hang Seng sliding 0.5 percent and Japan’s Nikkei adding 1 percent. China’s Shanghai Composite remained closed in observance of the Lunar New Year.

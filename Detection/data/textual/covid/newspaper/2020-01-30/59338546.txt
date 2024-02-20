@@ -1,0 +1,111 @@
+Apple’s App Store still limits developers’ options for how to make money 
+ It’s not every day we get to talk about a good old-fashioned utility app update. I wouldn’t go so far as to say they’re a dying breed, but the Apple App Store platform dynamics of recent years have made their row much harder to hoe.
+
+Which is one reason I’m happy to say that if you’re a Mac or iPhone user (or, ideally, both), you should absolutely go check out the newly updated Fantastical apps. There are a few new features and parity across platforms — I personally am excited for a calendar app that integrates with several to-do apps. 
+
+The thing about this update that may grab some attention is that it is moving to a subscription model. Historically, this kind of move has sparked consternation, but I’m not feeling any of that. It’s $4.99 a month or — in my preferred way to talk about subscription pricing — $40 per year (a $20 discount). That subscription gets you access to the iPhone, Mac, iPad, and Apple Watch apps. Non-Apple users should look elsewhere.
+
+
+I think the subscription model is totally fair, especially given Flexibits’ history of updates and quality. That’s partially because, as I alluded to up top, there really aren’t better options for this category of apps given the rules laid down by Apple in the App Store.
+
+If you’ve watched the App Store market dynamics over the past years, none of this will come as a surprise, but let’s recap:
+
+
+First, there was a rush to the bottom when it came to pricing. Many apps were priced at $0.99, which set a consumer expectation that iPhone apps are cheap.
+
+Driven by that dynamic and by ranked lists on the App Store, the app market moved to a sort of hit-based system, where games and free apps dominated downloads.
+
+(Many of those games switched over to very skeezy in-app purchase schemes once Apple later allowed microtransactions in free apps, but that’s a story for another time.)
+
+Over the years, Apple refused to offer more flexible pricing options to developers. There never has been (and may never be) such a thing as “upgrade pricing” in the App Store, unlike on more open platforms like the Mac. Developers either had to offer major new versions for free, charge current users the same amount as new users, or try to jerry-rig an in-app purchase system.
+
+(Apple also obstinately refused to let any app so much as gesture to the whisper of an idea that it might be possible to pay the developer in any way other than through Apple’s 30-percent-cut payment system, and is now facing anti-trust complaints on this point, but again, story for another time.)
+
+Perhaps realizing that the rules it had put in place for the App Store were skewing the market dynamics for apps, Apple switched over to a new system that encouraged subscriptions by reducing its cut after a year.
+
+
+
+There are pros and cons to the subscription model for both developers and users and they’re all heavily context-dependent. So I’m not making a judgement on that one way or the other — only pointing out that the realm of possible business models has been heavily constrained by the App Store’s rules. 
+
+Those limitations have sometimes forced developers into weird decisions and I obviously wish Apple would open up to more pricing models. I especially wish it weren’t engaging in such blatant rent-seeking when it comes to taking a cut of in-app fees. 
+
+Anyway, the point is that if you see an app switch to a subscription model, it’s not necessarily doing so because it’s the trendy thing to do — instead, there may not be any other real choice. 
+
+One thing strikes me about Fantastical’s switch to a subscription model is how elegantly it was handled. I can’t imagine figuring out how to fork its versions to support this, but Flexibits is doing it:
+
+If you already own Fantastical 2, though, Flexibits has a pretty cool offer to help mitigate that feeling, in part. If there’s any feature in Fantastical 2 that is now a Fantastical Premium feature, you will still be able to use that feature in the updated app on the platform you own it on, even without a Premium subscription.
+
+One quick note: A lot of my newsletters have had a little “▼” in the subject line. It’s there not to evoke The Verge logo (though that’s a nice side effect), but instead to indicate that the newsletter includes a longer essay. I’ll aim to keep doing it, but you’ll notice this one doesn’t have one because it’s relatively short. I bring it all up as a reminder and also a heads-up that as tech news picks up over the next few weeks there may be a few more ▼-less editions than usual.
+
+Earnings news
+
+
+└ Samsung hopes 5G will save its slumping profits this year
+
+└ Tesla’s record 2019 has bought it some breathing room
+
+Tesla has bought itself more breathing room than it’s had in years, maybe ever. The company spent the last few years — especially 2017 onward, as it started spinning up production of the Model 3 — moving at breakneck speed with little margin for error. Tesla CEO Elon Musk even said in late 2018 that his company was single-digit weeks away from death at one point. Its workforce suffered through what Musk dubbed “production hell” as he pushed to make the Model 3 — the company’s most affordable electric car — at mass-market scale.
+
+└ Tesla says it will start delivering the Model Y this spring, months ahead of schedule
+
+Is Elon Musk feeling okay, do you think? Delivering something ahead of schedule is very out of character for him so I’m a little worried.
+
+└ Microsoft Q2 2020 earnings: Office, Surface, and cloud lead results
+
+Most divisions are up. The Windows 7 transition helped Windows, Surface is making respectable but not outsized gains, and of course the real money driver is cloud services. The following note from Tom Warren made me laugh, it’s funny because it’s surely true:
+
+Microsoft notes that Xbox content and services revenue also decreased by 11 percent, primarily due to a “third-party title” (likely Fortnite) performing better last year. Subscription growth has partially offset this decrease, but clearly the third-party game boosted Xbox content revenue last year.
+
+└ WarnerMedia takes $1.2 billion revenue hit in hopes that HBO Max pays off in the long run
+
+ATT really, really seems to think there’s going to be a virtuous cycle between HBO Max, 5G, and hardware upgrades. I am far from convinced that’s the case with any two of those three nodes, much less the entire flywheel. And even if it turns out to be true, it will mean that content services end up getting tied more tightly to other products.
+
+More from The Verge
+
+└ Apple reportedly working on tracking tags, high-end headphones, a new wireless charger, and more
+
+└ 2020’s new emoji include the transgender flag and more gender-inclusive options
+
+└ LastPass is discontinuing its native Mac app and replacing it with a more universal web app
+
+As should be blindingly obvious to readers of this newsletter, I use a ton of web apps every day, and in many cases I use them instead of native apps because I prefer their interfaces and functionality. Password managers are not one of those times when I prefer a web app. They benefit so much from being integrated into the OS. This one’s a bummer.
+
+└ Grubhub lets customers order from restaurants that never agreed to be on its platform
+
+The increased competition in the food delivery space is leading to a lot of scummy practices. Natt Garun looks at the latest.
+
+└ SpaceX successfully launches its fourth batch of internet-beaming Starlink satellites
+
+SpaceX has permission to launch nearly 12,000 satellites and has expressed interest in launching 30,000 more. To fulfill its licensing obligations, SpaceX has to launch nearly 6,000 within the next five to six years. The company plans to launch up to 24 Starlink missions this year. ... Each Starlink launch consists of 60 satellites, so today’s mission will bring SpaceX’s constellation to about 240 satellites in orbit
+
+└ Wireless carriers may soon boost speeds with a bunch of free spectrum
+
+The FCC has been trying to open up 3.5GHz airwaves since 2015, but it’s taken years to put structure around how it’ll happen. The trouble is, this spectrum is already being used by the US Navy, as well as a small number of companies. Particularly when it comes to the Navy, the FCC doesn’t want any of these new deployments getting in the way. ... So the commission spent the last several years setting up a scheme to make it all work. Any company that wants to use the 3.5GHz spectrum will have to work with an approved company
+
+└ The Twitch streamer behind Tfue’s custom $3,500 mechanical keyboard
+
+Really nice profile from Nick Statt:
+
+One commenter referred to Kim as the “Bob Ross of keyboard making,” and it’s an appropriate assessment. What makes the videos so appealing is Kim’s steady, soothing narration of the rather technical keyboard construction process. He walks through each step slowly and accentuates the precision involved in, say, soldering the key switches onto the printed circuit board. He also fields live questions from his Twitch chat about his work, the parts he finds, and why he enjoys doing what he does. All the while, light lounge music plays in the background.
+
+└ Lincoln will build an electric vehicle using EV startup Rivian’s tech
+
+Lincoln’s parent company, Ford, announced a $500 million investment in Rivian in April 2019, and said it would build an electric vehicle on the startup’s platform (basically the battery, electric motors, and all the other tech that makes an EV go). It was reported in the months following that the vehicle would be a Lincoln SUV, but Ford’s luxury marque had not confirmed any parts of those reports until today.
+
+Coronavirus and tech
+
+└ Google is temporarily shutting down all China offices due to coronavirus outbreak
+
+└ Apple is limiting China travel and has closed one retail store due to coronavirus outbreak
+
+└ LG now banning all employee travel to China to protect against coronavirus risk
+
+└ Tesla says China has ordered its Shanghai factory shut down over coronavirus fears
+
+└ Overwatch League cancels February and March games in China following coronavirus outbreak
+
+└ British Airways suspends all China flights due to coronavirus outbreak
+
+└ Delta is limiting flights between the US and China due to coronavirus outbreak
+
+└ American Airlines cancels some flights to mainland China after coronavirus outbreak

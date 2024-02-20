@@ -1,0 +1,36 @@
+Analysis | China’s coronavirus outbreak has prompted some travel restrictions. That could backfire. 
+ While WHO’s director-general has the authority to declare a PHEIC, he is advised by an expert committee that was split on whether the criteria had been met. A PHEIC is 1) an extraordinary event that 2) poses a public health risk to other countries and 3) requires a rapid international response. “This is an emergency in China,” Tedros said. “But it has not yet become a global health emergency. It may yet become one.”
+
+When WHO declares a PHEIC, it provides recommendations on what governments should and should not do to contain the disease while avoiding panic and overreaction. Under the International Health Regulations (IHR, revised in 2005 after the SARS outbreak) countries agreed to follow this guidance.
+
+In the five PHEIC declarations so far, WHO recommended against border measures like visa or import bans, border closures, flight cancellations and even passenger screening. Though Tedros has not declared this outbreak a PHEIC yet, he still advised against restrictions. Already this week, several countries, including the U.S., began screening travelers arriving from Wuhan. North Korea was the first to close its borders to foreign tourists.
+
+Travel and trade restrictions might seem like a common-sense public health response — so why does WHO frequently recommend against them? Here’s why border measures do not work, why countries often disregard WHO guidance, and what this might have to do with Thursday’s decision not to declare a PHEIC.
+
+What’s the problem with trade and travel restrictions?
+
+Entry screening, for instance, can be ineffective because of asymptomatic carriers or long incubation periods — people can be infectious without showing any signs of sickness. And symptoms can be consistent with a range of viruses (the flu and CoV have similar symptoms, for instance). Screening also diverts resources from proven response measures. More restrictive measures like visa bans and border closures may encourage travelers to find underground ways of crossing borders, and discourage passenger honesty about symptoms and travel history.
+
+Past trade restrictions also proved ineffective. During the H1N1 pandemic in 2009 (originally called “swine flu”), WHO and the World Trade Organization stressed that the virus could not be spread through pork products. Still, over 40 countries banned pork imports from H1N1-affected countries.
+
+While these types of travel and trade restrictions don’t limit disease spread, they do contribute to the substantial economic losses suffered by countries facing an outbreak, and introduce other unintended consequences. My research shows that fear of restrictions may encourage economically and politically vulnerable countries to conceal outbreaks. Delayed or inaccurate reporting is a persistent challenge to outbreak prevention and response. Disregarding WHO recommendations disincentives transparency and increases global vulnerability. Indeed, despite a laudable initial response, analysts see China’s shutdown of major cities as evidence that President Xi Jinping and the Communist Party, facing political and economic pressure, may have concealed the severity of the outbreak.
+
+Despite the limited utility and potential harm of border measures, countries often ignore WHO guidance. For example, during the H1N1 (2009) and Ebola (2014) outbreaks, nearly 25 percent of countries imposed travel or trade restrictions when WHO said not to.
+
+So why do countries ignore WHO guidance?
+
+My research points to two reasons governments don’t always follow WHO guidance: they face domestic political incentives to impose border measures; and anticipate few costs for doing so from WHO and the international community.
+
+In examining the 2009 H1N1 outbreak, I find that the countries most likely to impose trade and travel barriers were those most concerned about a negative public reaction. They used barriers as domestic political cover in case the outbreak crossed the border and caused harm. Soon after the H1N1 PHEIC declaration, for example, Jordan imposed a ban even though imports of U.S. pork products were negligible, casting doubt that this action was in the name of public health. Jordan’s assistant secretary general for animal welfare explained that the ban was meant to allay public pressure and fear. While many governments follow WHO’s guidance, domestic political incentives weigh more heavily for some than commitments to the IHR.
+
+This may be particularly true because ignoring WHO guidance has resulted in few consequences. During the H1N1 pandemic, 47 countries targeted the U.S., Mexico, Canada and other H1N1-affected countries with pork import bans. The U.S. issued diplomatic warnings but did not retaliate.
+
+As a result, as my research on the 2014 Ebola outbreak suggests, a PHEIC declaration can make matters worse by unintentionally provoking border measures. Declaring a PHEIC is meant to motivate a coordinated international response. However, such a declaration also signals a serious outbreak that people and governments should worry about. In the absence of higher costs for disregarding WHO recommendations, governments can feel tempted to impose restrictions. In fact, concerns about restrictions have factored into past PHEIC deliberations. Similar worries may have contributed to the Jan. 23 WHO decision about CoV.
+
+Will global health cooperation improve?
+
+There is reason for some (guarded) optimism. WHO does recognize these dynamics. Tedros used strong language last year when WHO declared the Congo Ebola outbreak a PHEIC, stressing that border restrictions “can actually hamper the fight” and were “punitive” and “counterproductive.” He has also been willing to criticize governments, and WHO has developed a tool to monitor compliance with its recommendations. Furthermore, countries don’t always impose trade or travel restrictions — the 2016 Zika outbreak and the ongoing Ebola outbreak provide examples that similar cooperation is possible during the current CoV outbreak.
+
+There are still unanswered questions such as the mode and ease of transmission and the number of CoV cases so far. But whether countries follow WHO recommendations against trade and travel restrictions, especially if a PHEIC is declared, will be a sign of how well equipped the world is to deal with global health threats now and in the future.
+
+Catherine Z. Worsnop is an assistant professor at the University of Maryland School of Public Policy, where she studies the World Health Organization and international cooperation during global health emergencies.

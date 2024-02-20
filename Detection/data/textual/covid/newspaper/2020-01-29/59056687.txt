@@ -1,0 +1,100 @@
+The Scroll subscription service is an ingenious web technology hack 
+ Welcome back to Processor, a newsletter about computers and also sometimes other things. You are probably expecting me to spend several paragraphs making fun of Google for creating yet another messaging product, as The Information reported yesterday. Not gonna do it: it’s enterprise-focused and from what I can tell about Google’s cloud business right now, a haphazard message app strategy is the least of their worries. 
+
+Instead, the thing that blew my mind yesterday was Scroll, a new $5 per month subscription service that gives you a bunch of websites without ads. I kept on experiencing successive waves of small revelations when I thought about it. I’ll disclose now that Vox Media (and therefore The Verge) are partners, but I had no idea this service existed until it was announced yesterday.
+
+
+First: although I don’t have any specific reason to distrust Scroll, this still feels like a data privacy time bomb. Scroll won’t sell my data, but what if the company that snaps up Scroll does someday? There’s a prominent button for deleting your data, at least. 
+
+Scroll’s privacy policy is refreshingly readable and candid about what it gathers and what it does and doesn’t share — including being honest about sharing information with governments when required to by law. It also notes that your data could go along with a sale of the company itself. Basically I suggest you find the “delete your information” button and remember where it is.
+
+Second: Scroll’s entire method of stopping ads is an absolutely ingenious repurposing of third-party cookies. You log into Scroll, it sets a cookie, and then the websites you visit see that special cookie and don’t serve you ads. It’s not even ad-blocking, they just don’t get served. It is actually quite elegant, but if you take a second to think through the chain of communications and deals that are required to make it that elegant, it seems like a hellacious hack. 
+
+Then again, as Nilay Patel said to me today, isn’t most web technology a hellacious hack?
+
+There are a few more details — Safari in particular is stricter than other browsers and so it requires an extension. Brave will also need some extra effort to work with Scroll. (Scroll has a snarky footnote about them.)
+
+Third: it’s a much easier solution for websites to get paid than asking each of them to roll their own subscription. It tracks where you visit and automatically divvies payment up between those partner sites. I could (and eventually will) quibble about the percentage Scroll is taking: $1.50 out of $5, or thirty percent. 
+
+As an independent startup, I’m not going to begrudge Scroll its revenue, and it likely needs a bigger cut to stay in business than Apple or Google do on their App Stores. If the company hits scale, though, I’d like to hope that it will find a way to reduce that cut.
+
+Fourth: hang on let’s think about that hellacious hack again! Although you have to constantly have Scroll email you a “magic link” and then ensure you open it in the right browser, it means that you are getting your paid-for ad-free experience in the app of your choosing. 
+
+Unlike Apple News (disclosure: another Vox Media partner), you aren’t forced into a not-especially-great app. You don’t get a link that seems like it goes to a web page but actually just goes to Apple’s app. You can also use it on any device you own, not just Apple’s products. Also unlike Apple News, this subscription isn’t really a subscription. For publications that put articles behind paywalls, Scroll won’t get you in.
+
+On the whole, though, I much prefer Scroll’s system to Apple News. It works better with the existing web and the existing apps we all use to navigate it. A subscription system that turns off ads, pays publishers, and doesn’t lock me into any particular app while also doing a pretty good job of keeping my login active? Seems good to me.
+
+Still, I’m not quite going to go quite so far as to endorse Scroll (and not just because Vox Media is a partner). Deciding to sign up is between you, your level of trust in Scroll’s privacy policies, your ad-blocking conscience, whether you care about the current list of partner publications, and the cost.
+
+Fifth: Scroll puts a white bar at the bottom of every webpage it’s active on, ostensibly so you have the benefit of getting share links and an audio reader mode. No thank you times a thousand, Scroll. 
+
+However, one benefit of using web browsers instead of Apple News is that web browsers are relatively open platforms and so you can use them to alter the web pages you visit (at least on the desktop — on mobile things are still often locked down). So, for example, I have a little script that I cobbled together after a day of Googling that makes it easier for me to format the links in this newsletter by automatically changing the web page I store them on, Pinboard.in. 
+
+My favorite method is an extension called Tampermonkey. I wrote a little script for it that hides Scroll’s annoying bar. Other than some preliminary settings, it’s literally one line. It should work in Chromium-based browsers. Here it is, offered with zero support and absolutely no guarantees that it’s any good at all.
+
+Bonus sixth revelation: Tampermonkey offers a Google Drive-based sync, and since Microsoft’s new Edge browser runs on Chromium, my script auto-synced from Chrome on a Mac to Edge on Windows and Just Worked. The Internet! Sometimes it’ll surprise you.
+
+Tech contends with the coronavirus
+
+└ Apple is limiting China travel and has closed one retail store due to coronavirus outbreak
+
+└ iPhone maker Foxconn says coronavirus outbreak won’t affect production
+
+└ United Airlines suspends some China flights after coronavirus outbreak
+
+└ Facebook, Razer, and LG are restricting employee travel to China amid coronavirus outbreak
+
+Big reads from The Verge
+
+
+└ To contain disease outbreaks, health officials rely on people’s trust
+
+You’ve probably formed an opinion on how anti-vaxxers have affected public health (the right opinion is that it has been for the worse). But similarly online misinformation can rush to fill the void of faster-moving health crises. Nicole Wetsman looks at the intersection of health, internet censorship, and trust:
+
+If one crisis is handled poorly, there will likely be less trust during the next one. Not only that, but the spread of misinformation can have real-time impacts on what people believe. That erosion can weaken public health response.
+
+└ How Amazon escapes liability for the riskiest products on its site
+
+The outcome of some of these cases could determine the fate of Amazon’s marketplace. Is it like an eBay or a Craigslist, with Amazon as a middleman, or is Amazon the retailer? People tend to think of Amazon as the latter but Amazon thinks of itself as the former. Great report here from Colin Lecher.
+
+According to court records viewed by The Verge, Amazon has faced more than 60 federal lawsuits over product liability in the past decade. The suits are a grim catalog of disaster: some allege that hoverboards purchased through the company burned down properties. A vape pen purchased through the company exploded in a pocket, according to another suit, leaving a 17-year-old with severe burns.
+
+└ BoJack Horseman’s finale signals the end of a Netflix era
+
+Julia Alexander has an excellent, focused history of Netflix as seen through the lens of its original programming decisions.
+
+More news from The Verge
+
+└ Everything we think we know about Samsung’s next foldable phone
+
+└ Everything we think we know about the Samsung Galaxy S20
+
+└ Samsung’s Galaxy Z Flip fully revealed in leaked images
+
+The minimalist screen on the outside is an interesting choice. I will be very, very curious to see if this “ultra-thin glass” is actually more durable than plastic. We’ve all sort of been assuming it will be, but it’s no sure thing.
+
+└ Moto G8 and G8 Power leak with hole-punch displays and midrange specs
+
+If battery life and a big screen are your top needs in a smartphone, it’s worth keeping an eye on these.
+
+└ Filmic DoubleTake lets you record from two iPhone cameras at the same time
+
+Apple hyped the heck out of this app, now it’s finally here and Becca Farsace has run it through some paces:
+
+With the Discreet mode, I was able to film from the Wide and Ultra-Wide, both at 1080p, at the same time. The H.264 .mov exports are really clean and take very little time to transfer to the camera roll. Pair a clean export with the iPhone 11 Pro’s excellent lens calibration, and you have a perfect punch in from a single phone.
+
+└ UK defies US and refuses to ban Huawei from 5G networks
+
+└ Google Translate will transcribe translations in real time on Android
+
+One step closer to the Babel fish.
+
+└ Neil Young says the MacBook Pro has ‘Fisher-Price’ audio quality
+
+You might think this headline is overstating how fiery this Vergecast interview is. But I promise you it is understating it. 
+
+└ Pokémon Home cloud storage service will launch in February for $3 a month
+
+So if Nintendo creates a pokémon and then you catch that pokémon and then you put that pokémon back in a Nintendo server farm is that like throwing the pokémon back? Have you really caught anything? Are you just renting pokémon?
+
+Vox Media has affiliate partnerships. These do not influence editorial content, though Vox Media may earn commissions for products purchased via affiliate links. For more information, see our ethics policy.

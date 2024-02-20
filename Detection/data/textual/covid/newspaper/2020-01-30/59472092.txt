@@ -1,0 +1,90 @@
+The science behind the spread of the Wuhan coronavirus 
+ On Thursday, the World Health Organization (WHO) declared the coronavirus outbreak a global health emergency. There have been at least 171 deaths related to the virus. Also on Thursday, the Centers for Disease Control (CDC) reported the first human-to-human transmission of coronavirus in the U.S. 
+
+
+
+The WHO’s declaration is not a call to panic, the agency’s own experts emphasized, but a signal to countries in the region to be on alert for a possible swell in cases. “There is no reason for measures that unnecessarily interfere with [international travel and trade]. We call on all countries to implement decisions that are evidence-based & consistent. WHO stands ready to provide advice to any country that is considering which measures to take,” said WHO director-general Tedros Ghebreyesus on Thursday. He added that the declaration “is not a vote of no confidence in China,” and praised the country’s efforts to contain the outbreak. 
+
+
+
+The primary source of concern is for nations that have weaker health systems and may not be equipped to deal with the outbreak. (In countries like the United States, which have robust health systems, people should use the same precautions they use to keep the common cold at bay.) 
+
+
+
+Information about the Wuhan coronavirus, known within the medical community as 2019-nCoV, is in constant flux. That’s not surprising given the nature—and innate unpredictability—of how a pathogen spreads.
+
+
+
+Global health officials have a difficult task in these situations, balancing the importance of common sense protections while guarding against public panic that can actually make matters worse. To that end, it’s important to understand the science of virus transmission and what it takes to develop a vaccine that can stop a coronavirus before it spreads.
+
+
+
+How contagious is the Wuhan coronavirus?
+
+
+
+One of the most important numbers in the science of infection is “R0” (pronounced “R-naught”). This figure is an estimate of how many people in an otherwise uninfected population, on average, may get the virus from a single infected person. 
+
+
+
+An R0 of 1 means that an infected person would spread the virus to an average of one other person, and that a widespread outbreak is unlikely or containable. 
+
+
+
+But an R0 that approaches 2 indicates that, on average, one infected person would spread the virus to two people, and that the virus will continue to spread.
+
+
+
+The strain of coronavirus that started in China currently has an R0 value of about 2.2, according to a new study in the New England Journal of Medicine. On average, an infected person has spread the infection to 2.2 other people, according to the study authors. 
+
+
+
+For comparison, the basic reproductive rate of SARS (a respiratory condition with similarities to the Wuhan coronavirus strain) was estimated to be around 3—although that outbreak was largely contained with aggressive isolation and infection control measures.
+
+
+
+But there’s considerable nuance to these figures, Dr. Peter Hotez, dean for the National School of Tropical Medicine at Houston’s Baylor College of Medicine, told Fortune. 
+
+
+
+“The new numbers for the R0 seems to be around 2—roughly the same figure as the flu or higher, or about the same as SARS,” he said. “But we’re seeing different estimates, including in some instances an R0 as high as 5.”
+
+
+
+The transmission rate can vary widely based on location. For instance, a hospital dedicated to treating the coronavirus may have a significantly higher R0 number given its density of patients than in the general public. 
+
+
+
+But a higher infection rate does not mean a virus is deadlier than one with a lower R0 number. Infection rate and deadliness are two separate issues. “Ebola has about a 50% mortality rate but it’s not typically transmissible unless you’re a caregiver or in close contact with an infected individual,” Hotez points out.
+
+
+
+As of now, it appears that the Wuhan coronavirus is deadliest for those with compromised immune systems. At the same time, Hotez notes, only the sickest of patients are being diagnosed—so the transmissibility numbers and a gauge of the virus’ overall deadliness remain in flux. Communications across the global health community and governments will be critical to determining the broader nature of the threat.
+
+
+
+When will there be a coronavirus vaccine?
+
+
+
+There are a number of firms currently working on coronavirus vaccines. But these could take years to get to market given the realities of safety testing and a fundamental lack of investment in vaccine production. 
+
+
+
+“We’re too much in a reactive mode,” said Hotez. “All of a sudden you need to make a vaccine, but it’s a process… If we had real U.S.-China cooperation on this process, we could potentially start testing in humans within weeks to months.”
+
+
+
+Companies like Moderna, Johnson & Johnson, Inovia Pharmaceuticals, and Hotez’s own coalition (alongside the help of the National Institutes of Health) are working on various versions of a coronavirus vaccine. Hotez notes that Baylor and its partners have manufactured a SARS vaccine that could potentially cross-protect against the current coronavirus.
+
+
+
+More must-read stories from Fortune:
+
+
+
+—10 stocks that are poised for a stellar 2020—Will retiring baby boomers crash the stock market?—Millions have been purged from voter rolls—and may not even realize it—Inside New York City’s Chinese restaurant crisis—All of your questions on filing taxes in 2020, answered
+
+
+
+Subscribe to Fortune’s Bull Sheet for no-nonsense finance news and analysis daily.

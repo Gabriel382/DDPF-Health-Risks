@@ -1,0 +1,20 @@
+Here's how one trader is hedging his portfolio amid all the market-moving headlines 
+ It's been a wild week for stocks amid a number of market-moving headlines.
+
+Most notably, stocks have rebounded after posting their worst day of the year so far on Monday as the coronavirus outbreak spooked investors.
+
+Now, with earnings season in full swing, Ascent Wealth Partners' Todd Gordon thinks it's time for investors to protect themselves against any potential pullback in the market.
+
+"I think it's a time here to hedge your portfolio," he said Tuesday on CNBC's "Trading Nation." "I continue to be heavily long in [my personal stock portfolio], and I'd like to use the options market here to hedge any potential downside."
+
+In order to do so, Gordon is looking specifically at the S&P 500 ETF (SPY). Gordon says SPY has broken below an uptrend line that extends from its October 2019 lows.
+
+This means the trend line Gordon references is now what he deems the "resistance" for the ETF, making $325, where the uptrend line currently sits, the level that Gordon is watching.
+
+Gordon is also eyeing the ETF's 50-day moving average as another level SPY could hit if it were to pull back. That means he believes SPY could fall to around the $319 level, where the indicator currently sits.
+
+Gordon is buying the February monthly 325-strike put and pairing his purchase by selling the February monthly 318-strike put for about $1.63.
+
+This means Gordon risks seeing a maximum loss of $163 should SPY close above $325 on Feb. 21 expiration. But should SPY close below $318 on the expiration day, Gordon could make a maximum profit of around $536.
+
+SPY is currently up about 2% this year and has bounced back this week after dropping on coronavirus outbreak fears.

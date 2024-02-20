@@ -1,0 +1,12 @@
+This Website Tracks Coronavirus Cases On A Map, So You Know What Places To Avoid And Be Safe 
+ Wuhan Coronavirus is spreading rapidly not just in China, but also to other countries in the world -- with over 4000 confirmed to be diagnosed with the disease and over a hundred deaths.
+ Reuters
+However, during a situation like this people often come across rumours with false numbers and false news on the outbreak in a specific location, that can lead to unnecessary panic and stress among people. In order to prevent that, the Center for Systems Science and Engineering in Maryland has created an online tool, in collaboration with several official bodies including the World Health Organisation, Centre for Disease Control and Prevention in China, US and Europe.
+
+This tool basically accumulates data and information on outbreaks, people affected and lives claimed by the coronavirus. The dashboard reveals a world map with red dots, revealing places where the virus has entered. 
+The dashboard has a list of countries that have come across the virus, along with the number of cases reported. The primary idea for the dashboard is to keep people aware of the outbreak situation with accurate and reliable data, in real-time. This can also be helpful for people planning to fly to a country and are looking for reliable data on the situation of Coronavirus there.
+ In case you didn't know, coronaviruses are a large group of viruses that are normally contracted from animals (like civet cats caused SARS in China). Even the Wuhan Virus originated from the seafood market in the city
+
+Coronaviruses are causing pneumonia-like symptoms among people. People with stronger immunity have better chances of recovering from this disease instantly whereas people with poorer immunity -- young and old -- can cause serious respiratory diseases.
+
+There is no particular vaccine or medicine that can save you from contracting Wuhan Virus. (However, an Indian doctor claims to have found the cure with herbal ayurvedic medicine). In most cases, the symptoms disappear on their own. Symptoms can be eased a little by doctors prescribing fever or pain medication.

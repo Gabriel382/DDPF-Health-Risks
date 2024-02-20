@@ -1,0 +1,98 @@
+Automated License Plate Readers Are Better Than Ever 
+ Automated license plate readers are cheaper and better than ever at what they do, expect a new Renault CEO and Tata’s push for a cleaner, greener India. All that and more in The Morning Shift for Tuesday, Jan. 28, 2020. 
+
+1st Gear: Science Fiction Is Reality
+
+The rise in artificial intelligence software and technology doesn’t just mean you can listen to Spotify after yelling at a cylindrical machine. It also means advancements in surveillance technology for the police.
+
+New software for license plate readers in the town of Rotterdam, New York, has the department logging the plates of nearly 10,000 cars driving through and around town, reports a new feature from Wired. The police department there, which has just 45 officers, recently implemented a newer generation of automated license plate readers that saves them a lot of money and is a lot more accurate.
+
+From the story:
+
+Automated license plate readers, or ALPRs, first appeared at police departments in the 2000s, as specialized and expensive cameras. Collins says today those devices typically cost $15,000 to $20,000. But last year Rotterdam embraced a newer generation of ALPR technology, software that can discern plates from more or less any conventional security camera. Rotterdam’s supplier Rekor Systems charges as little as $50 a month to read plates from a single camera.
+
+“The software is a lot more cost effective than buying a full system,” says Collins. “That can change everything.” Drivers in Rotterdam used to be watched by three conventional license plate readers, two fixed and one mounted to a police vehicle. Now, five of the town’s public security cameras also are connected to Rekor’s software, significantly expanding the police’s view of the movements of local vehicles.
+
+There are those, of course, who push back and say things like ALPRs need to be more regulated, because right now they really aren’t. Regulation differs state by state (California’s Highway Patrol, for example, has to delete ALPR data after 60 days unless it’s being used as evidence of a felony), but there should probably be more.
+
+More from Wired:
+
+ Axon, a leading supplier of police body cameras and dash cams, announced last fall that it would offer license-plate reading as an add-on to its in-car video system in 2020. On the same day, the company’s AI ethics board of external experts in policing, law, and technology released a 54-page report calling for new legal restrictions on use of ALPRs, which now are largely unregulated. It cited evidence that the technology disproportionately directs more police attention and enforcement onto lower income communities and people of color. Axon says it is using the report to inform the design of its ALPR service, and is still “very early in the planning stages of this project.”
+
+You can also imagine how easily the technology could be abused, as privacy erodes all around us. Take a recent and terrifying New York Times story about facial recognition, for example, which said that such technology might even “end privacy as we know it.”
+
+Anyway, Wired’s feature is very good and you should take a look at it in full. 
+
+2nd Gear: Renault’s New CEO
+
+It’s not official yet, but it might be soon. Renault’s board is poised to meet later today and approve the nomination for its new CEO. The ex-boss of Volkswagen’s Seat, Luca de Meo, will help settle some of the chaos left behind by the dearly departed Carlos Ghosn, reports Reuters.
+
+Per the outlet:
+
+ De Meo is not expected to face any last minute hurdles in his nomination, and has already won tacit backing from parties including the French government, a Renault shareholder.
+
+ He is credited with revitalizing sales at Barcelona-based Seat, imbuing it with a more sporty image, though his portfolio will be markedly larger at Renault, whose brands include Dacia and Lada. 
+
+Meanwhile, a suggested proposal over at Nissan calls for redoubling efforts to reduce Renault’s stake in the Japanese automaker so the partnership is better balanced, reports Bloomberg. According to the unnamed source:
+
+ The plan would involve both companies cutting their cross shareholdings and would call for the automakers to use the funds for joint technology investments that could bolster their alliance, the person said, asking not to be identified discussing confidential matters.
+
+Sure. You guys do whatever you need to do.
+
+3rd Gear: Clean Vehicles In India
+
+It’s the start of a new decade and time to really start thinking about how we affect this planet. India’s Tata Group is making a huge push for clean vehicles. This is nice to hear!
+
+Over half a dozen companies that include Tata Motors are using their resources and expertise to create what they call “an electric vehicle ecosystem,” reports the New York Times. The Indian government wants to reduce its fuel import bill and cut pollution in cities. It’s very encouraging of automakers and EV manufacturing.
+
+Charging infrastructure still needs to be built up, apparently. But there are plans to improve this:
+
+Tata Power, which has already set up 100 charging stations, will add another 650 in more than 20 major Indian cities over the next one year, the company’s CEO Praveer Sinha said.
+
+All stations will support fast charging and will be linked to a mobile application, which has been developed with Tata Consultancy Services (TCS), for payments and to check the availability of chargers, Sinha said.
+
+Great! More chargers means more access for EVs.
+
+4th Gear: Coronavirus And Japan
+
+Won’t someone think of the corporations! 
+
+Following the outbreak of the coronavirus in China, Japanese Economy Minister Yasutoshi Nishimura said that corporate profits and factory production could be affected, according to Reuters. So far, the virus has killed over 100 people, reports CNN.
+
+ Nishimura said:
+
+“There are concerns over the impact to the global economy from the spread of infection in China, transportation disruptions, cancellation of group tours from China and an extension in the Lunar Holiday.”
+
+“If the situation takes longer to subside, we’re concerned it could hurt Japanese exports, output and corporate profits via the impact on Chinese consumption and production,” he said.
+
+Honda has three plants in Wuhan, which is where the virus reportedly first broke out. It has plans to evacuate some of its staff.
+
+Further:
+
+“We’re worried that sales and the number of shoppers could fall if the outbreak persists,” said a public relations official at Isetan Mitsukoshi Holdings (3099.T), a major Japanese department store operator.
+
+“It’s not just about Chinese tourists. We’re also worried that concern over the outbreak may keep Japanese shoppers home.”
+
+Look, I know the corporations are worried about profits and everything, but safety first. Everyone can take a break from shopping and building cars. It’s more important to, you know, not get sick.
+
+5th Gear: Nissan Wants To Showcase Its Tech
+
+Nissan, in its quest to out-Toyota Toyota, has brought stuff like the Leaf EV and ProPilot to the market. This, as its new global sales and marketing boss believes, is where Nissan will carve out a niche for itself.
+
+ Asako Hoshino really wants Nissan’s tech brought forth into prominence, reports Automotive News Europe. 
+
+This includes two features the automaker plans to extend beyond its home market: ProPilot 2.0, a semi-autonomous system that enables hands-free highway driving, and e-Power, a hybrid solution that uses a small gasoline engine to charge a battery that runs an electric motor, which then turns the wheels.
+
+While it will take time for ProPilot 2.0 to get approved for use in Europe, where hands-free driving is not allowed, e-Power is set to debut in the region in 2022.
+
+Hoshino told the outlet the automaker will change public perception of itself by introducing this tech. She said:
+
+“The first is to convey that it’s in our DNA to: ‘Do what others don’t dare to do.’ DNA is something that you cannot explain. Our engineers are completely motivated to be the first to bring new technologies to market.”
+
+So far, I don’t think “cutting-edge tech” when I think of Nissan. I think of CVTs, crossovers, and disappointment. But that can change.
+
+Reverse: Disaster
+
+Neutral: How Do You Feel About The Surveillance State?
+
+Are you made uncomfortable about being watched and listened to all the time? Or are you fine with it, because it’s all allegedly in the name of protection?

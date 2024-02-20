@@ -1,0 +1,18 @@
+Coronavirus is slowing LCD production, and TV and monitor prices are expected to climb as a result 
+ At least five LCD display factories at the epicenter of the coronavirus outbreak are suffering production slowdowns, which is turn is expected to have an effect on the supply and pricing of displays used in PCs and LCD TVs.
+
+Five LCD fabs reside in Wuhan, China, which has basically been shut down to prevent the coronavirus from spreading. Informa Tech’s IHS Markit service said Friday that they expect that the capacity utilization for all LCD fabs in China could fall by at least 10 percent and by as much as 20 percent during February.
+
+As a result, LCD panel prices are expected to rise. IHS said that preliminary estimates say that per-panel prices could rise $1 to $2, but could go as high as $3 to $5. That might not sound like much, but manufacturers typically tack on extra profit margins at each stage of production, potentially raising sale prices somewhat higher.
+
+IHS estimates that about 55 percent of all LCD panels in the world will ship from China in 2020, meaning that the Chinese outbreak will have worldwide effects on the supply chain. Five fabs are in Wuhan itself, including two fabs owned by China Star Optoelectronics Technology, two owned by Tianma, and one BOE fab.
+
+“Display facilities in Wuhan currently are dealing with the very real impacts of the coronavirus outbreak,” said David Hsieh, senior director of displays, at IHS Markit technology research, in a statement. “These factories are facing shortages of both labor and key components as a result of mandates designed to limit the contagion’s spread. In the face of these challenges, top display suppliers in China have informed our experts that a near-term production decline is unavoidable.”
+
+The government has also extended the Lunar New Year vacation through February 2.
+
+IHS reported seeing panic buying, including doublebooking, where a buyer will buy as much as they need from two suppliers just to ensure that they’ll be able to get the supplies they require. Even if the supplies are there, IHS also said that production at several key third-party LCD module suppliers has now ceased, severely impacting panel production throughout the country. Besides the slowdown in production at fabs that are already operating, IHS said that it expects new fabs to not come on line as quickly as expected.
+
+All this is expected to have a direct effect on LCD panel pricing, and possibly ripple effects through laptop manufacturing as well. It’s worth noting that while Intel and AMD did not cite coronavirus effects among their forecasts, Microsoft did, with a broader than usual forecast for the second half of the year.
+
+The World Health Organization has declared a global emergency surrounding coronavirus, and the U.S. State Department has banned travel to the country. More than 7,000 people have become infected, with nearly 200 deaths.

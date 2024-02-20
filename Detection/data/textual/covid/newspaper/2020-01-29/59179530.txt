@@ -1,0 +1,12 @@
+Twitter will tweak search results to fight coronavirus disinformation 
+ As conspiracy theories about the coronavirus spread on social media, Twitter is taking new steps to fight disinformation about the virus.
+
+The company announced that it will prevent automated search results that are "likely to direct individuals to non-credible content" and, instead, use search to direct users to authoritative information from organizations like the Centers for Disease Control and Prevention (CDC).
+
+"... We’ve launched a new dedicated search prompt to ensure that when you come to the service for information about the #coronavirus, you’re met with credible, authoritative information first," Twitter wrote in a statement. The company has formed partnerships with organizations in 14 countries, including the U.S., Australia, and Japan, and says it will expand to more locations "as the need arises."
+
+The approach is very similar to the work Twitter has done to combat vaccine-related disinformation on its platform. That effort, which also encourages users to "know the facts," directs vaccine-related searches to vaccines.gov, a Department of Health and Human Services (HHS) site, in an effort to discourage conspiracy theories and other incorrect information.
+
+Though Twitter says it hasn't yet seen "significant coordinated attempts to spread disinformation" related to the coronavirus, there have been more than 15 million tweets related to the issue in the past four weeks alone, according to the company. Already, viral conspiracy theories and disinformation about the coronavirus have been spreading on Facebook, Instagram, and TikTok.
+
+So, while Twitter is unlikely to stamp out coronavirus disinformation entirely, the company says it hopes to contribute to efforts "to contain the threat."

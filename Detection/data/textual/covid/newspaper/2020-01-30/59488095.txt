@@ -1,0 +1,44 @@
+Four utilities back on the radar as markets get defensive 
+ The utilities sector is the best performing U.S. sector year-to-date with the Utilities Select Sector SPDR Fund (XLU) up 6.2 per cent. The technology sector fund lags closely behind at 5.9 per cent. The worst performing sector has been energy with the Energy Select Sector SPDR Fund (XLE) declining 9.3 per cent year-to-date.
+ I always mention sector performance in my articles because it is one of the foundations of our stock picking methodology that has served us well. Our analysts at Trading Central have a strict rule when recommending new equity positions. We always buy stocks in outperforming sectors and sell or sell short stocks in underperforming sectors relative to our benchmark, the SP 500 index.
+ I analyze all 24 SP 500 sectors every week from a relative strength perspective. Looking back at my trading journal, the utilities sector started to outperform the SP 500 back in August and this lasted until Oct. 24. During this time, the SP 500 was in a trading range between 2,840 and 3,020. Once utility stocks started to underperform the broad market in October, the SP 500 broke above its trading range resistance at 3,025, which has led to new record highs in January.
+      Story continues below advertisement
+  
+ 
+ 
+ 
+ 
+ 
+ What does this all mean? The recent decline of 3 per cent from record highs this month was enough to put a lot of investors on the defensive even after a quick rebound on Tuesday. As utility stocks come back into favour, the market looks to be getting defensive again. Maybe it’s a sign of a pending market consolidation or correction – at the least, a pause after posting record highs. The U.S. earning season is upon us which usually brings a period of volatility along with it. The coronavirus is threatening global growth estimates. The rise of gold, while crude oil and copper prices decline, can be considered a warning sign of turbulent times ahead. Not a bad time to get defensive with your portfolio.
+ The screen
+ We will be using Trading Central Strategy Builder to search for U.S.-listed utilities stocks poised to outperform the broad market in case of a market correction.
+  
+ We begin by setting a minimum market capitalization threshold of US$5-billion to focus on larger, more stable and established companies in the sector. Next, we will select only stocks with price-to-earnings ratios below 22 in order to screen for utilities stocks with the best value relative to the SP 500, which has a current P/E of 21.6. We are interested in companies that have a dividend yield above 3 per cent to generate cash flow if the uptrend stalls after earnings season.
+  
+ Finally, we will search for companies that have a Columbine Capital Quant Ranking between one and five. This is a proprietary stock ranking methodology developed by Colorado-based Columbine Capital Services that ranks stocks on a scale of one to 10, with one being the most bullish and 10 being the most bearish.
+ We have also included 90-day average daily volume, year-to-date and one-year share price return for reference.
+ More about Trading Central
+ Trading Central is a global leader in financial market research and investment analytics for retail online brokers and institutions. Trading Central’s product suite provides actionable trading ideas based on technical and fundamental research covering stocks, ETFs, indexes, forex, options and commodities. Strategy Builder is available through leading retail brokers in Canada and worldwide.
+ What we found
+ Topping our list is Allentown, Pa.-based PPL Corp., which provides energy services to more than 10 million customers in the United States and Britain. The regulated utility has the second-highest dividend yield on our list at 4.5 per cent and a top Columbine Capital quant rank of one.
+       Story continues below advertisement
+  
+ 
+ 
+ 
+ 
+ 
+ CenterPoint Energy Inc. of Houston owns a portfolio of energy-related businesses. Its regulated electrical utility provides transmission and distribution services to more than 2.5 million customers and it delivers natural gas to more than 4.5 million customers. The shares are down slightly on the year, which may be seen as a buying opportunity offering better value when compared with the continuous record highs of Oakville, Ont.-based Algonquin Power  Utilities Corp., which also trades on the TSX. CenterPoint also has a top quant rank of one.
+ The investment ideas presented here are for information only. They do not constitute advice or a recommendation by Trading Central in respect of the investment in financial instruments. Investors should conduct further research before investing.
+   Select U.S.-listed utilities
+    RankCompanyTickerMkt. Cap. (US$ Bil.) 90D Avg. Daily Vol. (Mil.)Columbine Capital RankDiv. Yld. (%)P/EYTD Performance (%)1Y Performance (%)Recent Price (US$)
+ 1PPL Corp.PPL-N26.64.714.514.92.41936.41
+ 2Energy Company of Minas GeraisCIG-N5.63.225.05.75.6-3.53.44
+ 3Algonquin Power  Utilities Corp.AQN-N8.00.953.719.37.63915.25
+ 4CenterPoint Energy Inc.CNP-N13.35.114.321.1-2.5-1226.52
+ 
+   Source: Trading Central
+     
+    
+ Gary Christie is head of North American research at Trading Central in Ottawa.
+ Be smart with your money. Get the latest investing insights delivered right to your inbox three times a week, with the Globe Investor newsletter. Sign up today.

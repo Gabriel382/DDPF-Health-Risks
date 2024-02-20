@@ -1,0 +1,38 @@
+This map tracks the spread of coronavirus 
+ The coronavirus is spreading far beyond the confines of the Chinese fish market where symptoms were first reported — now you can track its spread.
+
+John Hopkins University's Centre for Systems Science and Engineering in the US has launched a map visualising confirmed cases of the virus, which originated in Wuhan.
+
+Confirmed cases are marked with red dots, which vary in size according to the amount of confirmed cases in the area shown.
+
+Here's a snapshot of the map over the epicentre today:
+
+That big red dot in the middle is Hubei, the province Wuhan is in.
+
+When this screenshot was taken, there were more than 4,500 confirmed cases and 162 deaths. The coastal provinces of Zhejiang and Guangdong had the next highest number of cases.
+
+The US university draws on data collected from the World Health Organisation as well as Chinese and US health bodies for daily updates of the map.
+
+Cases for each country are broken down into states and provinces.
+
+However, the map doesn't show individual cities or towns, which is why the dot is located closer to Jingmen, which is about a three-hour drive from Wuhan.
+
+Zooming out of China, you can see many of the cases are located in Asia. There are a few dots in the Middle East, Europe, Australia and North America.
+
+You'll notice the dots in Australia do not correspond with the cities of reported cases.
+
+The dot for Queensland is located in located in the state's northwest, while the case was confirmed in the Gold Coast, in the southeast.
+
+At this time, there were seven reported cases of the virus in Australia.
+
+But there are only three dots, because the virus has only been reported in Queensland, Victoria and NSW.
+
+If you're squinting to see the dots, you're not alone.
+
+The dots are quite tricky to see on most screens, and almost impossible to locate for people who are colour blind.
+
+But while there are limitations to the representation of the data, the researchers powering the map are using the information in other ways.
+
+Civil engineering professor Laura Gardner told the John Hopkins media centre the data was critical and would "become more valuable as we continue to collect it over time".
+
+Her team is now using the data for modelling the possible spread of the outbreak and the most at-risk airports globally.

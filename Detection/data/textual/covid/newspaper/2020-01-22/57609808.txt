@@ -1,0 +1,26 @@
+Deadly Wuhan Virus in China May Have Come from Snakes, Scientists Say 
+ As an outbreak of a newly discovered SARS-like virus threatens to spiral out of control in China, some scientists think they’ve uncovered its animal origins. Their new research suggests the virus is native to snakes.
+
+
+The germ in question, dubbed 2019-nCoV for now, is a type of coronavirus. While most coronaviruses that sicken people cause little more than a common cold, they’re potentially very dangerous. These viruses also infect a wide variety of animals, and if an animal-borne coronavirus successfully jumps over to people, our immune systems may be less able to beat them effectively. That unfamiliarity can make them especially virulent, though not necessarily contagious. It’s a pattern that already happened with the related coronaviruses that cause SARS and MERS, which killed anywhere from 10 to 30 percent of their human victims during their initial outbreaks.
+
+When the first cases of 2019 n-CoV began showing up last December in the Wuhan region of China, doctors immediately suspected that it was spread through animals. Many of the first victims had visited a local food market—since shut down—that frequently hosted all sorts of live animals. Since then, the number of new documented victims has erupted, with more than 400 cases overall as of January 21, according to the Chinese government, while at least 17 people have died. Even more worrying is that 2019-nCoV is infecting people who had never visited the market, confirming it’s capable of spreading from person to person like a typical flu.
+
+
+The new study, published Wednesday in the Journal of Medical Virology, looks at the genetic code of 2019-nCoV, which was identified by scientists working for the Chinese government and shared with the global research community late last month.
+
+The researchers, all in China, compared the genetic sequence of 2019-nCoV to other known species of coronavirus. Their initial analysis found that the virus is a mix between a coronavirus that originates in bats and another coronavirus whose host origin is unknown—a process called recombination. This recombination seems most apparent in the part of the virus’ RNA that lets it recognize a cell’s surface receptors. They then concluded that the virus’s most likely natural host is a snake, based on patterns of RNA that the virus shares with other snake-borne coronaviruses. Snakes, perhaps not incidentally, are commonly farmed and sold in China as food and alternative medicine remedies. 
+
+Viruses evolve to recognize and hijack their specific host’s cells and make more of themselves. That’s why a dog virus typically can’t make people sick and vice-versa. But sometimes, a virus’s existing genetic machinery can help it infect other animals. Other times, mutations or recombination can give a strain of virus a newfound ability to cross the species barrier.
+
+The genetic shuffling seen in 2019-nCoV, the researchers wrote, “may contribute to cross‐species transmission from snake to humans.”
+
+According to Brandon Brown, a public health researcher and epidemiologist at the University of California Riverside, there are still many unsolved questions about 2019-nCoV and its potential for disaster. 
+
+SARS and MERS were hard-hitting, for instance, but neither mutated into a strain that was both virulent and incredibly contagious—a scenario that could have very well turned into a globe-spanning pandemic. Initially, 2019-nCoV appeared to be far milder than SARS or MERS, but the reported death toll has risen quickly in recent days. And although we know that 2019n-CoV can spread between people, we don’t know how contagious it is, nor its risk of mutating further.
+
+Regardless, Brown told Gizmodo via email that he sees no reason to delay ramping up our preparation for 2019-nCoV.
+
+“The alternative is to potentially deal with a global epidemic, which can be avoided by doing something like declaring a public health emergency and preparing with additional funding and attention,” he said. “It’s time we do more work and efforts towards prevention rather than responding to a crisis after it occurs.”
+
+A handful of cases of 2019-nCoV have already reached the U.S. and other countries, though all seem to have originated from travel to the Wuhan region of China. And the rapid development of the outbreak has reached a crisis point in China. This afternoon, the Chinese government ordered the complete shutdown of public transportation in Wuhan as well as the cancellation of flights and trains departing from the city of 11 million people.

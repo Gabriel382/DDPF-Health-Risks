@@ -1,0 +1,9 @@
+Track the Coronavirus Outbreak With This Website 
+ The spread of the Wuhan Coronavirus (also known as 2019-nCoV) throughout mainland China and into other parts of the world is alarming, but it can be hard to understand the current scope of the outbreak without solid figures. For those who are curious (or concerned), the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University has created an online dashboard that tracks the current status of the coronavirus outbreak.
+
+
+The site includes multiple graphs and figures—such as the number of confirmed cases, their locations, as well as the number of recoveries and deaths—that are all updated in real-time. You can click on the various boxes and figures to expand the view for more details on some of the data, too.
+
+The dashboard is helpful since it presents the information so you can see the full picture of the virus’ outbreak clearly and without commentary; even if it’s scary, there’s a certain security that comes with seeing what the reality of the outbreak currently is versus the various hot-taking and speculating you might see about the virus online. However, I would caution against keeping this open in a browser tab and continually checking it. Knowledge and preparedness are important but—unless you live in an area with reported cases or need access to the data for professional reasons—constantly checking to see how many new cases have been confirmed might be over-zealous, not to mention wreaking havoc on your poor mental state.
+
+Check in with the CSSE’s tool if you need to clarify for yourself or others what the severity of the coronavirus’ outbreak is, but don’t obsess. And get your flu shot.

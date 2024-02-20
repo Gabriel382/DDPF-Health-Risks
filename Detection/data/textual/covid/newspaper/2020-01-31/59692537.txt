@@ -1,0 +1,16 @@
+Real Selling Begins As CTAs Start Liquidating, Dealer Gamma Flips Negative 
+ Whether it was today's abysmal Chicago PMI print, or algos finally googling "pandemic" and realizing that what is going on in China could have catastrophic consequences for the global economy (as explained in "Coronavirus Has The Potential Coronavirus Has The Potential To Trigger A Global DepressionTo Trigger A Global Depression"), today's sharp market drop, which pushed the Dow Jones back in the red for the year, is having adverse consequences for market positioning.
+
+Starting with CTAs (which as we explained earlier this week, have emerged as the dominant price-setter in this momentum-driven market), Nomura's Masanari Takada writes that they have finally emerged as sellers of equity futures as a result of the recent spike in VIX, to wit: "with market volatility on the rise, CTAs appear to be closing out the overlarge long positions they had accumulated in US equity futures. At current price levels, however, we think most of this is defensive unwinding, as we estimate that their recent long positions in S&P 500 futures (net buying since December 2019) break even around 3,270." And with the S&P at 3245 currently, every CTA that bought in the past month is now underwater.
+
+The good news is that CTA liquidation of long positions has been stop-and-go, as even below 3,270, bottom-up buying pressure from Long/Short funds and other bullish investors generally keeps the bottom from dropping out.
+
+What is notable here is that as CTAs dump, Nomura sees traditional equity long/short funds rising to top the list of "stalwart bulls" who persist in their dip-buying:
+
+L/S funds' net exposure to US equity (estimated 30-day beta) continues to ramp up gradually, and we think they remain contrarian buyers even after the market shock caused by the novel coronavirus outbreak. But these L/S funds have been reshuffling their portfolios, replacing some cyclical stocks with defensive stocks, and they have increased their allocations toward low-vol and quality factors. As they also appear to be selectively buying up stocks reporting favorable earnings, we interpret their stance as the more conservative flavor of bullishness.
+
+To be sure, it is rather perplexing that hedge funds which remained on the sidelines throughout most of the post-QE4 ramp, are now scrambling to buy stocks. One possible reason for this may be that dealer gamma was solidly in the green, providing a comfortable cushion for any new longs as stocks rallied. That "cushion" however is now gone, because as Nomura's other quant, Charlie McElligott writes, not only is the prior gamma extreme greatly reduced now - at just 35th percentile since 2013 and nowhere close to as impactful as it was over the past week - and with the S&P now below as the strikes that matter, such as 3250 ($3.4B), 3300 ($4.9B) and 3350 ($3.7B)...
+
+... but the S&P500 “Gamma Neutral/Flip" trigger point, which has rested on the 3250-3260 band, has now been taken out, as dealer gamma flips negative, and as dealers are now forced to sell into every selloff.
+
+In short: with CTAs now liquidation and with gamma no longer a "natural" offset to any selloff, should the selloff accelerate here as L/S funds capitulate, the Fed may have no choice but to intervene to avoid a rout.

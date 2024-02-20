@@ -1,0 +1,112 @@
+Tesla: Tracking The Amazon/Apple Paradigms, And It's Still Early Days 
+ I believe that TSLA may be able to generate good or great risk-adjusted alpha for years to come if it executes on its growth plans.
+
+TSLA may be evolving with a business strategy that draws both from AMZN and AAPL.
+
+Yet I remain bullish and believe the TSLA story has gotten materially stronger very recently.
+
+TSLA has surged to $640+ despite a relatively stable set of financial results reported in Q4.
+
+This is a strange situation. In late November, I began accumulating Tesla (TSLA) and discussed the stock in a Dec. 3 article, Tesla: Ready To Re-Enter The Fast Lane, with the stock around $330. I've stayed long and bullish, though given my initial position was around $335, I have sold some shares to keep the dollar value of my stake from exploding, but it's nicely higher than when I scaled in around the time of the article. Anyway, TSLA is now my second largest position, after Microsoft (MSFT), and even though TSLA has nearly doubled, I'm still bullish.
+
+My thinking is that TSLA is one of these rare situations where it has reached a fork in the road and has moved down the correct fork rather than the one leading to a dead end or even quicksand.
+
+I will refer to TSLA's Q4 and FY2019 Update, but assume the reader is familiar with it. I will also quote from the conference call transcript.
+
+In the next sections, I will provide the reasoning I'm staying put with a very long position in TSLA. After painting this picture, I will support the title of the article by showing the analogy to Elon Musk's strategy with TSLA to Apple (AAPL) as well as to Amazon (AMZN). Because the last thing one wanted to do with those stocks if one was long them as they were moving to new highs in, say, 2003 was sell them, I like the optionality with TSLA despite the risks.
+
+Obviously, TSLA cannot reward an investor with its existing assets or any cumulative earnings over the next several years. That's why one of the sections in my 12/3 article was titled "What TSLA might earn and be worth 10 years from now."
+
+With that perspective, I stated that "TSLA might just deliver the 35%+ CAGR to shareholders that it has done since its IPO."
+
+Which means that, even if the end result in 2029-30 stayed the same, even a double to start off still leaves a 5X return in 10 years, which is about 17.5% per year.
+
+However, just looking at the news coming from earnings day, my judgment is that the TSLA story has strengthened. Some of the following sections require more faith in Elon Musk and TSLA than many investors have, but that's why we have two-way markets. Here's my take on why I am more bullish on TSLA's fundamentals than I was 8 weeks ago.
+
+Just for the record, the duo of the Models S and X are the luxury versions of TSLA's car and SUV. The matching mid-range models are the Models 3 and Y, the quartet (rearranged) spelling out S3XY. (Musk wanted the 3 to be an E for the SEXY word to be proper, but if I remember correctly, Ford (NYSE:F) had rights to a Model E, so we ended up with the 3.)
+
+In any case, there were rumors about a very early (Q1) launch of the Y, and TSLA confirmed it is indeed in production. It's early in the production ramp, but this proves that the skeptics who have been predicting a return to missed timelines for TSLA with the Y were wrong. This achievement is a material positive.
+
+The second is that TSLA has been insisting that it will sell all the Y's it can produce, and that with higher selling prices than for the 3, the Y will be more profitable per vehicle.
+
+So, the sooner TSLA begins selling the Y and getting the kinks out of the mass production process, the sooner this key product line will produce free cash flow.
+
+The earlier-than-expected Model Y launch is a material positive for TSLA. In a way, it is a huge deal. I think it drives the "Teslaq" meme (bankruptcy) into obscurity.
+
+The Y has superb energy efficiency, and I agree with TSLA that it will be a resounding success in the US and globally.
+
+Moving on to some important points made in the conference call, which is a less public event than the update, I think that collectively, they strengthen my optimism that TSLA is about to drive the future of EVs to a higher plane. I'll take these in the order in which they were discussed, with quotes and brief discussion.
+
+From the prepared remarks of TSLA's CFO, Zachary Kirkhorn, the situation in China looks good apart from the coronavirus story. He made these points in his prepared remarks:
+
+I expect investors will give TSLA a pass if the virus hampers it in China, but apart from that, the China story is as good as or better than hoped two months ago.
+
+I expect TSLA plans to expand its manufacturing operations in China to first meet China's demand, then use it to export regionally. I also do not expect its manufacturing line to be limited to the Models X and Y.
+
+Until we know more about selling price and other matters, however, it is too early to really model profits from the ramp of the Model 3. However, in keeping with this article's theme, early portents for TSLA are quite promising in China.
+
+The first question in the Q&A was about this product. Elon Musk noted that:
+
+I believe this product, and related roof products, represent a wild card that could be very material, and on a global scale. Also, other parts of the building than the roof may in the future be able to be used to generate electricity.
+
+I also believe that home energy products, notably in my view the Solarglass roof, are not "in" the valuation models either of many analysts or many individual investors. I think that way for two major reasons. First, TSLA is widely viewed as an automobile (and truck) company, not a diversified company. Second, sales have not ramped much in this segment, and in fact, due to the various issues surrounding the SolarCity deal, I think that this part of TSLA has been looked at askance.
+
+So, my guess is that if Elon Musk's prediction that the Solarglass Roof will be a major product line indeed comes true, investors will scramble to add profits from it (and associated Powerwall storage) to their projections, with possible major upside to the stock the result.
+
+This theme pops up a few times in the transcript. Some examples:
+
+1. In his prepared remarks, the CFO noted that TSLA has "made progress on recurring and software-based revenue with the implementation of premium connectivity and the beginning of upgrades available for purchase via the Tesla mobile app."
+
+2. In the first part of the Q&A, Elon Musk explained why he expects auto insurance to a major profit generator for TSLA. He said that, due to its knowledge of the driving habits of its customers, TSLA will be able to better assess risk than insurance companies, who are blind to individuals and must assess risk according to broad groups.
+
+3. In the analyst part of the Q&A, Musk had an important response to a question from Colin Rusch that addressed TSLA's future profit stream, which he expects to come from services disproportionately rather than vehicle sales:
+
+So: a vehicle is the razor, the services are the razor blade. Does that sound like a classic evolving AAPL strategy? Given that AAPL is increasingly reliant on high-margined services to grow profits, I would say it is. (This strategy by AAPL actually goes back to iTunes as a profit center in the days of the iPod's dominance.)
+
+Now for some points on the technology within TSLA's vehicles (why it plans to keep its technology lead in EVs):
+
+Also in response to a different question from Mr. Rusch, Musk had a two-part response. The first observed how superior TSLA's current product is. Then, Kirkhorn and Musk added as follows regarding an improved version (and this sounded a little better listening in than it appears as transcribed):
+
+This is certainly something for TSLA bulls to keep in mind.
+
+Finally, another tech advance may be announced in Q2.
+
+The final question related to battery cell technology. Elon Musk was enthused, and again, this sounded better live than as transcribed. He said in response to a question about the Maxwell acquisition (lightly edited by me):
+
+So, if Battery Day comes in April, within three months TSLA may be announcing an advance in battery technology.
+
+I think all the above, put together, has strengthened the investment case for TSLA.
+
+Now, let's think about top-down strategy. There are a lot of brilliant people in the world. How does all this, and the "known knowns" re TSLA, fit into creating shareholder value?
+
+Maybe we should call it TSLA's Model AA.
+
+First, AMZN. One of the lessons from AMZN is that close to a decade ago, when AMZN had turned profitable, Jeff Bezos reportedly said that managing for profits had hampered AMZN's long-term growth potential. AMZN then went to breakeven or small losses. But it did not matter; look at it now, and its P/E.
+
+This is the TSLA plan: invest for long-term dominance. Don't obsess about the P&L just so long as the debt can be serviced comfortably - which now appears to be quite likely. In addition, as with AMZN (and AAPL), find ways to amplify a company's core area or areas of special expertise. Thus, with TSLA, going to a next-gen powertrain and next-gen battery design should pay off in many ways, for years to come.
+
+As with AMZN's next-gen products such as its cashier less stores, which build on its AI expertise, TSLA may well surprise us with a related but different product that opens up new growth vistas that can then recruit new investors to the story, at higher stock prices.
+
+Now, AAPL. I mentioned in my most recent Microsoft article that I believe that MSFT has been growing with AAPL's tight ecosystem of products in mind. TSLA is doing an amazing job developing related products, and like AAPL is planning services as a core profit driver (software trumping hardware).
+
+As with both AMZN and AAPL, ultimately, the longer term company growth and stock price alpha come from surprises: new products, or better sales and profits than expected from existing profits. Who do you trust?
+
+I think TSLA has turned an important corner lately, and now trust it to keep on accelerating.
+
+TSLA is a risky, volatile stock. It carries a debt load of some significance and is in no rush to pay it down, say by selling some stock. Competition is present and is likely to intensify. There are risks all over with an investment in TSLA; I cannot highlight one in specific that I worry about more than another. Please see TSLA's regulatory filings for its recitation of dangers that lurk from owning its stock.
+
+I don't have a clue! But I will point to AMZN, which after reporting Q4 earnings Thursday after hours may end up with 2020 EPS expected to be $30 and a stock price that might end at $2100 (total guesses on my part). That would represent a forward P/E of 70X.
+
+Now, let's take a smaller, less mature story, TSLA. ETrade is now showing consensus EPS ramping from $7.29 for 2020 to $20.11 for 2022. If, in January 2022, TSLA were to be trading at 70X that consensus for the year ahead, the stock price would be around $1400. That compares to around $640 pre-market Friday, as I submit this article.
+
+Now, let's take it a different way. One of the analysts suggested that TSLA may be able to grow vehicle sales by about 200,000 per year. Musk was offended. TSLA is projected over 500,000 vehicles sold this year, a rapid increase over 2019 production. Part of his response was that estimate first is that he has previously said that "Tesla would grow at an average compound average rate of in excess of 50%, I... hold to that belief."
+
+Depending on operating leverage, and depending on precisely what Musk meant when he talked about growing 50% (unit vehicle sales? total sales? profits?), if a company that's already expected to exceed $30 B in sales in 2020 can grow 50% per year for three more years, we would be looking at about a $100 B sales behemoth in 2023.
+
+In summary, Elon Musk has the hard job. He may be on the road to the status of the world's wealthiest man. That sort of achievement hardly comes easily. My job as a retiree is easier, to allocate capital with the right mix of assets to protect my downside but keep my place in the queue for a share of the world's future goods and services. Based on the trends I am seeing, TSLA has gained a lot of credibility. As with both AMZN until recently and as with AAPL 5-10 years ago, many investors are not convinced. Thus, I like the risk-reward with TSLA and think that the best is yet to come.
+
+Thanks for reading and sharing any thoughts you wish to contribute.
+
+Disclosure: I am/we are long TSLA,MSFT. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.
+
+Additional disclosure: Not investment advice. I am not an investment adviser.

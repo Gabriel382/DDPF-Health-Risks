@@ -1,0 +1,22 @@
+HAN Archive - 00424 | Health Alert Network (HAN) 
+ Distributed via the CDC Health Alert Network
+
+ January 8, 2020, 1615 ET (04:15 PM ET)
+
+ CDCHAN-00424
+
+Summary
+
+ The Centers for Disease Control and Prevention (CDC) is closely monitoring a reported cluster of pneumonia of unknown etiology (PUE) with possible epidemiologic links to a large wholesale fish and live animal market in Wuhan City, Hubei Province, China. An outbreak investigation by local officials is ongoing in China; the World Health Organization (WHO) is the lead international public health agency. Currently, there are no known U.S. cases nor have cases been reported in countries other than China. CDC has established an Incident Management Structure to optimize domestic and international coordination if additional public health actions are required.
+
+This HAN Advisory informs state and local health departments and health care providers about this outbreak and requests that health care providers ask patients with severe respiratory disease about travel history to Wuhan City. Wuhan City is a major transportation hub about 700 miles south of Beijing with a population of more than 11 million people.
+
+Background
+
+ According to a report from the Wuhan Municipal Health Commission, as of January 5, 2020, the national authorities in China have reported 59 patients with PUE to WHO. The patients had symptom onset dates from December 12 through December 29, 2019. Patients involved in the cluster reportedly have had fever, dyspnea, and bilateral lung infiltrates on chest radiograph. Of the 59 cases, seven are critically ill, and the remaining patients are in stable condition. No deaths have been reported and no health care providers have been reported to be ill. The Wuhan Municipal Health Commission has not reported human-to-human transmission.
+
+Reports indicate that some of the patients were vendors at the Wuhan South China Seafood City (South China Seafood Wholesale Market) where, in addition to seafood, chickens, bats, marmots, and other wild animals are sold, suggesting a possible zoonotic origin to the outbreak. The market has been closed for cleaning and disinfection. Local authorities have reported negative laboratory test results for seasonal influenza, avian influenza, adenovirus, severe acute respiratory syndrome-associated coronavirus (SARS-CoV), and Middle East respiratory syndrome coronavirus (MERS-CoV) among patients associated with this cluster. Additional laboratory testing is ongoing to determine the source of the outbreak. Health authorities are monitoring more than 150 contacts of patients for illness.
+
+CDC has issued a level 1 travel notice (“practice usual precautions”) for this destination. (https://wwwnc.cdc.gov/travel/notices/watch/pneumonia-china). On January 5, 2020, WHO posted an update on this situation, including an early risk assessment, which is available at: https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/external icon.
+
+This guidance will be updated as more information becomes available.

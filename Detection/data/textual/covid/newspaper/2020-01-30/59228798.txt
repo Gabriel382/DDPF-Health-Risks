@@ -1,0 +1,18 @@
+Coronavirus could hurt iPhone sales in China and Apple's supply chain, says top analyst 
+ Kuo also wrote that factories that produce Apple products may face mass production risks related to the virus. Apple CEO Tim Cook said Tuesday on the company's earnings call that some factories will remain closed until Feb. 10, as recommended by the Chinese government.
+
+Kuo wrote that consumer confidence in China has dropped in the wake of the coronavirus and he expects that smartphone shipments overall will drop, potentially hurting Apple.
+
+In the worst-case scenario, the coronavirus outbreak , which is stopping travel in parts of China, could affect the supply and demand for Apple products expected to launch in the first half of 2020, TF Securities analyst Ming-Chi Kuo wrote in a note on Wednesday.
+
+There may also be problems with engineers from the United States and other countries traveling to China to perform validation tests and other engineering functions, potentially delaying production timelines for products expected to be released this year and next year. Cook said on Tuesday that Apple had restricted employee travel in China except in business-critical circumstances.
+
+Finally, Kuo warned that Apple's Face ID authentication system does not work with face masks, which are worn especially in China as a precaution to prevent the spread of the virus. Kuo wrote that Apple is working on new fingerprint-scanner equipped iPhones, but before they launch, people wearing face masks might have a worse experience.
+
+"Due to technology limitations, Face ID can't work when users wear masks. We predicted that the 1H21 new LCD iPhone will be equipped with the new-design capacitive fingerprint solution integrated with side power button and believe it will improve the user experience," Kuo wrote. "However, If there will be no significant improvements for the coronavirus epidemic in the near term, it will likely have negative impacts on existing iOS user experience."
+
+Kuo also briefly mentions several Apple products that Apple intended to release this spring but that could be delayed, including new high-end Bluetooth headphones, a small wireless charging mat and a "UWB tag" — a small device that people could attach to easily lost items, making it possible to track and find them. The small wireless charging mat would be a surprise given that Apple cancelled its previous charging mat, AirPower, in 2019.
+
+Other possible spring products that Kuo says may be delayed include a 4.7-inch iPhone with LCD screen and updates to the iPad Pro and MacBook Pro.
+
+Apple reported blockbuster earnings for the December quarter on Tuesday, significantly beating analysts' iPhone sales expectations and showing continued strong growth in wearable products such as the Watch and Airpods. The company's shares are up more than 2% on Wednesday.

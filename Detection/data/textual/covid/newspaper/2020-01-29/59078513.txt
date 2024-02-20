@@ -1,0 +1,77 @@
+Will Coronavirus Risk Influence Today’s Fed Meeting? 
+ The Federal Reserve is expected to leave interest rates unchanged in today’s policy announcement, but the market is repricing yields lower as the crowd embraces safe-haven Treasuries anew as concerns mount that the worst is yet to come for the spreading coronavirus.
+
+
+Earlier this month, before the virus news roiled markets and unsettled economic expectations, the benchmark  appeared to be on a gradual upward glide path. But the outbreak of the coronavirus in China has upended the benchmark rate’s rising trend and reversed the previous increase in Treasury market inflation expectations. (Bond prices are inversely related to yields and so higher prices result in lower yields.)
+
+
+The question is whether the recent downturn in yields is temporary, born of virus-related worries? Or is a new phase of falling yields in store for the months ahead—a decline that’s driven by more than virus risk?
+
+
+The short answer: it’s too soon to know. Much depends on how the rapidly evolving virus news unfolds in the weeks ahead. Meantime, here’s a quick review of key Treasury yields and the market’s inflation expectations ahead of today’s  on monetary policy (2:00 pm Eastern) and subsequent press conference (2:30 pm Eastern).
+
+
+Let’s start by noting that Fed funds futures are pricing in a roughly 90% probability that the central bank will leave its current 1.50%-to-1.75% target for rate unchanged today, based on CME data. In fact, the futures market is anticipating that the current target rate will likely hold steady through July, which is to say that the probability for no change is priced above 50% through that meeting.
+
+
+The outlook for Fed policy is stable at the moment, but sentiment in the Treasury market overall has shifted substantially in recent days. Notably, the 10-year yield’s gently rising trend has faded. It will be telling if the yield’s 50-day average falls below the 100-day average in the days ahead—a sign that would suggest the market is anticipating even lower rates.
+
+
+	10 Yr Treasury Yield Vs Moving Averages
+
+
+
+		
+		
+	
+
+
+
+
+Meantime, the  yield – widely seen as the most sensitive maturity for rate expectations – has remained flat for months, even before the coronavirus scare. In recent days, the 2-year yield has tumbled. The current 1.45% (as of Jan. 28) marks the lowest yield since October.
+
+
+	2 Yr Treasury Yield Vs Moving Averages.png
+
+
+
+		
+		
+	
+
+
+
+
+
+	5 Yr  10 Yr Treasury Inflation Forecasts
+
+
+
+		
+		
+	
+
+
+
+The market has also abandoned its previous embrace of mildly firmer reflation sentiment, based on the implied spread between nominal Treasury yields and their inflation-indexed counterparts. For example, the implied inflation outlook via 5-year maturities has slumped to 1.59% on Tuesday (Jan. 28) – well below the recent 1.72% peak (Jan. 2). 
+
+
+	Treasury Yield Curve
+
+
+
+		
+		
+	
+
+
+
+Looking at the entire yield curve reminds that portions are now inverted, again. Maturities for 2 through 5 years are slightly below shorter maturities. 
+
+
+“Continued uncertainty regarding the life cycle of the new coronavirus contagion is flattening the yield as a flight to quality is driving down Treasury yields,” notes Bryce Doty, a portfolio manager at Sit Fixed Income Advisors.
+
+The immediate question: Will virus risk factor into Fed policy. The subject will likely come up in today’s press conference. But with US economic data published to date pointing to continued moderate growth, it’s unlikely that the Fed Chairman Jerome Powell will announce any sudden changes in policy this afternoon.
+
+
+“We expect hardly any changes to their statement,” predicts Julia Coronado at MacroPolicy Perspectives. “The economic data are tracking their forecasts and there is no inflation, so that would leave them patient.”

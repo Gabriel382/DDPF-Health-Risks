@@ -1,0 +1,102 @@
+Coronavirus update Vaccine expected in Phase 1 trial within months WHO to reconvene on Thursday - MarketWatch 
+ Coronavirus update: Vaccine expected in Phase 1 trial within months, WHO to reconvene on Thursday
+
+
+
+  
+  By Jaimy Lee
+
+
+
+  Published: Jan 29, 2020 1:40 pm ET
+
+  
+
+  A public health official says the ‘next four weeks to five weeks are going to be critical’
+
+  
+
+
+
+
+ A vaccine designed to combat severe acute respiratory syndrome (SARS) and technological advances in vaccine platforms are likely to quicken the time it will take to develop a vaccine for the novel coronavirus that has killed at least 132 people and sickened nearly 6,000 others. 
+ “I’m reasonably confident that within three months or less we’ll be in a Phase 1 trial” for a coronavirus vaccine, which would be record speed for this type of trial, Dr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases (NIAID), said during a Tuesday video interview with the medical journal JAMA. It took 3.2 months to get a Zika vaccine into trials, he added. 
+
+
+ Moderna Inc. 
+
+  MRNA-8.09%
+
+ a biotechnology company developing messenger RNA treatments and vaccines, said Jan. 23 that it is working with NIAID to design a vaccine. The early-stage trial will be conducted by NIAID. 
+ Experts say an emergency-use vaccine could be ready as soon as within one year. (This is a much shorter period than the typical development timeline for a new drug. The Food and Drug Administration estimates that it takes an average of 12 years to bring a new drug to market.) 
+ Public concern about the coronavirus has shifted sharply in the 10 days since the U.S. identified its first diagnosed case. China’s National Health Commission said Tuesday that there are now 9,239 suspected cases, 5,974 confirmed cases and 132 deaths. About 100 people have been “cured” and discharged in the 31 Chinese provinces that have reported cases of the coronavirus. There are five confirmed cases in the U.S., and 165 people are under investigation. 
+ “The next four weeks to five weeks are going to be critical,” Fauci said during the JAMA interview. “It’s either going to start peaking and going on a downturn, or it’s going to explode into a global outbreak.”
+ The World Health Organization’s Emergency Committee said it would meet again on Thursday to discuss whether the outbreak is a Public Health Emergency of International Concern.
+
+
+  Why isn’t there a vaccine already? 
+ Researchers developed a vaccine for SARS that was eventually tested in a Phase I trial in 10 healthy adults. However, by the time it had gone through an early-stage trial, the severity of the outbreak had declined, and it was no longer of use. 
+ “There’s been some really good work on SARS and MERS that is educating this process,” said Andrew Pekosz, professor of molecular microbiology and immunology at Johns Hopkins University’s Bloomberg School of Public Health. “You assume that everything that works for SARS and MERS will work for this virus, therefore you just plug in the very specific pieces of the new coronavirus into these vaccine platforms [and] you should be able to get vaccine candidates very quickly.”
+ Today’s development pace is also much quicker. It took seven months to publish the SARS sequence in May 2003 after the first case of pneumonia was reported in China in late 2002. The Chinese government published the full genomic sequence for this coronavirus on Jan. 10. 
+ “Today you don’t need to get the virus in hand,” Fauci said. “All you need is a sequence because the platforms that we use in vaccinology now are generally gene-based or molecular ribonucleic acid-based.”
+
+
+  What are researchers most concerned about? 
+ One of the unknowns is the virus’s reproductive number, pronounced R-naught, which helps determine how fast the virus is spreading. Current estimates put the R0 range between 1.5 and 3.1, though the available data is still limited, Pekosz said. “It’s going to tell us how difficult it will be to contain this virus,” he said. 
+ SARS had a R0 of 2 to 5; post-quarantine, it dropped below 1, which indicates an outbreak is waning, Dr. Eric Ding, an epidemiologist at the Harvard Chan School of Public Health said during a Tuesday Evercore ISI webinar. 
+  How is this coronavirus different than SARS or MERS? 
+ U.S. health officials have said the new coronavirus, which was first identified in December in Wuhan City, China, is more similar to SARS than Middle East respiratory syndrome (MERS), although all three are coronaviruses. However, there are a number of key differences. 
+
+
+ “The underlying context is different,” said Dr. John Brownstein, an epidemiologist and chief innovation officer at Boston Children’s Hospital. “Fifteen years ago, the difference of course is less mobility, less movement within and outside of China than what we see today.”
+ Early data out of China published Jan. 24 in The Lancet shows that the new coronavirus had primarily sickened patients who skewed younger and healthier than those commonly affected by seasonal flu or SARS. About half of this cohort of 41 patients who had been hospitalized in Wuhan were between the ages of 25 and 49 years old, about 73% were men, and less than half of them had co-morbidities such as diabetes or hypertension. The fatality rate for this coronavirus is also thought to be lower, at about 3% to 4%. The MERS morbidity rate is about 36% and SARS is 10%. 
+ Public health experts cautioned that this is very early data and likely not reflective of the thousands more patients who have now been diagnosed with the virus. 
+  Big health care companies share coronavirus plans: Much of the development news for coronavirus diagnostics, therapeutics, and vaccines so far has come from smaller preclinical companies. However, Johnson  Johnson 
+
+  JNJ+0.7%
+
+ now plans to initiate development of a vaccine candidate for 2019-nCoV and is also providing its antiviral HIV treatment Prezcobix in China for investigational purposes. HIV is a RNA-based virus, like the Wuhan coronavirus. Becton Dickinson and Co. 
+
+  BDX-0.02%
+
+ the diagnostics company, is sending instruments used in diagnostic testing to China, according to a FactSet transcript of its earnings call.
+  Earnings calls have turned into de facto corporate updates on the virus: According to a FactSet analysis of earnings transcripts, executives at Boeing Co. 
+
+  BA+1.72%
+
+ Dow Inc. 
+
+  DOW+5.32%
+
+ General Electric Co. 
+
+  GE+10.32%
+
+ Mastercard Inc. 
+
+  MA+0.02%
+
+ and Starbucks Inc.
+
+  SBUX-2.12%
+
+ have been asked or are discussing the impact of the coronavirus on their 2020 performance. A Mastercard executive said: “It’s early days. Fortunately, a decent portion of our inbound and outbound cross-border from China is e-commerce related so it provides some level of a hedge.”
+
+
+  Travel operators, airport retailers face demand slump: Royal Caribbean Cruises Ltd. 
+
+  RCL+1%
+
+ said cancellations as a result of travel restrictions in China may mean the company will have to lower its 2020 per-share earnings by 10 cents. Carnival Corp. 
+
+  CCL
+
+ said suspended cruises may lead to a EPS headwind of $0.03 to $0.04 per share, according to a Nomura note. Separately, a decline in Chinese travelers may force airport retailers to market to other travelers. “If outbound tourism from China suffers as a result of coronavirus, airport operators and retailers must adapt their strategies to target other passengers,” GlobalData’s Honor Strachan wrote in a research note. 
+  President Donald Trump said Wednesday that he spoke to Chinese Premier Xi Jinping about the coronavirus and that the U.S. and China are working closely on the issue.
+ 
+
+
+
+
+  
+  See original version of this story

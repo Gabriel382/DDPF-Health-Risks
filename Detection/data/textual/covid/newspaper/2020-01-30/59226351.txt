@@ -1,0 +1,20 @@
+Twitter finally rolls out its election disinformation reporting tool to U.S. users 
+ As the country gears up for a bruising presidential election year, Twitter has finally announced that users in the U.S. will be able to report misleading content about elections.
+
+The reporting tool, which is currently used to alert the platform's moderators of spam, harassment, or even self-harm, will be expanded to include the option to flag as misleading text, images, and videos in tweets about elections or voting.
+
+The tool has been in use since last year in other regions, rolling out first for elections in India and the European Union in April 2019, and in use again for the U.K. general election in December.
+
+It's designed to counter things like people spreading false or misleading information that might stop or discourage people participating in elections — like incorrect dates for polling day, wrong information about requirements for voter registration or identification, or potentially even tweeting that polls have closed in a state or county when they haven't.
+
+In the 2018 election, Twitter shut down over 10,000 accounts sharing vote-suppressing content, such as a 4chan-spearheaded campaign encouraging Democratic men not to vote in order to make women's votes "count more". This tool makes this kind of content easier for anyone to report.
+
+This reporting flow isn't intended to help people report false or misleading that is designed to push voters towards or away from voting for a certain candidate or party — so using it to flag a tweet saying Elizabeth Warren or Donald Trump eats Kentucky fried baby bald eagles for breakfast won't do much. (If a candidate, individual, or party wanted to buy an ad on Twitter touting their policy on Kentucky frying baby bald eagles, they wouldn't be allowed to, though.)
+
+Other examples, like the U.K. Conservative Party changing their verified Twitter account name to make it look like a more neutral "fact check" during a leaders' debate, have been cited as the kind of misinformation where Twitter vows to take "more decisive action" on a case by case basis.
+
+The tool will be turned on for "key moments" during the U.S. election cycle rather than being available through the year.
+
+Mashable approached Twitter to clarify what the fact-checking process will be when it comes to verifying or disqualifying election-related information shared by users in a timely and accurate fashion, but had not received a reply by the time of publication.
+
+It's the second anti-disinformation safety announcement Twitter has made in the space of a day, after announcing an adjustment that puts authoritative information about the coronavirus epidemic at the top of results when users search for the term, as it does when people search for "vaccination."

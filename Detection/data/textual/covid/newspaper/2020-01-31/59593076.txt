@@ -1,0 +1,12 @@
+Malware disguised as documents with pertinent nCoV information found 
+ Several forms of malware have been discovered that disguise themselves as documents containing information pertinent to the novel coronavirus or nCoV according to cybersecurity firm Kaspersky in an email sent Friday, January 31. As the World Health Organization labelled the virus a global threat, the documents look to trick victims by implying to have vital information on how to detect and protect yourself from the disease and other supposedly crucial updates.
+
+The files are made to look like a PDF, MP4 or DOCX file but “actually contain a range of threats from Trojans to worms that can destroy, block, as well as interfere with the operation of computer networks.”
+
+So far, only 10 unique files have been seen containing the malware, but the firm expects that the number may grow as the coronavirus threat continues. The firm didn’t specify how the malware was being distributed but popular means by which such files may be spread include emails, chat apps, or via website links.
+
+To avoid being infected by the malware, the firm has a few tips:
+
+“The coronavirus, which is being widely discussed as a major news story, has already been used as bait by cybercriminals. So far we have seen only 10 unique files, but as this sort of activity often happens with popular media topics then we expect that this tendency may grow. As people continue to be worried for their health, we may see more and more malware hidden inside fake documents about the coronavirus being spread,” says Anton Ivanov, Kaspersky malware analyst.
+
+These are the harmful files that Kaspersky has found in the disguised documents:

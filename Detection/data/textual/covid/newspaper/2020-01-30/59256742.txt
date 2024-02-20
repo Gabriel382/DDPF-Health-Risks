@@ -1,0 +1,40 @@
+Coronavirus: An In Depth Analysis 
+ Chinese authorities have confirmed more 6,000 cases and a total of 170 deaths due to the new coronavirus. The number of confirmed cases of the new coronavirus has overtaken the 2003 SARS outbreak in China. Coronaviruses are zoonotic, meaning they are transmitted between animals and people. Every decade, a zoonotic coronavirus crosses species to infect human populations and in this decade, we have a virus, provisionally called 2019-nCoV, first identified in Wuhan, China, in persons exposed to a seafood or wet market.
+
+Coronavirus: What's in the name?
+
+The name of coronavirus comes from its shape, which resembles a crown or solar corona when imaged using an electron microscope. The three deadly human respiratory coronaviruses so far:
+
+3. 2019-nCoV: The virus is 75 to 80% identical to the SARS-CoV
+
+In the current situation, the mortality rate is 3%, but steadily increasing. The severity of illness is concerning: almost a third of patients developed acute respiratory distress syndrome requiring intensive care; So far as per data available, six patients died; five had acute cardiac injury; and four required ventilation.
+
+Notably, 2019-nCoV grows better in primary human airway epithelial cells than in standard tissue-culture cells, unlike SARS-CoV or MERS-CoV. It is likely that 2019-nCoV will behave more like SARS-CoV.
+
+Both SARS-CoV and MERS-CoV infect intrapulmonary epithelial cells more than cells of the upper airways. Epithelial cells are cells that come from surfaces of your body, such as your skin, blood vessels, urinary tract, or organs. Consequently, transmission occurs primarily from patients with recognized illness and not from patients with mild, nonspecific signs.
+
+It appears that 2019-nCoV uses the same cellular receptor as SARS-CoV (human angiotensin-converting enzyme 2 [hACE2]), so transmission is expected only after signs of lower respiratory tract disease develop.
+
+The median time from onset of symptoms to first hospital admission was 7.0 days (4.0-8.0), to shortness of breath was 8.0 days (5.0-13.0), to ARDS was 9.0 days (8.0-14.0), to mechanical ventilation was 10.5 days (7.0-14.0), and to ICU admission was 10.5 days.
+
+It has been traced to snakes in China, so, it is unlikely to spread in India by eating sea food. Snakes often hunt for bats in wild. Reports indicate that snakes were sold in the local seafood market in Wuhan, raising the possibility that the 2019-nCoV might have jumped from the host species -- bats -- to snakes and then to humans at the beginning of this coronavirus outbreak. However, how the virus could adapt to both the cold-blooded and warm-blooded hosts remains a mystery.
+
+Transmission of food borne diseases on aircraft, including cholera, shigellosis, salmonellosis, and staphylococcal food poisoning, have been well documented. Transmission of smallpox on aircraft was reported in 1965. An outbreak of influenza occurred in 1979 among passengers on a flight that had a three hours' ground delay before take-off. The influenza attack rate among the passengers was very high (72%), and was attributed to the ventilation system not operating during the ground delay. Epidemiological investigations have also indicated that measles may have been transmitted aboard international flights. To date, no case of active TB has been identified as a result of exposure while on a commercial aircraft. However, there is some evidence that transmission of M. tuberculosis may occur during long (i.e. more than eight hours) flights, from an infectious source (a passenger or crew member) to other passengers or crew members.
+
+Transmission of 2019-nCoV probably occurs by means of large droplets and contact and less so by means of aerosols and fomites, on the basis of experience with SARS-CoV and MERS-CoV.
+
+Coronavirus has spread all over the world. Cases have been confirmed in Australia, Macau, Hong Kong, France, Japan, Malaysia, Nepal, Singapore, Taiwan, South Korea, Thailand, United States and Vietnam.
+
+There is an emergency in China, but it has not yet become a global health emergency.
+
+At present, In India, over 20,000 passengers have been screened at Indian airports for the novel coronavirus infection. Although suspected cases of the virus have been reported in many states, including Kerala and Maharashtra, none of them have been tested positive "till date". In Maharashtra two of the three persons admitted to a hospital in Mumbai for possible exposure to the coronavirus have tested negative for infection but are still under observation as a
+
+Any patient suffering from respiratory symptoms could have a potential coronavirus, especially in case he or she has travelled to China recently. In case we signal coronavirus, then we have to make sure that the patient is kept in isolation. The secretion (sample from the patient) is examined with the Polymerase Chain Reaction (PCR)-based technique. This sample could be throat or lower-respiratory tract based secretion.
+
+The unique thing about this coronavirus is that it is a novel strain. It is a new strain of corona which has occurred because of a mutation occurring in the already-existing strain of coronavirus. So, after detecting coronavirus from the respiratory secretion, the strain has to be further checked if it is a lower strain or not.
+
+In case there is a confirmed case of coronavirus in India, it is important that people protect themselves by taking the following precautionary measures:
+
+Currently, there is no treatment available for coronavirus, nor any vaccine to prevent it. Although scientists from all over the world are working on the vaccine for this virus which will help contain the virus from a bigger outbreak, the current treatment is only supportive, including the following important steps:
+
+Disclaimer: The opinions expressed within this article are the personal opinions of the author. NDTV is not responsible for the accuracy, completeness, suitability, or validity of any information on this article. All information is provided on an as-is basis. The information, facts or opinions appearing in the article do not reflect the views of NDTV and NDTV does not assume any responsibility or liability for the same.

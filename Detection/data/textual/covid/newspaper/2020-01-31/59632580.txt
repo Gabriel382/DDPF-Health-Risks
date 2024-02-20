@@ -1,0 +1,22 @@
+'How first influenza infection determines lifelong immunity decoded' 
+ The first type of flu virus that people are exposed to in early childhood determines their ability to fight the infectious disease for the rest of their lives, according to a study which may lead to new understanding of how the human immune system fights influenza.
+
+According to the study, published in the journal Clinical Infectious Diseases, early exposure to one of the two flu strains, HINI and H3N2, that generally circulate every year, imprints itself on our immunity, and disproportionately affects the body's lifelong response to the flu.
+
+The researchers, including those from McMaster University in Canada, said this phenomenon, called antigenic imprinting, could have important implications for pandemic and epidemic planning, allowing public health officials to assess who might be at greater risk in any given year.
+
+"People's prior immunity to viruses like flu, or even coronavirus, can have a tremendous impact on their risk of becoming ill during subsequent epidemics and pandemics," said Matthew Miller, a co-author on the study from McMaster University.
+
+"Understanding how their prior immunity either leaves them protected or susceptible is really important for helping us to identify the populations who are most at risk during seasonal epidemics and new outbreaks," Miller said.
+
+In the study, the researchers analysed data from the 2018-19 flu season in Canada, during which both strains of influenza dominated at different periods of time.
+
+They said, typically, only one strain dominates each flu season, accounting for almost all cases.
+
+People born when the flu strain H1N1 was dominant have a much lower susceptibility to influenza during seasons dominated by that virus than during seasons dominated by the H3N2 strain, the study noted.
+
+In turn, those born in a H3N2 year are less vulnerable to influenza during seasons dominated by H3N2, it added.
+
+"We already knew from our previous studies that susceptibility to specific influenza subtypes could be associated with year of birth. This new study goes much further in support of antigenic imprinting," explained Alain Gagno, study co-author from the University of Montreal in Canada.
+
+"Instead of just showing how specific age patterns are associated with one subtype or the other during a single influenza season, we took advantage of a unique 'natural experiment' to show how the change in subtype dominance during one season appears to lead, practically in real time, to a change in susceptibility by age," Gagno added.

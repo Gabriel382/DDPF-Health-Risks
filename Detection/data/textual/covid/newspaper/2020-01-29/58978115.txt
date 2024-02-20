@@ -1,0 +1,16 @@
+Big volatility options trade points to mystery investor '50 Cent' 
+ NEW YORK (Reuters) - Large options trades some people have attributed to the mysterious investor known as “50 Cent” have become more profitable in recent days, as fears of the economic impact of the coronavirus injected volatility back into stock markets. 
+FILE PHOTO: A trader works on the floor of the New York Stock Exchange shortly after the opening bell in New York, U.S., January 24, 2020.  REUTERS/Lucas Jackson
+
+
+Earlier this month, at least one investor bought large blocks of February calls on the CBOE Volatility Index .VIX at a price of around 50 cents each.  
+The calls, which increase in value when the VIX rises, would be redeemable should the VIX hit 22 by late February. Known as Wall Street’s “fear gauge,” the index typically rises when markets grow turbulent. 
+The VIX ended Tuesday’s session at 16.28, down 2.74 points from yesterday’s three-month high. 
+In total, there were last about 331,000 contracts open on those calls, most of which were purchased around the same price, according to options analytics provider Trade Alert. 
+Pravit Chintawongvanich, equity derivatives strategist at Wells Fargo, said the transaction resembles past moves by an enigmatic investor some market participants have dubbed “50 Cent,” known for purchasing large blocks of VIX options at prices near 50 cents.  
+A trader believed to be 50 Cent made similar big purchases last summer and in the months leading up to a market selloff in February 2018. 
+According to Trade Alert, the VIX calls traded as high as $1.15 on Monday, so in total they could have generated some $21 million in profit if the calls were sold. However, there was “no sign of liquidation,” Trade Alert founder Henry Schwartz wrote. The calls were trading between 70 and 80 cents late Tuesday, as U.S. stock markets rebounded. 
+“They would basically need a much bigger market reaction to make any meaningful profit on those trades,” Chintawongvanich said. The block trades are likely a portfolio hedge rather than a bet on a spike in volatility, he added. 
+On Monday and Tuesday, at least one investor bought large blocks of March VIX calls, at 57.5 cents and 59 cents, which would require the index to reach 28 before they could be redeemed. Outside of those trades, it was not evident that investors are loading up on downside protection at this point. 
+“When the VIX stays below 17, that’s pretty sedate,” said Jim Carney, CEO of hedge fund Parplus Partners. 
+Reporting by April Joyner; Editing by Ira Iosebashvili and Lincoln Feast.

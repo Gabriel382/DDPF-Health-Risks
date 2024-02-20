@@ -1,0 +1,20 @@
+China coronavirus outbreak updates can now be tracked live online with this dashboard 
+ An online tool that provides live updates on the spread of the new coronavirus that emerged in Wuhan, China, in December last year has been developed by scientists. The virus, which causes pneumonia-like symptoms, has so far been detected in at least 11 countries, with almost 4,500 cases confirmed.
+
+Experts at Johns Hopkins University's Center for Systems Science and Engineering created the dashboard to track reported cases of the infection. The information is also available as a Google spreadsheet.
+
+The webpage includes the total number of deaths, confirmed cases, and the number of people who have recovered from the virus which has been linked to a wholesale seafood market in Wuhan, where live animals were sold. The information is plotted on a map, as well as in tables on either side.
+
+The dashboard works by pulling in and visualising data from official bodies including the World Health Organization (WHO), the Centers for Disease Control and Prevention (CDC) in the U.S., Europe, and China, as well as China's National Health Commission.
+
+According to a blog post by Lauren Gardner, an Associate Professor at Johns Hopkins University, the feed also takes data from DXY. This is a Chinese website that aggregates reports from China's National Health Commission and local Chinese CDC "in near real-time." She says this provides "more current regional case estimates than the national level reporting organizations are capable of, and is thus used for all the mainland China cases reported in our dashboard."
+
+Gardner wrote: "The dashboard is intended to provide the public with an understanding of the outbreak situation as it unfolds, with transparent data sources."
+
+According to the dashboard, a total of 107 people have died, all of which have occurred in mainland China. Overall, some 4,474 cases have been confirmed. However, a situation report by the WHO published on Monday put the number of cases globally at 2,798.
+
+Symptoms of the virus include a fever, dry cough, shortness of breath, and trouble breathing. According to the WHO, it spread to at least 11 countries outside mainland China. The dashboard, however, states it has been identified in China, Hong Kong, Macau, as well as the U.S., Thailand, Taiwan, Singapore, Japan, South Korea, Malaysia, Australia, France, Nepal, Canada, Cambodia, Sri Lanka, Germany, with reports of it reaching the Ivory Coast.
+
+Dubbed 2019-nCov, the new bug is a member of the large coronaviruses family that can cause conditions as mild as the common cold, to more severe infections like Severe Acute Respiratory Syndrome (SARS).
+
+As the virus is new, scientists are now working to gain a better understanding of it. According to the information currently available, the WHO believes the virus has an incubation period of between two to 10 days.

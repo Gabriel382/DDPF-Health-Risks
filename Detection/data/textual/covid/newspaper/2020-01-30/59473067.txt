@@ -1,0 +1,18 @@
+Key Trend Breaks In The Weekly Charts (Technically Speaking For 1/30) 
+ The WHO has declared a world health emergency due to the coronavirus:
+
+This is usually done to help raise money, which isn't needed right now. However, it does add to the sense of urgency.
+
+Is it time to start talking about a yield-curve inversion again? Consider the following charts: The 7/5/2-year-1-year curves are all tightening. The 5-year-1-year and 2-year-1-year curves are both below 0% and the 7-year-1-year curve is barely positive. The 10/7/5-year-3-month curves are all tightening. The 7-year-3-month curve is now negative; the other two are approaching that key level. The 10-year-3-month curve is barely positive.
+
+The yield curve is a key recession predictor. I've previously argued that "this time is different," noting that in the previous three instances there were key secondary events -- the S&P Crisis, the bursting of the dotcom bubble, and the housing crisis -- that were significant causes of the recession. Some federal reserve presidents have argued that this time, the yield curve's inversion is due to the compression of the term premium. Other commentators have argued that none of that matters; once the yield curve contracts, that's it. We'll soon see who's right.
+
+I'll cover the individual accounts in more detail tomorrow. For now, let's look at the contributions to growth over the last four quarters: The annual rate for GDP growth is in blue and at the far left of each year. Personal consumption expenditures are in red; note that they're responsible for most of the gains over the last five quarters. In the fourth quarter (far right), inventories (in purple) subtracted from growth while imports (in gold) paradoxically contributed to growth. This is really an accounting issue; imports contracted 8.7% in 4Q20, which qualifies as a statistical aberration. Without this, it's likely the number would have been far different.
+
+One of the reasons I look at charts in multiple time frames is to see if a problem is happening in multiple time frames. For example, suppose there's a breakdown in the 5-day charts. That isn't that big a deal until we start to see similar developments in the 2-week, 30-day, daily, and weekly charts. When we see breakdowns across multiple time dimensions, that's a good indicator that something is going on.
+
+Let's start with the SPY: The SPY broke a trend that started in early October. Mid-caps have also broken a trend line of similar length. Its MACD is about to give a sell signal. The IWM hit resistance from mid-2018 and bounced lower. Prices have now broken trend as well.
+
+This is the third time frame over the last week that shows a break in key trends. And these on the weekly charts are substantial -- it takes longer for developments in this time frame to develop, making them that much more important. It adds up to a pretty clear change and to a modest selloff.
+
+Disclosure: I/we have no positions in any stocks mentioned, and no plans to initiate any positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.

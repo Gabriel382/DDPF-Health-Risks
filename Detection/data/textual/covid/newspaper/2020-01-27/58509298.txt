@@ -1,0 +1,44 @@
+Bond Market Week In Review (1/20-1/24) 
+ The US banking system is in good shape: loan delinquencies and charge-offs are at manageable levels.
+
+This week, there were no major speeches from the Fed. So, let's take a look at some key numbers for the US banking sector - focusing on delinquencies and charge-offs.
+
+First of all - what does this have to do with the bond market? A well-functioning financial sector is mandatory for the fixed income market. Financial institutions either help to underwrite issuers' bond offerings, trade debt, or use bonds as an alternate revenue stream. If banks are in trouble, it gums up the works, making it harder for the credit markets to function. This eventually leads to higher interest rates, caused by lower demand. One of the quickest ways for the banks to run into trouble is to have a spike in problem loans.
+
+Let's start with the big one: real estate loans (in blue) spiked to multi-decade highs during the housing crisis but are now at low levels. There's been a modest uptick in consumer loans (in red), but the current level is still below those seen during the last two expansions. The commercial and industrial loan delinquency rate (in green) is very healthy.
+
+Think of delinquencies as the pipeline to charge-offs. The above data indicates that potential charge-off scenarios are very reasonable for the next 12-18 months.
+
+Charge-offs are in a pretty good place as well. After spiking during the housing crisis, real estate losses (in blue) are back to manageable levels. Consumer loans (in red) are also at pre-crisis levels. Commercial and industrial loans (in green) are trending modestly higher but are still low.
+
+Let's take a deeper dive into the above data, starting with the consumer:
+
+Credit card charge-offs (in blue) are the main reason why consumer charge-offs are high. But the current level is actually near the lower end of the historical average range. Both other categories are in good shape.
+
+Let's look at real estate loans from two perspectives:
+
+The above chart shows the massive spike the real estate loan sector had during the Great Recession. Both single-family (in blue) and commercial loans (in red) spiked. They have since trended lower, which is best shown in the following chart:
+
+This chart shows the last five years of charge-offs for all the above categories. Notice the pick-up in farmland loans (in green). But the two others are very low.
+
+Finally, let's take a look at commercial and industrial loans in isolation:
+
+Yes, they've ticked higher recently. But overall, they're in very good shape.
+
+The above data shows that the financial sector is in good shape; the possibility of a credit market jam caused by weak balance sheets is low.
+
+Now, let's look at the credit markets, starting with the performance tables for the bond markets.
+
+Last week was positive for the treasury market. The long-end of the curve rallied nearly 3%; the 10-20 year section gained slightly more than 2%. Here're the relevant charts:
+
+The entire treasury market complex was higher last week. All ETFs pushed through key resistance levels to make 2-month highs.
+
+Finally, let's look at the broader bond market:
+
+Let's start at the sectors that didn't rally: emerging market, emerging market sovereign debt, and junk. These are the higher risk sections of the market that sell off during periods of higher stress. Moving to the top of the table, the long and intermediate corporate markets led the way higher, followed by munis and the short corporates.
+
+Last week, the bond market was the recipient of a safety bid, caused by the growing Coronavirus situation. Hence, the emerging market sell-off and rally in treasuries. Depending on how the virus story continues this week, we could see similar developments.
+
+This article is part of a broader series that includes:
+
+Disclosure: I/we have no positions in any stocks mentioned, and no plans to initiate any positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.

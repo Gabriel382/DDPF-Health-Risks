@@ -1,0 +1,28 @@
+Why the return to an inverted yield curve may bring more premature recession calls 
+ With the Federal Reserve announcement on a decision on interest rates this week, many eyes will be focused on what is going on with Treasury yields over the coming days.
+
+The media seems to love reporting on anything and everything that might signal the next recession. If you went in a time machine back to the end of summer 2019, all you would be hearing about is that the warnings signs all point to an imminent recession. At the end of 2018, with growth and trade war scares, there were elevated risks then too. That brings up the warnings of an inverted yield curve all over again.
+
+While prematurely jumping the gun about the next recession should be nothing short of an embarrassment to the major media outlets, the trading activity in the bond market is often considered to be smarter money than what happens in the daily swings in the equity market. That said, the bond market's action in predicting an economic slowdown is given far greater attention when the markets enter into, and if they remain in, an inverted yield curve.
+
+Inverted yield curves occur when short-term interest rates are higher than long-term interest rates. This has not been a universal tool that accurately predicts recessions, but it has very frequently coincided with slower growth and greater than normal financial market tension.
+
+With the Federal Reserve announcement on a decision on interest rates this week, many eyes will be focused on what is going on with Treasury yields over the coming days. One issue that frequently comes up with an inverted yield curve is that it is often viewed as a sign that the financial market believes the Federal Reserve is not aggressive enough in its level of controlling short-term interest rates. Still, this is a complicated issue, and there is no universal smoking gun when the yield curve inverts.
+
+At the start of 2020, the yield curve was more or less flat from three-month Treasury bills (1.54%) all the way out to the three-year Treasury notes, with no more than a five-basis-point rise. The 10-year Treasury yield was 1.88% and the 30-year yield was 2.33%. Zoom forward to January 28 and the prior day's yields were still 1.55% on the three-month, followed by 1.53% for the one-year T-Bill, 1.44% for the two-year note, 1.41% for the three-year note, 1.44% for the five-year note and just 1.52% for the seven-year note.
+
+Before worrying about another panic, note an additional complication, which is that some investors don't even agree on what an inverted yield curve is. Some investors use two-year or three-year Treasury notes against three-month T-bills or against the overnight federal funds rate. Other investors use the spread of 10-year Treasury note yields against two-year notes or even against three-month bills. On the latter case, the 1.61% yield of the 10-year Treasury is still actually above the shorter term yields. For better news, note that the 10-year yield was up at about 1.65% on Tuesday.
+
+The CME FedWatch Tool also is used for determining where interest rates are heading in the months ahead. This gives actual odds from interest rate trades about what the bond market and derivatives around them are forecasting. For January 29, the FedWatch Tool has current odds of 87.3% that the fed funds rate will remain static at the 1.50% to 1.75% range. There also was still a 60.7% chance that fed funds would be at the same level at the June 10 FOMC meeting, with a 27.1% chance that there would be a one-quarter percentage point rate cut.
+
+Where things get dicey with the CME's FedWatch Tool is that the probabilities for fed funds to be flat at the current 1.50% to 1.75% range are just 50.2% at the July 29 announcement and 40.1% at the September 16 announcement. At those two points, there is now a growing chance that fed funds will have dropped by one-quarter of one percentage point.
+
+An issue that has greatly skewed trading activity in Treasuries is the coronavirus outbreak in China. The world markets were spooked starting on January 17, for the main impact here, and stocks have been sliding and investors have sought the safety of Treasuries. China has now seen a wider impact from the outbreak, with many more confirmed cases and deaths. The numbers of people with the coronavirus in surrounding and Western nations are limited. China has suspended group travel abroad, Wuhan has been all but shut down for transportation coming in and out, and companies have shut down their stores and factories there.
+
+On top of all that, the European Central Bank just last week signaled that its accommodative interest rate stance and billions of euro in monthly bond purchases likely would continue for the rest of 2020 or even longer. That means that the world is stuck with negative interest rates. That also means that foreign investors will flock to the safety trade of the United States, where better growth is available and where positive interest rates can be found.
+
+To focus on a day or even a few days of a modestly inverted yield curve would be very premature at this stage in 2020. If this remains an issue in 30, 60 or 90 days out, that's another story, and it will have meant that the global growth story's recovery went from hopeful to overly optimistic.
+
+A recent forecast for better growth in 2020 from the National Association of Business Economics was stronger than a prior view, and it was from before the coronavirus was on anyone's mind. Then again, earnings season is proving to be generally better than worse so far in January.
+
+ALSO READ: Worried About Coronavirus? 5 Stocks to Buy With Zero China Exposure

@@ -1,0 +1,20 @@
+Coronavirus malware infects thousands of devices worldwide 
+ Cybercriminals are taking advantage of global fears surrounding the deadly coronvavirus by sending out malware-laden emails supposedly offering guidance.
+
+Multiple email campaigns have been detected by security firms monitoring for the latest threats, all of which use coronavirus as a hook to try and get victims to open infected messages.
+
+There have been nearly 7,000 confirmed cases of coronavirus worldwide, the majority of which have been in China where there have at least 170 deaths.
+
+The first major malware campaign was detected by IBM X-Force Threat Intelligence, and targets victims with coronavirus infection reports in various Japanese prefectures including the major population centres of Gifu, Osaka, and Tottori.
+
+The emails are disguised as official notifications from public health centers, and come with attachments that promise to provide more details on preventative measures against coronavirus infections.
+
+However these attachments, disguised as Microsoft Word documents, in fact contain malicious payloads linked to the infamous Emotet malware family which could harvest user credentials, browser history, and sensitive documents.
+
+Elsewhere, security experts at Kaspersky have discovered malicious files disguised as documents related to coronavirus.
+
+The malicious files were disguised as pdf, mp4, docx files, with names that implied they contained video instructions on how to protect yourself from the virus, updates on the threat and even virus detection procedures.
+
+However the files actually contained a range of threats, including Trojans and worms that are capable of destroying, blocking, modifying or copying data, as well as interfering with the operation of computers or computer networks.
+
+“The coronavirus, which is being widely discussed as a major news story, has already been used as bait by cybercriminals. So far, we have seen only 10 unique files, but as this sort of activity often happens with popular media topics then we expect that this tendency may grow. As people continue to be worried for their health, we may see more and more malware hidden inside fake documents about the coronavirus being spread,” comments Anton Ivanov, Kaspersky malware analyst.

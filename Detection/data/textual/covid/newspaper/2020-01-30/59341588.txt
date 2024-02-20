@@ -1,0 +1,132 @@
+The Curious Case Of QE 
+ Isolating several factors and identifying bottlenecks, such as demand for dollars vs. demand for treasuries by various parties, helps solve the issue.
+
+Monetary policy within the United States is in an awkward position.
+
+Ever since late August 2019, the Federal Reserve has been aggressively expanding its balance sheet by buying T-bills in a sudden pivot, even though the economy is over a decade into the longest expansion in U.S. history, equity valuations are near historic highs, and the official unemployment rate is near historic lows.
+
+Additionally, according to Wednesday’s uneventful FOMC release that left almost everything unchanged, the Fed expects to continue repo operations through April and to continue buying T-bills at least into the second quarter of the year.
+
+Specifically, the Fed continues to let mortgage-backed securities slide off their balance sheet for continued normalization (red line below), but suddenly began accumulating T-bills (blue line below) ever since last autumn:
+
+The Fed didn’t telegraph ahead of time that they would start doing this at this scale, nor have they given very detailed explanations as to why they are doing this.
+
+It sure looks like a fourth round of quantitative easing or “QE,” and yet Fed Chairman Jerome Powell specifically stated early on, “In no sense is this QE.” The Fed’s Kaplan, however, referred to it as a “derivative of QE” that may have an effect on risk assets, and noted that it was similar to QE but on the short end of the curve. Economic advisor Larry Kudlow recently referred to it as, to use his word, “basically” QE.
+
+For the record, here is how the Bank of England defines QE on their website, in case we want to hear what the Brits would call it:
+
+But hey, this is America. We’ll call it what we want. If it looks like QE and acts like QE, it’s… large scale organic balance sheet expansion, thank you very much. It’s not specifically for T-bonds; it’s for T-bills. It’s not specifically for economic stimulus; it’s for financing the federal deficit (and thus indirectly providing stimulus).
+
+This whole process has naturally caused quite a bit of persistent confusion and debate. Why is it happening? What do we call it? Why does everyone seem to have a different opinion about it? So, this article attempts to shed more light on it.
+
+There are two key variables to be familiar with here in my view. One is the strong dollar, and the other is U.S. federal deficits.
+
+After the third round of QE by the Federal Reserve ended in late 2014, the Fed’s monetary policy consequently became the tightest among developed markets, and the U.S. dollar became very strong.
+
+This puts a lot of pressure on global markets, because many governments and companies in foreign countries borrow in dollars but earn revenue in local currencies. A stronger dollar makes it harder for them to service their debts, while a weaker dollar is like a partial debt jubilee.
+
+Historically, when the dollar is strong, foreigners buy fewer treasuries. Specifically, emerging market central banks build foreign-exchange reserves filled with treasuries during weaker-dollar periods so that they are prepared to defend their currencies and support their external dollar-denominated liabilities in strong-dollar periods like this.
+
+Separately, the U.S. government currently has record federal deficits.
+
+In most modern U.S. history, the government has run larger deficits during periods of high unemployment (roughly corresponding to recessions and their aftermath) and lower deficits during periods of low unemployment and solid economic growth, but has built up a larger and larger debt as a percentage of GDP throughout these cycles, as many governments have.
+
+However, this pattern changed within the past few years, as the federal U.S. deficit began expanding dramatically as a percentage of GDP even during a period of low official unemployment:
+
+That change in the pattern is, to use dangerous words, what is “different this time.”
+
+There are a few causes of this, and it’s not necessarily a partisan issue.
+
+A primary cause is that demographic-driven entitlement spending has become increasingly top-heavy, which was not well planned-for in advance. Another cause is that the U.S. has one of the largest military expenditures as a percentage of GDP among developed countries, which is not new, but when combined with the demographics issue, doesn’t provide much spending flexibility compared to some other nations. A third cause that acted as an accelerator is the Tax Cuts and Jobs Act of 2017, which significantly cut federal tax revenue, especially from corporations, without a corresponding government spending cut.
+
+So regardless of how we got here and whether it’s good or bad, this is where we are at. Fiscal conservatives might hate it, advocates of Modern Monetary Theory might like it, but I just want to focus on the math.
+
+The federal government is growing its debt by about 5% of GDP per year ($1.2 trillion over the past four quarters) during a market expansion, even though foreigners haven’t been buying much of that debt. Yes, there is a yield differential for U.S. treasuries over other developed sovereign bonds, but only daring investors that are willing to take on risk by buying without currency hedges can exploit that difference at today’s levels.
+
+So, private domestic balance sheets including mutual funds, pensions, insurance companies, banks, and corporations have had to absorb virtually all of this new debt. This caused a huge build-up of treasuries on these various balance sheets and drained dollar liquidity out of the system.
+
+Ever since the big spike in overnight lending rates in mid-September, the shortage of cash for short-term lending between institutions has been acute, and that’s when the Fed stepped in to provide liquidity.
+
+In fact, after being stuffed full of cash at the end of QE3 in late 2014, large U.S. banks drew down their cash levels for years, and hit the lowest post-crisis cash levels as a percentage of total assets (blue line below) and record-high treasury and agency securities as a percentage of total assets (red line), during the specific week of the overnight lending rate spike in mid-September:
+
+Cash levels have since bounced back up off that roughly 7% lower bound, once the Fed stepped in to start taking the excess T-bills in exchange for cash. Without the Fed stepping into buy T-bills, banks were clearly having problems as the middlemen when it came to re-selling them to the broader market.
+
+It’s not as though banks converted their cash into record levels of T-bills for extra yield. Either way, it’s about the same yield for them:
+
+As primary dealers, they basically had to buy the supply of T-bills, but then there was no place to put all of them even as more came in.
+
+The U.S. Treasury compiles information on its creditors with a bit of a lag, such as here and here. We can walk through the sources of treasury demand.
+
+Foreigners didn’t buy almost any U.S. treasuries on net from late 2014 through 2018 during the strong dollar period, even though about $3 trillion in new U.S. debt was issued during that time. Then they started buying again in early/mid 2019 during that big global bond bull run, but their holdings peaked in August 2019 and dipped thereafter, weeks prior to the spike in overnight lending rates. So, they seemingly haven’t been significant T-bill buyers since late summer 2019.
+
+U.S. corporations (think the top 10 cash-hoarding companies in the S&P 500 in particular) built up big cash and cash-equivalent levels in 2018 during the post-tax-cut year of foreign cash repatriation, and held a lot of it in T-bills as a placeholder, but quickly drained that excess cash throughout 2019 for ongoing stock buybacks. So, was another lost net T-bill buyer.
+
+Insurance companies and pensions are slow-growing or in drawdown-mode in some cases, so they’re not big buyers on net.
+
+Banks, as previously shown, hit post-crisis regulatory lower limits on cash levels and had already bought as much treasuries as they could, and couldn’t fit any more onto their balance sheets. So, that was another buyer lost.
+
+With all of this unrelenting supply of U.S. treasuries and lackluster demand for them, the Fed has become the primary buyer of treasuries since Q4 2019. According to analysis by Daniel Amerman, the Fed has bought or financed about 90% of all new U.S. debt during this period, both by buying them directly and by lending money to other institutions that are buying them.
+
+At first, the overnight lending rate spike was publicized as a brief technical issue related to quarterly tax payments and the U.S. Treasury re-stocking its cash balance after the summer of 2019’s debt ceiling close-call. In other words, “nothing to see here, move along!”
+
+Then, when it continued for months thereafter, the media focus shifted to the year-end of 2019. There is often a crash crunch during the year changeover, so there was a lot of attention on whether there would be a “crash” around year-end due to a liquidity squeeze. That never happened.
+
+Now, as we continue to push forward into 2020 and the T-bill buying continues at a rate that rivals previous rates of QE, the question persists. For how long will this occur? Will it really end in Q2?
+
+By breaking the situation down into its constitution parts, the math appears such that as long as U.S. fiscal deficits remain large and the dollar remains strong, there is a high probability that the Fed will continue to be a primary buyer of treasuries. There may be a month or a quarter here and there where they don’t have to buy due to a temporary resumption in foreign demand, but under these conditions for the foreseeable future, the Fed will be buying more often than not. If you add a U.S. recession into the mix at some point, with lower tax revenues and increased stimulus spending, it’ll likely accelerate it.
+
+If the dollar weakens significantly, it could allow foreign buyers to pick up the pace of buying again, which could alleviate the Fed for a while. Risk-off events, such as the Wuhan coronavirus or other examples, can also cause temporary higher treasury demand that may relieve the Fed for a time.
+
+But as the market fully digests the math here, about what U.S. deficits are going to look like for the next several years, participants will likely realize that the Fed will be a major buyer, either continuously or off-and-on, for quite a long time.
+
+Among the collection of different explanations for why this is version of QE is happening and where it’s going, there are two explanations in particular worth highlighting.
+
+None of these are necessarily “wrong”. Instead, they address non-causal, exacerbating, or symptomatic aspects of it rather than the core issue, based on available evidence.
+
+One of the arguments for why dollar liquidity is so tight in overnight lending markets, leading to the September 2019 spike in overnight lending markets and causing the Fed to have to step in, is that banks have been over-regulated ever since the aftermath of the financial crisis. Banks need to hold far more reserves/liquidity than they used to, which means they have less flexibility for lending when there is an acute liquidity issue.
+
+While this is correct, it isn’t the root cause. It’s just the timing catalyst.
+
+As previously mentioned, ever since QE3 ended five years ago, large banks as primary dealers have been buying treasuries and drawing down their extra cash levels. When cash levels got down to 7-8% of total assets, they couldn’t keep drawing down cash anymore to continue buying treasuries. Think of that level as “financial bedrock” as far as bank liquidity regulations are concerned, roughly speaking. Here is that key chart again:
+
+Technically, if bank regulations were loosened so that banks could go down to, say, 5% cash levels or 3% cash levels again (is that really a good idea?), then sure, they could buy some more treasuries. However, this would only be a temporary fix. Within several more months of continued treasury accumulation and cash drawdown, we would be in the same predicament again, with banks unable to continue buying into the unrelenting supply of treasuries.
+
+Therefore, liquidity requirements are just the line in the sand for where this became an acute problem and suddenly required Fed intervention. It’s not the cause of the problem; it’s just the reason why the overnight lending rate spiked high in September 2019 and required Fed intervention since then, rather than May 2020 or another arbitrary month down the line.
+
+The primary causes are the gaping upward supply of treasuries, the weak foreign buying of them due to a strong dollar, and the fact that private domestic balance sheets including banks, pensions, insurance companies, corporations, and investors can only hold so much.
+
+Now, some people have argued that the Fed could do even more to ensure banks keep buying treasuries. They could ban large bank dividends and buybacks, forcing banks to hoard capital to buy treasuries and keep accumulating and accumulating and accumulating.
+
+However, these banks (the primary dealers), are not meant to be huge accumulators of treasuries. They are meant to be middlemen, making a liquid market for treasuries and passing them along to final sources of demand, and holding a little bit themselves. Large banks already hold an all-time record amount of treasuries as a percentage of their total assets. They’ve done more than their fair share for this particular issue. It’s the excessive supply and lack of demand down the line that are the two main culprits, rather than something the middlemen are doing wrong.
+
+To phrase it differently, there surely are plenty of things that big banks are doing wrong, but this likely isn’t one of them. It’s out of their hands.
+
+Another popular argument is that the Fed is doing all of this to bail out a troubled hedge fund or foreign bank somewhere, or possibly even that a large U.S. bank has solvency issues. According to this line of thought, banks are afraid to lend to each other again, just like in 2008, and that’s why overnight lending rates have spiked higher.
+
+Once again, I wouldn’t say this is technically incorrect. There certainly could be a troubled hedge fund or institution somewhere. But even if that is the case, it wouldn’t be the root cause. It would be a side effect of the fact that dollar liquidity has been drained out of the system and stuffed into excessive amounts of T-bills.
+
+A troubled hedge fund or bank in late 2019 would not have caused the cash levels of large U.S. banks to draw down over the past five years from 2014 to 2019 into regulatory lower limits and for banks to become over-stuffed on treasuries during that time frame. Nor would it have caused China, the biggest buyer of U.S. treasuries for years, to stop increasing their treasury holdings five years ago.
+
+One can walk through the logic. If there is plenty of demand for treasuries as some argue there is, why can’t a potentially troubled fund or institution just sell any treasuries it may have on the open market and raise cash? Why does the Fed need to be the persistent buyer of them?
+
+The answer clearly seems to be that isn’t sufficient demand for treasuries compared to the large supply, especially of T-bills, which is why the Fed is now the primary buyer.
+
+If the Fed were buying toxic assets in exchange for cash, which they are not doing (at least publicly, based on available information), then we could rightly conclude that this is all about an emergency bailout.
+
+However, the Fed is buying T-bills, which are widely considered the safest asset in the financial system. The only reason the Fed is forced into a position of having to do that, is because there are too many T-bills on the market and not enough real private or foreign demand for them at current levels. Not many sources have the dollars to buy them.
+
+That lack of liquidity would, of course, cause problems for hedge funds and/or other institutions that are reliant on well-functioning overnight lending markets. However, those hedge fund and/or institutional problems would not be causal; they would be symptomatic. And if they are causal to any degree, it would likely be about timing; a contributing factor to “why now?” rather than a few months down the line. If a large and leveraged hedge fund holds a lot of treasuries, for example, and investors draw their cash out, forcing the fund to unwind part of its position, that would represent yet another source of demand destruction for treasuries.
+
+Evidence shows that the Federal Reserve started rapidly buying T-bills primarily due to a T-bill supply/demand problem.
+
+There is a very large and growing supply of treasuries, especially T-bills, with no end in sight. At the same time, foreign demand has been lackluster for years in this strong dollar environment, and private domestic balance sheets already absorbed as much as they could over the past five years. There are too many T-bills, and too few dollars to buy them.
+
+Bank regulations are a timing catalyst, and various funds or institutions would of course have issues if they couldn’t tap into well-functioning overnight lending markets, but neither of these can be the root cause of the problem.
+
+One thing to keep in mind is that U.S. dollars and U.S. treasuries are very different things. There is insufficient demand for treasuries, but plenty of demand for dollars. In particular, many foreign sources require dollars in order to service their large dollar-denominated debts.
+
+Over the past several years, the excessive supply of treasury issuance, which has to be bought with dollars, has soaked up a lot of the existing dollar liquidity from the domestic and global system, like a sponge in water, leaving everything dry and without enough dollar liquidity left. This shortage became acute domestically in September, leading to the spike in overnight lending rates, causing the Fed to step up and begin injecting tens of billions of dollars per month into the system by creating digital dollars (roughly speaking), and using them to buy treasuries.
+
+For years, there has been a growing supply of treasuries while dollars have been increasingly tight. However, now that cash levels have hit bedrock along with this Fed pivot, the next several years should see both an increase in treasuries as well as an increase in the dollars required to buy them.
+
+Disclosure: I/we have no positions in any stocks mentioned, and no plans to initiate any positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it. I have no business relationship with any company whose stock is mentioned in this article.

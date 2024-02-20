@@ -1,0 +1,14 @@
+Coronavirus tracker: This online tool lets you monitor deadly disease widespread 
+ Coronavirus is a new respiratory virus that was first detected in the Chinese city of Wuhan. It is spreading across the globe after infecting hundreds of Chinese citizens and claiming a number of lives. It is hard to keep up to date with the reports of the spread of this virus but luckily there is an online tool that lets you see all such cases throughout the world.
+
+Pulling the data from the World Health Organization and the centres for disease control in the US, China, and Europe, the Center for Systems Science and Engineering has built a dashboard that lists out all the confirmed and suspected cases of the Coronavirus. The dashboard also records the recovered patients as well as deaths caused by the virus across the globe.
+
+How does the tool work?
+
+The dashboard made by Centre for Systems Science and Engineering is accessible to the common people via this link here. It shows the confirmed and suspected cases of the Coronavirus as red dots on the world map. Once a user clicks on a dot, it displays the information on the Coronavirus victims in that specific area including the number of confirmed deaths and patients who have managed to recover from the disease.
+
+As of January 25, 2020, the online tool is showing a total of 1354 cases of Coronavirus worldwide, out of which 1320 are in mainland China alone. The dashboard lists 41 Coronavirus deaths worldwide and 38 cases of patient recovery as well.
+
+Coronavirus was first reported to the World Health Organization on December 31, 2019. The illness exhibits pneumonia-like symptoms and the scientists from China have linked the disease to a family of viruses known as coronaviruses that include the deadly SARS and the Middle East respiratory syndrome (MERS).
+
+As already mentioned, the Coronavirus originated in Wuhan, China, and has currently infected 1354 people worldwide. While there have been no confirmed or suspected cases in India, the neighbouring country of Nepal has reported a confirmed case of the Coronavirus infection. As of July 25, the confirmed cases of Coronavirus -- according to the dashboard -- are two each in Vietnam, Japan, South Korea, and the US, three each in France, Singapore, Malaysia, and Taiwan, and five each in Thailand and Hong Kong. In Australia, there has been one confirmed case of Coronavirus infection.

@@ -1,0 +1,16 @@
+Coronavirus can infect your PCs and phones 
+ Los Angeles: Before you open the next document or forwarded file you receive about the recent Coronavirus outbreak, be very careful. 
+ 
+The Novel Coronavirus outbreak in China has reached emergency status, with Chinese authorities and organisations alike imposing conveyance barricades, devising remote treatment terminals and more in order to contain the outbreak. 
+ 
+ During this situation, many directives and documents are floating around the internet, claiming to state news and facts about the Coronavirus disease, and even pointers on how to stay safe. 
+ 
+ Alarmingly, a report by cyber security firm Kaspersky has revealed these files are actually Trojans and malware, masked in lieu of the headlining topic. 
+ 
+ Noting the equally viral using of the Coronavirus, Kaspersky malware analyst Anton Ivanov stated, 'The coronavirus, which is being widely discussed as a major news story, has already been used as bait by cybercriminals. 
+ 
+ So far we have seen only 10 unique files, but as this sort of activity often happens with popular media topics then we expect that this tendency may grow. 
+ 
+ As people continue to be worried for their health, we may see more and more malware hidden inside fake documents about the coronavirus being spread.' 
+ 
+ Kaspersky has also identified the most popular malware files being used by hackers globally, so the file types that you should be watching out for are — Worm.VBS.Dinihou.r, Worm.Python.Agent.c, UDS:DangerousObject.Multi.Generic, Trojan.WinLNK.Agent.gg, Trojan.WinLNK.Agent.ew, HEUR:Trojan.WinLNK.Agent.gen, and HEUR:Trojan.PDF.Badur.b.

@@ -1,0 +1,56 @@
+China coronavirus: Six questions scientists are asking 
+ The world is racing to learn more about the outbreak of a new viral infection that was first detected in Wuhan, China, last month and is causing increasing alarm around the world.
+
+As Nature went to press, officials in China had confirmed more than 4,500 cases of the virus, which causes a respiratory illness, and some 100 deaths. Around 50 cases had also been confirmed in other countries, in Asia, the United States and Europe.
+
+Researchers fear similarities to the 2002–03 epidemic of severe acute respiratory syndrome (SARS), which emerged in southern China and killed 774 people in 37 countries. Both are members of a large virus family, called coronaviruses, that also includes viruses responsible for the common cold.
+
+China has taken unprecedented action to try to halt the outbreak — including putting Wuhan and nearby cities on ‘lockdown’, restricting travel in and out of the cities. For now, the World Health Organization (WHO) has held off declaring a public-health emergency of international concern — the agency’s highest level of alarm — after a meeting of officials last week, but that could change.
+
+Nature rounds up the questions at the heart of scientists’ efforts to understand the virus.
+
+This is the most urgent question surrounding the outbreak. Chinese authorities have confirmed that it spreads from person to person after identifying clusters of cases among families, as well as transmission from patients to health-care workers. Monitoring the rate at which new cases appear, and when symptoms began for each case, should reveal how easily the virus passes between humans and whether the outbreak has the potential to persist.
+
+One figure that epidemiologists want is the number of people that someone with the virus tends to infect — known as R . An R of more than 1 means that countermeasures, such as quarantine, will be needed to contain the spread. The WHO last week published an estimated R of 1.4–2.5. Other teams suggest slightly higher values1,2. These estimates are similar to the R of SARS during the early stages of the 2002–03 outbreak, and of the novel strain of H1N1 influenza that caused a pandemic in 2009. But they are higher than R values estimated during outbreaks of the Middle East respiratory syndrome (MERS) virus, a coronavirus similar to SARS.
+
+“Now it’s in the range of these other important epidemics, and that indicates the potential that it will cause a similar scale of public-health concern if nothing else happens,” says Mark Woolhouse, an epidemiologist at the University of Edinburgh, UK.
+
+But researchers caution that R estimates come with large uncertainties because of gaps in the data, and the assumptions used to calculate the figure. They also point out that the R is a moving target and that estimates of the figure change over the course of an outbreak — as control measures are implemented. In the coming days, health authorities and researchers will be looking for signs that the travel restrictions in Wuhan and other Chinese cities, and other steps taken by to stem transmission, have reduced the R there.
+
+Another major unanswered question is whether — and how extensively — people without symptoms can infect others. A study3 of a cluster of six infections in a family in Shenzhen identified a child who was infected with the virus but showed no symptoms. If such asymptomatic cases are common and these individuals can spread the virus, then containing its spread will be much more difficult, researchers say. Key to controlling the SARS virus was the fact that few cases were asymptomatic.
+
+“Defining the scale of asymptomatic transmission remains key: if this is a rare event then its impact should be minimal in terms of the overall outbreak,” Jonathan Ball, a virologist at the University of Nottingham, UK, said in a statement distributed by the UK Science Media Centre. “But, if this transmission mode is contributing significantly then control becomes increasingly difficult.”
+
+One way to determine whether symptom-free people can spread the virus would be to study its spread in individual households in China, says Sheila Bird, a biostatistician at the University of Cambridge, UK. By monitoring all the members of a household in which one person is infected, it should be possible to determine who else contracts the virus and how. Such studies would also be helpful for identifying ways of stopping spread in households, Bird adds.
+
+Raina MacIntyre, an epidemiologist at the University of New South Wales in Sydney, Australia, says that although the rise in cases probably reflects an increase in testing for and detecting the virus, the dramatic jump is concerning. “It’s very much a dynamic picture, and until we have an indication that cases are declining, it’s going to continue to be of concern,” she says.
+
+But MacIntyre also notes that researchers are struggling to accurately model the outbreak, and to predict how it might unfold, because the case-report data being released by Chinese authorities are incomplete. “What we need to identify is when people got sick, not when the cases were reported, and all we’ve seen so far is when the cases were reported.”
+
+High rates of pneumonia among the first people infected had many researchers worried that the Wuhan virus was especially pernicious. Those concerns have receded slightly, as more mild cases have turned up. With some 100 deaths in more than 4,500 reported cases, the virus does not seem to be as deadly as SARS — which killed around 10% of the people it infected. But “It’s too early to be sanguine about the severity”, says Neil Ferguson, a mathematical epidemiologist at Imperial College London.
+
+Authorities are working on the theory that the virus originated in an unidentified animal or animals, and spread to humans at an animal and seafood market in Wuhan, which is now closed. Identification of the animal source of the virus could help officials to control the current outbreak and gauge its threat — and potentially prevent future epidemics, say researchers.
+
+Genetic sequencing suggests that the Wuhan virus is related to coronaviruses that circulate in bats, including SARS and its close relatives. But other mammals can transmit these viruses — SARS was probably spread to humans by civet cats.
+
+How quickly does the Wuhan virus spread?
+
+The market in Wuhan also sells wild animals. And in a controversial study4 published last week, a team of researchers in China who had performed a genetic analysis suggested that the virus jumped to humans from snakes. But other scientists were sceptical of the study, and said that there is no proof that viruses such as those behind the outbreak can infect species other than mammals and birds. “Nothing supports snakes being involved,” says David Robertson, a virologist at the University of Glasgow, UK.
+
+Many researchers think that the animal host or hosts of the virus won’t be identified without further field and laboratory work. And many hope that genetic tests of animals or environmental sources will turn up clues.
+
+A mammal is the most likely candidate, says Cui Jie, a virologist at the Pasteur Institute of Shanghai who was part of a team that identified SARS-related viruses in bats from a cave in Yunnan province in southwestern China in 2017. SARS and the new virus are part of a subgroup known as betacoronaviruses. Fieldwork in the wake of the SARS outbreak has found such viruses only in mammals, Cui says.
+
+Genetic sequencing of the Wuhan coronavirus offers clues to its origins and spread. Labs in China and Thailand have sequenced the genomes of more than 20 strains found in infected people and have made them publicly available. That’s “pretty remarkable”, says Trevor Bedford, an evolutionary geneticist at the Fred Hutchinson Cancer Research Center in Seattle, Washington, who is analysing the sequences as they come in. “People are extremely fast and excellent about data sharing,” he adds.
+
+Bedford and other geneticists are using the data to determine when the virus emerged — current estimates point to November 2019. Viral sequences, Bedford adds, could identify any genetic changes that might have helped the virus make the jump from animals to humans. And if there is extensive human-to-human transmission, Bedford and other geneticists will be looking for signs that the virus has gained further mutations that are enabling it to spread more efficiently in humans.
+
+Bedford cautions that any conclusions are preliminary, because so few data are available. “Adding a few key samples can change the story significantly,” he says.
+
+No drugs have been shown to be effective in treating SARS or other coronavirus infections in humans, and no vaccines aimed at preventing these infections have been licensed.
+
+A team at China’s National Engineering Research Center for the Emergence Drugs in Beijing is working on finding therapies that would work by blocking the receptor on human cells that the virus latches on to and uses to infect the cells. A comparison of the SARS and new China virus sequences, published on 16 January, found that they probably bind to the same receptor. The team is hoping to revive efforts to develop treatments for SARS and adapt them in a bid to develop a drug that could work against the latest virus.
+
+Another researcher who has been developing drugs for coronaviruses since the SARS outbreak is hoping to test drug candidates in animal models of the Wuhan virus.
+
+Chinese authorities are also testing whether existing HIV drugs can treat the infection. Ritonavir and liponavir, which are approved to treat HIV, are being given to people with pneumonia caused by the coronavirus, according to media reports and a 26 January statement by the Beijing branch of China’s National Health Commission.

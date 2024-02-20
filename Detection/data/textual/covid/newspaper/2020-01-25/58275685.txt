@@ -1,0 +1,26 @@
+New coronavirus can spread between humans—but it started in a wildlife market 
+ But this condition would progress into a lethal form of pneumonia, one that left honeycomb-shaped holes in people’s lungs and generated severe respiratory failure in a quarter of patients. While most infections only spread to three additional people, some of the afflicted became “superspreaders”—patients who unwittingly transmitted the disease to dozens at a time. By the time the epidemic of severe acute respiratory syndrome (SARS) ended seven months later, more than 8,000 cases and 800 deaths stretched across 32 countries.
+
+That’s why international officials are now concerned over a new, SARS-related virus that has emerged in central China. The disease has spread to major cities like Beijing, Shanghai, and Shenzhen—as well as to neighboring Taiwan, Thailand, Japan, and South Korea—in just three weeks. On Tuesday, the Centers for Disease Control and Prevention (CDC) reported the first U.S. based case in Washington State.
+
+“Human-to-human spread has been confirmed [but] how easily or sustainably this virus is spreading remains unknown,” Nancy Messonnier, director of the National Center for Immunization and Respiratory Diseases at the CDC, said in a press conference where she announced the development of a rapid genetic test for the Wuhan virus. “Right now we are testing for this virus at CDC, but in the coming weeks we anticipate sharing these tests with domestic and international partners.”
+
+As of Wednesday, nearly 450 cases have been reported globally along with nine deaths, and the World Health Organization plans to hold an emergency meeting on Wednesday to decide if the outbreak represents a public health emergency of international concern. Epidemiologists suspect thousands of cases likely exist. Last Friday, the CDC announced that screening for the new virus would begin at three major U.S. airports, but the first U.S. patient arrived before this surveillance had even begun.
+
+That’s because both SARS and the new outbreak are zoonotic, meaning these diseases started in animals before spreading to humans. Zoonotic diseases rank among the world’s most infamous. HIV, Ebola, and H5N1 influenza, for example, all percolated in wildlife before close interactions with humans spawned international outbreaks. With SARS, food preparers and people who handled, killed, and sold wild animals made up nearly 40 percent of the first cases. The earliest episodes were also among people who were more likely to live within walking distance of wildlife markets.
+
+But why might such conditions create a breeding ground for zoonotic diseases?
+
+ 
+
+ “When you bring animals together in these unnatural situations, you have the risk of human diseases emerging,” says Kevin Olival, a disease ecologist and conservationist at the EcoHealth Alliance. “If the animals are housed in bad conditions under a lot of stress, it might create a better opportunity for them to shed virus and to be sick.”
+
+The discovery kicked off a rush of viral sleuthing in wildlife, which would ultimately point to Rhinolophus horseshoe bats in China as the likely source of SARS. Global surveys would ultimately reveal that the ancestors and relatives of SARS had been circulating in bats across Asia, Africa, and Europe for years. Bats are now considered the original source of all major coronaviruses.
+
+Wildlife surveys conducted by EcoHealth Alliance in China and elsewhere in Asia show the highest prevalence of coronaviruses tend to be extruded by animals through feces, or guano in the case of bats. Coronaviruses not only spread via the air and the respiratory tract, but also if fecal matter comes in contact with another creature’s mouth. Bats aren’t exactly clean, so if one nibbles on a fruit, the food may get contaminated with fecal matter. If the fruit drops to the ground, then it can serve as a viral crossover point for farmed animals like civets.
+
+The Wuhan outbreak also raises the question of whether wildlife trade needs better oversight, or ought to be shuttered for good.
+
+ 
+
+ “One intervention, which is fairly simple, is just reducing the wildlife trade and cleaning up the wildlife markets,” Olival says. “Cutting back the wildlife trade has a win-win effect of both protecting species that are harvested from the wild and of reducing spillover of new viruses.”

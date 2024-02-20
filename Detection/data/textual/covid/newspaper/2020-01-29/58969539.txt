@@ -1,0 +1,60 @@
+Coronavirus outbreak FAQ: Face masks, safe meat, tips to stay safe from the deadly airborne infection 
+ On the last day of the year 2019, the World Health Organization (WHO) was alerted to a "pneumonia" outbreak "of unknown cause" in Wuhan, a city in China's Hubei Province. Wuhan happens to be the seventh-largest city in the most populated country in the world – home to some 11 million people. The epicentre of the outbreak is thought to be a wet market in Wuhan that sells seafood, animal meat and unregulated wild game meat. The market has been shut down and sanitised since 1 January 2020.
+
+Yet, the earliest symptoms of respiratory infection in those who tested positive for the coronavirus (2019-nCoV) go back to 8 December 2019. The virus has had ample time to spread like any common respiratory illness would in people – through coughs, sneezes, and close contact. As of 29 January 2020, a total of 6,057 confirmed cases of the infection have been reported, in at least 25 regions within China, and 19 other nations world over.
+
+There's little that can be done about a coronavirus infection that has already spread. But there's plenty you can do to prevent the virus from infecting you. Below is a comprehensive guide to the coronavirus, information on how to prevent getting infected, and how to keep tabs/stay informed with the latest information on its spread.
+
+A novel coronavirus (CoV), or a a new coronavirus, is one that hasn't been previously identified. The 2019 novel coronavirus (2019-nCoV, in short) is a respiratory virus that was first discovered in Wuhan, a city in China's Hubei Province in December 2019.
+
+Health officials and research institutions are still working on identifying the exact origin/source of the 2019-nCoV, but suspect that the first human victim(s) was infected by a snake. Coronavirus is a large family of viruses of which only six can infect humans. The 2019-nCoV is one of them, and so are the SARS and MERS viruses.
+
+The earliest reported cases of the hospitalized people with the infection were a group of workers and customers at a local seafood wholesale market that also sold processed meats and live, consumable animals like poultry, donkey, sheep, pig, camel, fox, badgers, bamboo rats, hedgehogs and reptiles. The virus likely came from an infected animal; Chinese officials claim the virus jumped from snakes to humans.
+
+Two other widely-recognized coronaviruses – SARS (which spread to humans from civet cats) and MERS (which spread to humans from camels) – also originated in animals. (something about SARS & china connection and dates. MERS a date for the virus)
+
+As of 29 January, 6,057 cases of the coronavirus infection have been confirmed in the following countries:
+
+Based on a CDC report, confirmed cases of a 2019-nCoV infection so far, have shown symptoms that range from little to no apparent symptoms at all, to severe respiratory illness and death. Some of the apparent symptoms include a mild-to-severe respiratory illness with fever, cough, and difficulty breathing.
+
+Symptoms of 2019-nCoV could appear anywhere from 2 to 14 days after exposure, according to the CDC, based on the incubation period of its close cousins, the MERS viruses. ( main symptom in pneumonia and in old people suffering from pre-existing diseases, esp old men. they make up most of the fatality numbers)
+
+Based on past experience with similar viruses like MERS and SARS, health experts think the 2019-nCoV, too, can spread from person to person via respiratory droplets. Similar to the way many respiratory viruses spread, droplets made when infected individual sneezes or coughs can pass the infection on to people they are in close contact with.
+
+That said, every strain of coronavirus poses a different level of risk as far as transmission goes. Some are more easily passed on than others. Scientists are looking into how the virus is transmitted, the severity of the infection and other features of the virus and its behaviour.
+
+In areas affected by the virus, the WHO advises taking extra precautions in live animal markets like the one in Wuhan. Direct contact with live animals or surfaces they use, without having any protective equipment over your face and hands, is high-risk in an infected area.
+
+As a meat consumer, medical experts recommend avoiding any raw or undercooked animal products, be extra careful when handling raw meat, milk or animal organs to avoid cross-contamination with uncooked foods
+
+As of 29 January 2020, no vaccine exists that can prevent a coronavirus (2019-nCoV) infection in someone who has been exposed to it. The most effective way of staying safe from the infection is to avoid being exposed to the virus entirely.
+
+Based on the behaviour of respiratory viruses in general, the CDC has outlined a bunch of everyday activities to steer clear of an infection:
+
+Many reports of face masks and surgical masks flying off shelves in cities the coronavirus outbreak has spread to. Experts, however, are divided over whether they are useful in preventing transmission of the airborne virus. The most commonly available variant – surgical masks, like the ones shown below, are not much help, according to experts.
+
+"Routine surgical masks for the public are not effective protection against viruses or bacteria carried in the air...they are loose, have no air filter and leave the eyes exposed," Dr David Carrington, a virologist at the University of London told BBC News.
+
+But there are some specific modes of transmission that masks can help prevent – the "splash" from a sneeze or a cough, and transmission by hand-to-mouth contact. That said, wearing a mask limits the risk of transmission but doesn't guarantee safety. Dr Carrington maintains that the best way to avoid germs, as with any airborne illness, is to wash your hands thoroughly and frequently, avoid touching your face and eyes, and avoid contact with people displaying symptoms of respiratory illness.
+
+Wearing gloves isn't very effective either, WHO says, since hand-washing is a far better prevention tool, and wearing gloves would make people less inclined to wash their hands.
+
+As of 29 January 2020, there is no suitable (or known) antiviral treatment for a 2019-nCoV infection. Infected individuals should seek out supportive health care to help relieve symptoms. For severe cases of the infection, treatment might need additional care to support normal functioning of vital organs.
+
+That said, the virus has been sequenced in many countries and research labs around the world. This greatly improves the odds of finding an effective treatment — including a potential vaccine to avoid getting infected.
+
+"There are no approved vaccines or therapeutics for any of the respiratory coronaviruses," according to Vineet Menachery, professor of microbiology and immunology at the University of Texas—Galveston told Popular Mechanics. Some promising candidates that are making their way into the human trials "would likely be effective against this novel virus," he adds.
+
+The Center for Systems Science and Engineering at Johns Hopkins has launched an online dashboard to track the spread of coronavirus, as it makes its way within and beyond China. The dashboard is updated live with data from multiple sources – the World Health Organization (WHO), and the Centers for Disease Control in the US, China and Europe. The resource displays a visualisation of the infection on a world map, along with a tally of confirmed and suspected cases of coronavirus infection, the number of fatalities and patients that have recovered successfully.
+
+Other reliable resources you can use to track the infection include the US CDC situation tracking page and the WHO's tracking page.
+
+The Indian government has set up a 24x7 helpline for queries about the novel coronavirus, with the number of cases quickly rising across the world.
+
+"A 24X7 call centre is active for responding to queries on ncov2020. Anyone seeking information can call on the number 011-23978046," the Union ministry of health said in a tweet. "If you seek any help, you may call to know details about District and State surveillance officers and in case any clinical query connect with Integrated Disease Surveillance Programme (IDSP) Officer."
+
+Also read: Coronavirus update [28 Jan] – AIIMS preps isolation ward, death toll reaches 106, new vaccine in the making and more
+
+The information provided here is intended to provide free education about certain medical conditions and certain possible treatment. It is not a substitute for examination, diagnosis, treatment, and medical care provided by a licensed and qualified health professional. If you believe you, your child or someone you know suffers from the conditions described herein, please see your health care provider immediately. Do not attempt to treat yourself, your child, or anyone else without proper medical supervision. You acknowledge and agree that neither myUpchar nor firstpost is liable for any loss or damage which may be incurred by you as a result of the information provided here, or as a result of any reliance placed by you on the completeness, accuracy or existence of any information provided herein.
+
+Tags : 2020 Olympic Games In Tokyo, 440 Confirmed Cases Of The Virus, Air Travel, Animal Is Most Likely The Primary Source Of The Outbreak, Attendants On All Flights Should Have The Option To Wear A Mask, Cancelations Of Planes, Checking At The Airport, China, China Locks Down Country, China Under Lockdown, Chinas Preventive Measures For The Virus, Chinese Centre For Disease And Control, Corona Virus, Coronavirus, Coronavirus Deaths, Coronavirus In China, Coronavirus In India, Coronavirus In Other Parts Of The World, Coronavirus In Wuhan, Coronavirus Kills, Coronavirus Originated In Snakes, Coronavirus Outbreak In China, Coronavirus Outbreak In India, Coronavirus Outbreaks In Mumbai, Coronavirus Symptoms, Coronavirus Treatment, Death Toll Of Coronavirus Increases To Nine, Effects Of The Virsus, Emergency Meeting At WHO, Endemic, Epidemic, Fear Of The Virus, Global Emergency, Ground Zero Of Coronavirus, India, Indian Efforts To Get Citizens Back From China, Indias Response To Virus, MERS, Middle East Respiratory Syndrome, No Travel In Or Out In China, No Vaccine For Virus, Olympic Qualification, Olympics, Outbreak Of The Epidemic, Pandemic, Respiratory Transmission, SARS, Screening Of Passengers At Airports, Severe Acute Respiratory Syndrome, Six Types Of Coronaviruses, Spread Of Coronavirus In China, Symptoms Of The Virus, The Chinese Government, Travel Alert, Virus Can Spread Via Human-To-Human Contact, Virus Is Constantly Adapting And Mutating, Virus Spread To America, Virus Spread To Hong Kong, Virus Spread To Japan, Virus Spread To South Korea, Virus Spread To Thailand, Virus Spread To USA, WHO, WHO Decision, WHO Decision On Coronavirus, WHO Response To Virus, World Health Organisation, World Response To Virus, Wuhan, Wuhan Province

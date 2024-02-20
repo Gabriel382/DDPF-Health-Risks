@@ -1,0 +1,196 @@
+SK Hynix, Inc. (HXSCL) Q4 2019 Results - Earnings Call Transcript 
+ [Foreign Language] Good morning, and good evening. First of all, thank you all for joining this conference call. And now we will begin the conference of the Fiscal Year 2019 Fourth Quarter Earnings Results by SK Hynix. This conference will start with a presentation followed by a divisional Q&A session. [Operator Instructions]
+
+Now we should commence the presentation on the fiscal year 2019 fourth quarter earnings results by SK Hynix.
+
+[Foreign Language] Good morning, and good afternoon and evening to those calling in from abroad. This is Park Sanghoon, the Head of IR at SK Hynix. Welcome to the SK Hynix 2019 fourth quarter earnings release conference call. [Foreign Language]
+
+Before starting the conference call, allow me to introduce the executives present here with me today. First, CFO, Cha Jin-Seok; Kim Jum Soo, incharge of the DRAM Marketing Group; and Kim Yong Tak, incharge of the NAND Marketing Group.
+
+Let me issue a disclaimer that all outlooks presented by the company are subject to change depending on the macroeconomic and market circumstances. [Foreign Language]
+
+With that, we will now begin SK Hynix 2019 fourth quarter earnings release conference call. We will first present the earnings for the fourth quarter, the company's plan and the market outlook.
+
+[Foreign Language] Good morning. This is SK Hynix's CFO, Cha Jin-Seok. I will report on the company's financial performance in the fourth quarter of 2019. [Foreign Language] Consolidated sales in the fourth quarter was KRW6.927 trillion, up 1% from the previous quarter. Despite dollar depreciation, sales grew as the company actively responded to signs of demand recovery and the price environment was improved. [Foreign Language]
+
+DRAM bit shipment grew by 8% Q-o-Q, outperforming the plan. Demand for PC replacement continued as Windows 7 services were terminated, and the company actively responded to the increasing procurement from Internet data center customers following their inventory normalization. ASP fell by 7% with price declines slowing down in all product categories.
+
+NAND FLASH bit shipment grew by 10% in line with the plan. The company actively responded to the continued strong demand in the solutions market, such as PC SSD and newly launched mobile products. Although price rebound began for major products, ASP remained flat quarter-on-quarter due to increased sales mix of high density products, which carried lower price per unit.
+
+MCP sales fell 9% quarter-on-quarter. Demand remained sound for high-spec products but was relatively sluggish for mid- to low-end products. Its sales portion out of total revenue also fell slightly to 19%.
+
+Operating profit in the fourth quarter was negatively affected by the relatively lower profitability of the products, of which we expanded the sales mix in response to demand increase. Furthermore, initial cost burden coming from early yield stage was incurred as we actively started the tech migration to DRAM 1Y nanometer and NAND 96 layer. Operating profit in the fourth quarter was KRW236 billion, down 50% from the previous quarter, and operating profit margin was 3%.
+
+Depreciation and amortization in the fourth quarter was KRW2.242 trillion, slightly up from the previous quarter. EBITDA was KRW2.478 trillion, with EBITDA margin of 36%.
+
+There was a net non-operating loss of KRW469 billion in recognition of foreign currency-related loss as the Korean Won appreciated at quarter end. There was also a recognition of fair valuation loss of kiosks [ph] investment assets in reflection of last year’s results sluggish NAND market environment. This resulted in net loss of KRW118 billion for the quarter.
+
+Let me now turn to the company's financial performance for the year. Throughout last year, the macroeconomic uncertainties spread as global trade conflicts deepened. The memory industry also went through a demand slowdown and drastic price decline due to customers' inventory increase and conservative procurement policies.
+
+SK Hynix proactively adjusted its investment and production to respond to market volatility in a difficult business environment, but we ended the year with KRW27 trillion of revenue, KRW2.7 trillion of operating profit and KRW2 trillion of net profit, showing substantial decline year-on-year. Operating profit margin and net profit margin were 10% and 7%, respectively, also, lower than the previous year.
+
+Consolidated cash balance at year-end was KRW3.995 trillion, down by KRW4.375 trillion from the 2018 year-end. Interest-bearing debt was KRW10.524 trillion, up by 10.5% to KRW4 trillion and placing the company in net debt position. [Foreign Language]
+
+The company has been paying out cash dividends since 2014 under the view that the memory industry has entered a new growth era marked by lower volatility and higher profitability compared to the past. Starting from KRW300 per share in 2014, the dividend has been continuously increased every year to KRW1501 per share in 2018 with total annual dividend payout exceeding KRW1 trillion.
+
+Such dividend payout was based on the company's shareholder return policy of gradually increasing the dividend per share to be paid utilizing 30% to 50% of free cash flow of the year. [Foreign Language]
+
+However, free cash flow turned negative last year despite the large reduction in CapEx as profit level fell by over 80% Y-o-Y due to sharp market contraction. Given this circumstance, the company decided that the shareholder return policy needed reevaluation. [Foreign Language]
+
+We considered various options under the objective of enhancing the shareholders' minimum visibility of dividend payout, while reflecting the volatility in financial performance rising from the memory industry cycle. Thus, a new policy was adopted, where there will be a fixed base payout of KRW1001 per share each year, on top of which, 5% out of the total annual FCF will be added. The new policy will be applicable from the business year 2019 to 2021, after which, it will be reviewed once again.
+
+In addition, the calculation basis for free cash flow is now clarified as cash flow from operating activities minus the acquisition of plant, property and equipment based on consolidated cash flow statement for the fiscal year. [Foreign Language]
+
+The dividend per share of KRW 1001 is the average DPS across three years from 2016, the year of the previous low in the memory market to 2018, the year of record financial performance. This dividend amount will be guaranteed as the minimum payout for the next three years, while a certain portion of the free cash flow will be shared with the shareholders every year through additional dividend payout as a way to keep improving shareholder value.
+
+Even that the free cash flow was negative, dividend per share amount for the business year 2019 is decided at KRW 1001. The new dividend policy will help SK Hynix improve dividend predictability. The company will work to improve the value of both company and the shareholders by increasing free cash flow through better financial performance which will then lead to greater return to shareholders.
+
+Next is the company's market outlook and plan. [Foreign Language] The DRAM market this year is expected to go through the typical demand trend of mild first half and better second half, particularly in the first quarter, mobile DRAM will inevitably experience weak seasonality but server DRAM will continue to see demand recovery.
+
+As data center customers resume investment, server shipment growth is expected to outpace that of last year. In addition, as server customers actively adopt Cascade Lake CPU, which supports 16-gigabit based DRAM products, they are also increasing module adoption of high-density DRAM modules with 64 gigabytes and above and the increase of average server DRAM content per box is also expected to outpace that of last year.
+
+Moreover, shipment for 5G-supporting smartphones that started from last year is expected to increase sharply this year to around 200 million units, and is likely to trigger the pent-up demand for smartphone replacement. In particular, memory content increase is necessary for sufficient usage of high-spec applications, such as triple cameras in 5G environment. From this effect, average DRAM content per box increased from 4 gigabytes last year to 5 gigabytes this year is expected.
+
+Meanwhile, although PC replacement demand from Windows 7 service termination continues, recent recurrence of PC, CPU supply conditions can potentially affect negatively for the component demand such as PC DRAM and graphic DRAM. [Foreign Language] Given this demand outlook, the company expects DRAM demand growth this year to be around 20% Y-O-Y, higher than last year.
+
+Our demand market, amidst PC SSD attached ratio increasing steadily since the second half of last year, server customers resumption of investment is driving demand for data center SSD. And as a result, demand in the first half is expected to exceed that of traditional seasonality.
+
+For PC SSD, adoption rate of higher density, 512 gigabytes or above is expected to increase from around 20% at the beginning of last year to mid-40% by this year-end. For servers, adoption of high-density PCIe-based SSD is expected to accelerate, especially server SSD is expected to show around 40% demand growth and lead the overall NAND demand.
+
+Mobile NAND demand is projected to keep growing with average content per box increasing to over 100 gigabytes. With smartphone makers, hardware upgrades and preference for high-spec smartphones at times of replacement period. But given the base effect of the very substantial increase in average content per box in the past two years at over 40% per annum, growth rate is likely to be slightly more modest this year. Given this picture, NAND demand bit growth is projected at low 30% this year.
+
+The recent improvement in demand trends is, without a doubt, positive, but the company intends to remain cautious in its production and investment strategy this year, bearing in mind that higher complexity and uncertainty level in the market are today's new normal. [Foreign Language]
+
+As was the guidance last year, CapEx this year will be considerably reduced year-on-year. Infrastructure CapEx will be focused in M16 scheduled to be completed this year, and equipment CapEx will be concentrated mostly in tech migration to 1y nanometer and 96 and 128 layer.
+
+Meanwhile, as we continue with the conversion of DRAM capacity in M10 into CMOS image sensor and 2D NAND capacity into 3D this year, wafer capacity at year-end is planned to be lower than at the beginning of the year for both DRAM and NAND. [Foreign Language]
+
+The company will accelerate cost reduction by steadily improving technology maturity in the process of tech migration and prepare next-generation products without glitches. The big portion of 1y nanometer products within DRAM will be increased to 40% level by year-end, whereas for 96-layer 3D NAND, it will cross over in the first half. We will start mass production of 1z nanometer and 128-layer 3D NAND, the next-generation products within this year and expand sales into the high-value add solution market.
+
+We will also actively respond to the LPDDR 5, GDDR6 and HBM2 E markets that are expected to go into a full-fledged growth this year by bolstering quality competitiveness and broadening our product portfolio into strategic markets. And we will accelerate sales of SSD products for data centers and keep increasing the portion of SSD sales, which topped 30% for the first time in the fourth quarter of last year.
+
+This year, the company's plan for DRAM shipment growth is mid- to high-teen percent and over 40% for NAND. In the first quarter, DRAM bit shipment is expected to decrease by mid to high-single percent, given the low seasonality and volatility in PC demand. NAND bit shipment is planned at low teen percent increase as we actively respond to the rising demand for data center SSD.
+
+Year 2020 started out on a high note for the industry. With the U.S., China agreement on a trade deal and anticipation for memory price recovery, but uncertainties continue to surround the global economy. And because new technologies like 5G and AI will have deeper and broader ramifications than ever before, it is not only corporations, which are competing to get ahead in this field, but also nations as countries increasingly jump into this competition.
+
+The semiconductor industry will also find itself in a new environment, where there are both opportunities for new growth, but also uncertainties that even the leading incumbents will not be spared. SK Hynix will keep a cool headed view into the external environment as we keep trying to secure a sustainable growth path. In so doing, we will turn this year into the start of our rise to a true best-in-class company.
+
+With that, we are now ready to take your questions.
+
+[Foreign Language] [Operator Instructions] The first question will be presented by Hyunwoo Doh from NH Investment. Please go ahead with your question.
+
+[Foreign Language] I have two questions. First is about the recent inventory level of both DRAM and NAND Flash. So can you give us an update about inventory? And the second question is about the market prices. It appears as if there is a high likelihood that there is going to be a spike in the DRAM ASP in the first quarter, does the company also agree with this outlook? What is the company's assessment?
+
+[Foreign Language] First, about the inventory level - first about the DRAM inventory. As was the guidance last year, based on our brisk - bit growth in the fourth quarter, the DRAM inventory has come back down to normal level. Up until the end of the third quarter, it was at around five week level, but by the end of the year, it had fallen to below four week level. And down the road, assuming that there is going to be improvement in profitability, we believe that the DRAM inventory level will continue to come down as is the company's plan.
+
+And as for the NAND inventory, it has also now come down to a stable level. So by the end of last year, it has come down to below five week level. [Foreign Language]
+
+And likewise, we expect the inventory level to continue to come down. So the inventory outstanding that the company has now will be going mostly to the existing customers, and also to improve profitability.
+
+And next, about the DRAM ASP. Now mostly led by the computing products, we believe that the pricing, the ASP for DRAM will continue to rise throughout the year. And for the mobile products, especially, now after the seasonality in the first quarter, we believe that especially starting in the second half of this year, thanks to the rise in the demand for 5G smartphones, the mobile DRAM pricing will continue to go up into the second half of the year. And also, in particular, in the first quarter of this year, we can already see that the trends of price increase have been confirmed in the contract pricing.
+
+[Foreign Language] The next question will be presented by Jong Woo Yoo from Korea Investment & Securities. Please go ahead with your question.
+
+[Foreign Language] I also have two questions. First is, in the fourth quarter, the company's performance was below the market's expectation. And of course, in your presentation, you did mention the initial start-up cost and also the initial cost burden. So do the start-up cost also include the one-off costs? And do you believe that the start-up - there would be more start-up cost to come in the future?
+
+And the second question is, the demand for the server DRAM coming from data centers appears to be quite high and quite strong. So stronger, much stronger than expected, it seems. So where do you find the causes? Is it because of the pent-up demand, coming from the falling inventory? And how long do you believe that such a strong demand will last?
+
+[Foreign Language] Now about the first question. [Foreign Language] Now first about the fourth quarter performance, and yet, it is true that it was probably a bit more sluggish than expected. And yes, as you have rightly observed there have been one-off costs. But not only that, in the fourth quarter, there was also the Korean Won depreciation, which also put a dent on our profitability. And there were, also, migration to new technologies like 1y Nano and 96 layer, which would incur initial cost burden. And such initial cost burden will not be short-lived. So we believe that the initial cost burden will last - will have some impact for some time.
+
+[Foreign Language] And second, about the demand for the server DRAM. Yes, it appears that for this year there seems to be some demand coming from customers to build up their inventory to a – shall we say, a safe level, but not only that, we also see the demand coming from the more diversifying cloud computing.
+
+So for example, hybrid or mission-critical cloud. And also, because of that, that there is also the demand to - for system build and also content growth. So we see that the demand is coming from these trends. And for the mid to longer-term, because of growth in the 5G and AI-related devices, services and infrastructure, we believe that the growth in DRAM demand will continue. And as such, the demand for server DRAM would also remain robust.
+
+[Foreign Language] The next question will be presented by Peter Li from Citigroup. Please go ahead with your question.
+
+[Foreign Language] Now I have two questions about DRAM. First is about the DDR5. So it seems as if for the next few years, because of the DDR5 being introduced, there would also be a lot of changes, at least for the next two years. So for the LPDDR5 and also like a commodity DDR, it seems as if they will be start to be marketed this year.
+
+So then for SK Hynix, where do you see the demand coming from coming for the DDR5? So for example, mobile or the big server. So how do you forecast demand by application for the year 2020? And also, what is the company's plan to market DDR5 this year?
+
+And the second question is about the DRAM demand. So do you expect the DRAM demand trend to continue from the first half to the second half of this year? And also not only for the server DRAM but where do you see growth coming from in, like, for example, other areas, so which applications do you believe will drive the demand for - demand growth for DRAM?
+
+[Foreign Language] Now the first question was about the LPDDR, GDDR6 and DDR5, altogether. Now first about the DDR5, the demand is coming mostly from the corporate and high-performance computing. So for example, high-end servers or big data and AI machine learning. And we believe that the growth in DDR5 will begin, in earnest, from 2022.
+
+And since the company announced the planned development of the DDR5 in 2018, we have been collaborating with the customers and the supply chain for verification. And of course, the exact timing will also depend on the timing of the CPU but we believe that we will be able to launch the products with the appropriate time to market.
+
+And second, about the LPDDR. Likewise, this will be for high-end smartphones. And for this, customer qualification is already underway to increase our mass production starting in the second half of this year. So we believe that we will be able to drive sales further in the second half of this year.
+
+And for the GDDR5, currently, the main customers are the new game consoles, and we are also collaborating closely with the new game console makers. In addition to that, we expect demand to increase coming from the PC makers. So overall, we believe that the DDR5 is going to be - going to take up a big part of the company's business growth this year.
+
+And regarding the second question, we believe that in the DRAM market in 2020, the demand will continue to be robust into the second half of this year, and although, of course, it is very difficult to predict the market demand with accuracy, now we believe that the DRAM demand will remain robust throughout the year for several reasons.
+
+The first is that there is robust demand continuing for its servers. Second, there are new game consoles being launched and being expanded and also the smartphone shipment is expected to grow. [Foreign Language]
+
+Now we believe that the key will be the natural demand for servers. So for example, the natural demand for set build. So the company will work closely with the related customers to make sure that we can actively respond to the natural demand. And for the servers, we will also increase our supply of high-density products so that we will be able to respond speedily to any volatility in the demand. [Foreign Language] And in my previous response, if I had mentioned DDR5 for graphics then let me make a correction that it is GDDR6.
+
+[Foreign Language] The next question will be presented by Marcus Shin from Mizuho Securities. Please go ahead with your question.
+
+[Foreign Language] I also have two questions. Now first, you did mention the cautious stance toward investment to be continued into this year, then can you give us some guidance about the CapEx level for this year? And also, it seems as if there is very strong demand coming from the data centers, and if the demand continues to be strong, then do you believe that there is also the possibility of upwardly adjusting the CapEx plan for this year?
+
+And the second question is, now it's about the NAND demand. Especially because - so especially for the 5G smartphones because of the BOM cost, there is also the likelihood that the growth in the NAND demand might slow down. So do you believe that this is likely and also, what do you expect the growth rate of the NAND content this year is going to be for smartphones?
+
+[Foreign Language] Now let me respond to the first question about investment. [Foreign Language] Now first, in 2019, CapEx was much lower than 2018, KRW7 trillion - KRW17 trillion in 2018. So in 2019, it was KRW12.7 trillion. Now although the market is showing signs of recovery, not all elements are back to normal yet and uncertainties still persist. And that is why the company intends to remain conservative in our investment and production.
+
+And now for this year, as I mentioned, we will remain conservative so under such conservative stance, it is likely that the CapEx this year will be much lower than last year's. So for both equipment and infrastructure investment, the level will be lower than last year's. But then as to the exact amount, that has not been decided yet. So please understand that we cannot share with that - with you right now. But this will be determined according to assessment of the business environment?
+
+And also, a part of your question was the likelihood of appropriately [ph] adjusting the investment if the market continues to upturn. And yes, it is true that the market is now showing signs of recovery. And if it remains so, then there is the possibility of flexibly considering the CapEx for this year. But even then, we will remain cautious as we take into account the uncertainties in the market.
+
+Now for the 5G. Yes, it appears that 5G will develop and grow much faster than did for 4G. But then, in terms of the content growth, now because the 5G will be starting mostly from high end smartphones where the content growth will be limited, we believe that this year, the smartphone for them, sorry - So for this year, the 5G growth - 5G will contribute to our growth, not from the content growth but with the increase in the smartphone shipment. So we believe that it is actually going to be the smart - 5G supporting smartphone shipment growth that will contribute to increase in memory demand.
+
+And then later on, when the 5G becomes applicable to mid-end smartphones as well, it is then that the content growth would contribute to growth in the memory demand. And as for the NAND content for smartphones this year, we believe that it will be around 110 gigabytes, about 20% higher than last year.
+
+[Foreign Language] The next question will be presented by Do-Yeon Choi from Shinhan Investment. Please go ahead with your question.
+
+[Foreign Language] I also have two questions. First is about the novel Coronavirus. And so do you believe that this will have an impact, if any, on the company's production in the Wuxi Plant? And the second question is about the CIS. So they say that - it is reported that in the CIS market, supply shortage is getting worse. And SK Hynix is also converting some of your DRAM capacity to CIS. So by the end of this year, how much CIS capacity do you believe that the company will have? And also, who do you believe to be the major customers for the CIS?
+
+[Foreign Language] Let me respond to the first question about the novel Coronavirus. [Foreign Language] Now it is true that the company has some facilities in China, and so far, there have been nothing out of ordinary or there has been almost no impact on the company's production activities in the - in those plans yet. But then if the situation becomes prolonged, so for example, the Chinese government recently extended the holiday break until February 9. But then if the government were to extend that break, then in that case, it is likely that there would be some impact on the production. So regarding such circumstances, the company is currently working on contingency plan, and we will respond accordingly as we keep a very close eye on the situation.
+
+Now as for the CIS demand, yes, we see that the demand is rising very precipitously for CIS because the smartphones set demand has now become positive and also because of the replacement demand for 5G, which would also be adopting triple cameras. So these are the factors that are driving up demand for CIS.
+
+And because of the very quickly rising demand for high-pixel products, we see that the supply is becoming tighter for the medium to low-pixel products. So because of that, the company also intends to increase the supply for products that are below the 20 million megapixel. [Foreign Language]
+
+And as for the major customers, they are notebook makers and global smartphone makers, mostly for medium to low-spec products. So we will try to maximize profitability as we actively respond to the supply - as we are actively respond to the tight supply. [Foreign Language]
+
+And as for the capacity, yes, we have been mostly producing out of the 8-inch fab. But then as was announced already, we are already converting some of the DRAM capacity in M10 to 12-inch production capacity. And by doing so, we will be able to fulfill the demand coming from customers.
+
+And as for the 12-inch capacity, the conversion from the DRAM is not going to be one to one. So the capacity is not going to be that sizable but we believe that this will be enough to fulfill the demand.
+
+[Foreign Language] The next question will be presented by SK Kim from Daiwa Capital Markets. Please go ahead with your question.
+
+[Foreign Language] I have two questions, one each for NAND and DRAM. Thank you very much for the very good comment so far and now, yes, for the NAND market, we see that market started to turn around in the second half of last year. But we believe that part of that was also coming from corrections in the supply due to, for example, the power outage or fire in some of your peers. And this year, some companies are set to increase their capacity, which is likely to drive up supply in the second half.
+
+So do you believe that the upturn cycle this time around is going to be shorter than before? So what is your outlook for the overall supply and demand situation for NAND this year?
+
+And the second question about DRAM. It appears that there are a lot of expectations of the DRAM market recovery this year but then there are also reports that the 5G smartphone build demand is likely to slow down coming from China. Do you believe that this is going to be temporary? Or do you believe that there is going to be overall slower demand for the 5G smartphone build? So what is the company's outlook for the mobile DRAM demand this year?
+
+[Foreign Language] Now first about demand. Now in the first half of last year, the supply and demand dynamics, now this was partly improved because of the suppliers cut back in investment. And also, there was a rising demand, which was elastic to the falling price. So that is why, in the second half, this was brought into better balance. And also because of the power outage and also the lower investment, we believe that it had led to the inventory level being normalized by the end of last year.
+
+And now for the first half of this year, although it is - although there is the seasonality effect when we see the - both the attach rate and also the content growth for the SSD, then we believe that the demand and supply balance will be better in the first half of this year. And then in the second half of this year, the 5G mobile demand will be driving the overall demand.
+
+But because of the macroeconomic situation - because of the macro situation and because of the potential volatility in the market, suppliers continue to be conservative about their investment strategy. And also, the new tech development appears to have been moderated since the - compared to the past few years. So overall, we believe that in the second half, there is going to be stable demand-and-supply balance. [Foreign Language]
+
+And this is in response to your second question about the mobile DRAM. [Foreign Language] Now as was commented on in the previous response, we believe that there is going to be a slight shipment growth for smartphones in 2020 compared to 2019.
+
+Now with the launch of new 5G smartphones by the worldwide leaders and increase in sales of such smartphone units, we believe that, globally, the 5G smartphones will be over 200 million units. So that outlook remains unchanged. [Foreign Language] And particularly regarding the demand coming from China, now after the seasonality in the first quarter once the new smartphones begin to sell in earnest in the second quarter, we believe that demand will also recover. [Foreign Language]
+
+The last question will be presented by J.J. Park from JPMorgan. [Foreign Language]
+
+[Foreign Language] Now first about the demand growth. Now you expect the demand growth for this year - for the year to be around 20%. And we expect about mid to high-teen percent growth and so did 1 of your peers. So then does that mean that there is going to be a shortage in the second half of this year because if supply only grows by about mid to high-teen percent and if demand were to grow by around 20%, and especially with the lower inventory level by the end of last year, then it is your expectation to be experiencing supply shortage in the second half of this year?
+
+And the second question is now for the GDDR6 in the second half of this year. It seems as if this year marks the game console super cycle. So then compared to, for example, the commodity DDR, what do you believe is going to be the ASP for the GDDR6? And also, what is going to be the die penalty compared to, for example, DDR5 and others?
+
+And also, out of the overall DRAM market, how much of the share, the GDDR6 is going to take this year and next year? Of course, it's tentative. It is poised to take up a much bigger share next year, but what do you believe is going to be the share out of the total DRAM market this year and next?
+
+[Foreign Language] Now then - I would take your question as one regarding the bit growth - the demand bit growth for the second half of this year. So in other words, the market outlook for demand in the second half. [Foreign Language]
+
+Now as was presented earlier, the company's outlook for demand bit growth for this year is 20%, which, I believe, is going to be variable depending on the institution. [Foreign Language] So the company is trying to identify the real demand, utilizing various important sources and we would also be responding and preparing to fulfill such real demand.
+
+In addition to that, in the course of the discussions for the supply contract with some of our major customers, we were able to certain the reliability of their willingness to execute the contract. And in fact, the capacity booking has been completed already. So for the year 2020, we believe that overall, the DRAM business for the company as well as the market are going to be stable.
+
+And now regarding the game console that you asked about. Yes, we believe that this is going to provide some momentum in the DRAM market this year. [Foreign Language]
+
+Now for the company, this year for the overall graphics category, we are expecting over 50% growth Y-o-Y. And out of that bit growth, I would say that the GDDR6 takes up a big part of it. [Foreign Language]
+
+And you also asked about the die penalty but please understand that we cannot divulge the number yet. And - but then, as for the ASP, we believe that the GDDR can be marketed as premium products. So as the market continues to grow and as we continue to increase our market share, we believe that the GDDR6 is going to contribute to increase in the ASP.
+
+[Foreign Language] With that, we will conclude the SK Hynix 2019 fourth quarter earnings release conference call. Thank you very much for your participation.

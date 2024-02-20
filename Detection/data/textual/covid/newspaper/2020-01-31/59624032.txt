@@ -1,0 +1,24 @@
+Coronavirus: Google Deploys SOS Alerts for Reliable Information 
+ With cases of the coronavirus continuing to appear in more countries around the world, Google has added official safety advice and other relevant information to the top of its search results for people keen to find out more about the outbreak.
+
+Google announced the move on Thursday, January 30, after the World Health Organization (WHO) officially declared the coronavirus outbreak an international public health emergency.
+
+The process of making important and reliable information more accessible in Google Search is powered by SOS Alerts, a system launched by the company in 2017 to help deal with a human-caused or natural crisis.
+
+It means that now, if you go on Google to search for information related to the coronavirus, at the top of the page you’ll find the latest tweets from the WHO followed by links to the organization’s offering an overview of the current condition of the virus, advisory information, and QA material. Below that you’ll also find a drop-down list of useful safety tips, with a link to additional material from the WHO on how to reduce exposure to, and transmission of, a range of illnesses that includes the coronavirus.
+
+
+
+With plenty of misinformation doing the rounds on social media and other online channels, Google’s effort to highlight links to reliable information should go some way to helping concerned folks stay on top of the fast-developing situation. Other useful sources that use official statistics linked to the coronavirus outbreak include an online tracker from the Center for Systems Science and Engineering at John Hopkins University in Maryland.
+
+The dashboard shows a frequently updated count of the number of confirmed and suspected cases of the coronavirus globally, as well as the number of deaths and those who have recovered. At the time of writing, it lists 213 deaths from the coronavirus, all in mainland China where the outbreak began, and 9,776 confirmed cases, the vast majority of them in China. Six cases have so far been confirmed in the U.S.
+
+Both the dashboard and Google’s SOS Alerts system are important examples of how online tools can help to keep anyone with an internet connection up to date with reliable information when a crisis such as the coronavirus occurs.
+
+Google’s decision on whether to deploy its SOS Alerts system for a particular incident depends on a range of factors, including the availability of verified content from governments and other authoritative organizations, and the impact of the crisis on the ground.
+
+In other efforts, Google said it has donated $250,000 to the Chinese Red Cross to help it in its efforts to deal with the virus.
+
+
+			
+			Editors' Recommendations

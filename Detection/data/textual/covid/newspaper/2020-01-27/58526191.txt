@@ -1,0 +1,22 @@
+Coronavirus: Online Dashboard Tracks the Spread of Cases Globally 
+ Concern is growing as cases of the coronavirus continue to show up in countries around the world. At the time of writing, available data shows that the virus has so far taken the lives of 80 people with at least 2,794 confirmed cases of infection.
+
+During such times, false information — whether posted by accident or with intent — can take hold very quickly via social media and other means, creating confusion for those looking for reliable data.
+
+Aiming to provide accurate information on the spread of the coronavirus, the Maryland-based Center for Systems Science and Engineering (CSSE) has created an online tool that brings together data from several official bodies that include the World Health Organization (WHO) and centers for disease control and prevention in China, the U.S., and Europe.
+
+The dashboard displays the number of confirmed and suspected cases of the coronavirus, as well as the number deaths and those who have recovered. A world map marks the locations of the outbreaks.
+
+“The dashboard is intended to provide the public with an understanding of the outbreak situation as it unfolds, with transparent data sources,” the CSSE said in a message posted on its website. Of course, the true number of cases is impossible to know, but the dashboard at least offers reliable data for reported cases, and can indicate trends and hotspots for the coronavirus.
+
+Fear that the virus may be harder to contain than first thought emerged on Sunday after China’s National Health Commission Minister Ma Xiaowei said that it was possible for someone to transmit the coronavirus during the incubation period, which can last up to 14 days.
+
+Xiaowei also revealed that around around five million people left Wuhan — the Chinese city where the outbreak was first detected — before the city was locked down by the government last week, with around nine million staying put. The WHO was first informed of the outbreak on December 31, 2019, when the Chinese authorities described it as “pneumonia of unknown cause.”
+
+The U.S. has so far reported five non-fatal cases of the coronavirus, though all are thought to have caught it while traveling in China.
+
+A risk assessment posted by the U.S. Centers for Disease Control and Prevention on Sunday, January 26 described the immediate health risk from the coronavirus to the American public as “low at this time,” adding, “Nevertheless, CDC is taking proactive preparedness precautions.”
+
+
+			
+			Editors' Recommendations

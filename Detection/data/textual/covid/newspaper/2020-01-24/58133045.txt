@@ -1,0 +1,28 @@
+This scientist hopes to test coronavirus drugs on animals in locked-down Wuhan 
+ As China battles to halt the spread of a new virus that has infected hundreds of people, one structural biologist is hoping to get to the epicentre of the outbreak, the locked-down city of Wuhan.
+
+Rolf Hilgenfeld, who is based at the University of Lübeck in Germany, has been trying to develop a cure for coronaviruses since the 2002–03 outbreak of severe acute respiratory syndrome (SARS). Hilgenfeld is hoping to get into Wuhan in central China, to work with researchers there to test two compounds in animals infected with the new, related coronavirus, which emerged in the city late last year. The early-stage drug candidates are not ready for use in people, but Hilgenfeld wants to start animal testing with the aim of developing treatments for future coronavirus outbreaks.
+
+Hilgenfeld, who is currently in China, tells Nature about his quest — and the obstacles.
+
+I planned to go to China anyway, but after this virus emerged I contacted some collaborators in Wuhan. I have two compounds, and I would like to test them against the new virus, so I am seeking collaborators who have samples of the virus.
+
+I had the same experience going to Beijing in 2003 for SARS. I was on a flight with eight people. I had to connect through Japan because there were no flights from Europe. In Wuhan, I will wear a face mask all the time.
+
+We have just been getting them ready to be tested in a mouse model of Middle East respiratory syndrome (MERS) with a collaborator in Germany. Those tests should start in the next two weeks. In cell culture, we know they work against SARS and MERS [which are both also caused by coronaviruses]. The compounds have been tested in mice; we know they are safe. But these are not drugs. They are not very advanced. They’ve never been tested in humans.
+
+The problem with these antiviral compounds is that when you have the compound ready there are no patients. The new coronavirus outbreak will probably be over in six months, like the SARS one was. After six months, we could have data that show one of our compounds works against the new virus, and would be able to collaborate on developing it as a drug. But if by then the outbreak is over, there will be no patients, so how can you do clinical trials?
+
+And the total number of people infected, if you combine SARS, MERS and this new virus, is under 12,500 people. That’s not a market. The number of cases is too small. Pharmaceutical companies are not interested.
+
+We have actually developed compounds that are active against both the coronaviruses and a large family of enteroviruses, which include human rhinoviruses [the main cause of common colds] and hand, foot and mouth disease. Every year, half a million children get one called enterovirus-71, so we would aim to go into clinical trials for these diseases. We can get pharma involved. Then if we have something approved for those, we can use the drug quickly next time there is a coronavirus outbreak.
+
+They are directed at viral proteases, which have common features in both coronaviruses and enteroviruses. We are structural biologists. We look at the crystal structure and then design something that targets both. It’s killing two birds with one stone, as you say in English, or killing two flies with one swatter, as we say in German.
+
+The ones I brought over are a second generation of compounds that we prepared for the mouse MERS experiments. There is a publication about them under review.
+
+It’s not so easy to make a mouse model. The mouse doesn’t interact with the MERS or SARS viruses because of a difference in the ACE2 receptor [which the virus uses to enter cells]. You must first engineer a mouse that carries the human version of ACE2 and you must delete the mouse version.
+
+If Wuhan airport doesn’t open by next week, I will send my compounds by courier.
+
+What happened is that a radio station contacted me because I do work related to SARS. I told them I was going to China and they wrote a story with a question mark in the title asking whether I could save people from the Wuhan virus. That was picked up. The idea that I have a drug is premature. I am trying to correct that.

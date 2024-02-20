@@ -1,0 +1,94 @@
+TREASURIES-Yields at three-month lows, yield curve flattens as coronavirus spreads 
+ (Adds auction results, yield curve inversion, IOER expectation,
+updates prices)
+    * Coronavirus fears boost safety buying of Treasuries
+    * Treasury sells $40 bln 2-year notes, $41 bln 5-yr notes
+    * Fed expected to leave rates unchanged on Wednesday
+
+    By Karen Brettell
+    NEW YORK, Jan 27 (Reuters) - Benchmark U.S. Treasury yields
+fell to three-month lows on Monday as investors piled in on
+concerns about the economic impact of China’s spreading
+coronavirus, while part of the yield curve reinverted for the
+first time since December.
+    Investors dialed back riskier positions, selling equities
+and buying bonds, as the death toll from the coronavirus
+outbreak in China rose to 81 and the virus spread to more than
+10 countries, including France, Japan and the United States.
+Some health experts questioned whether China can contain the
+epidemic.
+    “We’ve seen selling in equities, buying in safe havens. The
+news story is certainly about the coronavirus,” said Guy LeBas,
+chief fixed income strategist at Janney Montgomery Scott in
+Philadelphia.
+    “There is clearly going to be some economic impact,
+particularly as its coming at a major consumer holiday. It’s too
+early to assess what that might be or how it flows through to
+other economies, but China’s growth impulse is an extremely
+important one for the global economy,” LeBas said.
+    Benchmark 10-year note yields fell as low as
+1.60%, the lowest since Oct. 10.
+    The yield curve between two-year and five-year
+notes inverted for the first time since December. It is unusual
+for longer-dated debt to yield less than shorter-dated notes,
+and typically indicates growing concerns about the economy.
+    The three-month, 10-year yield curve also flattened to 6
+basis points.
+    That part of the curve is closely watched as a recession
+indicator. It inverted in March for the first time since the
+financial crisis, a signal that a recession is likely to follow
+in one-to-two years. The yield curve can uninvert and reinvert
+many times before a recession hits.
+    It has traded in positive territory since October, when
+optimism that the United States and China would reach a trade
+deal boosted risk sentiment.
+    The yield curve between two-year and 10-year notes
+, which is also watched as a recession signal,
+flattened to 15 basis points, the flattest since Nov. 29. 
+    Monday's drop in yields led to slightly soft demand for a
+$40 billion auction of two-year notes and a $41 billion sale of
+five-year notes on Monday.
+    The Treasury Department will also sell $32 billion in
+seven-year notes on Tuesday.
+    The Federal Reserve is expected to leave rates unchanged
+when it concludes its two-day meeting on Wednesday.
+    Some analysts expect the U.S. central bank may increase the
+interest it pays on excess reserves (IOER) by five basis points
+to keep the rate closer to the middle of its target range, which
+it would likely explain as being a technical adjustment. 
+    
+       January 27 Monday 3:25PM New York / 2025 GMT
+    
+    
+                               Price        Current   Net Change
+                                            Yield %   (bps)
+ Three-month bills             1.515        1.5458    0.015
+ Six-month bills               1.515        1.5518    0.013
+ Two-year note                 100-88/256   1.4429    -0.043
+ Three-year note               100-64/256   1.4135    -0.057
+ Five-year note                101-126/256  1.4349    -0.066
+ Seven-year note               101-124/256  1.5232    -0.076
+ 10-year note                  101-84/256   1.6029    -0.077
+ 30-year bond                  107-28/256   2.0547    -0.073
+                                                      
+   DOLLAR SWAP SPREADS                                
+                               Last (bps)   Net       
+                                            Change    
+                                            (bps)     
+ U.S. 2-year dollar swap         4.50        -1.25    
+ spread                                               
+ U.S. 3-year dollar swap         2.00        -1.00    
+ spread                                               
+ U.S. 5-year dollar swap        -1.00        -1.00    
+ spread                                               
+ U.S. 10-year dollar swap       -6.25        -0.25    
+ spread                                               
+ U.S. 30-year dollar swap      -32.75        -0.75    
+ spread                                               
+ 
+
+    
+      
+
+ (Reporting by Karen Brettell; editing by Jonathan Oatis and Tom
+Brown)

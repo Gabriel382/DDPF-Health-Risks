@@ -1,0 +1,100 @@
+Ericsson: Strong Product, High Sales, And Possible Windfall Gains 
+ Many investors (including myself) who bought telecom vendors stocks, more specifically those of Ericsson (ERIC) back in mid-May of 2019 were influenced by the US authorities banning Huawei (a privately held Chinese equipment vendor) through an executive order during the same month. The reason provided for the ban was that the company was seen as a national security threat. This would mean that Huawei's closest rivals, Ericsson and Nokia (NOK) would stand to benefit the anti-Huawei rhetoric.
+
+The share price did rally, by more than 8% from $9.05 to $10.05 but that was just a temporary reprieve as it started sliding soon after reaching that high. Only three months later, it was trading at $9.70. Most of the drop can be attributed to the second quarter 2019 earnings miss.
+
+At that time, I had a decision to make: either to sell the stock with a loss or to hold on. I did neither and instead bought more of the stock. The main reason for investing more money in Ericsson despite being 17% down was mainly due to its radio access network (RAN) equipment, one of the key ingredients for building 5G mobile services and management execution.
+
+For new investors wanting to position themselves on the stock and shareholders holding the stock since its highs of $15, I am going to show how Ericsson is a solid stock. I will first analyze its product, management effectiveness, competitive position, and financial strength. I will also consider the risks. However, first, I will assess the wider environment in which the telecom equipment vendors, currently, operate.
+
+The trade war between the US and China and the advent of 5G (fifth-generation wireless technology for digital cellular networks) has profoundly impacted vendors with the US directly targeting Huawei, one of the top 3 companies fighting it out in the 5G arena. The other two being Ericsson and Nokia. Hence, one of the main headwinds Huawei is facing is more of a political nature: bans from the US market plus possibility of further being blacklisted in countries which are US allies.
+
+The fact that one U.S. senator has introduced a bill that would prevent the United States from sharing intelligence with countries that allow Huawei Technologies to operate 5G network technology is an important development in the sense that even if it does not materialize, it will force many leaders to rethink their 5G strategy. Ericsson and Nokia could be the potential beneficiaries.
+
+Now, banning Huawei does not automatically mean choosing Ericsson. There is a gap, and investors who bought the shares in mid-May 2019, expecting upside, will certainly understand this. This also demonstrates the need to avoid basing investment decisions solely on news.
+
+Now, following a report by the FCC (Federal Communications Commissions), this gap (gap between banning Huawei and effectively choosing a replacement like Ericsson or Nokia) appears on the verge of being filled.
+
+In addition to exposing the vulnerabilities represented by Huawei, this report document goes a step further: it has evaluated the replacement costs for existing insecure communications network of the small rural carriers currently using 3G (current cellular technology allowing slower speeds). It is mentioned that these were implemented by Chinese manufacturers and it is mentioned in the report that a "rip-and-replace" solution could allow rural carriers, currently, on a 3G network to upgrade to a more secure 4G network that could be made 5G compatible via software updates. The costs which were worked out during the workshop were estimated at $1.7 billion as well as the means to fund the endeavor.
+
+Most importantly, the workshop also saw the participation of Ericsson and Nokia. The next step will be allocation of contracts to Ericsson and Nokia that are already present in the US and working with the main carriers like Verizon (VZ), AT&T (T), T-Mobile (TMUS), and Sprint (S).
+
+For Ericsson, in particular, which has seen a 19% increase in sales in the US market, these would represent significant windfall gains.
+
+Now, with the US authorities openly supporting Huawei competitors, an important question in the minds of investors is whether there will be a tit for tat response from the Chinese government to target Ericsson and Nokia. China is an important market for Ericsson given its sheer size and the North East Asia region accounted for 5% of the company sales growth in the last quarter.
+
+Up till now, there has been no move by China which shows that it is specifically targeting the two companies. While, there has been some patriotistic sentiment, which has increased Huawei smartphones shares of the Chinese market, this has not been the case in the less visible mobile networks vendors market, 5G in particular.
+
+First, there is the fact that neither Ericsson nor Nokia are top smartphone manufacturers and, therefore, not Huawei competitors as is the case for Apple (AAPL), makes them more acceptable to the Chinese people.
+
+Second, for telecom operators, especially the big ones like China Mobile (CHL), China Unicom (CHU), and China Telecom (CHA), it is preferable to have two vendors instead of one. Reasons for having two vendors supplying two different technologies covering different geographies reduces the probability of delays in 5G coverage as they have already signed up more than 9 million customers. There can also be loss in terms of revenue and customer satisfaction for the operators. Having two vendors also give operators more bargaining power.
+
+One can argue that in China, there will be strong competition from Huawei and ZTE (OTCPK:ZTCOF), the two Chinese telecom equipment vendors. However, taking into consideration that mainland China is expected to see total investments on 5G mobile networks reach 2.8 trillion yuan (US$411 billion) in the period from 2020 to 2030 together with the fact that Ericsson is already present in China for the present generation mobile network (3G/LTE) and also investing in China in order to get a market share of the 5G market, there are reasons to be hopeful.
+
+However, it can be expected that Chinese telecom equipment giant Huawei be awarded the bulk of 5G contracts with some to ZTE, while foreign companies like Ericsson be allocated the remaining parts. Now considering a figure of $411 billion, even 10% means $40 billion which is considerable and should have meaningful impact on each of the company's revenues. During Ericsson Q3 2019 Results Earnings Call Transcript, CEO Börje Ekholm mentions:
+
+Now, it has been reported in several news channels that Ericsson has won 5G contracts in China without giving sufficient details as to the supplier and customer involved. However, gizchina.com, on November 7, 2019, provides details of the contracts signed with China Mobile and China Telecom. More details are awaited during next quarter's earnings report.
+
+In fact, since 2017 Ericsson and China Mobile have already been collaborating on cloud RAN, which is seen as a key facilitator on network evolution towards 5G. Ericsson has a recognized strength in radio access network.
+
+With an updated version of RAN, the company has been able to increase sales considerably. Now, the reason for customers adopting it is that it can allow them to reduce the costs of launching 5G applications considerably. In fact, the Ericsson Radio System enables smooth, faster, and more cost-effective migration from 4G to 5G for operators allowing them to achieve faster returns on investment.
+
+This new product has enabled the company to gain considerable competitive advantage with two early customers being T-Mobile (Sep 2018) and Deutsche Telekom (OTCQX:DTEGF) (Feb 2018). The latter, it must be mentioned, has allocated 5G contract for part of the German territory to Ericsson at the expense of Nokia, which is Ericsson's main competitor in Europe.
+
+Interestingly, the contract also includes Ericsson's digital services solutions, a market segment where Ericsson was lagging Nokia. Digital services include features like dynamic orchestration, cloud functions which enable operators to launch 5G services rapidly.
+
+Figure 5: Net sales by segment by quarter in SEK (Swedish Krona)
+
+As shown in the Quarter 3 earnings report, the turnaround of digital Services is on a clear and steady improvement track during the last 3 quarters and the company expects this to continue in 2020.
+
+Now, product strength in RAN can only be achieved through R&D but increasing research expenditure also means that a large chunk of the company's revenue can be eaten away as expenses. This is where management execution comes into play to ensure that this does not happen.
+
+An important myth I have come across consists of associating a company's success with its R&D expenses and assuming that more are these expenses, the more successful the company is likely to be. There is no such a simplistic relationship between R&D spend and future success as there are other factors to consider, namely, how product differentiation is achieved, time to market, and pricing. This all comes to the management strategy and execution.
+
+Now, since heading the company back in January of 2017, the CEO, Mr. Börje Ekholm has been carrying out a restructuring exercise. In January 2019, there was a turnaround after 2018 results showed that Ericsson was back to its first full-year organic sales growth since 2013. The turnaround was achieved through cost control as well as increasing sales. Also, concerning cost control, the company is not just driven by short-sighted cost control measures in staffing which can have adverse longer term effects on revenue growth. Instead, the management has demonstrated flexibility: there have been increases in the number of employees in the service delivery organization as the company wins more contracts and has to deliver.
+
+In addition to the financial aspect, one aspect of good management style also reflects on the company's way of communicating on the number of 5G contracts won. While other vendors are eager to announce their 5G contracts (Nokia says it has 63), this is not the case for Ericsson which has only announced the 5G contracts for which it can publicly name the customers.
+
+Moreover, for Ericsson, the customers' details at different phases of 5G adoption are clearly shown on a map.
+
+In addition to the publicly-announced contracts, the website mentions that there are currently 79 commercial 5G agreements or contracts with unique operators.
+
+A search on Nokia's website mentions that it has 65 commercial 5G deals, of which 40 are publicly-announced. 18 live 5G networks globally.
+
+Source: Table compiled with data from Ericsson and NOK
+
+Based on product strength, management effectiveness, it may seem that the target sales of $23.5-24.5 billion in 2020, up from $21.5-22.5 billion previously, that is an increase of nearly 10% is achievable. However, the fact that this target was announced on the back of upbeat third quarter 2019 results may have raised questions in the minds of investors and analysts covering the stock whether the target can be achieved.
+
+In order to get an answer, I consider the risks.
+
+The most important risk according to me is currency risks. This is a global company with sales mainly outside Sweden. Sales and incurred costs are to a large extent denominated in currencies other than SEK, and therefore, the financial results of the Company are impacted by currency fluctuations. In the US, for example, where the company derives a quarter of its revenues (33% of revenues are from North America), an increase in the USD/SEK exchange rate means that the US revenues, when converted in terms of Swedish kronas, will be less.
+
+As seen in the graph, there was a rise in this crucial rate from 9 in Feb 2019 to 10 at the end of October 2019, profoundly impacting the company's reported earnings in Swedish kronas.
+
+This risk seems to be diminishing with a reduction of currency exchange rate from 10 to 9.30 in December. Continued downward trend in the value of the US currency would mean better earnings for Ericsson.
+
+Another concern raised by some analysts pertains to the possible reduction in infrastructure spending in the US following a possible merger of T-Mobile and Sprint in North America.
+
+Now, I believe that this is too pessimistic an assumption given the fact that Sprint is using CDMA technology in its mobile network while T-Mobile is using GSM. These are two different technologies and there are engineering challenges in integrating them. Also, in the US, the other two carriers, AT&T and Verizon have committed to early 5G roll-outs in a limited number of cities, leaving most of their customers to fall back on 4G network. Therefore, migrating 4G customers to 5G represents a considerable growth market, one with a high barrier to entry due to security reasons for Chinese vendors. For the likes of Ericsson who are not barred from entry, this is a tremendous opportunity.
+
+Thirdly, the prospects of slower global economic growth could also cause service providers to tap the capital expenditure brakes and assume a more defensive spending position. However, here I believe that there is another event that has not been considered by investors, namely the possible effect of the corona-virus on the telecom sector in general. Back in 2003, the outbreak of the severe acute respiratory syndrome (SARS), while adversely impacting thousands and killing hundreds of people, was highly beneficial for the country e-commerce sector including underlying telcos. The virus gave a major boost to texting, which increased business for cellular companies like China Mobile as customers stayed at home and relied on mobile communications for communicating and shopping. There could be a similar situation, but this time with increase demand for mobile broadband Internet instead of texts as in 2003. Companies like Ericsson could benefit with windfall gains as they are called upon to urgently upgrade existing 4G capacity. This is a case where technology helps people by allowing them to limit human to human contact and saves lives.
+
+Therefore, there are risks but there are also opportunities for further growth. I next check on the valuations to get an idea how this growth can translate into higher valuations.
+
+Ericsson appears to have high valuations when compared in terms of P/E and P/S ratios compared to Nokia. However, according to me, these are justified when considering the revenue growth (double than that of Nokia) and EBIDTA growth which stands at a staggering 433.54%.
+
+The cash from operations is an important metric to determine the financial success of a company's core business activities. Ericsson has cash from operations of more than $2 billion compared to Nokia's $200 million. Cash from operations is an important metric that measures how much cash a firm makes and spends as a result of core operations. The operating activities include accounts receivable & payable, inventory costs, and depreciation.
+
+With the turnaround gaining momentum and with some good news around the stock, I see a short term upside of 10-15% in the short term bringing it to $10.5. Additionally, by the end of 2020, there should be another slide of 15-20%.
+
+Ericsson's sales revenue has been steadily rising and costs are under control since that turnaround at the start of 2019. Valuations are on the high side compared to Nokia, its main European competitor, but justified in terms of those rising revenues and that cash position.
+
+The significant amount of cash the company generates from its operational activities is important for potential investors and is also comforting for shareholders as they know that the company is in a good position and is producing cash despite having to bear restructuring costs.
+
+Ericsson is selling more of its advanced RAN products, has a high market share in the US and looks poised to further increase on this. The company is eyeing the Chinese market where peer Huawei has substantial home advantage.
+
+There can be potential windfall gains as a result of the US ban of Chinese telecom vendors and the corona-virus as countries from Australia to Thailand including Japan beef up their high bandwidth Internet infrastructure in an attempt to reduce human contact and save lives.
+
+There are currency risks but the efficient structure put into place as a result of restructuring should ensure top line growth.
+
+Disclosure: I am/we are long ERIC. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.

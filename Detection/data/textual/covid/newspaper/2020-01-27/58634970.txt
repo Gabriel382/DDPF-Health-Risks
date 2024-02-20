@@ -1,0 +1,26 @@
+Chip stocks catch brunt of tech decline, but coronavirus could benefit U.S. memory makers 
+ Chip-related stocks fell at a faster rate than the broader market Monday as coronavirus fears rattled investors, but analysts contend that the outbreak could have a positive effect for some domestic semiconductor companies.
+
+The PHLX Semiconductor Index SOX, -3.68%  was last down 3.3%, on track for its worst day since Aug. 23, when the index fell 4.4%. The index closed at a record high of 1,945.37 on Thursday. In comparison, the Dow Jones Industrial Average DJIA, -1.41% fell 1.3%, the S&P 500 index SPX, -1.41% slid 1.3%, and the tech-heavy Nasdaq Composite Index COMP, -1.72%  declined 1.5%.
+
+From an investment standpoint, the coronavirus and the subsequent quarantining of Wuhan, China, poses a possible benefit to U.S. memory chip companies like Micron Technology Inc. MU, -4.16%  and Western Digital Corp. WDC, -4.13%   Analysts noted that the outbreak will likely upset operations at Wuhan-based Yangtze Memory Technologies Co. and Wuhan Xinxin Semiconductor Manufacturing Corp., Chinese rivals to those memory manufacturers.
+
+Yangtze Memory Technologies is “China’s leading NAND flash memory producer,” Cowen analyst Krish Sankar wrote in a note. NAND chips are the flash memory chips used in USB drives and smaller devices such as digital cameras as opposed to DRAM, or dynamic random access memory, the type of memory commonly used in PCs and servers.
+
+“While the Lunar holiday period is typically a slower time for business activity, the likely extended period of time to address the coronavirus and (more importantly) save lives could affect manufacturing activity at Yangtze Memory and potentially other fabs throughout China if the delivery of supplies and new fab tools is hindered or temporarily halted,” Sankar wrote.
+
+China’s loss in production could result in a gain for U.S. companies, according to Mizuho analyst Vijay Rakesh.
+
+“With the shutdown of fabs during Chinese New Year this weekend and the impact of the Coronavirus quarantine in Wuhan, any disruption or delay of semi cap equipment support/installs could be negative for equipment suppliers, while any disruption in memory output (if the epidemic worsens after the holiday break) could be positive for memory suppliers outside of China such as Micron, Western Digital and others,” Rakesh wrote in a note.
+
+Susquehanna Financial Group analyst Medhi Hosseini concurred that Wuhan’s woes could be a positive for Western Digital.
+
+“The Wuhan travel ban that went into effect last week, along with the crisis caused by the coronavirus outbreak, can potentially disrupt the manufacturing operation at Yangtze Memory, leading to tighter NAND supply dynamics than we had been expecting post Chinese New Year holidays,” Hosseini said.
+
+Shares of Micron fell 3.6% and Western Digital shares declined 3.6%, while shares of chip-equipment maker KLA Corp. KLAC, -5.02%  decreased 4.1% and Lam Research Corp. LRCX, -4.01%  fell 3.6%.
+
+Read: For chip companies, stocks soared as sales slumped in 2019 — what does that mean for 2020?
+
+Other chip makers suffered declines in similar ranges, mostly down 3% to 4% across the board. Intel Corp. INTC, -3.61%  shares declined 3.3%, Nvidia Corp. NVDA, -4.12%  shares fell 3.8%, U.S. shares of Taiwan Semiconductor Manufacturing Co. TSM, -3.93%  declined 3.4%, and Broadcom Inc. AVGO, -4.63%  shares shed 4%.
+
+Advanced Micro Devices Inc. AMD, -2.08%, which reports quarterly earnings after the bell Tuesday, saw shares decline 1.8% on Monday. Also performing slightly less worse than the SOX index were shares of Qualcomm Inc. QCOM, -2.51%  with a 2% decline, Texas Instruments Inc. TXN, -2.63% with a 2.1% decline, and Teradyne Inc. TER, -3.22%  with a 2.5% decline.

@@ -1,0 +1,28 @@
+The Fed’s Key Yield Curve Inverted Again. Watch Out. 
+ © Reuters.  The Fed’s Key Yield Curve Inverted Again. Watch Out.
+        
+    
+    
+
+        (Bloomberg Opinion) -- I’m not an alarmist when it comes to the yield curve.
+
+However, it can’t go unremarked that the spread between three-month and 10-year U.S. Treasuries inverted on Thursday for the first time since October. The curve has flattened toward zero all month: Short-term rates have stayed steady with Federal Reserve policy, while longer-term yields have tumbled amid mounting evidence that the deadly coronavirus is harming the outlook for global economic growth. 
+
+Just in case you missed the  yield-curve mania over the past few years, the significance of this spread dropping below zero is that the same thing has happened in the lead-up to each of the past seven recessions. It’s such a reliable indicator, in fact, that both the New York Fed and the Cleveland Fed calculate the probability of a downturn in the coming 12 months based on the slope of the yield curve. The odds dipped toward the end of last year, but BMO Capital Markets estimates that the models now imply a 30% to 35% chance of a formal contraction by this time in 2021.
+
+As always, if you look hard enough, you can find reasons to convince yourself that this is the beginning of the end of the economic cycle. Just on Thursday, Commerce Department data  showed consumer spending slowed to a 1.8% pace, below estimates and the weakest since the first quarter; the Fed’s key inflation gauge rose less than expected; and nonresidential business investment fell for the longest stretch since the last recession. 
+
+Or you can fall in the camp of those like Brian Rose at UBS AG, who wrote recently that “some of the risks that we have been worried about have diminished recently” and that “it is possible that the U.S. can avoid a recession for several more years.”  Citigroup  Inc (NYSE:).’s U.S. economic surprise index is still positive, after all, in contrast to its persistently negative reading from February through August last year.
+
+Regardless, this crucial yield curve first inverted in March, and now 10 months later the U.S. is nowhere near meeting the formal definition of a recession (gross domestic product expanded at a 2.1% annualized rate in the fourth quarter). Instead, for bond traders, the most important thing to consider is how the Fed reacted to the inversion throughout last year. 
+
+ March: The curve continued flattening. Policy makers quickly shifted their “dot plot” to forecast no interest-rate increases in 2019, down from two in their previous forecast. As I wrote at the time, the move managed to clear traders’ already high   dovish hurdle.
+ May: The curve inverted in earnest. By June, Fed Chair Jerome Powell was indicating that the central bank was prepared to   cut interest rates at its July meeting.
+ August: The curve lurched deeper into inversion as recession fears reached a peak. Powell and the Fed showed no hesitation in dropping the fed funds rate in September and didn’t push back on an October rate cut either, even though he characterized the July move as a “mid-cycle adjustment.”
+ October: After three quarter-point interest-rate cuts, the yield curve was no longer inverted.
+
+Simply put, the Fed has obviously felt compelled to act when the yield curve inverts. Policy makers came into 2019 expecting to raise interest rates twice and ended up dropping them three times instead. This year, officials have reiterated that the U.S. economy and monetary policy are both in a “good place” and that the central bank will probably keep interest rates steady throughout the year. That certainly seemed reasonable at the end of the year, when the slope of the curve was 35 basis points. But now?
+
+My hunch is that it’s probably still too soon to extrapolate the coronavirus-driven rally in Treasuries into another Fed rate cut, even if the futures market indicates it’s likely sometime in 2020 and the 10-year yield is approaching 1.5%. As BMO pointed out, a big drop in the “term premium” is the main reason longer-term yields have plunged this year, not necessarily a shift in monetary policy expectations. Then again, the term premium plunged in August, too.
+
+Bond traders ought to stay vigilant. There are times when market moves start to nudge the Fed toward action, even if their public comments suggest otherwise. This might just be one of them.

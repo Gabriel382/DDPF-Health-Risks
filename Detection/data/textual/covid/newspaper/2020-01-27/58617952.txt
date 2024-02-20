@@ -1,0 +1,43 @@
+What Is the Coronavirus's R0 and Why Does It Matter? 
+ If you want to describe how an infectious disease spreads, one handy number is what epidemiologists call R0 (“R naught”), the disease’s basic reproductive number. Right now, scientists are trying to figure out the R0 for the new coronavirus from Wuhan, China. So far, it seems to be a little bit higher than for the flu, but less than for many other infectious diseases.
+
+What is R0?
+
+R0 is one of the numbers epidemiologists use to describe how an infectious agent spreads through a population. But it’s important to remember that it’s simply a statistic that describes some of the numbers we see. It’s not a rating of how scary a virus is, nor does it dictate how deadly a disease is or how difficult it might be to contain. We need more information for that. 
+
+The basic idea is this: the average sick person, in a totally susceptible population, must be able to get at least one other person sick (R0 = 1) for the disease to spread. If a disease spreads to fewer than one person, on average, an outbreak can’t happen.
+
+So, all epidemics involve something with an R0 of more than 1. Seasonal flu has an R0 of around 1.2. Measles has one of the highest R0 numbers, although it’s hard to pin down an exact number: 12 to 18 is typically cited. Many diseases, from the terrifying to the mundane, exist in the 2-7 range: Ebola, HIV, the common cold. The Guardian has a chart here that compares the R0 of several well known infectious agents, if you’re curious.
+
+There are some important caveats about this number. First, it represents what happens in a population that is completely susceptible. Nobody has been vaccinated; nobody has had time to develop immunity. And second, it says nothing about how fast the disease will travel, just how many people it will eventually infect. Here’s a short video from a Penn State course on epidemics that describes R0 and how it relates to other information we need to know about how diseases spread.
+
+What is the R0 for the new coronavirus?
+
+The new coronavirus out of Wuhan is so new that it’s hard to say. There’s a lot of information missing: for example, how many people got a mild case and didn’t bother to go to the hospital? They won’t have been counted. It’s only in the past week or so that people studying the virus have figured out that it can be transmitted from human to human; they’re still not sure if it can be transmitted before a person starts showing symptoms. There are a lot of unknowns. 
+
+So the researchers who have attempted to calculate the R0 for the current outbreak have had to make a lot of assumptions. These numbers are not set in stone, and are likely to change as we learn more about this outbreak. Maia Majumder, one of the scientists working on calculating the coronavirus’s R0, has an excellent twitter thread here explaining some of the assumptions her team used, and discussing how their estimates compare to other teams’.
+
+That said, I know you’re here for the numbers, so here goes: 
+
+On January 23, the World Health Organization met to discuss whether the virus constitutes a global public health emergency (not yet, they concluded). Their scientists presented data that showed an R0 of 1.4 to 2.5.
+
+This preprint (preprints are not yet peer reviewed) posted on January 24 estimates the R0 “is likely to be below 5 but above 3.”
+
+
+Another preprint from January 24 estimates R0 at between 2.0 and 3.1.
+
+Another report, posted to Github from the University of Bern on January 24, found R0 to be about 2.2
+
+This report from Imperial College London on January 25 estimates an R0 of 2.6
+
+This preprint posted on January 26 estimates R0 of 2.9, calculating it two different ways, with confidence intervals around 2.3-3.7.
+
+These estimates put the new coronavirus in a similar category as SARS and MERS, which are both also coronaviruses. Both of those looked scary at first, and were definitely worth some concern, but neither took over the world like a horror movie scenario.
+
+How much does R0 matter?
+
+R0 is a useful number to understand when it comes to things like determining vaccine targets (the higher the R0, the more people you have to vaccinate to stop the disease from spreading). But the work of containing an outbreak can begin even before we have R0 nailed down.
+
+The R0 depends on a few things, including how long a person is contagious, how many susceptible people they tend to interact with, and how transmissible the infectious agent is. 
+
+That means we can make an epidemic less likely to spread by attacking those particular factors. We can make fewer people susceptible to the virus; that’s what a vaccine does. (There’s no vaccine for the coronavirus yet, but perhaps there will be someday.) You can reduce the amount of time you’re able to spread the virus by staying home if you’re sick. And you can reduce transmissibility through measures like hand washing. These are all good actions to take no matter what the R0 turns out to be, and they’re good advice even for ordinary colds and flu.

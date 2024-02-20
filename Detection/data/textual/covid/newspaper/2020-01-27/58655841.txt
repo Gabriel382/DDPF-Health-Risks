@@ -1,0 +1,54 @@
+Bonds Keep Ringing The Alarms 
+ If history will repeat itself, this is nothing to worry about, but even the Fed hasn't thought about the real interest rate being so negative as it's now.
+
+Even the Fed admitted that, when the yield curve is inverting, the lower the real interest rate - the longer the (upcoming) recession.
+
+Bond yields keep moving lower, real yields keep deepening into negative territory, and most of the yield curve is inverted again.
+
+From a market-cap perspective, both stocks and bonds trade at near all-time highs.
+
+Note: This article is a co-production between The Macro Teller ("TMT"), moderator of Macro Trading Factory ("MTF"), and The Fortune Teller ("TFT"), moderator of Wheel of Fortune ("WoF").
+
+Indeed, global stocks have lost $677B in market cap over the past week, as the deadly coronavirus outbreak is spreading.
+
+Some of the names that have reported earnings last week also disappointed, suggesting that the Q4/FY 2019 earnings season is somewhat challenging.
+
+On the other hand, markets were supported by positive economic data.
+
+Meanwhile, the value of global bonds (AGG, BND, BNDX, MBB, BSV) has hit a fresh all-time high at $57.6T, following a whopping gain of about $600B over the past week.
+
+The coronavirus outbreak is weighing on investors' sentiment, sending a lot of money to seek safe-haven investment, and what is better than government-bonds, already trading deep in negative territory?...
+
+The yield on the German (EWG) Bund 10-year yield fell -11.2 bps to -0.33%, and the yield on US Treasury 10-year yield fell -14 bps to 1.68%.
+
+The number of countries with positive real yields (=10-Year Government Bond Yield minus the CPI rate) is shrinking again.
+
+Even the US is now back to negative real yield, as the recent move lower of the US Treasury 10-Year yield, combined with a move higher in inflation (to 2.3% Y/Y) shifted the spread back deep into the red, with over 60 bps of negative real yield right now.
+
+Nonetheless, lower yields (and negative real yields) don't tell the full story. There's more into it...
+
+Over half of the US yield curve is inverted again.
+
+There is nothing new about this, and we've been there already last year, without anything bad happening then after. Nonetheless, it's worthwhile mentioning it for two reasons:
+
+1. This is now happening along with the extremely unwelcome addition of the coronavirus. The negative effect of the deadly virus on GDP growth, both in China (MCHI, FXI) but also globally, shouldn't be taken lightly.
+
+2. An inverted yield curve is never a positive sign. Usually, it's a discouraging signal regarding the strength of the economy.
+
+Just like the "The Boy Who Cried Wolf" story, you don't want to call an inverted yield curve too many times a false alarm because eventually - it will be (signalling) the real thing - a bad wolf, aka recession.
+
+The St. Louis Fed is the one that actually provided some insight regarding the relationship between the length of a recession to the real rate that exists when a yield curve inverts. In short, the higher the real interest rate when the yield curve inverts, the shorter the expected recession.
+
+Back on August 27, 2019, when the 2-10 Yield Curve inverted, the real interest rate was -0.06%. As we've shown above, it's now 10x more negative (inverted) than it was back then.
+
+In more simple words, if this historical pattern holds, the next recession ain't gonna be a short-lived episode.
+
+While the main indices - S&P 500 (SPY), NASDAQ 100 (QQQ), and Dow Jones Industrial Average (DIA) - are still within a hair from their respective all-time highs, bonds keep sending negative signals to investors.
+
+Having said that and in order to put things into perspective, the recent outbreak of coronavirus in China has had a meaningful impact on bonds as flows into safe-haven assets drove yields lower.
+
+These declines (in yields) are similar to past such outbreaks/episodes (SARS, H1N1, H7N9) that historically proved to be short-lived. If this time is no different, at least from the bonds perspective, things should calm down in about 3-4 weeks.
+
+But can we be sure that this time is no different?...
+
+Disclosure: I/we have no positions in any stocks mentioned, and no plans to initiate any positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.

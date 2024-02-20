@@ -1,0 +1,21 @@
+CANADA: How Canadian researchers are using data to track the spread of the coronavirus 
+ TORONTO — Researchers are making advances in tracking the trajectory of viral illnesses like the emerging coronavirus, as they try to stay ahead of any potential threat to Canada. 
+
+
+A Toronto doctor who specializes in infectious diseases says his medical analytics company has been tracking the newly identified coronavirus since first detecting signs of an outbreak near the central Chinese city of Wuhan on Dec. 31.
+
+
+The virus has since killed at least 17 people and infected more than 500 in China and has spread to other countries, including one case in the U.S. There have been no confirmed cases in Canada.
+
+
+Dr. Kamran Khan, the founder and CEO of Bluedot, says its AI-powered system uses billions of data points, including flight patterns and news reports, to track how viruses spread through the global transportation network and predict regions that are at the highest risk of an outbreak.
+
+
+He notes that 80 per cent of travellers from Wuhan to Canada are headed for Toronto and Vancouver, but adds that there are no non-stop flights from the Chinese city, which means the volume of travel is relatively low.
+
+
+He says public-health officials have more access to information than ever before, but uncertainty remains about the size of the epidemic and how efficiently the virus is transmitted from person to person.
+
+
+
+The Canadian Press

@@ -1,0 +1,290 @@
+Marsh & McLennan (MMC) Q4 2019 Earnings Call Transcript 
+ Image source: The Motley Fool.
+
+
+
+Marsh  McLennan (NYSE:MMC)
+Q4 2019 Earnings Call
+Jan 30, 2020, 8:30 a.m. ET
+Contents:
+  Prepared Remarks
+ Questions and Answers
+ Call Participants
+ 
+ Prepared Remarks:
+ 
+ Operator
+Welcome to Marsh  McLennan Companies conference call. Today's conference is being recorded. Fourth-quarter 2019 financial results and supplemental information were issued earlier this morning. They are available on the company's website at www.mmc.com.
+ Please note that remarks made today may include forward-looking statements. Forward-looking statements are subject to risks and uncertainties, and a variety of factors may cause actual results to differ materially from those contemplated by such statements. For a more detailed discussion of those factors, please refer to our earnings release for this quarter and to our most recent SEC filings, including our most recent Form 10-K, all of which are available on the MMC website. During the call today, we may also discuss certain non-GAAP financial measures.
+ For a reconciliation of those measures to the most closely comparable GAAP measures, please refer to the schedule in today's earnings release. I will now turn the conference over to Dan Glaser, president and CEO of Marsh  McLennan Companies.
+Dan Glaser -- President and Chief Executive Officer
+ Thanks, Holly. Good morning, and thank you for joining us to discuss our fourth-quarter results reported earlier today. I'm Dan Glaser, president and CEO of Marsh  McLennan. Joining me on the call today is Mark McGivney, our CFO; and the CEOs of our businesses: John Doyle of Marsh, Peter Hearn of Guy Carpenter, Martine Ferland of Mercer, and Scott McDonald of Oliver Wyman.
+ Also with us this morning is Sarah Dewitt, head of investor relations. 2019 was a remarkable year for Marsh  McLennan. We completed the acquisition of JLT, the largest deal in our history while delivering strong financial results and managing the global integration. MMC is well-positioned.
+Our talent, capabilities, expertise and leadership has never been stronger. The addition of world-class talented JLT complements our best-in-class teams in Marsh  McLennan. And while we still have work to do, we feel good about how the cultures are coming together. Nearly all our teams are now sitting together.
+ And more and more, we are in the market working as one. We finished the year with revenue of $16.7 billion, up 11%. This represents our highest annual top-line growth in 20 years and is a step change for us. On a run-rate basis, we now have over $17 billion of annual revenue.
+ We had an excellent year and are pleased that in the midst of the integration, we generated underlying growth of 4%, the tenth year in a row where our underlying growth was in the 3% to 5% range, 14% adjusted NOI growth, 110 basis points of adjusted margin expansion and 7% adjusted EPS growth, consistent with our guidance of modest dilution in the first year of the deal. We met our capital management objectives to reduce our share count and increase our dividend by double digits, and we are running ahead of schedule on acquisition-related cost savings. We now expect run-rate savings of at least $350 million, and we will continue to drive for additional operating efficiencies. Overall, I am pleased with our performance in 2019.
+ We consistently challenge ourselves to balance delivering for today while positioning for sustained growth in the future, even in an exceptional year like 2019. We continue to invest in Marsh  McLennan Agency, our fast-growing U.S. middle-market brokerage business, completing five acquisitions in 2019, resulting in current run-rate revenue of $1.7 billion, and we have a robust pipeline for 2020. We made additional investments in digital, technology and analytics.
+ We see further opportunities to leverage technology to expand in small commercial, as well as streamline and automate our business. We also see increasing opportunity to leverage the collective strength, expertise and relationships across our businesses to deliver enhanced value to clients and drive growth. Lastly, 2019 saw the seamless transition of leadership at Mercer with Martine taking over as CEO. Martine moved quickly to install new leadership in key areas, energize the workforce and implement changes that streamline the operating model, create more efficiency and enable better execution.
+ As we conclude 2019, we emerge a stronger firm than we started out the year with record revenue, record adjusted operating income and record adjusted earnings per share. As we look to the future, there is significant uncertainty in the world, given current global issues like geopolitical risk, negative interest rates, trade friction, extreme weather and climate change, pandemic risk and cyber risk. We come to the fore in these dynamic times by providing trusted support to our clients in the areas of risk, strategy and people. Marsh  McLennan provided thought leadership on key global issues at the world economic forum in Davos.
+ This marks the 15th consecutive year we produced the annual global risk report, together with the world economic forum. The report ranks the top global risks. And this year, climate- and weather-related risk created the greatest concern. Climate change was the most prominent issue discussed at Davos, and there is growing recognition of the urgency of both mitigation and adaptation.
+ We are engaged with our clients across all of our businesses on helping them assess the impact of the change in climate. Mercer and Oliver Wyman led sessions on general quality, longevity, responsible investment and AI readiness. Despite all the uncertainty in the world, I am optimistic. Business leaders continue to push for growth and investment despite near-term risks and fears about the longer-term implications of climate change.
+ The perspectives and insights we provide on these topics are a reminder of the uniqueness of MMC and the value we bring to our clients. Let me spend a moment on current PC insurance pricing trends. Pricing is firming across a wide range of geographies and lines. The Marsh Global Insurance market index saw an increase of nearly 11% in the fourth quarter compared with 8% in the third quarter, 6% in the second quarter and 3% in the first.
+ Global property insurance and financial and professional lines saw the highest average renewal rate increases at 13% and 18%, respectively. Casualty rates are up 3% on average, up slightly versus the third quarter. Commercial auto and excess casualty continue to see rates rising, while workers' comp continues to see rates decline. Note that the Marsh Index skews to larger risks which are seeing higher increases, although middle market and small commercial insurance rates are up in certain geographies.
+ Turning to reinsurance, the Guy Carpenter Global Property Catastrophe Rate-On-Line Index rose by 5% at the January 1 renewals. Total dedicated reinsurance capital increased by approximately 2% at year end. Although renewal outcomes vary widely across individual programs, capacity is tightened in some stressed classes by commercial auto, DO, medical professional and general liability. The retrocessional market continues to see meaningful increases in rates at January 1, driven, in part, by trapped capital, a lack of new alternative capital entrants and continued redemptions from third-party investors.
+ The overall global PC insurance market is challenging, and we continue to work hard to deliver the best solutions for our clients. It is in times like these where our expertise and capabilities shine. Turning to the fourth quarter, we are pleased with our results. Our overall revenue growth in the quarter was 15%.
+ Underlying revenue grew 3% with growth in both segments. Marsh grew 3% in the quarter on an underlying basis which is solid but slower than the prior quarter, as expected, due to a peak headwind on new business and a tough comparison to the fourth quarter of 2018. Guy Carpenter finished the year strong with 10% underlying revenue growth in the quarter. Mercer delivered 4% underlying revenue growth in the quarter, the strongest growth since the first quarter of 2018.
+ And Oliver Wyman declined by 2%, as we expected. The overall fourth quarter saw a strong adjusted operating margin expansion of 100 basis points and adjusted operating income growth of 17%. As we consistently say, it is important not to overemphasize a single quarter and rather look at performance over longer periods of time. Looking at the full year, we are pleased with our results.
+ We generated strong overall revenue growth of 11% for the full year with 4% underlying growth. We demonstrated top-line strength across our businesses while achieving the initial benefits of the integration. On an underlying basis, Marsh delivered solid growth of 4% for the second consecutive year. Guy Carpenter had strong year with 5% growth.
+ Mercer had 2% growth, and Oliver Wyman grew 6% for the year despite the pullback in the fourth quarter. Our adjusted NOI grew 14% with overall margin expansion of 110 basis points for the year, marking the 12th consecutive year we have reported margin expansion. Adjusted EPS grew 7% or 8% on a constant-currency basis, consistent with our guidance of modest adjusted EPS dilution in the first year of the JLT acquisition. In sum, 2019 was an example of strong overall execution on multiple levels.
+ As we look to 2020 and beyond, our future is bright. The addition of JLT enhances our competitive position. We are increasingly bringing our collective strength to clients, and we expect to see benefits from our investments in digital and technology. In 2020, we expect underlying revenue growth in the 3% to 5% range, margin expansion and strong adjusted EPS growth.
+ With that, let me turn it over to Mark for a more detailed review of our results. 
+Mark McGivney -- Chief Financial Officer
+ Thank you, Dan, and good morning. We are pleased with our fourth-quarter results which capped a strong year in 2019. Consolidated revenue increased 15% in the quarter to $4.3 billion, reflecting underlying growth of 3% and the continued contribution from JLT. Operating income was $592 million, while adjusted operating income rose 17% to $856 million.
+ Our adjusted operating margin increased 100 basis points to 21.9%. GAAP EPS rose to $0.76, and adjusted EPS increased 9% to $1.19. Looking at risk and insurance services, fourth-quarter revenue grew 24% to $2.4 billion and was up 3% on an underlying basis, a good result, considering the tough comparison Marsh faced with strong fourth quarter in 2018 and the fact that Q4 was JLT's seasonally largest quarter. Adjusted operating income increased 31% to $550 million, and the adjusted margin expanded 200 basis points to 25.7%.
+ For the year, revenue was $9.6 billion, an increase of 17% with solid underlying growth of 4%. Adjusted operating income for the year was up an impressive 17%, and our adjusted operating margin in RIS increased 50 basis points to 26.3%. At Marsh, revenue in the quarter rose 23% to $2.2 billion, increasing 3% on an underlying basis. The U.S./Canada division, underlying growth was 4% for the quarter and 5% for the full year.
+ This marks the seventh consecutive quarter of 4% or higher underlying growth for U.S./Canada. In the quarter, the international division had underlying growth of 1% with Asia Pacific, up 7%; Latin America, up 2%; and EMEA, down 1%. For the full year, revenue at Marsh was $8 billion, an increase of 17% or 4% on an underlying basis. Guy Carpenter's revenue was $152 million, an increase of 10% on an underlying basis for the quarter, representing an outstanding finish to a strong year.
+ The growth in the quarter benefited from strong results in North America, as well as growth in retrocessional, and an active quarter for GC security. For the year, revenue was $1.5 billion, an increase of 15% or 5% on an underlying basis. In the consulting segment, fourth-quarter revenue increased 4% to $1.9 billion with underlying growth of 2%. Consulting's adjusted operating income was flat year over year at $359 million, and the adjusted operating margin of 19.7% declined 60 basis points versus a year ago.
+ But looking at the full year, margin expansion was solid. For the year, revenue was $7.1 billion, an increase of 5% with underlying growth of 3%. Adjusted operating income for the year was up 9% to $1.3 billion, and our adjusted operating margin increased 90 basis points to 18.6%. Mercer's revenue increased 8% in the quarter to $1.3 billion with underlying growth of 4%.
+ Wealth increased 2% on an underlying basis with investment management up high single digits; and defined benefit, down low single digits. Our overall assets under management continued to grow, and at year end, exceeded $305 billion, up 5% sequentially and 26% year over year. Health revenue grew 6% on an underlying basis in the fourth quarter, reflecting strong growth in both international and the U.S. Career grew 4% on an underlying basis with strong growth in the surveying products and digital implementation.
+ For the year, revenue at Mercer was $5 billion, an increase of 6% or 2% on an underlying basis. Oliver Wyman's revenue in fourth quarter was $559 million, a decline of 2% on an underlying basis. As we said on our last call, we expected a pullback in the fourth quarter. For the full year, Oliver Wyman produced strong underlying revenue growth, 6%.
+ We made great progress in 2019 on the JLT integration and are on plan or ahead of schedule on key milestones. We continue to expect the transaction will be modestly dilutive to adjusted EPS in the first year, neutral in year two and accretive in year three. We are ahead of schedule on cost savings and restructuring actions. We now estimate run-rate savings of at least $350 million.
+ We expect to incur approximately $625 million of cash costs to generate those savings. In addition, there will be approximately $75 million of noncash charges, mostly property-related costs, as we consolidate our real estate footprint. We achieved approximately $125 million in savings through year-end 2019 and expect to achieve the balance by the end of 2021. We also incurred $335 million of JLT integration and restructuring costs in 2019 to achieve these savings as our expectation is the bulk of the remaining costs will be incurred in 2020 with a more modest amount extending into 2021.
+ This update reflects the plans we have today. As we continue to get deeper into the integration, there is a possibility for more savings opportunities to emerge. As we look to the first quarter of 2020, keep in mind this is the last quarter where our year-over-year comparisons are impacted by JLT. Remember, in RIS, the first quarter is seasonally small for JLT.
+ In addition, JLT's employee benefits margins are relatively low in the first quarter, and we expect this, along with some quarterly volatility, will result in a decline in first-quarter consulting margins. However, for the full year, as Dan mentioned, we expect strong earnings growth, consolidated adjusted operating margin expansion. Turning back to the fourth quarter. Adjusted corporate expense was $53 million in the quarter.
+ In the fourth quarter, we recorded $264 million of noteworthy items, the majority of which are related to the JLT acquisition. Included in the total are $143 million of JLT integration costs, the largest category of which is severance; $17 million of JLT acquisition-related costs; $56 million of other restructuring costs; and $42 million of earn-out true-ups relating to prior acquisitions. As we typically do on our fourth quarter call, I will give a brief update on our global retirement plan. Cash contributions to our global defined benefit plans were $122 million in 2019, up slightly from the $112 million in 2018.
+ We expect cash contributions in 2020 will be roughly $160 million. For 2020, we anticipate our other net benefit credit will be slightly lower than in 2019. Based on current expectations, we would assume roughly $264 million for this item in 2020. Investment income was $2 million in the fourth quarter for both GAAP and adjusted results.
+ For the full-year 2019, our GAAP investment income was $22 million, and adjusted investment income was approximately $12 million. For 2020, we expect only modest investment income on an adjusted basis. Foreign exchange was a slight headwind to adjusted EPS in the quarter, and it had $0.05 per-share negative impact for the full-year 2019. Assuming exchange rates remain at current levels, we expect FX to be a slight headwind to adjusted EPS for 2020.
+ Our effective adjusted tax rate in the fourth quarter was 23.4%, compared with 23.6% in the fourth quarter last year. For the full-year 2019, our adjusted tax rate was 24.1%. Excluding discrete items, our adjusted tax rate for the full year was approximately 26%. When we give forward guidance around our tax rate, we do not project discrete items, which can be positive or negative.
+ Based on the current environment, it is reasonable to assume a tax rate between 25% and 26% for 2020. In the fourth quarter, we repurchased 1.8 million shares of our stock for $185 million. For the full-year 2019, we repurchased 4.8 million shares for $485 million. Total debt at the end of 2019 was $12 billion, compared with $12.6 billion at the end of the third quarter.
+ Next debt maturity is in March 2020 when $500 million of senior notes will mature. During the fourth quarter, we incurred $130 million of interest expense. We expect approximately the same amount in the first quarter of 2020. As we look to 2020, the framework for capital management we discussed in the early stages of JLT is still on track.
+ This year, we currently expect to deploy approximately $2.6 billion to $2.9 billion of capital across three broad categories: debt reduction; dividend, in line with our objective of double-digit increases annually; and a combination of acquisitions and share repurchases. Directionally, we currently expect the amount of capital deployed to be roughly equivalent across these three categories. This plan allows us to maintain our dividend growth objectives and meet the commitments for deleveraging we laid out when we announced JLT. It also provides flexibility for MA.
+ We've consistently stated that we favor attractive acquisitions over share repurchases as we view high-quality acquisitions as the better value creator for shareholders and the company over the long term. Our track record is good, as evidenced by our return on invested capital of nearly 20% over the last three years. Given our deleveraging plan and our acquisition pipeline, we currently do not expect any share repurchases in the first half of 2020. Ultimately, share repurchases later in the year will depend on how the MA pipeline develops.
+ Our deleveraging should be largely complete by the end of this year, and we expect to have substantial flexibility in terms of capital deployment in 2021 and beyond. Our cash position at the end of the fourth quarter was $1.2 billion. Uses of cash in the fourth quarter totaled $444 million and included $24 million for acquisitions, $235 million for dividends and $185 million for share repurchases. For the full-year 2019, uses of cash totaled $7.5 billion and included $6.1 billion for acquisitions, $890 million for dividends and $485 million for share repurchase.
+ In summary, we are proud of what we accomplished in 2019. We are very much on track with the objectives we set when we announced the JLT acquisition. And as we look forward to 2020, our outlook is for another year of strong performance. With that, I'm happy to hand it back to Dan.
+Dan Glaser -- President and Chief Executive Officer
+ Thanks, Mark. Operator, we are ready to begin QA.
+ Questions  Answers:
+
+ Operator
+[Operator instructions] We will take our first question today from Elyse Greenspan of Wells Fargo. Please go ahead.
+Elyse Greenspan -- Wells Fargo Securities -- Analyst
+ Hi. Thanks. Good morning. So my first question, you guys updated the savings program for JLT today.
+ It also seems like intangibles are coming in a good amount lower than when you guys had announced this deal. So I'm just trying to, I guess, get from that, that you have these two tailwinds to your numbers, and you still are reaffirming, I guess, that the deal will be breakeven in 2020 and accretive in 2021. So what's the offset relative to your initial expectations that this deal might not be accretive sooner than you had expected?
+Dan Glaser -- President and Chief Executive Officer
+ No. Actually, it's going to be, Elyse, accretive, consistent with our original expectations. And so the deal of this size, there's always a number of puts and takes. And as you mentioned, we think the cost savings are higher.
+ We think the amortization is lower, but we also needed to divest some businesses, principally aerospace, but also some minority interest in other businesses, like CRP, here in the U.S., which we did not anticipate going into the transaction. And so -- and we also have some revenue headwinds that we had described before. Whether that was from new business pipeline issues or some staff inspections, those are things that we're grappling with. So you put it all together, and the deal is tracking in line with our original expectations.
+ And our original expectations, I'll just remind everybody, were really good. That was going to be a good, solid financial transaction, which was also very strategic in nature for Marsh  McLennan as a company. And when we talk about things like accretion and dilution, it's always a level of how we're growing. So we expect 2020 to be a strong year in adjusted EPS growth, and that's what breakeven means to us.
+Elyse Greenspan -- Wells Fargo Securities -- Analyst
+ OK. That's helpful. And then my second question, on last quarter's call, you guys had alluded to the overall margin for the company expanding more than the year-to-date level. It seems like the fourth quarter came in a little bit below your expectations.
+ Was that just maybe a little bit weaker consulting margin? Just trying to understand what happened in the fourth quarter as we kind of think about the level of margin improvement going forward.
+Dan Glaser -- President and Chief Executive Officer
+ We focus very much on earnings growth and top-line growth much more than we do on margin, and we certainly don't really pay much attention to any one single quarter. We were satisfied for the year with 110 bps, and the fourth quarter was pretty consistent to the year. There's always a lot going on in all of our businesses. And so it's not that we look at one versus the other as in any way coming up short of what our expectations were.
+ I mean, when I look at margins, in general, for the company, 2019 is going to be our 12th consecutive year of margin expansion and really significant levels of margin expansion. You go back a decade, and we're up by 1,300 bps. You go back five years, we're up 450 bps plus in both segments and as a company. And so -- but just to go back, I wouldn't look at any one quarter as being indicative.
+ You need to look at longer periods of time. And margin expansion, for us, is an outcome of how we run the business, which is revenue growth almost always exceed expense growth. And that will give us margin expansion over time. And the only areas that we were really driving for some margin this year was in RIS, in parts of the portfolio, particularly, in Guy Carpenter that we felt we needed to adjust JLT to just more similar margin levels than what we had normally been operating within as Marsh  McLennan.
+ Next question, please.
+Operator
+Our next question comes from Mike Zaremski of Credit Suisse. Please go ahead. Your line is open.
+Mike Zaremski -- Credit Suisse -- Analyst
+ Good morning. First question regarding the risk and insurance segment. Looking at the EMEA segment, growth there has been, let's call it, very, very low single digits for the past couple of years. Is that a pace that we should kind of -- any color, is that a patient, maybe, we should expect thinking about into this year? And then I guess, also, LatAm growth, also just a little bit weaker in the second half of the year.
+ Anything going on there and just thinking out till 2020?
+Dan Glaser -- President and Chief Executive Officer
+ So I'll take it a little bit, and then I'll hand over to John. Overall, we believe we're set up well in both EMEA and Latin America for future growth, not even in -- not only in 2020, but beyond. Obviously, EMEA includes the U.K., which has been our biggest area of overlap with JLT and where we knew we're going to be a bit choppy for a while. And so that's essentially when we look at the business, we unpack the different component parts of EMEA.
+ But, John, do you want to add more to that?
+John Doyle -- Chief Executive Officer, Marsh
+ Sure, Dan. Thanks. Big picture, 23% GAAP growth in the quarter. It is very, very big growth, 17% for the full year, 4% underlying growth for the full year.
+ So I was pleased with the results. As Dan noted, as we expected, in the U.K., the underlying growth was impacted by integration-related headwinds, and some first-quarter challenges remain. But I will say I'm encouraged by improvements in the underlying performance in the U.K. We made some leadership changes now about 18 months ago in the U.K., and they're setting the foundation for stronger growth going forward.
+ And in Latin America, as I noted in the last call, again, integration-related challenges, they'll persist through the first quarter. But Latin America remains a high-growth region for us. So for the second quarter on, expect improved results there. And again, I wanted to say, I'm pleased overall with the growth.
+ I'm quite proud of the team. We managed through a lot of change throughout all of 2019, and we maintained our focus on serving our clients in what's an increasingly challenging market as well. As Dan noted, we're a stronger team entering 2020. JLT is obviously a big part of that, but we also added Wortham in the year '18 and did a lot of work on integration of Wortham last year.
+ And we added two top 100 firms in the United States to MMA as well. So I'm quite excited about the team and how we're positioned as we enter 2020.
+Dan Glaser -- President and Chief Executive Officer
+ You got another one, Mike?
+Mike Zaremski -- Credit Suisse -- Analyst
+ That's helpful. Yes. Lastly, sticking on the brokerage space. Dan, in your prepared remarks, I think you said it was a challenging marketplace.
+ I assume you're referring to what's maybe become "a hard market." And you can correct me if I'm wrong. Just curious, does this challenging market also put a little bit pressure on Marsh's expense base, given your employees are working potentially even harder to represent their clients in this marketplace?
+Dan Glaser -- President and Chief Executive Officer
+ We're built to operate well across cycles, and, I mean, the -- I wouldn't necessarily classify the entire market is a hard market. It's certainly hard in pockets. And it's certainly true, as you noted, that Marsh and Guy Carpenter brokers have to run a lot harder to get things done and have to work really hard and creatively in order to serve clients in these challenging market conditions. And so we recognize that.
+ We don't believe that that puts any overpressure on our expense levels, more than the fact that we recognize that our people are working harder than ever before. And we appreciate that, and we reward them for it. But our teams are driven by serving clients, and so that's what their focus is. So they're out there hustling, not in the belief that somehow their compensation or anything else is going to change, it's actually that they're focused on delivering for their clients.
+ Next question, please.
+Operator
+Our next question today comes from Ryan Tunis of Autonomous Research. Please go ahead.
+Ryan Tunis -- Autonomous Research -- Analyst
+ Yes. Thanks. Good morning. Dan, I guess I was hoping maybe you might be able to quantify perhaps the type of drags you think right now the organic revenue growth rate is feeling because of, I want to say, disruption because of the JLT integration process? And was that worse this quarter than the third quarter? Is it still getting worse? Or is the magnitude of that lessening going forward?
+Dan Glaser -- President and Chief Executive Officer
+ Well, let me talk about that broadly because I think it's a good question. First of all, I'd start with the basis. When I look at our underlying growth, I'm pleased with 3% in the quarter, and I'm really pleased with 4% for the year. If you look at the quarter, Guy Carpenter had a terrific quarter and a strong year, top and bottom line; Oliver Wyman, as expected, they had a tough quarter but 6% for the year; Mercer, 4%, solid for the fourth quarter and sequentially improving throughout the year.
+ And again, Marsh, I'm pleased with the 3%, given, as we told you, there were some tough comps, both from Marsh's performance last year in the fourth quarter but also JLT's performance in the fourth quarter and the new business hurdle, which was a very big new business quarter for JLT last year. We had talked to you about the pipeline issues throughout the year. And so in the context of the largest acquisition in our history, I'm quite happy with the underlying growth level. Although I just want to take another minute to talk about growth a little bit more because I understand the way you're looking at it.
+ It's not the way I look at it. From my perspective, we've had a tremendous growth year on multiple levels, and we have significantly outgrown our competitors. We've outgrown our competitors in capabilities, in talent, our headcount of 10,000 people from this time last year. We've outgrown our competitors in revenue and the number of clients, and it all starts with GAAP.
+ There are certain times where GAAP is more important than underlying. And I think this year was one of those times. I mean, our total revenue is up 11% in 2019 and 15% in the fourth quarter. We look at RIS, RIS grew 24% in the fourth quarter.
+ We've been at it for 148 years. If it grows 24% in the quarter at a firm like ours, it's something. And as John was alluding to before, you need to look specifically in Marsh. Latin America was up 15% in the year; Asia Pacific, 39%; EMEA, 16%, all in 2019.
+ And our base and our trajectory will be better for years and years to come as a result of the remarkable year we had in 2019 on a growth basis. If you have something else, Ryan?
+Ryan Tunis -- Autonomous Research -- Analyst
+ Yes, yes. Just -- I guess, just on U.S./Canada organic, a little bit of deceleration there, and kind of just curious for your perspective into 2020 thinking about the market conditions. Like does it doesn't seem to be a tailwind? How are you thinking about how all that comes together?
+Dan Glaser -- President and Chief Executive Officer
+ I mean, U.S./Canada performance has been terrific the last couple of years. But, John, do you want to talk about that a little bit more?
+John Doyle -- Chief Executive Officer, Marsh
+ Yes. I'm quite pleased with our team, Ryan, in the U.S. and Canada. We had a terrific year this year.
+ I would also remind you that we had 7% organic growth last year in -- the underlying growth in the fourth quarter. Both MMA and Marsh had terrific years. We also had a very good finish to the year in Canada and quite a strong year there as well. Our MGA operations in the U.S.
+ are performing quite well as well. Our private client business did quite well from a growth perspective. On the specialty front, we had good growth in our credit specialties. Our private equity business, aviation did well, and the transaction risk and cyber are a couple of products that are growing nicely at the moment.
+Ryan Tunis -- Autonomous Research -- Analyst
+ Thank you.
+Dan Glaser -- President and Chief Executive Officer
+ Next question, please.
+Operator
+The next question comes from Michael Phillips of Morgan Stanley. Please go ahead.
+Michael Phillips -- Morgan Stanley -- Analyst
+ Yes. Thank you. Good morning, everybody. I was just curious, Dan, on your thoughts on how much -- I guess, at a very high level, how much do you think there's more room to go on the legs of the PC overall pricing environment? I mean, is that going to peak? Do you say, I guess, a peak time for maybe by the end of this year? Or how much more room do you think there is to grow on the overall environment for pricing?
+Dan Glaser -- President and Chief Executive Officer
+ That's a $64 question. I mean, at the end, you've got different things at work. I think you've got many insurance companies who are dissatisfied with the results they have achieved financially over the last several years, and so there was a factor impacting many companies at the same time. And they've got a little blood in the eye, and they are looking to get back to a better position.
+ You also have the thoughts around social inflation and how real that is and how it's impacting their book. As it rolls forward, you have pressures on the reinsurance side. And I'll go to John and Peter in a minute to give a little bit more, but there is pressure on the reinsurance side, which may build throughout the year, which will put some pressure on primary carriers. And so ultimately, it's a matter of what's the loss activity and the premium levels will, over time, reflect, whether it's in a benign environment or whether it's a harsh one.
+ I mean, certainly, when I think about this year, I look at the level of catastrophe potential. And if it's a tough cat year, really, we're in for quite a ride. If it's a benign year in the Southeast, particularly, well, maybe some of the window is out of the cell. But I also think a lot has to do with how casualty develops.
+ But why don't we start with the primary? And John -- and then we'll go to reinsurance, just to talk more broadly about market conditions and maybe if we have any prognosis. But, John?
+John Doyle -- Chief Executive Officer, Marsh
+ For me, it's an earnings-driven market change, for sure. Dan talked about some of the trends continuing into the first quarter. There continues to be a very wide range of outcomes in markets around the world. I don't consider it a hard market, although it's certainly become more challenging for our clients.
+ On a geography basis, Australia, the U.S. and U.K. wholesale are seeing the largest increases. In the U.S., it's about 10% and going for the high teens average rate increase in Australia.
+ In Asia, Continental Europe, Middle East, Latin America, U.K. retail, more mid-single-digit price increases. You look at it from a product perspective, Dan, there, property is up 13% globally; financial lines, up 17%, meaningful increases there; family, up 3%, where we see a real mix where comp continues to be down. Excess liability, though, particularly in certain classes of business, are quite stressed at the moment.
+ And public PL, particularly in the United States and Australia, are a couple of classes that are most challenging. I would note, Dan talked about this, again, but our index skews the large accounts. The middle market is flat to low single digits in many markets -- in most markets around the world, but we're continuing to hear from underwriters. They're concerned about rising loss cost, as Dan noted; social inflation; or the impact of litigation funding on the claim environment.
+ We're also observing and working with our clients through some challenging verdicts and large settlements in pharma, in chemicals and commercial auto and in PL. So there is no question. There's some stress in the loss environment, and it's difficult to predict where markets will head, but there are some storm on underwriting.
+Dan Glaser -- President and Chief Executive Officer
+ Peter?
+Peter Hearn -- Chief Executive Officer, Guy Carpenter
+ I think from a reinsurance standpoint, the market is responding very responsibly. And it's really been a function at one-one, the pricing and the renewals were largely shaped by a couple of factors, deteriorating loss experience, a lack of new alternative capital and increasing challenges in the environment with regard to primary insurance and retrocessional markets. There's a wide span of pricing. Some was flat to down in certain geographies.
+ In others, it was up significantly. The retrocessional market, we saw increases of between 15% and 20%. But I don't believe the market -- the reinsurance business is hard. I think it's more expensive, but it certainly isn't a hard market, which we define as at any price, you can't generate traction.
+Michael Phillips -- Morgan Stanley -- Analyst
+ Thanks.
+Dan Glaser -- President and Chief Executive Officer
+ Mike, do you have a follow-up?
+Michael Phillips -- Morgan Stanley -- Analyst
+ No. Thank you, all, for your thoughts. Appreciate it.
+Dan Glaser -- President and Chief Executive Officer
+ OK. Thank you. Next question, please.
+Operator
+Our next question comes from Meyer Shields of KBW. Please go ahead.
+Meyer Shields -- KBW -- Analyst
+ Great. Thanks. Dan, you've been very upfront about the fact that when you worked on the merger, you anticipated some level of producer and client outflow. And I'm wondering, if we look forward to 2020, is there any margin pressure? Because in 2019, overly simplistically, you had revenues associated with people that had left the firm?
+Dan Glaser -- President and Chief Executive Officer
+ It's a good question. But our anticipation, as I was mentioning before, there's always a lot of puts and takes in the transaction of this size and geographic breadth. And as we look to 2020, we expect to expand margins as Marsh  McLennan. And so we think that it will be our 13th consecutive year of margin expansion, and we think we'll have a strong year in the adjusted EPS.
+ I would say when we went into the transaction, big people business combination, we expected some level of defection. And so when we sit here today and we look at where we are, even though there are some people who left the firm who we would have preferred not leave the firm, we're in good shape. Where we had the most significant levels of leavers would be, let's say, in London, in the U.K. market in London.
+ Well, we are strong in London. We were strong, and we are stronger today, and more people by a very, very wide majority stayed rather than left. And so we're in great shape from that perspective. And so when I mentioned 10,000 additional headcount.
+ And they are smart, hardworking, talented people, which will deliver a lot of value for us into the future. And our ability in a place like London to regenerate ourselves using our existing capability, the JLT addition and then going into the market to replace some people who had left, our ability to regenerate half talent in London is among the highest places in the world. And so it's not something that's anything more than short term.
+John Doyle -- Chief Executive Officer, Marsh
+ And I would also note that the voluntary turnover rate at legacy Marsh was the best it's been since collected the data. So from that perspective, it's quite a stable year from talent perspective.
+Meyer Shields -- KBW -- Analyst
+ Yes. Just a quick one. So in the breakdown by segment, there was an 8%, I guess, hit to Guy Carpenter's revenue from a divestiture. Is that going to persist for the next few quarters?
+Dan Glaser -- President and Chief Executive Officer
+ Mark, why don't you take that?
+Mark McGivney -- Chief Financial Officer
+ Meyer, on that schedule, you'll see that column heading, it's Acquisitions and Positions in Others. So from time to time, we'll have just changes in mapping of businesses or other things that we use that column to just to make sure that year-over-year comparisons are apples to apples. There was no divestiture in Guy Carpenter, really was just comparability adjustments. And the fact that Guy Carpenter's revenue base was so small in the quarter, it just magnified that.
+ There should be no ongoing impact from that.
+Dan Glaser -- President and Chief Executive Officer
+ Next question, please.
+Operator
+Our next question comes from Jimmy Bhullar of JP Morgan. Please go ahead.
+Jimmy Bhullar -- J.P. Morgan -- Analyst
+ Hi. Good morning. So just a question, first, on Oliver Wyman and the weakness there. I think organic growth slowed the last couple of quarters.
+ How much of that is just normal volatility in the business versus maybe shifts in spending on the part of your clients?
+Dan Glaser -- President and Chief Executive Officer
+ Yes. So a couple of things. I've mentioned in the past that Oliver Wyman has more volatility on the top line than our other businesses because they have less recurring revenue, but they actually had a strong year through nine months, and we had anticipated some slowdown in the fourth quarter. But Scott, do you want to give more detail?
+Scott McDonald -- Chief Executive Officer, Oliver Wyman
+ Sure. We definitely had a weak Q4, but there was really nothing significant that happened. And the result was driven by three things. The first was some project movement from quarter to quarter, which regularly happens with us and drives some volatility.
+ You can see that coming in Q4, and we signaled a little bit of a pullback on our last call. The second thing was we did have a solid Q4 last year, where we grew 7%. And the third thing was we did see a modest, but what feels very much like a temporary, slowdown in a couple of markets in Q4. So broadly, the business was strong across sectors, but both Europe and Asia showed some weakness, primarily in the financial services business.
+ But that feels like it was temporary. And the Q4 result, it hasn't changed our medium-term expectations. We continue to plan for mid- to high single-digit revenue build over time. And for the time being, at least, demand for consulting services feels solid across sectors and across regions.
+Jimmy Bhullar -- J.P. Morgan -- Analyst
+ Thanks. And --
+Dan Glaser -- President and Chief Executive Officer
+ Do you have a follow-up, Jimmy?
+Jimmy Bhullar -- J.P. Morgan -- Analyst
+ Secondly, on Guy Carpenter in the second -- each of the past couple of quarters, you've had double-digit growth. And those are obviously the lowest quarters of the year in terms of the base. How much of this is driven just by the small base versus maybe better momentum in the business that could potentially carry into this year?
+Dan Glaser -- President and Chief Executive Officer
+ Thanks. Peter, do you want to --
+Peter Hearn -- Chief Executive Officer, Guy Carpenter
+ Jimmy, its really a combination of both. They are smaller quarters for us, but they're also being driven by good new growth, our third year of record new business wins in the United States in our retrocession business and our Asia-Pacific business. Our facultative business, which we very rarely talk about, has grown significantly. All of those can impact a small quarter, as you've seen in Q3 and 4, but it's more a function of phasing than it is anything else and a very disciplined approach to sales and growth.
+Dan Glaser -- President and Chief Executive Officer
+ We were very pleased with the 5% growth for the year. So next question, please.
+Operator
+Our next question comes from Yaron Kinar of Goldman Sachs. Please go ahead.
+Yaron Kinar -- Goldman Sachs -- Analyst
+ Hi. Good morning. My first question is just around the cost saves from the integration programs. Do you have any sense how much of that $350 million or greater will actually fall to the bottom line versus get reinvested back in the platform?
+Dan Glaser -- President and Chief Executive Officer
+ I mean, general sense is that the majority of it will fall right to the bottom line, and that's how we projected when we originally put things together that. Obviously, earnings will go up, so some of it will go into bonus pools and that sort of thing. But a lot of the efficiency gains that we have developed is because of the investments that Marsh  McLennan made over a number of years. When you think about things like financial systems, we're Oracle 12, everywhere in the world; HR systems, we're Workday, everywhere in the world.
+ We use Salesforce extensively throughout the world. And so we're able to take an organization like JLT and integrate our systems and controls and functions reasonably seamlessly without adding to a lot of our existing cost base in order to do that, and that gives us a lot of benefit and really should not impact the frontline client-facing people all that much. And that's one of the reasons why most of it will drop.
+Yaron Kinar -- Goldman Sachs -- Analyst
+ OK. Understood. And then going back to some of the questions around growth, the 3% to 5% organic growth target that, I think, you've talked about in the past. Just looking one of your peers have been kind of talking about just kind of mid-single digit or better over the long term, and I'm just trying to square the 3% to 5% to that other guidance.
+ Are there structural differences between the two organizations? Was it just more conservative guidance on your part? Are there just near-term headwinds just with the integration now that maybe once you get through those, you do that higher step-up in that organic growth number?
+Dan Glaser -- President and Chief Executive Officer
+ Yes. I'm one of those people who are like you are what your results say you are. And for the last 10 years, we've been in the 3% to 5% organic growth range. I do not believe that we have many competitors.
+ We're a pretty unique company across the breadth of the things we do. Clearly, we have certain formidable competitors in parts of our business. But across all of the things that we do, including Oliver Wyman and some of the strong businesses we have within Mercer, we don't have many direct competitors. But when I look at the competitive landscape, I absolutely believe I wouldn't change our strategic positioning with anybody.
+ I wouldn't exchange our capabilities with anybody or our culture. And there's no reason under the sun to where our revenue growth performance would not be as good or better than any of our competitors over time. Next question, please.
+Operator
+Our next question comes from Larry Greenberg of Janney. Please go ahead.
+Larry Greenberg -- Janney Montgomery Scott -- Analyst
+ Thank you. Not much left to ask, but I guess this is for Mark. Just wondering if maybe the trajectory of expenses has accelerated a bit from earlier, from when you initially gave your guidance on that. I mean, it looked like you -- what you saved in 2019 as a percentage of what you now think is the total is a little bit higher than how you initially walked into this period.
+ And I'm -- so I'm just wondering if that's correct?
+Mark McGivney -- Chief Financial Officer
+ I guess, Larry, just a little bit further on phasing. As I said, we expect to take most of the actions to generate the full $350 million by the end of this year. Just by what I said with the charges, it would be a little bit spilling into 2021. And the savings -- the remainder of savings will come in over the two years, probably more in 2020 than 2021.
+ But as I said earlier, we expect to realize the full impact of the savings by the end of 2021.
+Larry Greenberg -- Janney Montgomery Scott -- Analyst
+ Thanks. That's it.
+Dan Glaser -- President and Chief Executive Officer
+ OK. Thank you.
+Operator
+Our next questions comes from Dave Styblo of Jefferies. Please go ahead.
+Dave Styblo -- Jefferies -- Analyst
+ Hi there. Thanks for the questions. Just want to ask a little bit about capital deployment after 2020. I think you guys are pretty much done with your debt paydown plans.
+ Curious how that affects your thinking for MA after this year. Does that open up in that the possibly of doing something a little bit larger? Or are you guys inclined just to keep things on a more modest basis as you continue to integrate JLT?
+Dan Glaser -- President and Chief Executive Officer
+ We have acquisitions that are a core part of our long-term strategy. We've done something like 175-plus acquisitions since January 1, 2009. We tend to be a balanced company. When we look about -- we put our dividend first.
+ It's sacrosanct. We want to grow it double digit every year. And that's going to be for the sake of argument, look at a number of circa $1 billion for that, which should mean, in most years, 2021 and beyond, roughly a couple of billion dollars to deploy between acquisitions and share repurchase. And as we've said in the past, we favor acquisitions over share repurchase, the very reason we're building a great company.
+ And our focus -- and as we've shown over time, we've been able to do that. You look at Marsh  McLennan Agency in 2009, 0 revenue and no position. And now we've got a terrific platform, $1.7 billion, growing well, good EBITDA margins, etc. We're in a business that we otherwise would not have been in.
+ That's what's called building a company, and we're committed to continuing to do that. And we have all kinds of opportunities across the enterprise, not just in Marsh, but across the firm in order to acquire our way to be a better, stronger, more formidable company in the future. And so when we look at that $2 billion, and our debt to EBITDA at that level will probably be in the low 2s, and so we would have the ability to flex if we needed to, but there's certainly nothing that we're pining for in terms of a larger or mega acquisition. We'll see how the strategy develops over time.
+ But certainly, having circa $3 billion to deploy year after year after year is going to make us one of the great companies of the world.
+Dave Styblo -- Jefferies -- Analyst
+ Right. Got it. OK. And then just a quick housekeeping.
+ I think I heard for the first quarter, given the business mix and so forth, that consulting margins were expected to be down year over year. I don't know if I heard a comment about RIS.
+Dan Glaser -- President and Chief Executive Officer
+ Yes. No. We didn't make a comment specifically about RIS. We wanted to point out consulting because of our visibility to it, and we recognize that consulting has its own attributes.
+ RIS is a different kind of business. And so as you know, the consulting margin declined in the fourth quarter, even though we had a 90-bps improvement for consulting for the year. And so we just wanted to give a heads-up that our expectation was for a decline in the first quarter for a variety of different reasons, which our view is temporary. And when we look at the full year of 2020, we expect it to be our 13th year of consolidated margin expansion for the entire firm.
+Operator
+Our next question comes from Brian Meredith of UBS. Please go ahead.
+Brian Meredith -- UBS -- Analyst
+ Hey, thanks. Just two quick ones here. First, just curious on the EMEA organic revenue growth, the slowdown we had in the fourth quarter. I know you explained.
+ Should we expect it to kind of continue into the first half of 2020 as some of this leadership changes go on?
+Dan Glaser -- President and Chief Executive Officer
+ John, you want to take that?
+John Doyle -- Chief Executive Officer, Marsh
+ Yes. I think the -- Brian, there are still some headwinds in the first quarter, for sure. But as I noted earlier, I think the underlying performance, as we work our way through -- cut through some of the integration-related headwinds, I think we'll see improved performance throughout the rest of the year. And by the way, in the Middle East, a terrific growth year last year; good solid results in Continental Europe as well.
+ So obviously, somewhat hopeful that the U.K. economy will continue to pick up. Now there's more uncertainty around Brexit, so a number of different factors that will ultimately determine where we are. But I'm quite encouraged by how our team is leading through all this change.
+Dan Glaser -- President and Chief Executive Officer
+ And also, just to bear in mind, the new leader in the U.K. is a Marsh veteran. He's worked for the firm for more than 30 years and ran Canada for us, had other big jobs. So it's not like somebody coming in and having to learn the role.
+ He knows the business very well. And as we mentioned in previous calls, when we think about the short and midterm, we are optimistic about Britain. Britain has sort of been through the wringer over the last couple of years, but there's now clarity around Brexit. We've got new leadership in the U.K., where we're in many different businesses, from large account through to small commercial.
+ And we believe it's going to be a great business for us over a stretch of time.
+Brian Meredith -- UBS -- Analyst
+ Great. And then my second question, just hopefully, just a quick one here. Could the coronavirus have any impact on your growth in the fourth quarter, in your Asia-Pacific business, do you think at all?
+Dan Glaser -- President and Chief Executive Officer
+ Yes. I mean, we're monitoring the situation closely, like I'm sure everybody is, and our primary concern is definitely to help our colleagues and their families. And we're doing everything we can to assist clients as they think through possible scenarios that can impact their business. But it's just too early to see that as to whether there's going to be any impact on our business, Asia or otherwise.
+ We'll just have to see how this plays out in the coming weeks.
+Operator
+Thank you. I would now like to turn the call back to Dan Glaser, president and CEO of Marsh  McLennan Companies for any closing remarks.
+Dan Glaser -- President and Chief Executive Officer
+ I'd like to thank everybody for joining us on the call this morning and certainly thank our colleagues for their hard work and dedication, as well as our clients for their support. Hope everybody has a good day. Thank you very much.
+Operator
+[Operator signoff]
+ Duration: 62 minutes
+Call participants:
+Dan Glaser -- President and Chief Executive Officer
+Mark McGivney -- Chief Financial Officer
+Elyse Greenspan -- Wells Fargo Securities -- Analyst
+Mike Zaremski -- Credit Suisse -- Analyst
+John Doyle -- Chief Executive Officer, Marsh
+Ryan Tunis -- Autonomous Research -- Analyst
+Michael Phillips -- Morgan Stanley -- Analyst
+Peter Hearn -- Chief Executive Officer, Guy Carpenter
+Meyer Shields -- KBW -- Analyst
+Jimmy Bhullar -- J.P. Morgan -- Analyst
+Scott McDonald -- Chief Executive Officer, Oliver Wyman
+Yaron Kinar -- Goldman Sachs -- Analyst
+Larry Greenberg -- Janney Montgomery Scott -- Analyst
+Dave Styblo -- Jefferies -- Analyst
+Brian Meredith -- UBS -- Analyst
+
+More MMC analysis
+
+All earnings call transcripts

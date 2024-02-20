@@ -1,0 +1,80 @@
+FOREX-Yuan weakens, safe havens gain on Chinese virus concerns 
+ * Pneumonia-like virus in China hurts risk appetite
+    * Euro gains before ECB, as data beats expectations
+    * Sterling up after strong jobs report
+
+ (New throughout, updates prices, market activity and comments
+to U.S. market open, new byline, changes dateline, previous
+LONDON)
+    By Karen Brettell
+    NEW YORK, Jan 21 (Reuters) - China's yuan tumbled on Tuesday
+and safe-haven currencies rallied as the spread of a
+pneumonia-like virus in China dampened risk appetite.
+    China reported a fourth death from a new coronavirus as the
+number of cases continued to rise, just as hundreds of millions
+of Chinese prepared to travel for the Lunar New Year holiday.
+
+    Global stocks fell as the outbreak rekindled memories of the
+severe acute respiratory syndrome (SARS) in 2002-2003, another
+coronavirus which broke out in China and killed nearly 800
+people in a global pandemic.
+    "You've got a stronger yen, a stronger Swiss franc and risk
+aversion is setting in across everything," said Kit Juckes, an
+analyst at Societe Generale.
+    The dollar was last up 0.54% against the offshore yuan at
+6.904 per dollar.
+    Currencies linked to Chinese trade and tourism also dropped.
+The Australian dollar touched its lowest in over a month
+at $0.6842, before rebounding to $0.6867, down 0.07% on the day.
+    The dollar weakened 0.10% against the Japanese yen to
+110.07 per dollar and was down 0.06% against the Swiss franc
+ at 0.9673 per dollar.
+    The Bank of Japan earlier nudged up its economic growth
+forecasts and was cautiously optimistic about the global
+outlook, though it said ongoing risks meant it was far too soon
+to consider scaling down its massive stimulus program.
+
+    The euro gained against the dollar as better than expected
+data in the region overcame any safety bid for the greenback.
+    A survey from Germany's ZEW research institute showed that
+the mood among German investors brightened far more than
+expected in January.
+    The single currency was also supported by expectations that
+the European Central Bank will offer a brighter view of the
+economy when it meets on Thursday.
+    “We could see a little bit more cautious optimism there,
+that’s getting people a little bit more excited about the euro,”
+said Mazen Issa, senior FX strategist at TD Securities in New
+York.
+    The euro gained 0.15% to $1.1111.
+    Sterling benefited from news that Britain's economy created
+jobs at its fastest rate in nearly a year in the three months to
+November, potentially undermining the case for a Bank of England
+interest rate cut next week.
+    The pound was last up 0.42% at $1.3063.
+    
+    ========================================================
+    Currency bid prices at 9:20AM (1420 GMT)
+ Description      RIC         Last           U.S. Close  Pct Change     YTD Pct     High Bid    Low Bid
+                                              Previous                   Change                 
+                                              Session                                           
+ Euro/Dollar      EUR=        $1.1111        $1.1094     +0.15%         -0.88%      +1.1118     +1.1086
+ Dollar/Yen       JPY=        110.0700       110.1800    -0.10%         +1.11%      +110.2100   +109.9000
+ Euro/Yen         EURJPY=     122.32         122.23      +0.07%         +0.30%      +122.3600   +121.8700
+ Dollar/Swiss     CHF=        0.9673         0.9679      -0.06%         -0.05%      +0.9689     +0.9662
+ Sterling/Dollar  GBP=        1.3063         1.3009      +0.42%         -1.48%      +1.3083     +1.2996
+ Dollar/Canadian  CAD=        1.3054         1.3046      +0.06%         +0.52%      +1.3077     +1.3044
+ Australian/Doll  AUD=        0.6867         0.6872      -0.07%         -2.19%      +0.6880     +0.6845
+ ar                                                                                             
+ Euro/Swiss       EURCHF=     1.0749         1.0741      +0.07%         -0.95%      +1.0750     +1.0732
+ Euro/Sterling    EURGBP=     0.8505         0.8526      -0.25%         +0.60%      +0.8535     +0.8498
+ NZ               NZD=        0.6607         0.6606      +0.02%         -1.89%      +0.6615     +0.6589
+ Dollar/Dollar                                                                                  
+ Dollar/Norway    NOK=        8.9406         8.9256      +0.17%         +1.85%      +8.9675     +8.9241
+ Euro/Norway      EURNOK=     9.9353         9.9033      +0.32%         +0.98%      +9.9435     +9.9034
+ Dollar/Sweden    SEK=        9.4974         9.5145      -0.05%         +1.60%      +9.5387     +9.4907
+ Euro/Sweden      EURSEK=     10.5545        10.5599     -0.05%         +0.81%      +10.5760    +10.5502
+ 
+
+ (Additional reporting by Dhara Ranasinghe in London
+Editing by Nick Zieminski)

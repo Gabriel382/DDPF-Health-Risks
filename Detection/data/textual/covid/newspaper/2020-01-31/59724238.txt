@@ -1,0 +1,91 @@
+TREASURIES-Yields drop to three-month lows as virus fears grow 
+ (Adds data, updates prices)
+    * Chinese coronavirus fears hurt risk appetite
+    * Treasury to give quarterly refunding plans next Wednesday
+    * Heavy data scheduled next week, including monthly jobs
+report
+
+    By Karen Brettell
+    NEW YORK, Jan 31 (Reuters) - Benchmark 10-year Treasury
+yields dropped to more than three-month lows on Friday and
+two-year note yields fell to their lowest levels since 2017 as
+concerns about the spreading coronavirus boosted demand for
+safe-haven assets.
+    The virus has spread to more than 20 countries and regions.
+As of Friday China had reported 213 deaths and 9,800 cases.
+
+    “We may have this underlying bid (for Treasuries) for some
+time, just until more is known about the coronavirus; how much
+it’s spread, the timeline, vaccines, etc.,” said Justin Lederer,
+an interest rate strategist at Cantor Fitzgerald in New York.
+    Benchmark 10-year note yields dropped as low as
+1.519%, the lowest since Oct. 8.
+    Thirty-year bond yields briefly fell below 2%
+for the first time since September.
+    “The real interesting thing has been the move in the long
+end," said Lou Brien, market strategist at DRW TRading in
+Chicago. "That’s the combination of not only the 'risk off'...
+but some of the data has been bad.”
+    Data on Friday showed that a gauge of U.S. Midwest
+manufacturing activity slid to a four-year low in January, with
+new orders and production tumbling and producers forecasting
+tepid activity in 2020.
+    U.S. consumer spending, meanwhile, rose steadily in
+December, but tepid income gains pointed to moderate consumption
+growth this year.
+    Traders are betting that economic concerns could lead the
+Federal Reserve to cut rates this year. 
+    Interest rate futures traders are pricing in a 79%
+likelihood of at least one rate cut by September, according to
+the CME Group’s FedWatch Tool.
+    Two-year note yields, which are the most
+sensitive to interest rate policy, fell to 1.337%, the lowest
+since September, 2017.
+    The closely watched yield curve between three-month bills
+and 10-year notes moved in and out of inversion on Friday, a
+bearish signal for the U.S. economy.
+    That part of the yield curve inverted last March for the
+first time since the financial crisis, signaling the potential
+for a recession in a year or two.
+    Portfolio rebalancing for month-end likely helped boost
+demand for Treasuries on Friday. 
+    The Treasury Department will give its refunding plan for the
+coming quarter on Wednesday, which is of extra interest to
+market participants since the government said earlier this month
+that it plans to relaunch the 20-year bond.
+    Next week will also feature a heavy schedule of data,
+including Friday’s jobs report for January.
+    
+      January 31 Friday 2:38PM New York / 1938 GMT
+    
+    
+                               Price        Current   Net Change
+                                            Yield %   (bps)
+ Three-month bills             1.5225       1.5536    -0.015
+ Six-month bills               1.505        1.5416    -0.018
+ Two-year note                 100-17/256   1.3411    -0.050
+ Three-year note               100-132/256  1.321     -0.041
+ Five-year note                100-44/256   1.3393    -0.038
+ Seven-year note               100-92/256   1.4458    -0.026
+ 10-year note                  101-252/256  1.5307    -0.024
+ 30-year bond                  108-28/256   2.0116    -0.014
+                                                      
+   DOLLAR SWAP SPREADS                                
+                               Last (bps)   Net       
+                                            Change    
+                                            (bps)     
+ U.S. 2-year dollar swap         6.00         0.75    
+ spread                                               
+ U.S. 3-year dollar swap         2.50         0.25    
+ spread                                               
+ U.S. 5-year dollar swap         0.25         0.25    
+ spread                                               
+ U.S. 10-year dollar swap       -5.50         0.25    
+ spread                                               
+ U.S. 30-year dollar swap      -33.25        -0.50    
+ spread                                               
+ 
+
+    
+
+ (Editing by David Gregorio, Nick Zieminski and Dan Grebler)

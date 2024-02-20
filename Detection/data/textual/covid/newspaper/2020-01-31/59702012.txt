@@ -1,0 +1,37 @@
+Dow Jones News: IBM Appoints New CEO; Visa Comes Up Short 
+ The Dow Jones Industrial Average (DJINDICES:^DJI) was plunging Friday morning, down 1.54% at 11:40 a.m. EST. The coronavirus outbreak in China is showing no signs of slowing down, and investors are beginning to worry that global economic growth could take a serious hit.
+
+IBM (NYSE:IBM) was by far the best performing stock in the Dow, up considerably after the company announced a major leadership change. Meanwhile, shares of Visa (NYSE:V) were down following a quarterly report that fell short of expectations.
+
+IBM gets a new CEO
+
+On Thursday, the tech giant announced that its president, CEO, and chairwoman, Virginia Rometty, was stepping down after 8 years at the helm, effective April 6. Rometty will continue as executive chairwoman through the end of 2020, at which time she will retire from the company.
+
+
+Image source: IBM.
+
+
+
+Rometty's role will be split. Arvind Krishna, currently the head of IBM's cloud and cognitive software, will take over as CEO. James Whitehurst, CEO of Red Hat, will take over as president. IBM closed its $34 billion acquisition of Red Hat last year, a deal spearheaded by Krishna.
+
+Rometty took over IBM in 2012 at a crucial point in the company's history, as cloud computing was disrupting the tech industry. The company took bold action under Rometty to position itself for the future, including dozens of acquisitions to build out its cloud computing, artificial intelligence, and data analytics businesses. Billions of dollars of annual revenue from legacy businesses were divested as IBM refocused on the highest-value opportunities.
+
+The results have been complicated. IBM's revenue is down considerably since it peaked in 2012, and earnings have been trending downward as well. Divestitures and negative currency effects were partly to blame, but IBM's organic results have been mostly lackluster.
+
+But there's little question that IBM is better positioned for the future now compared with 2012. Especially with Red Hat in the fold, IBM's hybrid cloud business will be a key engine as the company looks to return to sustainable growth.
+
+Shares of IBM were up 3.9% on the news of Rometty's departure. The leadership switch could help change the narrative around IBM stock, which has languished for years. Since the beginning of 2012, shares have tumbled 22%.
+
+Visa's results underwhelm
+
+Payments giant Visa disappointed investors when it reported its fiscal first-quarter results on Thursday evening. The company grew revenue and adjusted earnings at double-digit rates, but both numbers missed analyst expectations. The stock was down 3.8% by late Friday morning.
+
+Visa reported first-quarter revenue of $6.05 billion, up 10% year over year but $30 million short of the average analyst estimate. Payments volume was up 8%, cross-border volume was up 9%, and processed transactions rose 11%.
+
+Non-GAAP (adjusted) earnings per share came in at $1.46, up 12% year over year but $0.01 below analyst expectations. Along with the first-quarter results, the company announced a new $9.5 billion share repurchase program.
+
+For fiscal 2020, Visa expects low double-digit revenue growth, mid-single-digit operating expense growth, and mid-teens growth in EPS. Notably, Visa sees the percentage of revenue going toward client incentives at the high end of its guidance range of 22.5% to 23.5%.
+
+This minor disappointment for Visa comes a few weeks after the company announced the massive $5.3 billion acquisition of fintech start-up Plaid, which connects fintech applications with accounts at financial institutions, acting as the back end to many popular fintech apps.
+
+While Visa's results barely missed expectations, the stock is certainly on the expensive side. Based on the average analyst estimate for adjusted 2020 earnings, it trades at a price-to-earnings ratio of 32. Visa is an exceptional company and certainly deserves a premium valuation, but the market may be rethinking the size of that premium after the first-quarter report.

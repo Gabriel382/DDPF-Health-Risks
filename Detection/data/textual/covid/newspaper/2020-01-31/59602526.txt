@@ -1,0 +1,50 @@
+Beware the sick 'coronavirus scam' email that lets crooks hijack your gadgets 
+ DESPICABLE hackers are using the coronavirus crisis to hijack your gadgets.
+
+Scam emails that warn of a coronavirus threat in your local area are actually a ploy to install dangerous and notorious malware on your machines.
+
+The global death toll of the Wuhan coronavirus has reached 213 with more than 9,000 cases – surpassing SARS infection in China.
+
+Now online crooks are using the public's panic over coronavirus to spread a dangerous hack called Emotet, as revealed by cyber-experts at IBM X-Force and Kaspersky.
+
+Emotet is notorious type of malware believed to be part of a major cyber-crime operation.
+
+It was first detected in 2014, and is a "Trojan" – rogue code disguised as a "safe" file like a word document or song.
+
+These dangerous files are attached to seemingly innocuous emails, in a bid to trick victims into clicking and downloading them.
+
+In the new coronavirus scam, hackers warn that infected patients have been reported in the victim's local area.
+
+The hackers then urge victims to open a Word document, which contains malicious code that gives crooks control over your machine.
+
+As a result, hackers could spy on you, take over your online logins, and install even more dangerous malware.
+
+The attack has only been spotted in Japan so far, but experts a global spread is likely.
+
+"We expect to see more malicious email traffic based on the coronavirus in the future, as the infection spreads," experts explained.
+
+"This will probably include other languages too, depending on the impact the coronavirus outbreak has on the native speakers.
+
+"In these first samples, Japanese victims were probably targeted due to their proximity to China.
+
+"Unfortunately, it is quite common for threat actors to exploit basic human emotions such as fear – especially if a global event has already caused terror and panic."
+
+The crooks behind Emotet are known for using high-profile events to infect computers.
+
+Panic over the Wuhan coronavirus is simply the latest way of delivering Emotet.
+
+"After a brief recess around Christmas and New Year, Emotet is very much back as the behemoth of email malware," said Mollie MacDougall, threat intelligence manager at Cofense.
+
+"We're constantly seeing the operators utilise new custom-created templates that shift with the news agenda and time of year.
+
+"With notable examples including a Christmas party, Halloween party, and some related to Greta Thunberg."
+
+In other news, we recently revealed how the next iPhone could face delays due to the Wuhan coronavirus crisis.
+
+Hackers have also invented a new tactic for sextortion scams that 'film you watching porn'.
+
+And a Windows 10 bug lets hackers steal logins – update your PC now.
+
+Are you worried about the coronavirus? Let us know in the comments.
+
+We pay for your stories! Do you have a story for The Sun Online Tech & Science team? Email us at tech@the-sun.co.uk

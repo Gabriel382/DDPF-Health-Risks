@@ -1,0 +1,24 @@
+Analysis | How China’s Mystery Pneumonia Illness is Different From SARS 
+ The outbreak in Wuhan, a city of 11 million, appears to be severe. Dozens of people have been hospitalized since the first patient developed symptoms Dec. 12. A handful were in serious condition. On the other hand, two patients were close to being discharged at year-end (though authorities haven’t disclosed further information), and no fatalities had been reported as of Jan. 5. There also haven’t been any cases of health-care workers becoming infected, which supports early findings that the disease probably isn’t being transmitted from person to person. That reduces the potential of it spawning an outbreak like SARS, which began in China and swept across the globe, infecting thousands of people. Still, the World Health Organization says there’s insufficient information available to determine the overall risk.
+
+2. What are the symptoms?
+
+Mainly fever, with some patients having difficulty breathing, and chest X-rays showing invasive lesions of both lungs, the WHO said.
+
+The symptoms are common to several respiratory diseases, and pneumonia occurs frequently in winter. Based on epidemiological and preliminary laboratory tests, authorities in Wuhan consider the cause to be viral. They’ve checked for known respiratory infections and ruled out pathogens that cause flu, avian influenza, SARS and a related virus known as Middle East Respiratory Syndrome coronavirus, or MERS-CoV. That makes it likely the agent responsible is something doctors haven’t seen before and, therefore, can’t test for. Numerous, unsubstantiated reports have mentioned a novel SARS-like virus from the coronavirus family, and there’s growing recognition of their role in cases of severe pneumonia.
+
+4. Why is it taking so long to identify?
+
+It can take time. HIV, for example, wasn’t discovered as the cause of AIDS for years. In the case of SARS, many of China’s top doctors were initially adamant they were dealing with pneumonia caused by chlamydia, a sexually transmissible bacterium. Wuhan houses China’s first maximum biocontainment laboratory, built in 2015 to investigate the planet’s most dangerous pathogens, so it’s well placed for the current outbreak. Scientists in Wuhan are probably screening a number of possible culprits and are cautious about identifying a specific one until they are certain. There is political risk in getting it wrong: China sacked its then health minister, Zhang Wenkang, for mishandling the SARS crisis. In addition, there’s no indication patient specimens have been shared with labs outside the province of Hubei, let alone other countries, which has hindered other specialists from assisting.
+
+Authorities in Wuhan say they are providing the best-possible medical care. Patients have been isolated to prevent any potential spread. Health officials are also looking for, screening and monitoring people the patients had contact with, and searching for current and past cases that may have been treated in medical institutions throughout the city. Authorities have suspended trading at the market, where environmental samples have been taken for analysis. Scientists are studying DNA and isolating and cultivating viruses to try to identify the pathogen.
+
+It’s still early, but so far, it appears not. Authorities in Hong Kong, Taiwan and Singapore increased precautions at airports. Hong Kong’s Centre for Health Protection said it picked up 16 sick people who had recently traveled to Wuhan as of Jan. 6 but found no discernible link between these cases and the pneumonia cluster. (Most just had the flu.) A 3-year-old girl hospitalized in Singapore with pneumonia also turned out to be unrelated. The WHO has said it’s monitoring the situation and is standing by to respond if needed.
+
+There are some, albeit narrow, parallels. Both emerged in China. In the case of SARS, it’s thought to have spread indirectly from a “wildlife reservoir,” believed to be bats, to humans via masked palm civets and other species in live-animal markets. The Wuhan outbreak has also been linked to a live-animal market, making it possible the infectious agent has an animal origin. Diseases transmissible from animals to humans, sometimes referred to as “zoonoses,” comprise a large percentage of all newly identified infectious diseases.
+
+--With assistance from Dong Lyu.
+
+To contact the reporter on this story: Jason Gale in Melbourne at j.gale@bloomberg.net
+
+To contact the editors responsible for this story: Michael Patterson at mpatterson10@bloomberg.net, Paul Geitner, Jeff Sutherland

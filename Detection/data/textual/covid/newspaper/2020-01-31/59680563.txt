@@ -1,0 +1,18 @@
+Oxford Nanopore Sequencers Have Left UK for China, to Support Rapid, Near-sample Coronavirus Sequencing for Outbreak Surveillance 
+ OXFORD, England, Jan. 31, 2020 /PRNewswire/ -- Following extensive support of, and collaboration with, public health professionals in China, Oxford Nanopore has shipped an additional 200 MinION sequencers and related consumables to China. These will be used to support the ongoing surveillance of the current coronavirus outbreak, adding to a large number of the devices already installed in the country.
+
+Oxford Nanopore is already working to support more than 100 public health laboratories in China, as well as a number of Chinese microbiology laboratories and global public health scientists, with a growing community of scientists taking part in the surveillance process.
+
+"We are privileged to be working with a global scientific community to support their understanding of this outbreak," said Dr Gordon Sanghera, CEO, Oxford Nanopore. "We hope that the nanopore vision of enabling anyone to access biological information, anywhere, can have a positive impact, and are immensely grateful for the community support as we work to rapidly optimise for this outbreak."
+
+The MinION sequencer was designed for broad accessibility. It weighs under 100g and is run with a laptop or special accessory, the MinIT, to perform data analysis. It streams sequence data in real time, allowing for rapid sequencing. It is well suited to rapid sequencing in distributed locations. Previously, the device has performed sequencing in rural or remote settings, for example in understanding Ebola, Zika or TB.
+
+"We were able to generate results less than 24 hours after receiving an Ebola-positive sample, with the sequencing process taking as little as 15 to 60 minutes. We show that real-time genomic surveillance is possible in resource-limited settings and can be established rapidly to monitor outbreaks." – Josh Quick, University of Birmingham, Nature, 2016 https://www.nature.com/articles/nature16996
+
+Rapid sequencing of the coronavirus has been one essential tool in understanding the outbreak. Sequence information is typically combined with location and time data to provide an insight into how the virus is spreading and whether it is changing.
+
+Oxford Nanopore's sequencing technology has been used in many of the early coronavirus genomes from China, including the first genome published in NEJM and the "cluster" of genomes that indicated human-to-human transmission that were published in the Lancet and the first genomes published from the US.
+
+Researchers in the scientific community have developed protocols for nanopore sequencing of nCoV; Oxford Nanopore is working with the scientific community in the optimisation of those protocols.
+
+If you are interested in following updates on the use of nanopore in this outbreak, please follow this post, and if you would like to get in touch for nCoV specific support, please use this form.

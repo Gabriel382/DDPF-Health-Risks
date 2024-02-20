@@ -1,0 +1,16 @@
+Facebook and Instagram to Limit Coronavirus Misinformation 
+ False information will be flagged and its reach limited while harmful posts spreading disinformation about cures and prevention methods will be removed.
+
+Facebook and Instagram will start removing false information and conspiracy theories about the coronavirus from their social networks.
+
+The coronavirus, which as Wired reports has infected over 9,700 people in mainland China and almost 100 people in 18 other countries, originated from a Wuhan seafood market where wild animals are traded illegally. There, the virus made the jump from animals to humans. Symptoms of the illness are mild - headaches, coughs, and fevers - but can be as serious as respiratory tract illnesses such as pneumonia and bronchitis.
+
+In a blog post, Facebook said that it's focusing on claims designed to discourage treatment, which includes fake cures and prevention methods. When false content is found by Facebook's third-party fact-checkers, the company will "limit its spread," and a notification would be sent to those who had already shared or were trying to share the content with a link to the fact-checked information.
+
+With regards to some content, such as someone posting that "drinking bleach cures the coronavirus," the information is removed as well as "block[ing] or restrict[ing] hashtags used to spread misinformation on Instagram." Facebook will also be promoting "relevant and up-to-date information" with posts on the top of Facebook's News Feed based on guidance provided by the World Health Organization (WHO).
+
+When people use the search function on Facebook, or hit a related hashtag on Instagram, they'll be met with an "educational pop-up with credible information" based on data from global health organizations and local health authorities.
+
+This decision sits in contrast to Facebook's approach to political misinformation and disinformation on its platform, where the company gave permission for politicans to spread and promote incorrect information ahead of Britain's recent General Election and the upcoming Presidential Election.
+
+The coronavirus has also been used by hackers to encourage users to download malware. Under the guise of emailing information about the virus' spread, with a Microsoft Word document attached, users opening the file would unintentionally download the Emotet malware. The malware is able to steal sensitive information from your machine, as well as linking to other ransomware.

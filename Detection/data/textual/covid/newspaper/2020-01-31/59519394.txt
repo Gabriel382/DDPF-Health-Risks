@@ -1,0 +1,142 @@
+Apple: Not Entirely Out Of The Woods 
+ Always buy on the dip; there’s always one coming. We are a year off the last one, so be prepared.
+
+While China remains a huge challenge for Apple, it is a company with too many strengths to not be bullish on.
+
+Despite the great quarter for iPhone, its importance to Apple’s bottom line is decreasing. Wearables and services are growing at 37% and 17% YoY, respectively.
+
+But Japan, and especially China remain a drag on growth, and that is pre-coronavirus. Much of the growth came from Europe in the December quarter.
+
+Apple posted surprise upside earnings in the December quarter on better-than-expected iPhone sales, and continued very strong growth in Wearables, etc.
+
+My report on Apple’s (AAPL) fiscal year 2019 was titled “The Bad Year Ends.” Coming off a blockbuster FY 2018, with a new form-factor for iPhone and a new higher price to go along with it, the company had a lot of momentum coming into the year. But Apple sells devices on five continents, and the trade war had its effect. Demand remained strong in the Americas, but the drag from China and elsewhere was too much:
+
+Even though it was able to leverage some growth in the back half of the fiscal year, consolidated numbers suffered:
+
+To be clear, Apple is the only company that in a bad year can still manage to book $63 billion in operational cash flows, and return $84 billion to shareholders. But these numbers were down 10% and 6%, respectively, from FY 2018. For comparison, number two on the list is Microsoft (MSFT), who blew out that same period, with operational cash flows up 16% and returned cash up 40% YoY. But still, the company booked $11 billion less than Apple, and returned $50 billion less.
+
+It’s good to be the king, even in a bad year.
+
+Last year, I really missed hearing Apple’s Italian CFO, Luca Maestri, trill “rrecord rrevenue” on the earnings call. He made up for it this time around.
+
+With a new iPhone comes a new year for Apple, and the iPhone 11 has outperformed expectations. We see a nice return to growth this quarter, comparable, but not quite to the levels of the December 2017 quarter.
+
+But still, revenue, gross profit, and EBT are roughly flat in the 2-year window:
+
+Net income and EPS remain healthy in the 2-year window due to buybacks and Apple’s new effective tax rate of 16%, down from around 25% before the 2017 tax bill.
+
+A lot of the revenue growth this quarter seems to have come from Europe, which had been lagging:
+
+Europe really surged this quarter, offset by slow growth in China against a weak FY 2019 comp, and cratering in Japan. Cook cited “double-digit” growth for iPhone in China, so the rest must really be lagging there. All told, Apple increased sales by $7.5 billion YoY, and Europe, only 25% of TTM revenues, was responsible for almost 40% of that:
+
+But China, 15% of TTM revenues, is really still lagging, “Rest of Asia Pacific” contributed more to top-line growth. Japan remains the only region trending down this quarter.
+
+When we look at revenue mix, we see that even with the Q1 rebound, products are flat in the 2-year window.
+
+It looks like services revenue growth is finally beginning to soften after years of 25%+ YoY growth, now down in the mid-to-high teens. Apple reported that Arcade and Apple TV+ had negligible effect on the services number; the App Store continues to dominate there. The company reported that it now has 480 million paid subscriptions, close to its 2020 goal of half a billion already, so it raised the bar to 600 million for the year.
+
+I will have more to say about Apple’s newer services after WWDC, likely in March.
+
+Apple’s OpEx has seen a notable rise in the last six quarters, due to all the new services. It looks like it will stick at around 35% of gross profit, at least for the time being:
+
+Apple filings. March 2020 is the midpoint of Apple’s guidance.
+
+Luca Maestri addressed this in the call:
+
+So the big movers here are the new services, and the advertising for them, as well as new work on the cellular modem business the company purchased from Intel (INTC).
+
+Drilling down into the product categories, we see that iPhone had a great quarter, and Wearables, etc. looks unstoppable right now.
+
+iPhone is still down in the 2-year window, even with the nice surprise quarter. Mac and iPad were off this quarter, but still up in the two-year window, with a lot of new models coming in during calendar 2018 and 2019 after a couple of dry years there. Wearables, of course, is the huge popularity of Apple Watch and especially Apple’s wireless AirPods. In addition to everything else, Apple is the world's largest watch company, and largest headphones company. The quarter would have been even bigger had Apple not miscalculated on the capacity it needed for AirPods Pro demand. They are still backordered by a month, and have been since mid-December.
+
+The net effect here is to make iPhone less important to Apple’s top line:
+
+On the one hand, this is a huge change. iPhone has gone from 62% of TTM revenues to 55% two years later. At the same time, Services and Wearables went from a combined 19% of TTM revenues to 28%. This is a huge shift.
+
+But on the other hand, it does not mean that Apple is less dependent on iPhone. The growth in Services and Wearables is a function on the growth of Apple’s legendary installed base, now up to 1.5 billion devices, mostly iPhones. Without an iPhone, iPad, Mac, AppleTV or HomePod, you are not going to buy AirPods, the Watch, or any of the services. It all works together.
+
+This is part of a common misunderstanding regarding Apple’s business model. Apple does not sell phones, the company sells customer satisfaction. There are increasingly new ways to pay for that, and with lower price points too. Every customer is a revenue center for the entire range of Apple products and services. The value proposition of relatively high priced Apple products is that you actually get a lot for your money, especially when you add in all the “free” software and services that come with it. Apple customers know that the risk of getting a lemon is very low, and they will be getting something they don’t have to spend a lot of time thinking about.
+
+Tim Cook addressed this in the earnings call:
+
+The point here is that those pie charts contain important information, but at the same time, sort of miss the forest for the trees.
+
+So to sum up:
+
+Much of the turnaround in iPhone since the back half of FY 2019 can be attributed to Apple’s vigorous promotion of its trade-in program, coupled now with 0% interest loans for 24 months. The point here is to recreate the carrier “subsidy” math. These were not actually subsidies, but rather a 2-year loan at a 3.3% APR:
+
+Beginning at iPhone 11’s release, this is what greets you when you go to buy one at Apple’s online store:
+
+Notice anything missing? The actual price of the phone, which is $699. The default on the store is for a 2-year old iPhone 8+ trade-in. A more reasonable look would be the 2-year old iPhone 8. If you trade in your iPhone 8, Apple can put you in a new iPhone 11 for $22/month, which is pretty close to the old math.
+
+Moreover, Apple is making a healthy profit on these trade-ins, though it doesn’t break out the numbers for us. But the math is pretty simple. Let’s look at an iPhone X trade-in, which seems to be what it wants the most.
+
+Apple pays $320 for an iPhone X in “good” condition. There’s a lot of wiggle room between those quotes, but this is what it means to the company:
+
+I looked at the last 100 sales on eBay (NASDAQ:EBAY) for an iPhone X 64GB in good condition. These listings are dominated by two highly-rated sellers in Florida who sell many hundreds of these from single listings. They each charge $409 for them, so I think it’s reasonable to assume Apple could just turn around and sell these phones for $409, an $89 profit for a 28% gross margin.
+
+But of course, Apple doesn’t do that. The phones get shipped to Hon Hai, where they are rubbed, scrubbed and refurbished, and resold on the Apple Store for $599. How much the average refurbish costs is hard to say, but I think we can reasonably assume the company grows its gross profit here, at least by a little.
+
+So, in a transaction where a customer trades in their iPhone X for a new iPhone 11 Pro:
+
+Cost of goods estimated using total Products gross margin. Apple has plenty of cash to finance this itself, so the interest cost is zero.
+
+Even being very conservative here, Apple has increased its profit on the transaction by $104. Additionally, 256 GB capacity phones get the same $320 trade-in value, but cost an extra $100 in the store, so you can add that in for a subset of these transactions.
+
+Moreover, Customer 2 may be new to the Apple ecosystem, and it makes them a potential customer for services and other products like AirPods. See how that works?
+
+This whole framing has led many, including me, to speculate that Apple would like to move towards a subscription pricing option, where it would bundle the phone and all the premium services for a monthly fee, with a new phone very 2 years. You can already set that up for yourself pretty easily, but an explicit program would continue to help with the problem of lengthened upgrade cycles.
+
+I have been unsuccessfully touting Apple to my father, a 50-year Wall Street veteran, since 2005. Like many longtime money managers, he has a tendency to go off on rants, and his Apple rant usually includes the above sentence.
+
+But let’s look at this at face value. How much of Apple’s meteoric rise is attributable to buybacks, and the concentration of share value that it creates?
+
+Looking at the numbers since buybacks began in earnest in FY 2013, we can see that the old man was more-or-less correct through FY 2016:
+
+Apple’s market cap remained pretty stable until then, but has been on a meteoric rise in the last 3 years, and this chart only goes through the end of December. If Apple’s share price had only been affected by buybacks, it would have been $124 at the end of December, not $294.
+
+In Q1, Apple booked $30.5 billion in operational cash flows, borrowed a billion euro (at 0%, as one does in Europe), and returned $24 billion to shareholders via dividends and buybacks. The company reduced the weighted average share count by 1.5% QoQ, keeping on its 6.5-7% YoY pace, currently at 6.7%.
+
+Net cash actually rose in the quarter by almost a billion dollars to $99 billion, marking the third quarter in a row that it has remained around $100 billion net cash. I remain skeptical of Apple’s “net cash zero” goal. It is using its cash tactically. If it gets to zero, then so be it, but that is not the goal.
+
+India gets lumped into “Rest of Asia Pacific,” and Apple sells very few iPhones there. This is a country with 1.4 billion people in it. Most are very poor, but the top 10% is not, averaging $174,000 per year (PPP, not exchange rates) in income. This is 140 million potential customers that Apple is not reaching. The biggest reasons are price and Indian tariffs.
+
+As always, Apple is moving slowly and deliberately here, sort of treating India as a special case. It began with opening up production of iPhone SE, its low-cost phone, in a new factory in India. The company continued making the iPhones 6s and 7 there for several years at reduced prices, mostly for the Indian market.
+
+Apple recently turned it up a notch by announcing a new factory to be run by Hon Hai in India, where it is making last year's iPhone XR for the Indian market, and presumably the expected iPhone SE2 this spring.
+
+How will we know when it is paying off? When “Rest of Asia Pacific” starts growing so fast, that Apple has to split off India.
+
+In any event, these 140 million Indians are the final frontier for iPhone, and can really provide a huge boost to Apple’s future growth if it can be successful here. The Indian online Apple Store and first retail location in Mumbai are both due to launch in calendar 2020.
+
+Apple’s guidance range was wider than it usually is, and the reason is coronavirus. You knew I would eventually get to that, right?
+
+I am not a doctor or an epidemiologist, so I am the last person to listen to regarding how this will go down. But I can comment on the political aspects of it. The Chinese have three phases for dealing with internal crises:
+
+The good news here is that the Chinese got through phases 1 and 2 unusually quickly on this one and have moved to total mobilization, which is a little awe-inspiring.
+
+So the Chinese, the WHO and the CDCs are on the case, and given recent experiences with Ebola, H1N1 and SARS, that bodes well.
+
+But back to that revenue guidance, Apple’s left a wide range open, from $63 billion in the quarter to $67 billion, a 6 pp spread in the YoY. This is unusually large. Apple reports a month into the quarter, and so it is only a third of the way through, and early in the virus’ outbreak. Here’s Tim Cook addressing the issue in the earnings call:
+
+So this really has the potential to adversely affect Apple’s numbers in the current quarter and beyond. The supply issues are of course problematic, but Apple has been a very nimble giant since Tim Cook became COO many years ago. The bigger issue is at retail, with closed stores, reduced hours, and low traffic. Coming during Chinese New Year, a traditional gift-giving time, it’s a double-whammy. The traditional gift is a red envelope stuffed with cash, so much of the retail boost comes after the holiday, where we are now.
+
+But even the low end estimate gives us some decent growth for Apple, though not what we would like to see:
+
+Apple filings. Both March 2020 Hi and Lo EPS estimates assume Apple will continue to reduce the average weighted share count by 6.7% YoY.
+
+If Apple can power through this, and reach the top end of its estimate, the company will be seeing growth reminiscent of FY 2018, though not quite there.
+
+Expectations are a construct, and often don’t represent reality. This is almost always the case with Apple, which has been the master of massaging expectations. My $4.70 EPS estimate for Q1, much higher than the $4.54 consensus, was still way too low. Though it beat expectations this quarter by a lot, it is still not the same company it was in FY 2018, and the reason very simply is China and the trade war. Even with a return to YoY growth in China, it still has a -13% 2-year CAGR there. The trade war has most significantly impacted the Chinese consumers, who are also Apple’s customers. Also, the negative image of the USA being portrayed in China cannot help. Coronavirus adds an additional dimension to its challenges there.
+
+Though the Phase One trade deal takes further escalation off the table through Election Day, this is just about the only good news for Apple in that deal. Its problems in China will persist, and that derails part of the long-term plan with which it came into 2018. The renewed focus on India is in part a response to this.
+
+Despite the high price, I remain a long-term Apple bull, and it will take a lot to throw me off that train. The Bull Scenario:
+
+What is happening to Apple's stock right now is something that Gene Munster has been talking about for a decade. For years, Apple got a cyclical consumer discretionary P/E multiple, when its business is more akin to technology or consumer staples (iPhone is not a staple, but acts like one), which trades at higher multiples. It now is close to double its old multiple. So the recent price rise can be seen as an acknowledgement of this fact.
+
+But if you are trading today, I don't think you’re looking at a good entry here, so close to an all-time high. Look for a better entry, there is always one coming.
+
+I'll be back after WWDC in March to report on that.
+
+Disclosure: I am/we are long AAPL. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.

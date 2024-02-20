@@ -1,0 +1,30 @@
+Middle East respiratory syndrome coronavirus (MERS-CoV) – Qatar 
+ On 5 December 2019, the National IHR Focal Point for Qatar reported three laboratory-confirmed cases of Middle East respiratory syndrome (MERS-CoV) infection to WHO.
+
+The first case-patient (case #1) is a 67-year-old female from Doha, Qatar. She developed fever, cough, shortness of breath and headache on 23 November 2019, and presented to a hospital on 25 November. On 27 November, she went to the same hospital for follow up. However, on 28 November, her condition worsened and she was admitted to the hospital. A nasopharyngeal swab was collected on 28 November and tested positive for MERS-CoV by reverse-transcriptase polymerase chain reaction (RT-PCR) on 29 November. The patient had underlying medical conditions, and passed away on 12 December 2019. The source of her infection is under investigation. The patient had neither a history of contact with dromedary camels nor recent travel. Follow up and screening of seven household contacts and 40 healthcare worker contacts is ongoing and two asymptomatic secondary cases have been identified so far.
+
+The two contacts are a 50-year-old (case # 2) and a 32-year-old (case # 3), living in Doha. Both were identified through contact tracing and are asymptomatic. Case #2 is the son of case #1 and has an underlying medical condition . Case #3 was involved in direct contact with case #1 and has no underlying medical conditions. A nasopharyngeal swab was collected on 29 November for both case #2 and case #3 and tested positive for MERS-CoV by RT-PCR on 29 November. As of 23 December, both are in a stable condition in an isolation ward where protocols for infection prevention and control have been implemented.
+
+Upon identification of case #1, the case was isolated, the infection prevention and control protocols were implemented as per WHO guidelines; investigation and contact tracing were initiated.
+
+All 47 identified contacts of the patient have been monitored daily for the appearance of respiratory or gastrointestinal symptoms for a period of 14 days following their last exposure to the patient.
+
+All contacts were tested for MERS-CoV and test results were positive for two asymptomatic contacts (Case #2 and #3 mentioned above).
+
+Infection with MERS-CoV can cause severe disease resulting in high mortality. Humans are infected with MERS-CoV from direct or indirect contact with dromedary camels. MERS-CoV has demonstrated the ability to transmit between humans. So far, the observed non-sustained human-to-human transmission has occurred mainly in health care settings.
+
+The notification of additional cases does not change the overall risk assessment. WHO expects that additional cases of MERS-CoV infection will be reported from the Middle East and that cases will continue to be exported to other countries by individuals who might acquire the infection after exposure to dromedary camels, animal products (for example, consumption of camel’s raw milk), or humans (for example, in a health care setting or household contacts).
+
+WHO continues to monitor the epidemiological situation and conducts risk assessment based on the latest available information.
+
+Based on the current situation and available information, WHO encourages all Member States to continue their surveillance for acute respiratory infections and to carefully review any unusual patterns.
+
+Infection prevention and control measures are critical to prevent the possible spread of MERS-CoV in health care facilities. It is not always possible to identify patients with MERS-CoV infection early because like other respiratory infections, the early symptoms of MERS-CoV infection are non-specific. Therefore, healthcare workers should always apply standard precautions consistently with all patients, regardless of their diagnosis. Droplet precautions should be added to the standard precautions when providing care to patients with symptoms of acute respiratory infection; contact precautions and eye protection should be added when caring for probable or confirmed cases of MERS-CoV infection; airborne precautions should be applied when performing aerosol-generating procedures.
+
+Early identification, case management, and isolation, together with appropriate infection prevention and control measures can prevent human-to-human transmission of MERS-CoV.
+
+MERS-CoV appears to cause more severe disease in people with underlying chronic medical conditions such as diabetes mellitus, renal failure, chronic lung disease, and compromised immune systems. Therefore, people with these underlying medical conditions should avoid close unprotected contact with animals, particularly dromedary camels, when visiting farms, markets, or barn areas where the virus is known to be potentially circulating. General hygiene measures, such as regular hand washing before and after touching animals and avoiding contact with sick animals, should be adhered to.
+
+Food hygiene practices should be observed. People should avoid drinking raw camel milk or camel urine or eating meat that has not been properly cooked.
+
+WHO does not advise special screening at points of entry with regard to this event nor does it currently recommend the application of any travel or trade restrictions.

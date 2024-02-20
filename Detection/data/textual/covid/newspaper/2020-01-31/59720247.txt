@@ -1,0 +1,35 @@
+Modeling study estimates spread of 2019 novel coronavirus 
+ Senior author Professor Gabriel Leung from the University of Hong Kong highlights: "Not everyone who is infected with 2019-nCoV would require or seek medical attention. During the urgent demands of a rapidly expanding epidemic of a completely new virus, especially when system capacity is getting overwhelmed, some of those infected may be undercounted in the official register."
+
+He explains: "The apparent discrepancy between our modelled estimates of 2019-nCoV infections and the actual number of confirmed cases in Wuhan could also be due to several other factors. These include that there is a time lag between infection and symptom onset, delays in infected persons coming to medical attention, and time taken to confirm cases by laboratory testing, which could all affect overall recording and reporting."
+
+The new estimates also suggest that multiple major Chinese cities might have already imported dozens of cases of 2019-nCoV infection from Wuhan, in numbers sufficient to initiate local epidemics.
+
+The early estimates underscore that it will likely take rapid and immediate scale-up of substantial public health control measures to prevent large epidemics in areas outside Wuhan. Further analyses suggest that if transmissibility of 2019-nCoV could be reduced, both the growth rate and size of local epidemics in all cities across China could be reduced.
+
+"If the transmissibility of 2019-nCoV is similar nationally and over time, it is possible that epidemics could be already growing in multiple major Chinese cities, with a time lag of one to two weeks behind the Wuhan outbreak," says lead author Professor Joseph Wu from the University of Hong Kong. "Large cities overseas with close transport links to China could potentially also become outbreak epicentres because of substantial spread of pre-symptomatic cases unless substantial public health interventions at both the population and personal levels are implemented immediately."
+
+According to Professor Gabriel Leung: "Based on our estimates, we would strongly urge authorities worldwide that preparedness plans and mitigation interventions should be readied for quick deployment, including securing supplies of test reagents, drugs, personal protective equipment, hospital supplies, and above all human resources, especially in cities with close ties with Wuhan and other major Chinese cities."
+
+
+						
+						
+						
+In the study, researchers used mathematical modelling to estimate the size of the epidemic based on officially reported 2019-nCoV case data and domestic and international travel (i.e., train, air, road) data. They assumed that the serial interval estimate (the time it takes for infected individuals to infect other people) for 2019-nCoV was the same as for severe acute respiratory syndrome (SARS: table 1). The researchers also modelled potential future spread of 2019-nCoV in China and internationally, accounting for the potential impact of various public health interventions that were implemented in January 2020 including use of face masks and increased personal hygiene, and the quarantine measures introduced in Wuhan on January 23.
+
+The researchers estimate that in the early stages of the Wuhan outbreak (from December 1, 2019 to January 25, 2020) each person infected with 2019-nCoV could have infected up to 2-3 other individuals on average, and that the epidemic doubled in size every 6.4 days. During this period, up to 75,815 individuals could have been infected in Wuhan.
+
+Additionally, estimates suggest that cases of 2019-nCoV infection may have spread from Wuhan to multiple other major Chinese cities as of January 25, including Guangzhou (111 cases), Beijing (113), Shanghai (98), and Shenzhen (80; figure 3). Together these cities account for over half of all outbound international air travel from China.
+
+While the estimates suggest that the quarantine in Wuhan may not have the intended effect of completely halting the epidemic, further analyses suggest that if transmissibility of 2019-nCoV could be reduced by 25% in all cities nationally with expanded control efforts, both the growth rate and size of local epidemics could be substantially reduced. Moreover, a 50% reduction in transmissibility could shift the current 2019-nCoV epidemic from one that is expanding rapidly, to one that is slowly growing (figure 4).
+
+"It might be possible to reduce local transmissibility and contain local epidemics if substantial, even draconian, measures that limit population mobility in all affected areas are immediately considered. Precisely what and how much should be done is highly contextually specific and there is no one-size-fits-all set of prescriptive interventions that would be appropriate across all settings," says co-author Dr Kathy Leung from the University of Hong Kong. "On top of that, strategies to drastically reduce within-population contact by cancelling mass gatherings, school closures, and introducing work-from-home arrangements could contain the spread of infection so that the first imported cases, or even early local transmission, does not result in large epidemics outside Wuhan."
+
+The authors point to several limitations of their study, including that the accuracy of their estimates depend on their assumption about the zoonotic source of infection in Wuhan. They also highlight that the models assume travel behaviour was not affected by disease status and that all infections eventually have symptoms -- so it is possible that milder cases have gone undetected which could underestimate the size of the outbreak. Lastly, they note that their epidemic forecast was based on inter-city mobility data from 2019, and might not reflect mobility patterns in 2020, particularly in light of the health threat posed by 2019-nCoV.
+
+
+
+
+							Story Source:
+
+							Materials provided by The Lancet. Note: Content may be edited for style and length.

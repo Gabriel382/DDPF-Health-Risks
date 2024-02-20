@@ -1,0 +1,16 @@
+'Novel lab test to detect Chinese coronavirus' 
+ Researchers have developed a new laboratory test to detect the novel Chinese coronavirus, which has so far claimed two lives and infected more than 40 people.
+
+According to the scientists, including those from the German Center for Infection Research, the virus which first emerged in the province of Wuhan in China, is similar to the common cold virus, and can cause severe pneumonia.
+
+The new assay protocol, published by the World Health Organisation (WHO) as a guideline for diagnostic detection, enables suspected cases to be tested quickly, they said.
+
+An international consortium is currently conducting a joint evaluation study of the test protocol, which the researchers believe may serve as a guideline for laboratories.
+
+"Now that this diagnostic test is widely available, I expect that it won't be long before we are able to reliably diagnose suspected cases. This will also help scientists understand whether the virus is capable of spreading from human to human," said Christian Drosten, lead scientist behind the protocol from Charite - Universitatsmedizin Berlin in Germany.
+
+WHO said the protocol may be followed to create assays using commercially prepared reagents like enzymes, and other lab chemicals involved in the viral genome analysis.
+
+"Assay descriptions posted to this page may detect only the Wuhan strain of coronavirus, and some may also detect other strains that are genetically similar," WHO said in its guidance report.
+
+"It is strongly recommended to contact the protocol provider institution if you obtain weak positive control results or unusual lab findings," the report noted.

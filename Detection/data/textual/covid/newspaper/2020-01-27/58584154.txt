@@ -1,0 +1,22 @@
+"Eveything Just Changed" - CoV Contagion Sparks Massive Treasury Short Stop-Out, Stock Dealers Flip "Short Gamma" 
+ A sudden awakening in markets that risk is a real thing - no matter how much liquidity central banks puke into the financial system - has sparked a massive drop in Treasury yields (and stocks have started to catch down to that reality)...
+
+And as Nomura's head of cross-strategy Charlie McElligott notes, this morning sees this getting worse fast...
+
+The 2020 resumption of the “Everything Duration” rally violently escalates to start the week as the Coronavirus contagion snowballs, with the already brutal short-squeeze in USTs experienced last week now blowing through stop-losses (10Y yields tagging1.60 earlier) and seeing UST futures across the curve at best levels since Fall ’19, with risk-assets sharply lower (Crude -3.0%) on negative global growth impact fears.
+
+Friday’s latest COT / TFF data analysis from Ryan Plantz showed even more aggressive Spec selling of Duration in the last weekly reporting period of -$11mm / 01, which brings the total sold since November to a shocking -$110mm / 01—with WN contract an astounding 55% of that aggregate Duration selling (-$61mm alone), and Spec Shorts a remarkable 37% of the OI in WN, an all-time high.
+
+Incredibly, 5Y Real Yields are now back to the most negative they’ve been since April 2017 - acting as a major bullish catalyst for Gold and Bitcoin.
+
+In equity markets, the sudden move over the weekend has broken the virtuous cycle higher and as McElligott explains, this Coronavirus “black swan” has shocked-out the “extremes” recently seen in SPX / SPY consolidated options positioning, with prior 95%ile + $Gamma- and $Delta- positions  now acting as a source of significant “de-risking supply”  ($Gamma now to 52nd %ile since 2014, $Delta now 79th %ile)...
+
+Our Dealer Gamma analysis actually shows that the Dealer Gamma position has now pivoted NEGATIVE on the move in futures below 3263 (ref 3245.50)...
+
+...meaning that the lower we go from here, Dealers have to (perversely) “short more” into the down-move to dynamically hedge.
+
+And here is where McElligott sees the big 'Minsky Moment' issue, as “Stability Breeds Instability” - the prior “short vol” halcyon referenced in Equities (“Long SPY” with a 2.2 Sharpe Ratio) has allowed for a massive accumulation of gross-exposure to US Equities futures positions for CTA Trend funds.
+
+The Nomura QIS CTA model estimates that through last Friday, the gross-exposure of the S&P Futures position for CTAs is back to “extremes” last seen in January 2018 (a nearly +3 standard deviation gross-position dating back to 2002).
+
+And things did not end well then.

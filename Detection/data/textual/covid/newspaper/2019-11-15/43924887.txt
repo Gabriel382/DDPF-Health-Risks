@@ -1,0 +1,15 @@
+New Coronavirus Study Findings Have Been Reported by Researchers at University of Lille (Functional Carbon Quantum Dots as Medical Countermeasures to Human Coronavirus): RNA Viruses - Coronavirus 
+ 2019 NOV 14 (NewsRx) -- By a News Reporter-Staff News Editor at Disease Prevention Daily -- Data detailed on RNA Viruses - Coronavirus have been presented. According to news reporting originating from Lille, France, by NewsRx correspondents, research stated, “Therapeutic options for the highly pathogenic human coronavirus (HCoV) infections are urgently needed. Anticoronavirus therapy is however challenging, as coronaviruses are biologically diverse and rapidly mutating.”
+
+Our news editors obtained a quote from the research from the University of Lille, “In this work, the antiviral activity of seven different carbon quantum dots (CQDs) for the treatment of human coronavirus HCoV-229E infections was investigated. The first generation of antiviral CQDs was derived from hydrothermal carbonization of ethylenediamine/citric acid as carbon precursors and postmodified with boronic acid ligands. These nanostructures showed a concentration-dependent virus inactivation with an estimated EC of 52 ? 8 mg mL. CQDs derived from 4-aminophenylboronic acid without any further modification resulted in the second-generation of anti-HCoV nanomaterials with an EC lowered to 5.2 ? 0.7 mg mL.”
+
+According to the news editors, the research concluded: “The underlying mechanism of action of these CQDs was revealed to be inhibition of HCoV-229E entry that could be due to interaction of the functional groups of the CQDs with HCoV-229E entry receptors; surprisingly, an equally large inhibition activity was observed at the viral replication step.”
+
+For more information on this research see: Functional Carbon Quantum Dots as Medical Countermeasures to Human Coronavirus. Acs Applied Materials & Interfaces, 2019;():. (American Chemical Society - www.acs.org; Acs Applied Materials & Interfaces - http://www.pubs.acs.org/journal/aamick)
+
+The news editors report that additional information may be obtained by contacting A. Loczechin, University of Lille, National Center for Scientific Research (CNRS), Centrale Lille, ISEN, University of Valenciennes, UMR 8520 - IEMN, Lille F-59000, France. Additional authors for this research include K. Seron, A. Barras, E. Giovanelli, S. Belouzard, Y.T. Chen, N. Metzler-Nolte, R. Boukherroub, J. Dubuisson and S. Szunerits.
+
+The direct object identifier (DOI) for that additional information is: https://doi.org/10.1021/acsami.9b15032. This DOI is a link to an online electronic document that is either free or for purchase, and can be your direct source for a journal article and its citation.
+
+
+(Our reports deliver fact-based news of research and discoveries from around the world.)

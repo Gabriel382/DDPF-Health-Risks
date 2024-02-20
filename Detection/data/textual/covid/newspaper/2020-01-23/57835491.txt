@@ -1,0 +1,12 @@
+Revised estimate of coronavirus cases in Wuhan more than doubles to 4,000 
+ Researchers at the Imperial College London have revised the estimated number of novel coronavirus cases in Wuhan city in Hubei Province of China from 1,723 to 4,000.
+
+The earlier estimate was made on made on January 17 and was based on 41 confirmed cases in China as on January 16 and three exported cases — two cases in Thailand and one in Japan. The revised estimate of 4,000 is based on 440 confirmed cases reported from 13 Provinces and nine deaths as on January 21, seven exported cases reported from five countries, confirmed human-to-human transmission and confirmed cases in 15 healthcare workers.
+
+The estimate has been made by taking in to consideration that the Wuhan International Airport has a catchment population of 19 million individuals, a mean 10-day delay between infection and detection, volume of travel from the airport has been 3,301 passengers a day, exit screening that began on January 15 had no impact on exported cases till January 16, and all exported cases are detected at airports outside China.
+
+The researchers note that the estimated cases in Wuhan might be higher than 4,000 if exit screening at Wuhan airport has reduced the number of exported cases and if exported cases are actually more than what has been detected.
+
+“Our estimates of the size of the outbreak in Wuhan have more than doubled since our first report. This is a result of the number of cases detected outside mainland China having increased from 3 to 7,” they write.
+
+They caution that the revised estimate should not be interpreted as implying that the outbreak has doubled during the period January 12-18. Rather, the increase in the number of estimated cases only reflect the delay in confirming and reporting exported cases, the small number of exported cases, and incomplete information about dates of symptom onset. These limitations have led to the inability to truly estimate the epidemic growth, they note.

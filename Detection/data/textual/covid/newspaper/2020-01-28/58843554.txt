@@ -1,0 +1,88 @@
+Coronavirus vaccine — a race against time | DW | 28.01.2020 
+ The first steps towards an effective vaccine against a new coronavirus (nCoV) are done.
+
+Researchers at the Chinese Center for Disease Control and Prevention (CDC) have identified the virus and shared their data internationally — at speed.
+
+Xu Wenbo, who heads the CDC's National Institute for Viral Disease Control and Prevention, told local reporters that researchers had rapidly isolated the virus and analyzed its genetic makeup.
+
+Both are important early steps towards understanding a virus and how it may be stopped.
+
+It's the first time in human history that scientists have identified a new virus that can spread from animals to people — in an active scenario — genetically sequenced that virus, replicated it in a lab, and shared the information so speedily, internationally, in scientific journals.
+
+It's meant that Chinese researchers have been able to start work on a vaccine. Other researchers in the USA, Australia and other countries are also working on vaccines.
+
+In the USA, the National Institute of Health has set up a vaccine development group, with Anthony S. Fauci at its head, to coordinate further strategies.
+
+Dr. Fauci has been director of the NIH's National Institute of Allergy and Infectious Diseases (NIAID), which includes HIV/AIDS, Ebola and Zika, since 1984.
+
+Writing in the Journal of the American Medical Association (FAMA), Fauci says that two vaccines that were developed for other types of coronavirus, known as SARS and MERS, could be a good foundation for a vaccine against the new type, which broke out in the Chinese city of Wuhan, nCoV.
+
+Using so-called "vaccine platforms," researchers take a relatively harmless, virus (like for a common cold) and add elements of the coronavirus into it to provoke a reaction from the immune system.
+
+In 2003, a research group headed by Andrea Gambott, a molecular researcher at the University of Pittsburgh, used that method to create three artificial viruses, which could then be used to develop vaccines.
+
+First, the spike protein S1, which is the reason for the coronal spikes in a coronavirus and which is a membrane protein, And, second, the capsid protein from the original SARS virus. A capsid is the protein-based shell of a virus.
+
+Their quick development was only possible because the entire genome of the SARS virus was itself sequenced in record-breaking time.
+
+But despite that progress in 2003, a SARS vaccine did not make it beyond tests on non-human animals — the main reason being that the epidemic ended shortly after the researchers successfully tested a vaccine on macaques, an Asian monkey.
+
+Unknown risks: The ability of the virus to mutate
+
+One thing makes the development of a vaccine against coronaviruses especially difficult: their ability to adapt.
+
+Read more: Coronavirus: Everything you need to know
+
+It was like that with SARS. And the researchers were concerned that their vaccine, based on spike protein S1, may even accelerate the virus' mutation into new forms.
+
+However, Fauci still thinks the spike vaccine and the other, based on the SARS capsid, could potentially be good starting points for a nVoC vaccine.
+
+Commercially-traded vaccine manufacturers, such as Novavax, are also at the starting blocks. Novavax says it has a MERS vaccine in the pipeline.
+
+Meanwhile in Australia, a team headed by Keith Chappell at the University of Queensland is also developing a vaccine.
+
+Chappell's team is part of a group calling itself the Coalition for Epidemic Preparedness Innovations (CEPI). Together, they aim to develop a vaccine using a "molecular clamp."
+
+The idea there is make a virus appear to the body as a full-blown, stabile virus when it's only in its earliest stages. That would allow the human immune system to attack the virus before it's had a chance to merge with cells in the body. When viruses merge with cells, that's when they get really dangerous — they can then strengthen their hold, replicate and spread.
+
+Speaking to Reuters news agency, Chappell said that the molecular clamp method was another kind of "platform vaccine." And it's shown itself to be effective against other dangerous viruses, such as Ebola, MERS and SARS — but only in the lab.
+
+As with SARS, the biggest challenge is still that of getting (developing, testing and approving) a vaccine fast enough.
+
+Those US researchers under Fauci hope to start testing a vaccine on people in three months.
+
+Even if it all goes well, the earliest a vaccine against nCoV could be introduced would be the summer of 2020. That would be a record in the history of vaccine development. With SARS, it took another 20 months after the virus' genome had been sequenced before any vaccine hit the horizon.
+
+But whether it even gets that far this time may depend on a completely different approach.
+
+Researchers are considering the use of existing antiviral medicines.
+
+In his viewpoint article in the JAMA, Fauci cites broad-spectrum antivirals as remdesivir, an RNA polymerase inhibitor, which is known in the treatment of Ebola, or a combination of medicines used in HIV treatment, including lopinavir and ritonavir.
+
+Chinese authorities have ordered already large quantities of the HIV medicine Aluvia / Kaletra, says Adelle Infante, a spokeswoman for the company AbbVie, which produces HIV treatment products. Aluvia is a combination of lopinavir and ritonavir.
+
+Another potential approach against the coronavirus nCoV is with monoclonal antibodies, which can activate specific immunological reactions in the body.
+
+Herbert Virgin at Vir Biotechnology in Illinois, USA, says his company has developed antibodies which have shown themselves to be effective against SARS and MERS in laboratory tests. Some were reportedly able to neutralize coronaviruses. "It's possible that they could also treat the Wuhan virus," says Virgin.
+
+Quarantine, the best prevention for now
+
+There is one other factor that will help determine whether a vaccine ever makes it to market, and that is the progress of the virus itself.
+
+Chinese authorities are currently using one of the most effective measures to curtail the spread of nCoV in isolating patients and quarantining whole cities.
+
+That's affecting the lives of about 43 million people.
+
+Notably for now, fewer nCoV infections seem to be fatal than it was with SARS. Back then, 10 percent of the 8,000 registered infections ended in death.
+
+The number of nCoV cases is rising rapidly and consistently, but still only comparatively few people have died. And most of those who have died were older people who had existing medical complaints or conditions.
+
+Prof. Mark Harris, a virologist at the School for Molecular and Cell Biology at the University of Leeds in the UK, estimates the mortality rate of nCoV to be at 0,1 percent.
+
+Harris' calculations aim to include a probably very high number of unknown cases among people whose symptoms appear to be relatively mild. As a result, those people may not seek medical advice and their cases do not show up in official statistics.
+
+If Harris' calculations turn out to be right, then the new coronavirus would not necessarily be any more dangerous than a common seasonal influenza.
+
+It's still unclear how contagious the virus is. Chinese authorities have said it may be possible for people to infect other people with the virus before they show symptoms themselves.
+
+That would explain why the virus has been able to spread so rapidly. But at time of writing that has yet to be fully established or proved.

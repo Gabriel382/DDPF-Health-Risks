@@ -1,0 +1,36 @@
+Countdown to recession: What an inverted yield curve means 
+ NEW YORK - A dramatic rally in Treasuries this week led some key parts of the U.S. yield curve to reinvert, a signal that has traditionally been bearish for the U.S. economy. 
+FILE PHOTO: A trader works on the floor at the New York Stock Exchange (NYSE) in New York, U.S., August 9, 2019. REUTERS/Brendan McDermid
+
+
+The curve between two-year and five-year notes inverted on Monday for the first time since December, and the three-month, 10-year curve briefly turned negative on Tuesday for the first time since October. 
+Long-dated yields dropped as fears over the economic impact of China’s coronavirus led investors to seek out safe-haven assets. 
+The move has offset optimism heading into the year that growth and inflation would pick up, after the United States and China in December agreed to de-escalate their trade war. 
+The gap between three-month and 10-year yields is closely watched. An inversion, when 10-year yields fall below those on three-month bills, has in the past been a reliable indicator that a recession will follow in one to two years. 
+This part of the yield curve inverted last March for the first time since the 2007-2009 financial crisis. 
+The very front of the curve remained kinked, with bills yielding more than shorter-dated notes like 2-year, 3-year and 5-year maturities. However, those relationships are not as closely monitored as economic bellwethers.   
+Still, while a recession may be likely to follow an inversion, the timing is uncertain, and loose monetary policy globally could result in any downturn taking longer to materialize. 
+Some analysts also think that the relative attractiveness of U.S. bonds to those in Europe and Japan, many of which have negative yields, is keeping longer-dated yields below where they would otherwise be, reducing the accuracy of the yield curve inversion as a recession signal. 
+WHAT IS THE TREASURY YIELD CURVE? 
+The yield curve is a plot of the yields on all Treasury maturities - debt sold by the federal government - ranging from 1-month bills to 30-year bonds.  
+In normal circumstances, it has an arcing, upward slope because bond investors expect to be compensated more for taking on the added risk of owning bonds with longer maturities.  
+When yields further out on the curve are substantially higher than those near the front, the curve is referred to as steep. So a 30-year bond will deliver a much higher yield than a 2-year note. 
+When the gap, or “spread”, is narrow, it is referred to as a flat curve. In that situation, a 10-year note, for instance, may offer only a modestly higher yield than a 3-year note. 
+WHAT IS A CURVE INVERSION? 
+On rare occasions, some or all of the yield curve ceases to be upward sloping. This occurs when shorter-dated yields are higher than longer-dated ones and is called an inversion. 
+While various economic or market commentators may focus on different parts of the yield curve, any inversion of the yield curve tells the same story: An expectation of weaker growth in the future. 
+In March, inversion of the yield curve hit 3-month T-bills for the first time in about 12 years when the yield on 10-year notes US10YT=RR dropped below those for 3-month securities. 
+It has traded in positive territory since October, with the exception of Tuesday’s brief inversion. 
+The curve between 2-year and 10-year notes, which is also watched as a recession indicator, inverted for the first time since 2007 in August. It has been positive since early September. 
+(Graphic: Yield curve inversions typically precede recessions, here)     
+WHY DOES INVERSION MATTER? 
+Yield curve inversion is a classic signal of a looming recession.  
+The U.S. curve has inverted before each recession in the past 50 years. It offered a false signal just once in that time. 
+When short-term yields climb above longer-dated ones, it signals short-term borrowing costs are more expensive than longer-term loan costs.  
+Under these circumstances, companies often find it more expensive to fund their operations, and executives tend to temper or shelve investments. Consumer borrowing costs also rise and consumer spending, which accounts for more than two-thirds of U.S. economic activity, slows. 
+The economy eventually contracts and unemployment rises. 
+WHY DOES THE CURVE INVERT AT ALL? 
+Shorter-dated securities are highly sensitive to interest rate policy set by a central bank such as the U.S. Federal Reserve. 
+Longer-dated securities are more influenced by investors’ expectations for future inflation because inflation is anathema to bond holders. 
+So, when the Fed is raising rates, as it did for three years, that pushes up yields on shorter-dated bonds at the front of the curve. And when future inflation is seen as contained, as it is now because higher borrowing costs are expected to become a drag on the economy, investors are willing to accept relatively modest yields on long-dated bonds at the back end of the curve. 
+Reporting by Karen Brettell and Dan Burns; Editing by Megan Davies and Lisa Shumaker

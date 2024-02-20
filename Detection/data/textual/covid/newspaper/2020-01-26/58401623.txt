@@ -1,0 +1,32 @@
+VXX: Spike In Volatility Is Just The Beginning 
+ We anticipate VXX to spike towards its 10-week upper Bollinger Band until VIX futures turn into backwardation.
+
+Fears over a global coronavirus epidemic led to a 20+% increase in VIX last week, the biggest since July 2019.
+
+With the Wuhan coronavirus outbreak rapidly morphing into a full-blown crisis, markets began scrambling to reprice the potential impact as the S&P 500 (SPY) dropped -1% last week while more notably the VIX index (VXX) launched off the lows by more than 20%, the biggest weekly jump since July last year:
+
+That being said, markets remain nowhere close to being in panic mode with the S&P 500 a mere 1% off the highs and based on the fact that the VIX spot index is still 10% under the front-month futures (VX1) :
+
+As shown above, during panic-selling phases, the VIX spot index tends to continue rising until it spikes above its futures counterpart. In other words, last week's move could be an initiation of a larger sell-off looming on the horizon. To analyze the likelihood of such scenario, we look back at the instances when:
+
+Statistically, there is 70% likelihood of further decline in broader markets in the next 4 weeks while VIX would continue rising 60% of the time. In terms of magnitude, a 2% decline on average is expected in the S&P 500 with VIX jolting another 20% higher. Meanwhile, the volatility ETF (VXX) has a rather mixed outlook due to negative roll yield, though on average is most likely to be higher as well along with VIX. On the other hand, interestingly there is actually an 80% chance of a relief rally next week, which we reckon would allow for better entry points to enter into hedging positions.
+
+Another ominous observation from last week's price action is that the CBOE index put-call ratio, after dipping under 1.00 on seemingly capitulation call buying the previous week, snapped abruptly back up to above 1.50:
+
+The week-over-week jump of over 0.70 was the biggest since late 2015 as shown below. Empirically, we also notice that similar up-spikes have tended to occur ahead of more carnage in S&P 500:
+
+If we conduct a statistical analysis using below criteria:
+
+The results point to a similarly bearish near-term outlook on S&P 500 and higher highs to follow in VIX and VXX:
+
+Historically, as the below chart illustrates, we observe that VXX would often spike towards its 10-week upper Bollinger Band during periods of panic selling:
+
+Therefore, although deeply negative roll yield due to VIX futures' term structure in contango will eventually lead to erosion in VXX's price in the long run, VXX could be an effective short-term vehicle if we apply signals from VIX or broader market as a timing tool. As a tail risk hedge, we would suggest looking into one-month call options on VXX.
+
+Due to the expensive nature of VXX options (i.e. high implied volatility of volatility), near-the-money options expiring 21 February appear to be most compelling which have up to 3-4x upside potential should VXX reach the upper Bollinger Band price point of 18.
+
+To summarize, the spike in volatility and CBOE index put-call ratio last week could be a harbinger of further turmoil in the broader market ahead. History suggests that fear-driven selling would most likely continue until negative sentiment reaches an extremity based on the VIX term structure turning backwardation. In that scenario, we expect VXX to propel towards the top of its 10-week Bollinger Band similar to past market corrections.
+
+Disclosure: I/we have no positions in any stocks mentioned, and no plans to initiate any positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.
+
+Additional disclosure: We may have options, futures or other derivative positions in the above tickers mentioned.

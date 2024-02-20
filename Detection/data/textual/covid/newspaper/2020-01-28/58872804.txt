@@ -1,0 +1,66 @@
+Coronavirus May Be The Catalyst That Will Pop China's Massive Property Bubble 
+ Panic is unwise, but it seems best to reduce exposure to Asian equities and debt to an absolute minimum.
+
+Evidence suggests that Coronavirus could be worse than SARS, indicating that it could quickly pull the Chinese economy into a recession.
+
+Admittedly, I've been bearish on the Chinese economy for nearly two years. The nation's economy, and specifically its banking system, is propped up by its highly speculative real estate and construction sector which is poised to burst. The PBOC has "kicked the can down the road" for years (only to make it worse), but they cannot stop the impact of Coronavirus.
+
+From almost all valuation metrics, the ongoing Chinese property bubble makes the U.S housing bubble look like peas. To review, most homes and apartments in China cost 20-40 years' worth of income for a worker (compared to 5 in the U.S). In fact, of the top 15 most expensive cities to buy property in the world, half are located in China (incl. Hong Kong).
+
+Despite high prices, the country boasts a homeownership rate of around 90%. Even more, because of the country's skewed gender ratio, it has become a cultural custom that a young man must own his home before getting married. Because they usually lack the resources, they must borrow from their parents (who often use their own appreciated property as collateral). This practice has enabled extreme, and seemingly endless, home price growth and the public has become so accustomed to the endless appreciation that even slight price drops usually cause social unrest.
+
+Of course, we must remember that the PRC/PBOC has far more economic authority over its citizens than is typical in Western countries. When price growth slows, the government usually steps in by lowering the bank reserve requirements, lowering rates, or directly injecting money. However, price growth is falling again and the country's recent inflationary spike limits the PBOC's ability to inject further liquidity.
+
+Remember, a likely fall in property prices will not just hurt its construction sector; Real Estate is the rock on which the entire Chinese economy currently rests. Household debt is now at least equal to total income. China's banking system has now bloated to a total asset size of over $40T (coming in #2 in the U.S, with a higher GDP, has banking system total assets of $17T). At least a fifth, of urban apartments are vacant due to unnecessary "Ghost City" construction (remember, China's population growth is among the lowest in the world so it will be decades before this property can be used). The home vacancy rate in the U.S is currently 1.5% and was 2.8% at the peak of the construction bubble.
+
+While Chinese banks may appear well-capitalized, it is worth pointing out that a significant portion of Chinese banks' collateral are these ghost properties. Back in 2013 when the bubble was relatively minor, 38% of commercial loans (not mortgages) were backed by property. Today, debt has become so extreme that reportedly banks are now accepting intellectual property (which is notoriously hard to value and easy to overvalue) is becoming a dominant form of collateral.
+
+Even Chinese property development firms are on shaky ground. As I explained in "TAO: The PRC Is Quickly Running Out Of Cards To Stop The Real Estate Crash", there is an extreme discrepancy between the earnings of many major developers and their actual cash-flow. The Invesco ETF (TAO), which is going to be delisted next month, boasts a weighted average "P/E" of 8X, but around half of the companies in the fund have chronically negative operating cash-flow.
+
+The difficult part is that we don't know in numbers how big this bubble truly is. China does not publish detailed debt and GDP data and, as I explained, the definition of "collateral" is far more lose in China. You have likely heard about it for years and, instead of blowing up, it has only continued to grow. However, we do know that the size of the Chinese property market is roughly $65T, compared to the Chinese stock market at $5T (U.S property is around $33T and the stock market around the same) and the size of the country's bank assets to GDP 175%+ compared to 65% in the U.S.
+
+By all measures available, it seems this bubble will be catastrophic for the Chinese economy when it pops. Developers will be hit the hardest, but I would argue few sectors will be safe due to the impact it will have on the country's credit system.
+
+There are signs that pop has come. On top of falling price growth and multi-decade low GDP growth, the government is enacting policies to encourage renting which remains extremely cheap in China. As voiced by many Hong Kong protestors, young people cannot afford to buy homes even with family help. And, of course, the rapidly spreading Coronavirus.
+
+The Coronavirus has already had a significant impact on Chinese equities. Take a look at the recent performance of a few China-related ETF's over the past month compared to the S&P 500 (SPY):
+
+As expected, the Chinese Real Estate ETF (TAO) has been hit the hardest and then (FXI) which has high bank exposure. Understandably, the China technology ETF (CQQQ) has been the least impacted. We're seeing that the spread of Coronavirus is seemingly catalyzing the inevitable credit/property-centric financial crash.
+
+Importantly, Coronavirus has now left Hubei and is prevalent in all of its neighboring provinces and beyond. See below:
+
+As of writing, there are about 2.9K global cases, 81 deaths, and 59 recoveries. On January 23rd, China suspended all public transport in Wuhan which placed all 11 million residents under quarantine. That said, 5 million people left before the quarantine was enacted and, based on JHU's data, there is now an equal number of cases inside of Hubei as there are outside.
+
+Those in Wuhan have noted that the city has become a 'ghost town'. Considering the virus is now prevalent across the country, it is likely that many Chinese cities will see similar conditions. This means that few transactions will take place and that construction will slow (if not cease) or be diverted toward hospital construction.
+
+The 2002 SARS virus lasted about 9 months and is believed to have knocked a few points off the Chinese GDP and the recovery was relatively quick. Some believe that a similar course of events will take place and that this dip may be a buying opportunity for Chinese equities.
+
+A very preliminary study indicated that 2019-nCoV has a similar mortality rate to SARS of 15% (6 died of the 41 initial cases, though not all have recovered). However, nCOV is spreading far faster as it has a longer incubation period and, unlike SARS, is contagious during that period (can spread before symptoms). It is also worth pointing out that China, and the globe, is far more interconnected than it was in 2002 (more people who fly, etc).
+
+While the virus is still early in its life, it seems clear that the Chinese economy (and perhaps many others) will take a blow from the virus.
+
+The iShares Large-Cap China ETF (FXI) is the most popular ETF used to trade and invest in the Chinese economy. It currently has a large total AUM of $4.6B and has lost about 10% of its value since the virus began.
+
+My concern is that investors will mistake FXI for a value opportunity when it is quite the opposite. Indeed, it has not delivered strong returns over the past decade and is trading at a significant discount to its price weeks ago. Even more, its holdings trade at a weighted-average "P/E" ratio of merely 10.5X and have a 2.75% post-expense ratio dividend. At first glance, it seems like a great value play.
+
+However, problematically, the fund has extremely high exposure to financials that have all of the aforementioned risks. Take a look at the ETF's sector exposure below:
+
+As you can see, about 55% of the fund is invested in Financials and Real Estate. It's the largest holding after Tencent (OTCPK:TCEHY) is China Construction Bank (8.8%) (OTCPK:CICHY) which I believe will be ground-zero for the problems coming out of a property crash.
+
+While a 10.5X "P/E" may sound cheap, the U.S Banking ETF (KRE) has a weighted average "P/E" of 11.7X and far less economic risks.
+
+FXI is also very cheap to short-sell today with a current borrowing fee of only 30 bps. I would not short it quite yet as I expect a pullback soon, but FXI seems to have very minimal upside potential and a huge downside.
+
+It is worth pointing out that FXI is not only exposed to the equities it holds but also the Chinese Yuan since it is not hedged. This means that the ETF will generally fall if either fall and today they're both dropping. The PBOC can stop declines by injecting liquidity into its equity market and financial system which may save the stocks (likely temporarily), but it would devalue the CNY/USD exchange rate. Considering the country's inflation rate is already rising, it seems likely that CNY/USD has quite a bit to drop.
+
+The experts are saying not to panic, it is their job to say so, but they are probably right. Panic selling is rarely a good idea, but it seems that investors should look to limit their exposure to China, and the surrounding area, to as low as possible. Remember, China's potential economic problems are far larger than the virus, but the virus is likely to trigger them. Looking at asset price changes in China's ETFs, it seems that it has already begun to do so.
+
+With such a high degree of likely volatility and the uncertainty surrounding the situation, I do not believe this is a great time to short. Since Chinese stocks have crashed so far, it is entirely possible than "buy the dip" investors will enter and the crash will slow. That said, I believe those investors will find they have bought a trap.
+
+Equities in China, Hong Kong (EWH), Singapore (EWS), Taiwan (EWT), and South Korea (EWY) are likely to be hit the hardest. Considering the banking/real estate problem is about the same in each country, I believe that banks, REITs, and development firms will continue to fall more than the others, but that all equities will drop.
+
+At the virus's current growth rate, I doubt that many countries will be unaffected. That said it seems best to wait for the data to come before estimating the potential economic impact on the U.S economy.
+
+Overall, I believe FXI is a clear "sell".
+
+Disclosure: I/we have no positions in any stocks mentioned, and no plans to initiate any positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.

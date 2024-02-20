@@ -1,0 +1,10 @@
+Novel coronavirus complete genome from the Wuhan outbreak now available in GenBank 
+ Get rapid access to Wuhan coronavirus sequence data from the current outbreak as it becomes available. We will continue to update the page with newly released data.
+
+The complete annotated genome sequence of the novel coronavirus associated with the outbreak of pneumonia in Wuhan, China is now available from GenBank for free and easy access by the global biomedical community. Figure 1 shows the relationship of the Wuhan virus to selected coronaviruses.
+
+Figure 1.  Phylogenetic tree showing the relationship of Wuhan-Hu-1 (circled in red) to selected coronaviruses. Nucleotide alignment was done with MUSCLE 3.8. The phylogenetic tree was estimated with MrBayes 3.2.6 with parameters for GTR+g+i.  The scale bar indicates estimated substitutions per site, and all branch support values are 99.3% or higher.
+
+According to the CDC, as of January 11, Chinese health authorities say they’ve identified more than 40 human infections as part of this outbreak that was first reported on December 31. The World Health Organization announced the preliminary identification of the novel coronavirus on January 9. The GenBank record of Wuhan-Hu-1 includes sequence data, annotation and metadata from this virus isolated approximately two weeks ago from a patient believed to have contracted the disease in a Hubei province seafood market.
+
+Rapid access to sequence data from public databases such as GenBank plays a vital role in helping countries develop specific diagnostic kits for disease outbreaks like this one.

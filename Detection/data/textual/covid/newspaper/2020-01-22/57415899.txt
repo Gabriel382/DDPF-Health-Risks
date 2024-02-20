@@ -1,0 +1,27 @@
+Coronavirus weaker than Sars but may share link to bats: Chinese scientists 
+ The coronavirus discovered in Wuhan may share the same bat-related ancestor as Sars, according to the latest study by Chinese scientists, which said the strain was weaker than the devastating 2002-03 Sars outbreak but was still “highly infectious”.
+The new virus shares a common ancestor with severe acute respiratory syndrome (Sars), in HKU9-1, a virus found in fruit bats, they found.
+The connection with wild animals was confirmed on Wednesday by Gao Fu, director general of China’s Centre for Disease Control and Prevention.
+According to Gao, the coronavirus, which has sickened over 400 people across the country and led to nine deaths, originated from the wild animals sold at a seafood market in Wuhan. Gao warned that a major challenge was that the new strain was adapting and mutating.
+
+
+The scientists’ findings, published on Tuesday, suggested that the danger posed by the pneumonia-like virus may have been underestimated by the research community, and came a day after the Chinese government’s announcement of emergency measures to contain its spread.
+A joint research team from the Chinese Academy of Sciences, the People’s Liberation Army and Institut Pasteur of Shanghai estimated how the viral strain would interact with cells in the human respiratory system using computer simulation based on released data.
+“The Wuhan coronavirus’ natural host could be bats... but between bats and humans there may be an unknown intermediate,” the researchers said in a press statement that came with the paper.
+China confirms 9 dead from coronavirus and 440 infected
+Previously, a majority of scientists believed the new virus could not cause an epidemic as serious as that of Sars because its genes were quite different.
+But the new study found that, like Sars, the virus targeted a protein called ACT3.
+According to their calculations, the binding-free energy between the virus and the protein would be minus 50.6 kcal per mol, five times what was “usually considered significant”.
+
+
+“Although comparably weaker [than Sars], the Wuhan CoV S-protein is regarded to have strong binding affinity to human ACE2,” they wrote in a paper published on China Science Bulletin.
+What surprised the scientists most, however, was that the virus could maintain the strong binding ability despite its significant structural differences from Sars. Of the virus’ five amino acids that play important roles in the binding process, four were different from those of Sars.
+US hit by Wuhan coronavirus as first victim announced
+Further examination of the virus’ structure showed that overall its binding protein had a high resemblance to that of Sars.
+The researchers also traced the evolution of the new virus in a government coronavirus database. On the evolutionary tree the new virus belonged to Betacoronavirus, on a close but different branch to Sars.
+The two shared about 70 to 80 per cent of genes, less than the similarity between pigs and humans.
+More to come...
+
+Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis into the latest industry developments, and actionable and objective intelligence about China AI that you should be equipped with.
+
+More from South China Morning Post:Asian health officials fear Wuhan coronavirus outbreak is larger than China’s letting onWhat do you need to know about the new coronavirus in China?For the latest news from the South China Morning Post download our mobile app. Copyright 2020.

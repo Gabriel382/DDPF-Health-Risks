@@ -1,0 +1,50 @@
+Must-Know Vocab For Wuhan Coronavirus: From Droplets To Zoonotic 
+ Must-Know Vocab For Wuhan Coronavirus: From Droplets To Zoonotic
+
+The world is being flooded with perhaps unfamiliar words and phrases in coverage of the newly discovered coronavirus — starting with the very word "coronavirus." (see below for definition).
+
+It's useful to understand relevant medical terms during a time of health crisis, says Melissa Nolan, a medical doctor and a professor of epidemiology at Arnold School of Public Health at the University of South Carolina. "When you educate people, they're not as afraid. And they can understand what their personal risk is."
+
+Nolan, who worked as a disease investigator at Texas Children's Hospital during the H1N1 outbreak in 2009, along with epidemiologist Peter Krause of the Yale School of Public Health, helped identify and define some of the key terms related to the new infectious disease.
+
+Coronavirus: This term refers to a category of viruses that can cause fever, breathing difficulties, pneumonia and diarrhea. Some are potentially fatal. Others can cause a certain percentage of common colds. The name comes from the Latin word "corona," which means crown. Under a microscope, these viruses are characterized by circles with spikes ending in little blobs.
+
+Coronaviruses originate in animals — like camels, civets and bats — and are usually not transmissible to humans. But occasionally a coronavirus mutates and can pass from animals to humans and then from human to human, as was the case with the SARS (severe acute respiratory syndrome) epidemic in the early 2000s.
+
+Novel coronavirus: A coronavirus strain that has not been previously identified, according to the CDC. The Wuhan coronavirus, for example, is novel because it is a new respiratory virus that was first identified in Wuhan, China, in December 2019.
+
+Epidemic: A sudden increase in the number of cases of a disease in a particular geographic area, beyond the number health officials typically expect. An increase that occurs in a relatively small geographic area or among a small group of people may be called an "outbreak."
+
+For example, the CDC calls HIV/AIDS, which affects 1.2 million people in the United States, an "epidemic." By contrast, the CDC called two cases of sickness from drinking raw milk (listeriosis) in the United States an "outbreak."
+
+Pandemic: An epidemic spanning many countries and/or several continents. The difference between an outbreak, an epidemic and a pandemic can be murky and depends on the opinions of scientists and health officials.
+
+Emerging disease: A disease that occurs in the population of a certain geographic region for the first time, or a disease that's been present at low levels in a region but then rapidly reaches new peaks in the number of cases reported.
+
+Animal-human interface: The points of contact between animals and humans — when people cut down forests and set up dwellings where forest animals are still prevalent, for example. Some types of diseases spread from animals to humans at this interface. (Note: In all these definitions "animal" refers to nonhuman animals.)
+
+Reservoir: An animal, plant or environment in which a disease can persist for long periods of time. For example, some bats serve as a reservoir for rabies and can spread the disease by biting humans.
+
+Zoonotic: Any disease that spreads from animals to people. The animals can range from tiny ticks to lumbering cattle.
+
+Transmission: How a disease is transferred. This happens in different ways. There's direct transmission — person-to-person contact and droplet spread (see definitions below). And there's indirect transmission, for example, consuming contaminated food and water, getting bitten by a disease-carrying mosquito or tick or breathing in a microbe carried by dust.
+
+Person-to-person contact: How a disease might spread from one person to another. This can happen in many ways – by kissing, touching, having sex, exchanging bodily fluids, sneezing or coughing.
+
+Droplet: The spray produced by sneezing, coughing or even talking. "Have you ever seen that kind of classic picture of a kid coughing and the amount of droplets coming out?" says Nolan. "It's fluid from your lungs being respired" — that is, breathed out.
+
+Droplets can spread disease when an infected person coughs or sneezes — and the spray lands on a nearby person's mouth, nose or eyes. It can also spread when a person touches a body part or a surface with infected droplets, then touches their face.
+
+Isolation: Separating infected and sick individuals from healthy individuals. Hospitals commonly put sick patients in isolation to prevent the spread of disease.
+
+Quarantine: The separation or restriction of movement of individuals who appear to be healthy but may have been exposed to an infectious disease to see if they become sick. The length of the quarantine depends on the incubation period for the disease. During the Ebola outbreak, for example, it was 21 days.
+
+Contact tracing: Identifying people who may have come into contact with a person infected with a disease during . "Once you know what the incubation period is – the time that you're exposed to the virus to the time you develop symptoms – you ask the infected person and say, who have you been in personal close contact with in that time period?" says Nolan.
+
+Screening: A health check to see whether a person has a disease — often by taking their temperature and then asking questions about symptoms if the temperature is high. It might be as simple as "Do you have a cough" says Nolan.
+
+Reproductive rate: Also called the R , pronounced "R naught," the term refers to a number that indicates the infectiousness of a virus or a pathogen in a particular location. "For every one person infected, how many others will be infected?" says Nolan. So for example, if the reproductive rate for a disease in one geographic area is 11, that's the average number of expected secondary cases caused by a single infected person.
+
+"Really, it's an indication of how quickly something could spread," she adds.
+
+Are there any terms you've heard in coverage of the Wuhan coronavirus outbreak that you'd like to see defined? Email them to us with the subject line "Wuhan coronavirus vocabulary" at goatsandsoda@npr.org and we may include them in an update of this story.

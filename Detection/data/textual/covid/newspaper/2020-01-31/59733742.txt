@@ -1,0 +1,66 @@
+5G tablets have arrived. How fast can they change computing? 
+ Mobile connectivity has fundamentally changed how we live and work. And with help from 5G, Samsung is the first to embark on a new era of connectivity in the tablet market that could spawn even more change.
+
+
+
+This week, Samsung announced the Galaxy Tab S6 5G, a new tablet that utilizes 5G mobile connectivity. The new product makes Samsung the only hardware maker to produce a 5G tablet, but experts don’t expect that to last long. And, more importantly, they expect 5G tablets to usher in era of mobile computing.
+
+
+
+With a 10.5-inch screen, 128GB of storage, and high quality, Dolby Atmos sound, it’s nearly identical to the Galaxy Tab S6 Samsung released worldwide in August. For now, the tablet is only on sale in South Korea and costs 99,000 Korean dollars (about $840). The company didn’t say whether the tablet will eventually be available in the U.S. or other countries. But 5G integration (as opposed to 4G LTE in the Galaxy Tab S6) is what propels this tablet into the future.
+
+
+
+Fifth generation cellular connectivity, better known as 5G, has been widely called a game-changer by industry experts. Boasting the theoretical ability to deliver Internet at speeds up to 2Gbps, 5G reduces latency, allowing devices like autonomous vehicles, that each need to know where other cars are, the ability to communicate more rapidly. 
+
+
+
+“5G tablets might be used in ways we haven’t yet imagined,” says Mario Milicevic, IEEE Member, Staff Communication Systems Engineer at MaxLinear. “The massive connectivity, low latency, and high data rates offered by 5G will create a whole new set of applications, similar to how 3G and 4G enabled new mobile services such as ridesharing and video-based social media apps.”
+
+
+
+5G tablets could also improve a variety of technologies used today, says Ovum analyst Ronan De Renesse, including gaming and video applications that require faster speeds to deliver a suitable user experience.
+
+
+
+In order for that to happen, carriers around the world are deploying 5G networks. To date, there are more than 1,100 5G deployments worldwide, with many thousands to go. Most markets run on older 4G LTE technology, which in real-world implementations in the U.S., usually muster speeds up to 50Mbps.
+
+
+
+“Taken as a whole, it’s still a nascent network and will take a couple of years to mature,” IHS Markit analyst Wayne Lam says of 5G.
+
+
+
+Data provided to Fortune by ABI Research suggests 5G tablet shipments might be similarly slow to roll out. The market researcher says just 540,000 5G tablets will ship worldwide this year and double to 1 million next year. By 2024, the company anticipates 2.2 million 5G tablets hitting store shelves around the world.
+
+
+
+To be sure, 5G won’t only be available in tablets. Samsung already sells smartphones with 5G connectivity, and there are rumors that Apple will release its own slate of 5G iPhones this year.
+
+
+
+Those smartphones should help broaden 5G adoption and incent carriers to rapidly deploy 5G. This year, according to ABI Research, 172 million 5G phones will ship worldwide, and soar to 989 million units in 2024.
+
+
+
+While consumers and enterprise users could both bolster the 5G smartphone market, analysts believe 5G tablet adoption will be driven by the corporate world will drive. In areas as far-ranging as drones to healthcare, 5G tablets can fundamentally change how people work, Milicevic says. Those industries need fast speeds, low latency, and the mobility 5G tablets can—and will—deliver.
+
+
+
+“With 5G, drones might serve as first responders in emergency situations, and remote surgery robots could be deployed in rural areas,” Milicevic predicts. “For new and emerging application areas, such as smart city infrastructure or healthcare, 5G tablets may play a major role in enabling us to leverage all of the benefits of 5G.”
+
+
+
+And for its part, Samsung could play an important role in the broader 5G rollout. The company is the second-biggest tablet maker behind Apple, and there are no signs of it losing that stature anytime soon. That, coupled with Samsung’s commitment to 5G, could prove critical to the entire market.
+
+
+
+“Without Samsung, the 5G tablet would evolve at a much slower pace,” De Renesse says.
+
+
+
+More must-read stories from Fortune:
+
+
+
+—The long ocean voyage that helped find the flaws in GPS—Global companies enter lockdown mode as coronavirus rocks China—3 key takeaways from Tesla’s blockbuster fourth-quarter earnings—Facebook says its ad machine is being weakened by privacy changes—Predicting the biggest tech headlines of 2020Catch up with Data Sheet, Fortune’s daily digest on the business of tech.

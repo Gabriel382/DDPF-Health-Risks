@@ -1,0 +1,72 @@
+TREASURIES-Yields fall as death toll from Chinese virus rises 
+ * Investors concerned about economic impact of virus
+    * Fed expected to keep rates unchanged 
+
+    By Karen Brettell
+    NEW YORK, Jan 29 (Reuters) - U.S. Treasury yields fell on
+Wednesday as the death toll from a Chinese virus rose sharply,
+though they held above three-month lows reached on Tuesday where
+there is technical support.
+    The death toll from a new coronavirus in China rose sharply
+to 132 on Wednesday with nearly 1,500 new cases, as Japan said
+it flew citizens out of Wuhan, the epicentre of the virus.
+
+    Uncertainty over the economic impact of the virus has
+resulted in sharp swings in risk sentiment over the past few
+days.
+    "We’re seeing this as a short-term ‘risk off’ scenario in
+the market, if you look at past iterations of this, they tend to
+be very short lived," said Charlie Ripley, senior investment
+strategist at Allianz Investment Management in Minneapolis.
+    Benchmark 10-year note yields fell two basis
+points to 1.62%. They dropped to 1.57% on Tuesday, the lowest
+since Oct. 10, before bouncing sharply higher as stock markets
+rallied.
+    The closely watched yield curve between three-month bills
+and 10-year notes very briefly inverted on Tuesday for the first
+time since October. It traded at 4 basis points on Wednesday.
+    That part of the yield curve inverted last March for the
+first time since the financial crisis, signaling that a
+recession is likely to follow in one-to-two years.
+    The Federal Reserve is expected to leave rates unchanged
+when it concludes its two-day meeting on Wednesday.
+    Some analysts expect the U.S. central bank may increase the
+interest it pays on excess reserves (IOER) by five basis points
+to keep the rate closer to the middle of its target range, which
+it would likely explain as being a technical adjustment.
+
+    
+      January 29 Wednesday 8:47AM New York / 1347 GMT
+    
+    
+                               Price        Current   Net Change
+                                            Yield %   (bps)
+ Three-month bills             1.545        1.5769    0.005
+ Six-month bills               1.54         1.578     0.003
+ Two-year note                 99-224/256   1.4386    -0.018
+ Three-year note               100-56/256   1.4241    -0.022
+ Five-year note                99-174/256   1.4416    -0.024
+ Seven-year note               99-192/256   1.5378    -0.021
+ 10-year note                  101-48/256   1.6183    -0.023
+ 30-year bond                  106-176/256  2.0729    -0.022
+                                                      
+   DOLLAR SWAP SPREADS                                
+                               Last (bps)   Net       
+                                            Change    
+                                            (bps)     
+ U.S. 2-year dollar swap         6.50         0.50    
+ spread                                               
+ U.S. 3-year dollar swap         2.50         0.50    
+ spread                                               
+ U.S. 5-year dollar swap         0.00         0.50    
+ spread                                               
+ U.S. 10-year dollar swap       -5.25         0.25    
+ spread                                               
+ U.S. 30-year dollar swap      -31.75         0.25    
+ spread                                               
+ 
+
+    
+    
+
+ (Editing by Kirsten Donovan)

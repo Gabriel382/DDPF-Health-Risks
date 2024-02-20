@@ -1,0 +1,26 @@
+Why Waymo's alliance with UPS is a big deal for autonomous vehicles 
+ Waymo, the self-driving car unit of Google’s parent company, notched a big win this week by announcing a partnership with UPS to ferry packages in Phoenix. 
+
+
+
+Initially, Waymo’s automated delivery vans will drive packages from UPS stores around Phoenix to a central sorting facility. The goal is to add cheaper capacity to a system that otherwise relies on shuttling packages in human-driven trucks. 
+
+
+
+Since its initial experiments with self-driving cars, Google, and then Waymo, has made huge advances autonomous driving. A few weeks ago, Waymo announced it had surpassed 20 million autonomous miles driven on public roads. Now Waymo must overcome regulatory and financial hurdles. While Phoenix and a few other cities allow self-driving vehicles to operate without backup human drivers, most others do not. Meanwhile, Waymo is still trying to turn its sci-fi technology into a business. If human backup drivers are required, the company’s self-driving cars may never make financial sense.  That’s where UPS comes in. The package-delivery giant is known for tapping the clever innovations of others for its sprawling delivery network. For example, UPS’s latest sorting facilities are filled with cutting-edge image-recognition and artificial-intelligence technologies that track where packages are supposed to go and then determine how to get them to their destinations as quickly as possible. In earlier eras, UPS pioneered using airplanes and handheld computers.   UPS, with all of its logistical and process improvement expertise, will have a good chance of figuring out how to make operating autonomous vehicles efficient and profitable. After all, this is the company that carefully studied whether it was better for drivers to stow their handheld computers on the right or left sides of their bodies. 
+
+
+
+For its part, Waymo already has a head start in Phoenix. It has used the city as a test bed for a truly self-driving taxi service–no humans just in case–that has 1,500 regular customers.  UPS should also be a useful ally in the regulatory arena.  Drone startup Matternet might still be just one among hundreds of companies if not for its partnership with UPS to deliver medical samples to a hospital lab in Raleigh, N.C. Last year, the joint effort became the first in the country to gain an unrestricted Federal Aviation Administration certification for commercial delivery flights beyond the sight of the operator. No doubt, the participation of steady and reliable UPS helped reassure the FAA that the experiment wouldn’t veer off towards Facebook’s old motto of “move fast and break things.” UPS’s influence clearly makes a difference. During a test in Raleigh, the companies carefully chose the routes the drones would fly to minimize the amount of time spent over populated areas. In Switzerland, where Matternet had conducted tests with other partners, the partners decided to suspend their operations for months last year after a drone crashed near some school children.  UPS could have a similar influence on Waymo, and likely a similar reassuring effect on Waymo’s regulators. If more states and municipalities decide to allow driverless vehicles in the next few years, Waymo and its rivals may have UPS, or “Brown” as it’s known to insiders, to thank.
+
+
+
+Of course, autonomous delivery trucks won’t entirely take humans out of the UPS equation. The company will still need to humans to load and unload Waymo’s vehicles, at least until some company comes up with technology to replace them.  
+
+
+
+More must-read stories from Fortune:
+
+
+
+—The long ocean voyage that helped find the flaws in GPS—Global companies enter lockdown mode as coronavirus rocks China—3 key takeaways from Tesla’s blockbuster fourth-quarter earnings—Facebook says its ad machine is being weakened by privacy changes—Predicting the biggest tech headlines of 2020Catch up with Data Sheet, Fortune’s daily digest on the business of tech.

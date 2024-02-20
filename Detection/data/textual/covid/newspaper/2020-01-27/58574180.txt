@@ -1,0 +1,67 @@
+TREASURIES-Yields drop to three-month lows on coronavirus concerns 
+ * Coronavirus fears boost safety buying of Treasuries
+    * Treasury to sell $40 bln 2-year notes, $41 bln 5-yr notes
+    * Fed expected to leave rates unchanged on Wednesday
+
+    By Karen Brettell
+    NEW YORK, Jan 27 (Reuters) - Benchmark U.S. Treasury yields
+fell to three-month lows on Monday as concerns grew about the
+economic impact of China’s spreading coronavirus, even as the
+Treasury Department prepared to sell $81 billion in
+coupon-bearing supply.
+    The death toll from the coronavirus outbreak in China rose
+to 81 and the virus spread to more than 10 countries, including
+France, Japan and the United States. Some health experts
+questioned whether China can contain the epidemic.
+    “We’ve seen selling in equities, buying in safe havens. The
+news story is certainly about the coronavirus,” said Guy LeBas,
+chief fixed income strategist at Janney Montgomery Scott in
+Philadelphia.
+    “There is clearly going to be some economic impact,
+particularly as its coming at a major consumer holiday. It’s too
+early to assess what that might be or how it flows through to
+other economies, but China’s growth impulse is an extremely
+important one for the global economy,” LeBas said.
+    Benchmark 10-year note yields fell to 1.625%,
+from 1.680% late on Friday. The yields reached 1.604% overnight,
+which was the lowest since Oct. 10.
+    The yield curve between two-year and 10-year notes
+ also flattened to 17 basis points, the flattest
+since Dec 11.
+    The safety bid comes before the Treasury Department will
+sell $40 billion in two-year notes and $41 billion in five-year
+notes on Monday. It will also sell $32 billion in seven-year
+notes on Tuesday.
+    The Federal Reserve is expected to leave rates unchanged
+when it concludes its two-day meeting on Wednesday.
+    
+      January 27 Monday 9:00AM New York / 1400 GMT
+    
+    
+                               Price        Current   Net Change
+                                            Yield %   (bps)
+ Three-month bills             1.495        1.5254    -0.006
+ Six-month bills               1.4925       1.5286    -0.010
+ Two-year note                 100-84/256   1.4512    -0.035
+ Three-year note               100-56/256   1.4243    -0.046
+ Five-year note                101-110/256  1.448     -0.053
+ Seven-year note               101-96/256   1.5398    -0.059
+ 10-year note                  101-32/256   1.6252    -0.055
+ 30-year bond                  106-132/256  2.0804    -0.048
+                                                      
+   DOLLAR SWAP SPREADS                                
+                               Last (bps)   Net       
+                                            Change    
+                                            (bps)     
+ U.S. 2-year dollar swap         4.50        -1.25    
+ spread                                               
+ U.S. 3-year dollar swap         1.75        -1.25    
+ spread                                               
+ U.S. 5-year dollar swap        -1.00        -1.00    
+ spread                                               
+ U.S. 10-year dollar swap       -6.50        -0.50    
+ spread                                               
+ U.S. 30-year dollar swap      -32.75        -0.75    
+ spread                                               
+ 
+ (Reporting by Karen Brettell; editing by Jonathan Oatis)

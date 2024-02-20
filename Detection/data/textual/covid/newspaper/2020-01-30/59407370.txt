@@ -1,0 +1,42 @@
+Coronavirus vaccine research is moving at record speed 
+ To scientists, the work to create a vaccine against the new coronavirus is advancing with a speed they could barely have imagined a decade ago. At the same time, it’s not even close to quick enough to contain the spreading infection — and in many ways, the outbreak will test the capacity of science to react in real time to a new and unknown “pathogen X” that takes the world by surprise.
+
+“Traditional vaccine development efforts have usually taken decades, not months,” said Barney Graham, deputy director of the Vaccine Research Center at the National Institutes of Health, which hopes to have a vaccine in human testing by April. “This is, first, a response to this new virus, but it’s also a drill for pathogen X … press the system, to see how rapidly we can go.” 
+
+When a mysterious new illness emerges and public alarm is at its peak, there’s a race to develop a way to prevent or treat the disease. But by the time a promising candidate is ready, it’s often too late for it to be helpful against the outbreak that triggered the rush. Public interest, funding and the urgency that drove the early vaccine development can quickly taper.
+
+“We were getting candidate vaccines, the epidemics would die down and they’d get put back on the shelf,” said Jacqueline Shea, chief scientific officer of Inovio, a biotech company that has been developing vaccines for Zika, Ebola and Middle East respiratory syndrome.
+
+That’s what happened with severe acute respiratory syndrome (SARS), to the dismay of Peter Jay Hotez, co-director of the Texas Children’s Hospital Center for Vaccine Development. Eight years ago, he and his co-director, Maria Elena Bottazzi, won federal funding to create a vaccine against SARS, a coronavirus that emerged in 2002 and infected 8,000 people and killed nearly 800. By 2016, they had manufactured enough of the potential vaccine to get through toxicology tests and human safety trials.
+
+But the team tried and failed to win various grants to bring their experimental vaccine through further testing. They say about $2 million could have funded essential and time-consuming toxicology studies and ready it for phase 1 trials — the technical term for the first-in-human studies that typically determine the dosing and safety of a drug. Although the threat of SARS has receded, it was becoming increasingly clear that coronaviruses, long thought to cause mild illness, were able to cause serious pandemics.
+
+When the new coronavirus genome sequence was posted to an online genetic databank in early January, Hotez immediately saw the close similarity to SARS and realized that the samples sitting in storage had the potential to defend against the new coronavirus.
+
+“Had we been able to secure the investment, we could have done all the phase 1 trials. We could have potentially been ready to vaccinate in China, now,” Hotez said. “This is the problem with the whole vaccine infrastructure — it’s reactive, not anticipatory enough. ‘Oh, SARS is gone now, let’s move on.’ ”
+
+What the scientific response to the new coronavirus has shown so far is how the first step in the process — designing and even beginning to manufacture the vaccine — can happen nearly overnight, due to the emergence of new technologies.
+
+Scientists at the National Institutes of Health were strategizing with a Massachusetts biotech company, Moderna, over the winter holiday break, about collaborating to build a vaccine for the virus. As soon as the genome of the virus was posted online in early January, the NIH designed the piece of the vaccine that should trigger the immune system to recognize and disable the virus. NIH sent their design to Moderna, which could integrate it into its virus platform and rapidly scale up manufacturing. The NIH hopes to have the vaccine in the first safety trials by April.
+
+At Inovio, a biotech company headquartered outside Philadelphia, a team began working on designing a vaccine hours after the sequence appeared, said Shea, Inovio’s chief operating officer. The company farmed out production of one piece of its vaccine to a contract laboratory in Houston and is making the other component at its facility in San Diego. The company is gearing up for the lab and animal tests that will be necessary before safety trials in people.
+
+Pharmaceutical giant Johnson  Johnson has also jumped into the vaccine effort and estimates that it will be 8 to 12 months before their candidate is ready for testing in people. Many countries are also working on different approaches, in parallel.
+
+“The actual technical feat of making a vaccine against this virus is probably not going to be that hard,” Hotez said. “The problem is you can’t avoid, or even compress the timelines very much for safety testing.” 
+
+That means scientists are flooded with public interest in their vaccine efforts right now and must temper their excitement with the reality that there will be a months-long wait, at minimum, for a vaccine that’s ready for its first tests in people.
+
+“What is the value of a vaccine if development takes a year in the context of the current situation, which seems to be moving very rapidly? The value of a vaccine is we don’t actually know what the trajectory of the epidemic could be,” said Richard Hatchett, chief executive of the Coalition for Epidemic Preparedness Innovations, a global alliance that is funding the Inovio and Moderna efforts and another vaccine being created by researchers at the University of Queensland in Australia.
+
+For example, if the outbreak is still raging after initial safety tests, it is possible that experimental vaccines could be used to protect people on the front lines of treating the disease or in emergency situations, before they are approved for the general population, as happened with Ebola. When Ebola devastated West Africa in 2014, a vaccine was not ready. But when Ebola resurfaced in 2019 in Congo, more than 200,000 people were vaccinated.
+
+If the infections have begun to subside by the time vaccines are through the first round of safety testing, getting a vaccine approved would still be useful in case the virus flares again — but showing that it is safe for healthy people in the general population will take time and continued effort.
+
+In the meantime, researchers are also looking at ways of quickly repurposing existing antiviral drugs to see whether any might work against the coronavirus. Paul Stoffels, chief scientific officer of Johnson  Johnson, said the company had donated 100 boxes of an HIV medication, Prezcobix, to clinicians in Shanghai to see whether it showed any efficacy against the illness. Purdue University researchers hope to test experimental drugs that were initially developed against SARS. At the University of North Carolina at Chapel Hill, researchers have been gearing up to test remdesivir, an experimental antiviral drug that has shown promise against other coronaviruses but failed against Ebola.
+
+But every step takes time. Even having the right laboratory tests, ingredients and animal models of the disease are crucial and time-consuming steps. Laboratories have been waiting for the viral genome to be synthesized by companies and are anxious to get samples of the actual virus.
+
+A decade after SARS, another coronavirus emerged that caused Middle East Respiratory Sydrome (MERS). Many think the coronavirus in China is a lesson that this family of viruses will continue to cross from animals into humans and cause potential pandemics. That means they would like to be prepared, with vaccine platforms that can be readily adapted to new infections, and antiviral drugs that work broadly for multiple diseases.
+
+“Emerging viruses, they’re a moving target. They come and they go, and sometimes they come and they don’t go. But it’s impossible to predict the trajectory of an emerging virus,” said Timothy Sheahan, assistant professor at the Gillings School of Global Public Health at UNC. “So one way we’re trying to maximize the utility of a given antiviral drug is to develop broad-spectrum antivirals. Rather than have one drug for one bug, we want one drug for many bugs.”

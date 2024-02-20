@@ -1,0 +1,32 @@
+Analysis | The WHO held off on declaring the Wuhan coronavirus a global health emergency. Here’s why. 
+ This isn’t the first time the WHO has been reluctant to declare a PHEIC
+
+A PHEIC is a technical term for a “serious, unusual or unexpected” health crisis “that poses a public health risk to other countries through international spread” and potentially requires an immediate, coordinated international response. Declaring a PHEIC expands the WHO’s authority to coordinate that response in various ways, including by issuing recommendations on whether countries should impose trade and travel restrictions.
+
+This is not the first time in recent history the WHO failed to declare a PHEIC even though the situation meets the legal criteria for one. In 2019, the WHO repeatedly decided not to declare the Ebola outbreak in the Democratic Republic of Congo a PHEIC before ultimately doing so. Then and now, the decision-making required an uneasy balancing act between science and politics.
+
+The WHO tries to separate politics and science
+
+In theory, the WHO is supposed to be a nonpolitical body. In a 2014 Chatham House report, global health expert Charles Clift acknowledges that “politics cannot realistically be wholly separated from WHO’s technical work.” But he nevertheless recommends that the agency separate politics from science, lest “excessive intrusion of political considerations in its technical work … damage its authority and credibility as a standard-bearer for health.” 
+
+From the outset, the WHO has endeavored to project this separation. The process for declaring a PHEIC is no exception and requires the WHO director general to consult with an Emergency Committee of independent scientific experts, as well as the countries affected. The Emergency Committee makes a recommendation on whether to declare a PHEIC, but ultimately that decision rests solely on the director general’s shoulders.
+
+Pragmatically though, it’s difficult to imagine a director general breaking with the Emergency Committee’s recommendation. Theirs is the voice of technical expertise. Heeding it gives the director general cover to take action that might be unpopular with governments; contravening them risks being seen as a political move.
+
+However, this approach leaves two big problems:
+
+1. Politics is always involved
+
+The decision to declare a PHEIC is unavoidably political, even if framed otherwise. The Emergency Committee’s job is to make recommendations about how to control the spread of disease with the least disruption to trade and travel. This requires it to make inherently political judgment calls about what might justify restrictions on economic activities and human rights. Moreover, countries often respond to a PHEIC declaration by panicking and imposing trade and/or travel restrictions against the WHO’s recommendations. This adds another layer to the political and economic calculations.
+
+The Ebola Emergency Committee considered such trade-offs when it initially recommended against a PHEIC declaration. In the committee chair’s words, there was “nothing to be gained” (because countries were already responding appropriately) — but “potentially a lot to lose,” because a declaration could lead to border closures and other measures, “which could severely harm the economy in the DRC.” 
+
+Similar trade-offs weighed in Thursday’s coronavirus decision. This committee’s chair explained that the experts balanced concerns about how people in China who are struggling with the virus would perceive such a declaration against the possibility that the recommendations already issued by the WHO “might produce useful results even in the absence of a PHEIC.” 
+
+2. Trying to avoid the politics puts the WHO at a disadvantage
+
+Trying to whistle past the politics puts the WHO at an expertise disadvantage. Declaring a PHEIC is inherently a political, economic and legal decision, as well as a technical one. But the Emergency Committee members are scientists and epidemiologists — these are medical experts, which means the group may not be well-equipped to analyze an outbreak’s other dimensions. The coronavirus Emergency Committee chair said as much: “Concerning the political aspects, we have not the competence in the EC to address these very important issues.” (Tellingly, the French word he used, compétence, means both expertise and purview.)
+
+Like it or not, the WHO is a political organization as well as a scientific one. Embracing this reality — and ensuring that political, economic and legal expertise are included in critical discussions alongside scientific expertise — would be one way to strengthen the PHEIC decision-making process.
+
+Dr. Mara Pillinger is an associate at the O’Neill Institute for National and Global Health Law at Georgetown University. Follow her on Twitter at @mplngr.

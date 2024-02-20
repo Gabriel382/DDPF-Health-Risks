@@ -1,0 +1,146 @@
+Video Friday: How Robots Are Helping to Fight the Coronavirus Outbreak 
+ Video Friday is your weekly selection of awesome robotics videos, collected by your Automaton bloggers. We’ll also be posting a weekly calendar of upcoming robotics events for the next few months; here’s what we have so far (send us your events!): 
+DARPA SubT Urban Circuit – February 18-27, 2020 – Olympia, Wash., USA 
+HRI 2020 – March 23-26, 2020 – Cambridge, U.K. 
+ICARSC 2020 – April 15-17, 2020 – Ponta Delgada, Azores 
+ICRA 2020 – May 31-4, 2020 – Paris, France 
+Let us know if you have suggestions for next week, and enjoy today’s videos. 
+ 
+ 
+Automaton contributor Fan Shi, who helps with our coverage of robotics in Asia, shared a few videos from China showing ways in which robots might be useful to help combat the spread of the deadly coronavirus. These include using robots to deliver medicine, food, and disinfect rooms. 
+ 
+ 
+ 
+ 
+ 
+And according to some reports, doctors at a Seattle area hospital are using a telepresence robot to treat a man infected with the virus, the first confirmed case of coronavirus in the United States. 
+ 
+ 
+ 
+ 
+Watch until 0:44 to get your mind blown by MiniCheetah. 
+ 
+ 
+ 
+[ MIT ] 
+ 
+ 
+ 
+This new video from Logistics Gliders shows more footage of how these disposable cargo UAVs land. It’s not pretty, but it’s very cost effective. 
+ 
+ 
+ 
+[ Logistics Gliders ] 
+Thanks Marti! 
+ 
+ 
+ 
+ 
+ At the KUKA Innovation Award 2019 about 30 research teams from all over the world applied with their concepts on the topic of Healthy Living. The applicants were asked to develop an innovative concept using the KUKA LBR Med for the use in hospitals and rehabilitation centers. At MEDICA, the world's largest medical fair, the teams of the 5 finalists presented their innovative applications. 
+ 
+ 
+ 
+ 
+[ Kuka ] 
+ 
+ 
+ 
+Unlike most dogs, I think Aibo is cuter with transparent skin. 
+ 
+ 
+ 
+[ Aibo ] via [ RobotStart ] 
+ 
+ 
+ 
+We’ve written extensively about Realtime Robotics, and here’s their motion-planning software running on a couple of collision-prone picking robots at IREX. 
+ 
+ 
+ 
+[ Realtime Robotics ] via [ sbbit ] 
+ 
+ 
+ 
+Tech United is already looking hard to beat for RoboCup 2020. 
+ 
+ 
+ 
+[ Tech United ] 
+ 
+ 
+ 
+ 
+ In its third field experiment, DARPA's OFFensive Swarm-Enabled Tactics (OFFSET) program deployed swarms of autonomous air and ground vehicles to demonstrate a raid in an urban area. The field experiment took place at the Combined Arms Collective Training Facility (CACTF) at the Camp Shelby Joint Forces Training Center in Mississippi. 
+ 
+ 
+ 
+ 
+ 
+ The OFFSET program envisions swarms of up to 250 collaborative autonomous systems providing critical insights to small ground units in urban areas where limited sight lines and tight spaces can obscure hazards, as well as constrain mobility and communications. 
+ 
+[ DARPA ] 
+ 
+ 
+ 
+Looks like one of Morgan Pope’s robotic acrobats is suiting up for Disney: 
+ 
+ 
+ 
+[ Disney ] via [ Gizmodo ] 
+ 
+ 
+ 
+Here are some brief video highlights of the more unusual robots that were on display at IREX—including faceless robot baby Hiro-chan—from Japanese tech journalist Kazumichi Moriyama. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[ sbbit ] 
+ 
+ 
+ 
+The Oxford Dynamic Robot Systems Group has six papers at ICRA this year, and they’ve put together this teaser video. 
+ 
+ 
+ 
+[ DRS ] 
+ 
+ 
+ 
+Pepper and NAO had a busy 2019: 
+ 
+ 
+ 
+[ Softbank ] 
+ 
+ 
+ 
+ 
+ Let’s talk about science! Watch the fourth episode of our #EZScience series to learn about NASA’s upcoming Mars 2020 rover mission by looking back at the Mars Pathfinder mission and Sojourner rover. Discover the innovative elements of Mars 2020 (including a small solar-powered helicopter!) and what we hope to learn about the Red Planet when our new rover arrives in February 2021.  
+ 
+ 
+ 
+ 
+[ NASA ] 
+ 
+ 
+ 
+Chen Li from JHU gave a talk about how snakes climb stairs, which is an important thing to know. 
+ 
+ 
+ 
+[ LCSR ] 
+ 
+ 
+ 
+This week’s CMU RI Seminar comes from Hadas Kress-Gazit at Cornell, on “Formal Synthesis for Robots.” 
+ 
+ 
+ 
+ 
+ In this talk I will describe how formal methods such as synthesis – automatically creating a system from a formal specification – can be leveraged to design robots, explain and provide guarantees for their behavior, and even identify skills they might be missing. I will discuss the benefits and challenges of synthesis techniques and will give examples of different robotic systems including modular robots, swarms and robots interacting with people. 
+ 
+[ CMU RI ]

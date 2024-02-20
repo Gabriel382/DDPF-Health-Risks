@@ -1,0 +1,28 @@
+Coronavirus outbreak: Map tracks Wuhan coronavirus spread 
+ A regularly updated world map showing the spread of the Wuhan coronavirus has been developed by Johns Hopkins University.
+
+The university said the online dashboard was developed by its Centre for Systems Science and Engineering to keep track of the ongoing public health emergency.
+
+"The dashboard is intended to provide the public with an understanding of the outbreak situation as it unfolds, with transparent data sources," the university said.
+
+The dashboard was updated on a daily timescale, showing statistics about deaths and confirmed cases, and the complete set of data could be downloaded.
+
+READ MORE:
+
+ * Coronavirus: Kiwis evacuated from Wuhan will not be quarantined on Christmas Island, Peters says
+
+ * Coronavirus: World airlines suspend China flights, cut services on virus fears
+
+ * Coronavirus cases highly likely to arrive in NZ, health officials say as they seek extra quarantine powers
+
+ * 10-year-old boy raises fears Wuhan coronavirus could spread undetected
+
+Data used for the dashboard came from the World Health Organisation (WHO), US Centres for Disease Control and Prevention (CDC), Chinese Centre for Disease Control and Prevention (CCDC), European Centre for Disease Prevention and Control (ECDC), China's National Health Commission (NHC), and Dingxiangyuan (DXY), a social networking site for health care professionals that provides real-time information on cases.
+
+DXY aggregated NHC and local CCDC situation reports in near real-time, providing more current regional case estimates than the national level reporting organisations were capable of, Johns Hopkins said.
+
+Civil engineering professor Lauren Gardner said it was critical for researchers that the data was available to be downloaded.
+
+"For the research community, this data will become more valuable as we continue to collect it over time," she said.
+
+The WHO is reconvening its committee on the coronavirus early Friday (NZ time) to discuss whether the outbreak constitutes a "public health emergency of international concern".

@@ -1,0 +1,23 @@
+Microsoft cloud revenue regains momentum, sending profit above Street estimates 
+ (Reuters) - Microsoft Corp on Wednesday reported quarterly sales and profit that beat Wall Street expectations, driven by the first acceleration of Azure cloud computing revenue growth in eight quarters amid a pitched battle with Amazon.com Inc’s cloud unit. 
+Shares of the world’s largest software company hit an all-time high in after-hours trading. The results reflected the approach of Chief Executive Satya Nadella, who for five years has re-centred Microsoft around the cloud, renting out its computing power and technology to large businesses. 
+Microsoft said Azure, its primary competitor to Amazon’s cloud, grew 62% in the fiscal second quarter ended Dec. 31, down from a 76% revenue growth rate the year before but up from 59% in the fiscal first quarter. 
+Microsoft’s chief financial officer, Amy Hood, said increased consumption of Azure services, which include offerings such as computing power to run applications and data storage services, drove the revenue growth. 
+“We did have good usage, which matters a ton to that number,” Hood told Reuters. “The core thing that we focused on - which is consumption growth - was quite good.” 
+Microsoft said revenue for its “commercial cloud” - a combination of Azure and the cloud-based versions of software such as Office - reached $12.5 billion, up from $9 billion the year before. 
+The commercial cloud gross profit margin - a key measure of cloud profitability that Microsoft has told investors it expects to improve - was 67%, versus 62% the year before. 
+Microsoft shares rose as much as 4.58% to $175.74 in after-hours trading. 
+“This quarter was an absolute ‘blow out quarter’ across the board with no blemishes and in our opinion speaks to an inflection point in deal flow as more enterprises pick Redmond for the cloud,” Wedbush analyst Dan Ives said in a note, referring to Microsoft’s headquarters location in Redmond, Washington. 
+Hood said the company was working to improve margins on its core Azure services, which rely on data centres that can cost billions of dollars to build. She cited “hardware improvements and taking advantage of those hardware improvements.” 
+Microsoft’s revenue and profit for the second quarter were $36.9 billion and $1.51 per share, respectively, compared with analyst estimates of $35.7 billion and $1.32 per share, according to IBES data from Refinitiv. 
+Microsoft has focused on hybrid cloud computing – in which a business can use a mix of Microsoft’s data centres and its own – as well as on delivering its longstanding productivity programs such as Office via the cloud. 
+The shift to the cloud has driven Microsoft’s shares up more than 50% in the past year, as it gains ground against market leader Amazon and also parries the threats to its classic software programs from newer entrants like Alphabet Inc’s Google. 
+In 2019, Microsoft had 22% share of the cloud computing infrastructure market, compared with 45% at Amazon and 5% from Google, according to data from Forrester Research. 
+“Azure’s renewed growth doesn’t yet pose a threat to AWS’s supremacy in the cloud market, but it does present an opportunity to further close the gap on Amazon and increase its lead over other cloud providers,” said Andrew MacMillen of Nucleus Research. 
+The company’s Intelligent Cloud unit, which includes Azure, reported revenue that rose 27% to $11.9 billion in the quarter, versus expectations of $11.4 billion. For the fiscal third quarter ending in March, Microsoft forecast revenue with a midpoint of $11.9 billion for the unit, compared with analyst expectations of $11.4 billion. 
+FILE PHOTO: Microsoft CEO Satya Nadella addresses a news conference in Berlin, Germany February 27, 2019. REUTERS/Fabrizio Bensch/File Photo
+
+Its Productivity and Business Process unit, which contains the LinkedIn social network, reported $11.8 billion in revenue compared with estimates of $11.4 billion.  
+Revenue in the unit that contains Windows was $13.2 billion, compared with estimates of $12.8 billion. Over the past year, Windows sales were hampered by shortages of PC chips from Intel Corp, but the chipmaker said last week it had alleviated most of those supply concerns. 
+Microsoft forecast revenue of between $10.75 billion (8.2 billion pounds) and $11.15 billion for the unit containing Windows in the fiscal third quarter, a wider-than-normal forecast range that the company said was because of uncertainty surrounding the spread of the coronavirus in China. 
+Reporting by Stephen Nellis in San Francisco; Additional reporting by Ayanti Bera in Bengaluru; Editing by Matthew Lewis and Leslie Adler

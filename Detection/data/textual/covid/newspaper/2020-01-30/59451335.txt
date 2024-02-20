@@ -1,0 +1,14 @@
+China coronavirus: how many papers have been published? 
+ More than 50 research papers have been published on the new Chinese coronavirus in the past 20 days, as scientists rush to understand the pathogen and how it spreads.
+
+The virus, known as 2019-nCoV, causes a serious respiratory illness and has so far infected more than 7,700 people in China and killed at least 170, authorities report. It has also spread to 15 other countries. The infection is thought to have originated in a food market in the Chinese city of Wuhan, which has been on lockdown — with travel into and out of the city restricted — since 23 January.
+
+The escalating outbreak has prompted a flurry of research activity on the coronavirus, which emerged in humans in December and is new to science. Nature searched for studies about the virus using the terms ‘coronavirus’ or ‘ncov’ on the preprint servers bioRxiv, medRxiv and ChemRxiv, as well as on Google Scholar, the discussion forum virological.org, scholarly-activity tracker Altmetric and the websites of institutions that had published preliminary research reports on the subject. As of 30 January, at least 54 English-language papers on the coronavirus have been published, over half in the past seven days (see ‘Coronavirus research’).
+
+What you need to know about the Wuhan coronavirus
+
+More than 30 are on preprint servers, and a handful have appeared in peer-reviewed journals, including The Lancet and the Journal of Medical Virology. The search did not include Chinese-language journals.
+
+Several of the papers contain estimates of how rapidly the virus spreads, or the length of its incubation period — how long after being infected with the virus people start to experience symptoms.
+
+Other studies focus on the virus’s structure or genetic make-up — information that could be used to identify drug targets or develop a vaccine. Researchers have also published genomic data on the virus on online platforms such as GISAID or GenBank, but Nature’s analysis did not count these data uploads.

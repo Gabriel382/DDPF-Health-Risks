@@ -1,0 +1,48 @@
+How fake news on Facebook and Twitter could complicate efforts to stop the spread of the coronavirus 
+ As public health authorities work to halt the spread of coronavirus in the U.S., they’ll face two major obstacles: eroding trust in the media and medical system, and fake news.
+
+The Centers for Disease Control and Prevention confirmed Thursday the first instance of person-to-person transmission of the coronavirus in the U.S. after the husband of a woman who was the first confirmed case in Illinois came down with the sickness. The CDC said Friday that 241 people nationwide are being examined to see whether they contracted the illness.
+
+The coronavirus first emerged in the Chinese city of Wuhan, located in the Hubei province. As of Friday, 9,692 people had contracted the virus, and at least 213 had died, according to Chinese health authorities. Outside of China, the World Health Organization had confirmed 98 cases of the illness in 18 countries.
+
+In the era of fake news, when false information spreads at lightning speed across social media platforms and distrust in news outlets is rampant, public health officials in the U.S. could face significant challenges keeping Americans safe if the illness were to begin spreading more rapidly.
+
+“Whenever a threat like a potentially global infectious disease appears in the media, members of the public try to make sense of the nature of the threat,” said Adrian Bangerter, a professor at the University of Neuchatel in Switzerland. “If trust is low, then there is a risk that alternative explanations like conspiracy theories may complicate efforts to contain disease spread.”
+
+Americans have less confidence in some of our most hallowed institutions. Trust in the presidency, Congress, newspapers and television news have declined over the past couple of decades, research from Gallup shows. That trend doesn’t bode well for public health officials trying to communicate vital information about a disease outbreak.
+
+During an outbreak, “the best sources of information are going to be government public health officials,” said Amesh Adalja, a senior scholar at the Johns Hopkins University Center for Health Security. “The less they heed those authorities, the less likely they are to take the advice.”
+
+What’s worse, people’s trust in health care providers has also slipped. Just 36% of people in the U.S. had a “great deal” or “quite a lot” of confidence in the medical system as of 2019, the lowest level since 2014 and far lower than back in 1975 when that figure stood at 80%, according to Gallup.
+
+Another study conducted by Gallup showed a strong correlation between a person’s trust in their doctors or nurses and their trust in vaccinations.
+
+“The health system in this country is not beloved,” said Matt Jacobs, a public health consultant based in Washington, D.C. “But most Americans have a fairly limited knowledge of science and medicine, and that creates a challenge.”
+
+One bright spot: a separate study from the Pew Research Center suggests that Americans view the CDC more favorably than other government agencies, even though trust in the government is at record lows.
+
+There are dangerous side effects to false information. When the rumor mill begins, public health officials are pulled away from work they could be doing to contain an outbreak in order to correct the record.
+
+“During the Ebola outbreak in 2014, we saw a lot of misplaced fear in the U.S. that caused major disruptions,” Adalja said. “That makes it much more difficult because public health experts spend more time dispelling rumors than dealing with the problem at hand.”
+
+Social media facilitates the rapid spread of fake news, conspiracy theories and rumors, which makes it harder for public health officials to do their jobs. A 2018 study from the Massachusetts Institute of Technology found that false news stories were 70% more likely to be reposted on Twitter TWTR, -2.66%  than true ones.
+
+“The social media platforms are really going to be in a position to potentially shape whether coronavirus outbreaks can happen here,” Jacobs said. Facebook FB, -3.95%  and Twitter both took steps to prioritize content from trusted news sources following the measles outbreak nationwide last year, he noted. Health officials said a social-media misinformation campaign led by the anti-vaccination movement contributed to the outbreak.
+
+Already, debunked conspiracy theories and rumors have spread regarding the coronavirus, including on sites like Reddit and Weibo. Malaysia arrested five people for reportedly spreading misinformation about the illness online.
+
+In response to the coronavirus outbreak, Facebook has brought on third parties to fact-check content on the social media platform, including the Associated Press and AFP.
+
+“Several of our third-party fact-checking partners around the world have rated content false so we are dramatically reducing its distribution and people who see this content, try to share it, or already have, are alerted that it’s false,” a Facebook spokeswoman said. “This situation is fast-evolving and we will continue our outreach to global and regional health organizations to provide support and assistance.” (Twitter did not immediately return requests for comment.)
+
+Facebook’s head of health said in a blog post Thursday that the platform was focused on removing potentially dangerous information, including posts about false cures such as drinking bleach to cure coronavirus. Hashtags that are being used to spread disinformation on Instagram will be blocked or restricted.
+
+Reddit, meanwhile, does not include a specific ban on misinformation in its content policy, but the volunteer moderators on the platform’s many subsections can set their own rules for what type of posts are allowed. The coronavirus “subreddit” prohibits sensationalized headlines and requires reliable sources. The subreddit also flags posts that appear to contain rumors or information not yet confirmed by official sources.
+
+The rise of the anti-vaccination movement has helped prepare public health professionals to contend with fake news, experts said.
+
+“I believe they are utilizing social media better than ever to provide frequent updates and to address fears,” said Lisa Gualtieri, an assistant professor of public health at Tufts University. “Trends like the anti-vaccination movement were a wake-up call that fears need to be addressed, not ignored.”
+
+Nimbleness will be key in addressing misinformation online and ensuring that people have accurate, actionable information during an illness outbreak.
+
+Some have even suggested that public health officials could benefit from teaming up with social media influencers to ensure that their message reaches a large audience quickly. “State and federal health agencies need to rely heavily on allies and partners who can help carry the message as well,” Jacobs said.

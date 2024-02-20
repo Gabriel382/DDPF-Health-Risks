@@ -1,0 +1,51 @@
+Coronavirus: Potential Signs Of Containment And Key Markets To Watch 
+ This week, traders have been weighing generally optimistic signs from massive U.S. technology companies against the continued spread of coronavirus. So far, virus fears are winning out as seen by the week-to-date drop in major global indices and rally in traditional safe havens like  and bonds. That said, the situation is far from resolved, so we wanted to take a look at the raw numbers and highlight different market opportunities for traders to examine.
+
+While the total number of infections and deaths continue to grow, it’s worth noting that the percentage growth rate of those figures has shifted lower in recent days. Reviving and expanding our rough, “naïve growth” coronavirus model from , we can see that the growth rate of infections and deaths on mainland China has shifted down to “only” around 25-30% over the last two days:
+
+
+	Infection And Death Rates On Mainland China
+
+
+
+	
+		
+		
+	
+
+
+
+Source: Chinese Health Commission, GAIN Capital.
+
+Reiterating that I’m not an epidemiologist and this is far from an exhaustive model, there are tentative signs that Chinese authorities may be slowing the growth rate of the infection, a critical step toward ultimately containing it. Early data from other countries is even more optimistic, with no deaths reported in other countries. We’ll continue to monitor these developments in the coming days, as any new outbreaks in other countries or reacceleration in growth would be very worrisome.
+
+
+Market Implications
+Based on the general recovery in risk assets since Monday’s swoon, traders are taking a similar cautiously optimistic view toward the virus’s spread. At this point, it’s premature to speculate on the ultimate economic impact, but this quarter’s growth is likely to slow sharply with many heavily populated regions of mainland China on lockdown during the critical New Year holiday. The SARS epidemic of 2003 reportedly shaved 1-2% off China’s GDP growth and coronavirus has likely already eclipsed the total number of infections from SARS (though early indications of the death rate are lower).Rather than wait for the official economic figures, traders have aggressively sold Chinese assets, with  retesting the  and the  index shedding about 12% over the last two weeks:
+Source: TradingView, GAIN Capital.As we noted , individual equities and markets could provide additional trading opportunities in the days and weeks to come.
+Assets Likely To Be Correlated With Spread Of Coronavirus:
+
+Gold
+
+Bonds
+
+“Safe haven” currencies (, , and )
+
+Medical safety equipment stocks (, , etc)
+
+Certain pharmaceutical stocks (, , , , )
+
+Markets Likely To Be Inversely Correlated With Spread Of Coronavirus:
+
+
+Growth-sensitive currencies (, , , etc)
+
+Global stocks (emerging markets in particular)
+
+Airline stocks (, , , , , etc)
+
+Other travel-related stocks (, , , , , , etc)
+
+Consumer good stocks (, , , etc)
+
+*Please note that not all of these markets are available in all regions.

@@ -1,0 +1,12 @@
+As coronavirus sparks new interest in Plague Inc., dev warns it's 'not a scientific model' 
+ Popular pandemic simulator Plague Inc. was released for mobile devices in 2012, while the updated Plague Inc. Evolved came to Steam in 2016. Despite that age, it hit its all-time peak concurrent player count today—8452 players, according to Steam Charts, well over the previous record of 4601, set in April 2018—and one of its highest average concurrent player counts within the past 30 days.
+
+The reason is simple, if a little morbid: Curiosity driven by the Coronavirus outbreak, which a BBC report (via Eurogamer) said was enough to push the mobile version of Plague Inc to the top of the app charts in China earlier this week, despite its age. The demand has been so high that developer Ndemic Creations' website and Plague Inc servers were actually forced offline, although service appears to be restored now.
+
+The uptick in interest also prompted Ndemic Creations to issue a statement reminding everyone that while Plague Inc is cool, it's also just a game.
+
+"Plague Inc. has been out for eight years now and whenever there is an outbreak of disease we see an increase in players, as people seek to find out more about how diseases spread and to understand the complexities of viral outbreaks," the studio said.
+
+"We specifically designed the game to be realistic and informative, while not sensationalizing serious real-world issues. This has been recognized by the CDC and other leading medical organizations around the world. However, please remember that Plague Inc. is a game, not a scientific model and that the current Coronavirus outbreak is a very real situation which is impacting a huge number of people. We would always recommend that players get their information directly from local and global health authorities."
+
+Ndemic Creations also provided a link to the World Health Organization's Coronavirus webpage.

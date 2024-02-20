@@ -1,0 +1,16 @@
+VivaLNK Medical Wearable Sensors Help Fight Coronavirus in China 
+ CAMPBELL, Calif., Jan. 29, 2020 /PRNewswire/ --  , a leading provider of connected healthcare solutions, today announces Shanghai Public Health Clinical Center (SPHCC) is using VivaLNK's continuous temperature sensor to combat the spread of Coronavirus in China. Modeled after the previous SARS outbreak, SPHCC contains special wards designed to limit cross infection and to provide more efficient treatments. SPHCC is designated as the primary treatment center in Shanghai, and confirmed patients from area hospitals are also sent to the SPHCC for quarantine and treatment.
+
+A key challenge in combating contagious diseases is limiting the spread of the virus within a hospital. Cross infection from patient-to-patient and patient-to-caregiver can be a major problem. While quarantining patients may limit patient-to-patient contact, contact between caregivers and patients can also be avoided with technology.
+
+Working with VivaLNK solution partner, Yijing Health, the temperature sensor is applied directly onto the patient and allows for continuous, real time monitoring of changes in body temperature. The data is then sent electronically from the patient to a remote observation dashboard at the nursing station, providing a view of the patients. Now, instead of physically checking the patient temperature every few hours with a mercury thermometer, temperatures can be monitored remotely and automatically, thereby limiting patient-to-caregiver contact.  SPHCC also plans to deploy other VivaLNK sensors to monitor vitals such as heart rate and respiratory rate.  And in addition to SPHCC, the VivaLNK solution has been deployed in four other hospitals in various locations throughout China.
+
+"VivaLNK is proud to help fight infectious diseases such as the Coronavirus," said Jiang Li, CEO of VivaLNK. "The world will never be rid of diseases, but more effective methods of prevention and treatment can be achieved through technological advances."
+
+The VivalNK temperature sensor has clearances from the CFDA, FDA, and CE, and is part of VivaLNK's medical wearable platform which includes sensors to monitor a variety of other vitals and biometrics. Over-the-counter consumer versions of the temperature sensor are also available under the Enfasmart FeverSense and Nurofen FeverSmart brands.
+
+For more information on the temperature sensor visit .
+
+About VivaLNK
+
+VivaLNK is a provider of connected healthcare solutions for patient care and telemedicine. The company's portfolio includes wearable medical grade devices and data analytics applications that continuously monitor the health and well-being of individuals. The company's vision is to improve the quality and accessibility of healthcare worldwide by combining technology, data, and analytics into an integrated solution.

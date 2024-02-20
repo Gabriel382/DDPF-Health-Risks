@@ -1,0 +1,52 @@
+OIL: Buy The Bottom In Crude 
+ OIL is a strong trade at this time to capture the selloff in crude oil and trade with the fundamentals.
+
+Supply is currently being constrained by market participants with a vested interest in seeing crude increase in value.
+
+Oil demand is the only part of the balance where the bears can make a potentially compelling case to sell oil – but the supply variables win out.
+
+Over the last month, shares of the iPath S&P GSCI Crude Oil Total Return Index ETN (OIL) have taken a beating as market flows seem to have shifted away from risky assets in light of worries regarding the coronavirus in China. In this piece, I will argue that I believe this movement is actually departing from fundamentals and that now is a strong time to buy crude oil. In other words, the bottom is in.
+
+To start this analysis off, let’s take a look at the 5-year range of inventories.
+
+As you can see, we’ve started the year off on a bit of a weak note with inventories generally moving lower than the 5-year average as well as making consistent new lows against the levels of 2019.
+
+There are a few different components that go into this overall figure and in the following paragraphs we will step through them. Before heading onto the individual components of supply and demand, we should note that crude oil stocks are declining in relation to seasonally-adjusted benchmarks which means that demand is winning out over supply.
+
+First off, let’s talk about the demand side of the equation.
+
+Refining utilization has long been a sore spot for bulls because simply put, it’s been pretty bad for the past few months. Specifically, 2019 was dismal in that refining demand was under the 5-year average almost the entire year with only a few weeks seeing strength. The underlying driver here in my opinion is likely poor economic growth and oil bulls need to be on the lookout for any slowdown in the economy as a potential soft spot in the balance.
+
+And the second piece of demand is exports.
+
+It’s very hard to make a bearish case regarding crude demand in total when you look at the growing exports figure. As you can see, for the past few years, crude exports have carved out new highs consistently. The basic story here is that as U.S. production growth has continued, we’ve been exporting a greater amount of barrels to keep the market balanced. This continues to be a bullish element on the balance because as long as production growth continues, exports have demonstrated the ability to be a balancing mechanism to keep the market from being oversaturated.
+
+And to swing over to supply, let’s talk about that production growth. Put simply, it’s falling.
+
+In my opinion, this is one of the most overlooked elements of the balance at this point. I often hear news outlets citing a “crude supply overhang” due to the massive level of production growth seen in the market. But what I don’t see also cited is the fact that growth is slowing and that’s a big deal.
+
+The reason why this matters is that demand grows as well. In other words, in a typical year you will see more people on the road and generally higher levels of economic activity. This means that refining runs have to increase to accommodate the higher economic activity which is ultimately fueled by energy. Pun intended.
+
+So when production growth slows, we have a situation in which unless demand growth slows by the same extent, you begin to see inventories drop as crude from supply is unable to meet demand and therefore inventories fall. This is the situation we find ourselves in today and as we’ll discuss in a bit, this is almost certainly going to continue until the price of crude rises.
+
+And the second variable of supply is imports – and imports have been and continue to be crushed.
+
+I’ve covered this extensively in recent articles so I won’t harp on it too much here. But the simple story is this: OPEC wants a higher price of crude oil to maximize its revenues. So it has cut production from 2019 through today and will likely continue to do so until the price rises. OPEC wins. They produce around a third of the crude demanded in the world and they have the market power to accomplish their objective. It may take a few quarters, but fighting OPEC is similar to fighting a mini version of the Fed. The odds just aren’t in your favor.
+
+The real bullish case comes from the supply side of the balance. OPEC is going to ultimately win (unless of course they decide to bust a 2014 on us and try to drive operators into bankruptcy). At this time they have a stated objective of “stable” (read: higher) prices and their policy has closely correlated with movements in the price of crude oil.
+
+And secondly, production is frankly being controlled by Wall Street at this point. This is another point I’ve addressed in previous articles, but the simple story is that Permian operators are going out of business because lending dried up from the financial community exhausted from seeing negative cash flows. This trend is leading the charge in production declines and it will continue until prices are high enough to restore positive cash flows.
+
+Based on these twin supply risks, I believe that the bottom is in for OIL and now is a solid time to buy the ETN.
+
+When I write about commodity ETPs, I always like to do a quick write-up on what it is you’re actually trading with the instrument. There are a lot of strange instruments out there with many layers of complexity, which means that it pays to make sure you understand what you’re tracking.
+
+The OIL ETN follows the S&P Crude Oil Index. This index holds Brent and WTI futures in a weighting scheme based on historic production of the different grades. I’ve touched on this before when addressing this index, so I’ll recap the main problems and benefits with this index briefly.
+
+First, the index tracks two grades which are very similar. There’s a wide variety of crude oil out there, but Brent and WTI are generally similar barrels to the point where the market trades small differential changes between the values of these barrels. So if you’re holding either Brent or WTI, you’d likely get something 95% correlated or so with the actual index that mixes them.
+
+And secondly, a key benefit here is diversified roll yield. Roll yield is what you get when you’re holding exposure on a futures curve in a later month than the front while it approaches spot. Brent is pretty heavily in backwardation and WTI is in contango in the front which means that overall, you have generally positive roll yield in the ETN which means that OIL is likely to see a general drift higher in share price. This is another strong reason to buy the ETN.
+
+Oil demand is the only part of the balance where the bears can make a potentially compelling case to sell oil – but the supply variables win out. Supply is currently being constrained by market participants with a vested interest in seeing crude increase in value. OIL is a strong trade at this time to capture the selloff in crude oil and trade with the fundamentals.
+
+Disclosure: I/we have no positions in any stocks mentioned, and no plans to initiate any positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.

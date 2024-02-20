@@ -1,0 +1,96 @@
+TREASURIES- yields skid as investors weigh new virus impact 
+ * New virus kills 18 people, 634 infected
+    * WHO says too early to declare new virus as global
+emergency
+    * ECB's Lagarde says monetary policy to remain accommodative
+    * U.S. 10-year TIPs auction shows mixed results
+    * U.S. yield curve flattest in five weeks
+
+ (Adds analyst comment, results of U.S 10-year TIPs auction,
+updates prices, yield curve milestone)
+    By Gertrude Chavez-Dreyfuss
+    NEW YORK, Jan 23 (Reuters) - U.S. Treasury prices rallied on
+Thursday, pushing yields to multi-week lows, boosted by
+safe-haven demand on persistent concerns about the impact of the
+latest coronavirus, which recently broke out in China.
+    U.S. 30-year yields dropped to a seven-week low, while those
+on two-year and 10-year notes fell to fresh two-week troughs.
+    At the same time, the yield curve flattened on Thursday
+after steepening last week, as sentiment soured amid the Chinese
+coronavirus. The spread between the two-year and 10-year note
+yields contracted to 21.04 basis points, the
+tightest gap in five weeks.
+    The latest virus has killed 18 people and infected 634, as
+China placed millions of people on lockdown on Thursday in two
+cities at the epicenter of the outbreak.
+    The virus, which emerged late last year from illegally
+traded wildlife at an animal market in the central Chinese city
+of Wuhan, has spread to many parts of Asia, including Vietnam,
+Singapore, South Korea, Thailand, and Japan. The United States
+has also reported one case. 
+    "The coronavirus is adding a bid to Treasuries because of
+the uncertainty of how widespread it could become and whether it
+would inhibit businesses such as airlines and hotel, said Lou
+Brien, market strategist at DRW Trading in Chicago. "Obviously,
+there is the concern for the loss of life as well."
+    Also on Thursday, European Central Bank President Christine
+Lagarde spoke after the bank launched a broad review of its
+policy because it has fallen short of its inflation target of
+just under 2% for years despite implementing aggressive stimulus
+measures. The ECB also left its policy rates
+unchanged.
+    Lagarde also struck a dovish tone at her news conference,
+noting that monetary policy has to remain highly accommodative
+for a prolonged period of time.
+    Germany's 10-year bond yield fell after her remarks, which
+was last at -0.304%. Lagarde's comments also weighed
+slightly on Treasury yields. 
+    In afternoon trading, U.S. 10-year yields fell
+to  1.732%, from 1.771% late on Wednesday. Earlier in the
+session, 10-year yields fell to two-week lows of 1.72%.
+    Yields on U.S. 30-year bonds were at 2.178%,
+down from 2.219% on Wednesday. Thirty-year yields earlier fell
+to seven-week troughs of 2.172%.
+    On the short end of the curve, U.S. two-year yields fell to
+two-week lows of 1.489% from Wednesday's 1.526%. They
+were last at 1.513%.
+    The U.S. Treasury on Thursday also auctioned $14 billion in
+10-year Treasury Inflation-Protected Securities (TIPS) with
+mixed results. Domestic demand was a little weaker than
+expected, but indirect bidders, which include foreign central
+banks, showed strong bids. Indirect bidders claimed 73.2% of the
+offering, compared with a 65.4% average.
+    
+      January 23 Thursday 3:32PM New York/2032 GMT
+                                                      
+                                                      
+                                                      
+                               Price        Current   Net
+                                            Yield %   Change
+                                                      (bps)
+ Three-month bills             1.525        1.5564    0.002
+ Six-month bills               1.525        1.5624    0.002
+ Two-year note                 100-54/256   1.5138    -0.012
+ Three-year note               99-250/256   1.508     -0.019
+ Five-year note                100-246/256  1.5469    -0.028
+ Seven-year note               100-164/256  1.6518    -0.036
+ 10-year note                  100-36/256   1.7342    -0.037
+ 30-year bond                  104-64/256   2.1803    -0.039
+                                                      
+   DOLLAR SWAP SPREADS                                
+                               Last (bps)   Net       
+                                            Change    
+                                            (bps)     
+ U.S. 2-year dollar swap         6.25        -0.75    
+ spread                                               
+ U.S. 3-year dollar swap         3.50        -0.50    
+ spread                                               
+ U.S. 5-year dollar swap         0.50        -0.50    
+ spread                                               
+ U.S. 10-year dollar swap       -5.25        -0.50    
+ spread                                               
+ U.S. 30-year dollar swap      -31.50        -0.50    
+ spread                                               
+ 
+ (Reporting by Gertrude Chavez-Dreyfuss; editing by Jonathan
+Oatis)

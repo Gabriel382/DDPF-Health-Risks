@@ -1,0 +1,54 @@
+ACM Research: Remarks On Advantages And Wuhan Risk 
+ The downside risk is high, as the Wuhan issues are not priced in.
+
+By now, it is uncertain how the outbreak of coronavirus in Wuhan might impact ACMR's 2020 revenue.
+
+ACM Research, Inc. (ACMR), a semiconductor capital equipment company, has more than doubled its market value in just one month. There were a few catalysts that potentiated the rally and gave it momentum.
+
+First, the company's management shared bullish revenue guidance anticipating 41-43% sales growth in 2019 and 21-43% this year. This persuaded the market ACMR deserves a much higher valuation. Second, on January 22, Nomura/Instinet analyst Donnie Teng lifted the price target to $70 per share; the sentiment update spurred investors' hurriedness to initiate long positions.
+
+However, on January 23 and 24, bulls retreated, as a few of them likely decided to take profit.
+
+Besides, the market perhaps has taken into account a substantial risk related to the Wuhan coronavirus outbreak and its ramifications for the company's revenue growth in 2020, though consequences are not entirely evident due to the lack of reliable first-hand data. I will discuss that and other essential matters in more depth below.
+
+ACM Research is a Fremont-based company with two manufacturing facilities in Shanghai, China. Its source of revenue is the capital investments of semiconductor manufacturers, which purchase its single-wafer wet-cleaning capital equipment (Space Alternated Phase Shift, Timely Energized Bubble Oscillation, and Tahoe Technologies) to maximize the yield and improve efficiency, driving costs lower. Apart from that, ACMR also develops, manufactures, and sells a few advanced packaging tools. Among its powerful competitors is Lam Research (LRCX), with its EOS®, DV-Prime®, Da Vinci®, and SP Series products.
+
+Wafer cleaning is a pivotal process in advanced integrated circuits fabrication. It enables to eliminate defects in order to avoid impaired chip performance. ACM Research uses wet cleaning technologies (applying combinations of solvents, acids, and water), which are far more efficient than dry cleaning.
+
+As the company mentioned in its January 2020 Investor presentation citing customers' data, a 1% yield loss can cause an annual profit reduction from $30 million to $50 million. That is why fabricators of ICs are ready to pour hefty funds into cutting-edge wafer cleaning technologies and equipment.
+
+Though ACMR more than doubled market share in 2018 (see page 5), it was still tiny and equaled to only 2%. At the moment, its customer base is limited. In 2018, Yangtze Memory Technologies Co., Ltd., Shanghai Huali Microelectronics Corporation, and SK Hynix Inc. brought 85.7% of revenue. High customer concentration poses risks to the sustainability of sales growth.
+
+The company has 'A+' Growth Grade thanks to its prodigious results in the previous years. Its three-year revenue CAGR is 50.8%; in the last twelve months, it delivered a 46.2% revenue growth and more than doubled EBITDA. As I mentioned above, the firm anticipates momentum to continue in 2020 and expects a 21-43% revenue increase.
+
+The first advantage of ACMR is its positive net income. Tech companies that embarked on aggressive growth path quite often struggle to balance opex (especially Research & Development) and revenue growth and, for many years, generate only profound losses, while ACM Research presents an appealing example of both rapid sales growth and margins expansion. For instance, in 3Q19, its revenue increased by 44%, while non-GAAP gross profit rose 59%, and non-GAAP operating profit surged 125% (see page 22).
+
+Next, ACMR is organic free cash flow positive; its LTM FCF stands at $3.8 million.
+
+It is extremely rare when a company that is expanding at a rapid pace manages to cover both opex and capex by operating cash flow and even show a surplus.
+
+However, there are drawbacks. One concern is that the operating cash flow of the company is below its net income. Moreover, when in mid-2018, the company turned LTM net income after a year of losses, its net CFFO remained sub-zero.
+
+The primary issue now is working capital; more specifically, in 9M19, accounts receivable surged to $19.6 million and turned operating cash flow for that period negative.
+
+At the moment, its net CFFO equals to less than a third of GAAP earnings. In this sense, I prefer to substitute Return on Equity with Cash Return on Equity to assess the efficiency of the company. So, while ROE is above 20%, CROE equals just 5.8%.
+
+Though ACMR has been growing by leaps and bounds, capital expenditures required to bolster the expansion of sales did not result in bloated debt and distressed financial position as a consequence. At the moment, its Debt/Equity is just 13.2%, while net debt is in the negative territory.
+
+Now let's discuss one onerous risk, which might be considered as an example of a "black swan" that has emerged of late.
+
+ACMR's revenue growth substantially depends on one major customer, Chinese state-backed Yangtze Memory Technologies (abbreviated as YMTC), a semiconductor company focused on 3D NAND flash memory. The firm has the ambition to become "a global leading NAND flash memory solution provider through persistent efforts and technical innovations." There is no coincidence it pours substantial funds into capital investments inclusive of the single-wafer wet-cleaning equipment. In the presentation (see page 16), it was mentioned that YMTC brought 39% of the 2018 revenue. As CEO David Wang said during the 3Q 2019 earnings call,
+
+He also emphasized that industrial analysts forecast YMTC "will ramp its monthly wafer production from 6,000 to 20,000 in 2019 and to 50,000 or more in 2020."
+
+The issue is that it is located in Chinese Wuhan, the capital of Central China’s Hubei province. As my dear readers are likely well aware, Wuhan has been making headlines for a few days due to the severe outbreak of coronavirus. Most recent data show twenty-six people were killed by the disease while there are more than one thousand suspected cases in China alone; the city of more than eleven million people is currently locked down and residents are barred from leaving it.
+
+It is uncertain and barely predictable how the city lockdown amid the wide spread of the pathogen might impact YMTC's operations and expansion activity. As of January 24 (9:10 PM, Eastern Time), there were no news releases on YMTC's official website that clarify the impact of the coronavirus outbreak on its activities and the execution of the capital investment projects.
+
+By now, it is unknown how the Wuhan issues might impact or have already impacted ACMR's 2020 revenue, and if a 21-43% surge is going to materialize. But if the market starts to make assumptions regarding the magnitude of the inflicted damage, precisely like traders are contemplating the repercussions of the mysterious emergence of the Wuhan virus on demand for fuels and crude and push Brent price lower, it will take a toll on ACMR's price. This is a severe downside risk that is not going to evaporate quickly, at least for now.
+
+Recent catalysts catapulted ACMR's trading multiples, and now, even after correction, the stock looks quite expensive. At the moment, ACMR is trading at ~39.9x Non-GAAP Forward P/E, while Forward EV/EBITDA stands at ~36.8x. At these levels, the Wuhan risk is undoubtedly not priced in.
+
+In sum, ACMR is a profitable, free cash flow positive company with a healthy level of debt, and a huge cash pile on the balance sheet. The fly in the ointment is that its customer base is limited. Its exposure to Wuhan and revenue concentration bolster downside risks.
+
+Disclosure: I/we have no positions in any stocks mentioned, and no plans to initiate any positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.

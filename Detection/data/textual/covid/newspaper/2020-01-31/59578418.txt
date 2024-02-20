@@ -1,0 +1,14 @@
+Coronavirus Can Also Infect Your PCs and Phones — Didn't Expect This, Did You! 
+ Before you open the next document or forwarded file you receive about the recent Coronavirus outbreak, be very careful. The Novel Coronavirus outbreak in China has reached emergency status, with Chinese authorities and organisations alike imposing conveyance barricades, devising remote treatment terminals and more in order to contain the outbreak. During this situation, many directives and documents are floating around the internet, claiming to state news and facts about the Coronavirus disease, and even pointers on how to stay safe. Alarmingly, a report by cyber security firm Kaspersky has revealed these files are actually Trojans and malware, masked in lieu of the headlining topic.
+Noting the equally viral using of the Coronavirus, Kaspersky malware analyst Anton Ivanov stated, "The coronavirus, which is being widely discussed as a major news story, has already been used as bait by cybercriminals. So far we have seen only 10 unique files, but as this sort of activity often happens with popular media topics then we expect that this tendency may grow. As people continue to be worried for their health, we may see more and more malware hidden inside fake documents about the coronavirus being spread."
+
+			The files being shared under the guise of Coronavirus are reportedly Trojans, ransomware and other malicious worms, which are capable of blocking a device, copying or modifying the data on a device, or even stealing them from a user's folders. Kaspersky has also identified the most popular malware files being used by hackers globally, so the file types that you should be watching out for are — Worm.VBS.Dinihou.r, Worm.Python.Agent.c, UDS:DangerousObject.Multi.Generic, Trojan.WinLNK.Agent.gg, Trojan.WinLNK.Agent.ew, HEUR:Trojan.WinLNK.Agent.gen, and HEUR:Trojan.PDF.Badur.b.
+However, given that such file names are impossible to identify for the common user, what you should look out for is by accessing the details section of a file shared with you, and identify whether a disguised word document, PDF or video has either of .EXE or .LNK extensions at the end of their names. This is particularly crucial, and is important for you to note, to ensure that both you and your devices remain safe from being infected with one form of Coronavirus or the other.
+	 
+		 			
+		
+						
+		
+
+		
+		Get the best of News18 delivered to your inbox - subscribe to News18 Daybreak. Follow News18.com on Twitter, Instagram, Facebook,  Telegram, TikTok and on YouTube, and stay in the know with what's happening in the world around you – in real time.

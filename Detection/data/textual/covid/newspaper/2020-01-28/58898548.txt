@@ -1,0 +1,33 @@
+How Much Do Face Masks Help Prevent the Spread of Viruses? 
+ The number of people wearing face masks in public (and at the Gizmodo office) has ballooned in recent weeks—a highly visible sign of the fears sparked by the coronavirus that’s hit China hard and has the potential to spread far and wide. But while masks may offer a comforting feeling of protection, just how useful are they at truly preventing the spread of disease?
+
+
+The logic behind wearing a face mask is simple enough. The Wuhan virus, formally called 2019-nCoV for the time being, is a coronavirus capable of spreading from person to person through close contact. Though it’s still not clear as to how contagious the virus is, or even whether it can spread before symptoms show up, infected victims often have symptoms like coughing and a runny nose that make the virus easier to spread through airborne droplets.
+
+The most common sort of mask people are likely to be wearing are surgical masks, typically made with paper. But health care workers will also wear heavier-duty respirators that actively filter out infectious air particles during these sorts of outbreaks. The most common respirators are known as N95 masks.
+
+To be clear, the threat of Wuhan virus to people living in the U.S.—including in places like New York City or central Texas, where face mask shortages at drug stores have been reported—is largely abstract for now. Yes, the reported toll of the virus is climbing by leaps and bounds in China by the day, but the U.S. has only seen a handful of cases, all from travelers (and none in Texas or New York). The Centers for Disease Control and Prevention continues to state that the risk of Wuhan to the U.S. is low.
+
+It’s debatable as to how effective masks truly are against viruses like 2019-nCoV. A 2014 review by Canadian researchers looked at high-quality studies testing whether surgical masks or respirators could protect health care workers against the SARS virus, a close relative of Wuhan, or the RSV virus, a common source of respiratory illness. They came away with a verdict right down the middle: three studies found a protective effect and three found no effect. 
+
+Despite the inconclusive research, the review did find a protective effect from using respirators in comparison to plain surgical masks, though the available data was limited. This doesn’t necessarily mean that wearing masks for Wuhan virus is worthless. Even if they only offer marginal protection, they might still be better than doing nothing at all. Surgical masks also do seem to protect against many other contagious illnesses, like the flu, justifying their universal use in health care settings.
+
+A randomized clinical trial in 2008, for instance, found that families who used paper face masks after their children had visited the ER with a flu-like illness were about 80 percent less likely to have other members become sick than families who didn’t use masks, provided they used them as often and correctly as they should. Other studies of college dorms and households have found a similar protective effect, though people in these studies were also asked to practice good hand washing hygiene. 
+
+But you shouldn’t overestimate the effectiveness of a surgical mask, especially if you’re not sick and are just trying to avoid other people’s airborne germs. 
+
+“They are not designed to protect the wearer from others. Instead, they are designed to protect others from the wearer’s own expectorated droplets,” Robert Amler, a former chief medical officer at the CDC’s Agency for Toxic Substances and Disease Registry and currently a dean at New York Medical College, told Gizmodo via email.
+
+The CDC does recommend that anyone confirmed or suspected to have the Wuhan virus wear face masks whenever they’re in a room with someone else. And if the patient can’t wear a mask, the CDC advises other people living with them to don masks instead. Health care workers are also asked to wear a mask around people suspected of having the virus during an initial examination.
+
+Compared to respirators, surgical masks are more porous and looser fitting, making it easier for air to leak in and out around the edges. “However, they will keep some droplets from flying into your face. Also, they keep you from touching your face yourself, which most people do more often than they realize,” Amler said.
+
+Even if you do have access to a medical supply store, N95 respirator masks aren’t without their drawbacks. They fit tightly around the face but are uncomfortable to wear and breathe through for very long, especially if you have respiratory problems already. They’re also not suitable for small children or people with facial hair.
+
+Importantly, wearing a mask is among the least of the things you can do to keep yourself and others safe from contagious illness. Frequently washing your hands and avoiding close contact with infected people “are sound protective measures that everyone should practice,” Amler said. If you’re feeling sick, stay home.
+
+Indeed, a much more relevant threat to people in the U.S. right now is the influenza virus, which has already sickened 15 million Americans this flu season and hospitalized 140,000. Luckily, we have something already proven to help protect us from it on hand.
+
+“As people worry about the novel coronavirus, we should be reminded of the importance of the flu vaccine,” Brandon Brown, an epidemiologist at University of California Riverside, told Gizmodo via email. “Eight thousand people have already died from the flu in the U.S. this [season], so we should shift our attention to that.” 
+
+Typically, only around half of Americans get vaccinated for the flu. If you’re one of those people, getting a flu shot is likely to prevent a lot more illness than wearing a mask.

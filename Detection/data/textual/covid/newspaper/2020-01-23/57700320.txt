@@ -1,0 +1,28 @@
+Study Reveals How Novel Coronavirus Infects Humans 
+ Chinese researchers have identified a key protein essential for the novel coronavirus to infect humans, providing valuable information to help evaluate the public health risk
+
+
+
+
+
+
+
+
+BEIJING, (UrduPoint / Pakistan Point News - 23rd Jan, 2020 ) :Chinese researchers have identified a key protein essential for the novel coronavirus to infect humans, providing valuable information to help evaluate the public health risk. 
+They also suggested the natural reservoir of the virus is likely to be bats. 
+Although the full genome sequence has been released, the origin and transmission mechanism of the novel coronavirus (2019-nCoV), as denoted by the World Health Organization, remain unclear. 
+So far, six whole sets of 2019-nCoV genomes have been released. 
+In a study published online by SCIENCE CHINA Life Sciences on Tuesday, researchers from the Institut Pasteur of Shanghai under the Chinese academy of Sciences and other Chinese research institutes compared the genome sequences of the 2019-nCoV to coronaviruses known to infect humans: SARS-CoV and middle East Respiratory Syndrome (MERS)-CoV. 
+They found the 2019-nCoV is about 70 percent similar to the SARS-CoV and 40 percent similar to the MERS-CoV. 
+Analysis showed the 2019-nCoV belongs to the Betacoronavirus group of enveloped, single-stranded RNA viruses that infect wild animals, herds and humans, resulting in occasional outbreaks and infections without apparent symptoms. 
+In the evolutionary tree, the 2019-nCoV is quite close to the groups of SARS and SARS-like coronaviruses, with the bat coronavirus HKU9-1 as the immediate outgroup. 
+It is likely these coronaviruses share a common ancestor resembling the bat coronavirus HKU9-1. 
+Bats being the native host of the 2019-nCoV "would be the logical and convenient reasoning, though it remains likely intermediate host(s) were in the transmission cascade from bats to humans," said researchers.
+ 
+They noted there is a considerable genetic distance between the 2019-nCoV and the human-infecting SARS-CoV, and even greater distance from MERS-CoV. 
+The genetic analysis raised another question: does the 2019-nCoV adopt the same mechanisms as the SARS-CoV or MERS-CoV used for transmission across species and humans. Or does it have its own? In the SARS-CoV, spike protein (S-protein) is essential for the virus to attach to the host cell receptor. 
+The researchers evaluated the 2019-nCoV S-protein's ability to interact with human cell receptors. They found that although the binding between the 2019-nCoV and the human cell receptor is weaker than SARS-CoV, it is still considered to be a strong one. 
+The researchers noted that the 2019-nCoV S-protein supports strong interaction with human cell receptors, posing a significant public health risk for human transmission. 
+Chinese health authorities announced Thursday that 571 confirmed cases of pneumonia caused by the novel coronavirus (2019-nCoV) had been reported in 25 provincial-level regions in the country by the end of Wednesday. The cases have resulted in 17 deaths, all in central China's Hubei Province.
+Overseas, one case has been confirmed in the regions of Hong Kong, Macao, Taiwan, as well as in the United States, Japan and the Republic of Korea respectively, and three in Thailand.
+A total of 5,897 close contacts have been traced, the commission said, adding that among them, 4,928 are under medical observation while 969 others have been discharged.

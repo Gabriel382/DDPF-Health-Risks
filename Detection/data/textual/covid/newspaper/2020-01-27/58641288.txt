@@ -1,0 +1,7 @@
+'Buy the dip,' one stock options signal says 
+ NEW YORK, Jan 27 (Reuters) - As concerns over the spread of the coronavirus rattle stocks, a corner of the options market is signaling that the current selloff may be short-lived. 
+The term structure between first-month futures and second- and third-month futures on the Cboe Volatility Index inverted for the first time since early October. 
+Historically, stocks have tended to rebound soon after the VIX term structure inverts. Over the past decade, the benchmark SP 500 stock index has tended to recoup its losses a week after such an inversion, Christopher Murphy, co-head of derivatives strategy at Susquehanna Financial Group, wrote in a note on Monday. Two weeks after an inversion, the SP 500 has on average risen 0.88%, and a month later, it has advanced 1.7%. 
+The volatility term structure, which is calculated from prices of VIX futures with different expirations, reflects the market’s expectation of volatility in different time horizons. 
+Usually, the term structure slopes upward from month to month, as anticipation of outsized stock moves increases as dates move further out on the calendar. An inversion reflects greater anticipation of a significant market move in the near term than further in the future. 
+An inversion of the VIX term structure is “one of many potential data points to look out for a buying opportunity,” Murphy told Reuters. (Reporting by April Joyner; Editing by Ira Iosebashvili and Leslie Adler)

@@ -1,0 +1,29 @@
+Coronavirus fears exploited to spread malware 
+ In a nutshell: Cybercriminals have long used unscrupulous means to trick people, including playing on their fears. Such is the case with a new campaign that spreads malware via emails claiming to offer information on how to protect against the Coronavirus. 
+
+            
+		
+There are now almost 10,000 confirmed global cases of the Coronavirus, with 213 total deaths. The situation recently led the World Health Organization to declare a public health emergency of international concern.
+
+
+
+Bleeping Computer reports that spammers associated with the Emotet group have been sending emails to Japanese targets, warning them of infections in various prefectures from across the country. The messages look like official notifications from disability welfare service providers and public health centers; they use stolen emails as a template to make them appear more legitimate.
+
+
+The emails claim to offer advice on how to protect against the Coronavirus in their attachments. Opening these Word documents brings up an Emotet Office 365 document template, which asks victims to “enable content” to view everything. Once the computer is infected, it’s used to send malicious spam messages to other targets and drop other malware onto the device. A secondary payload allows attackers to “harvest user credentials, browser history, and sensitive documents that will be packed and sent to attacker-controlled storage servers.”
+
+
+
+
+
+Emotet malicious document template via Bleeping Computer
+
+
+The Emotet gang has used subjects in the public eye to spread malware in the past. In December, it sent out malicious emails that invited people to join Greta Thunberg at a climate change protest.
+
+
+
+The Coronavirus has seen tech giants cancel events and restrict workers from traveling to China. The outbreak has also seen a surge in popularity for simulator Plague Inc., leading devs to warn that it's "a game, not a scientific model."
+
+
+Image credit: nobeastsofierce via Shutterstock

@@ -1,0 +1,60 @@
+The Wuhan Coronavirus Inspires a Look Back at the Discovery of Viruses 
+ I’m astonished at the speed with which geneticists and epidemiologists are zeroing in on the Wuhan coronavirus.
+
+Nomenclature is still up in the air. The first name, “2019-nCoV” for “novel coronavirus first seen in 2019,” is descriptive but not easy to remember. “Wu Flu” isn’t correct – it’s not a flu virus, nor is “Wuhan SARS” quite right because the new pathogen’s genome isn’t exactly like that of SARS.
+
+I’ll call it the Wuhan coronavirus until the World Health Organization decides on a name. WHO avoids places in disease names to avoid stigma, although I don’t see the Rocky  Mountains suffering from lack of visitors due to the spotted fever that takes it’s name (which isn’t viral, but still).
+
+Awareness of the new infectious disease began as 2019 drew to a close.
+
+“On December 30th, China reported an outbreak of respiratory disease in Wuhan City, a major transportation hub about 700 miles south of Beijing with a population of more than 11 million people,” Nancy Messonnier, director of CDC’s National Center for Immunization and Respiratory Diseases, said at a press briefing January 17. Here’s a chart from the Wuhan Municipal Health Commission, already a few days behind. You don’t have to have seen the final scene in Rise of the Planet of the Apes, showing a virus ricocheting around the globe, to know where things are headed.
+
+Local officials in China quickly identified the pathogen as a coronavirus, familiar from outbreaks of SARS (Severe Acute Respiratory Syndrome) in 2003 and MERS (Middle East Respiratory Syndrome) in 2012. These viruses brew in animal reservoirs – cats, camels, and bats – without causing symptoms, but also infect people, causing fever, cough, and trouble breathing in some.
+
+Because people can apparently pass the virus to each other, I wonder about the percentage of infected individuals who don’t develop symptoms. Might they exhale in an airport or train station and pass on the virus despite all attempts to isolate the obviously ill? Masks might help keep out viruses swimming in exhaled droplets, but the “infectious agents” are small enough to easily penetrate a few layers of gauze or cloth.
+
+A virus is simply a genome tucked inside a protein coat, too streamlined for biologists to even consider it to be alive. A coronavirus genome is RNA within a protein covering of telltale spikes, the “corona” (crown). Already knowing the genome sequences of the related SARS and MERS viruses sped sequencing the new one.
+
+The timeline has been accelerating.
+
+On January 15, Professor Yong-Zhen Zhang, of the Shanghai Public Health Clinical Center and School of Public Health, Fudan University, announced public online availability of the genome sequence of the Wuhan coronavirus. Quickly, the CDC and other organizations developed diagnostic tests, while efforts to develop a vaccine began in a number of places.
+
+The first US case came to a physician’s attention on January 21.
+
+The new virus is about 88% similar in its genome sequence to those that cause SARS and MERS. That sounds like a lot, considering how similar our genomes are to those of chimps, but the effect may be amplified by the tiny size of viral genomes – 30,000 or so RNA bases compared to our 3 billion or so DNA bases.
+
+A clue to the origin of the new epidemic is that the viruses sequenced from the first 10 patients in Wuhan are identical, suggesting a common source of infection. A market that sells meat from a reservoir species seems likely.
+
+I’ve long been fascinated by the utter simplicity of a virus, compared to the force it can exert on a human body, courtesy of the immune response. “A virus straddles the boundary between the chemical and the biological, a structure that is more than an assembly of macromolecules, yet less than a cell,” I wrote in my introductory biology textbook Life.
+
+Biologists also don’t consider a virus to be alive because of what it can’t do: it doesn’t metabolize, doesn’t respond to stimuli, and can’t reproduce unaided. A virus requires a live host to make more of itself, which it can do quite effectively before our immune systems even realize it’s there.
+
+A viral genome may be quite small. Genetic instructions enable a virus to package itself neatly into a protein coat using very few genes, like building an elaborate greenhouse from assembling identical panes of glass. An Ebola virus has just seven genes, yet it rapidly reduces a trillion-celled human body to a puddle of blood.
+
+The ability of viruses to reproduce rapidly and their inability to repair RNA or DNA replication errors make them highly changeable and therefore adaptable. They can stay ahead of host defenses in an evolutionary arms race of sorts.
+
+Today we dissect viruses down to their nucleic acid sequence essence. But for many years, as early microbiologists discovered and described bacteria, viruses lay far beneath their radar. Even now, people who seek antibiotics to treat viral infections may not realize the stark difference between bacteria and viruses.
+
+Bacteria are cells and alive. Viruses are not.
+
+The progress in understanding the Wuhan coronavirus inspired me to look back at the discovery of viruses. The following is from my textbook, slightly altered to evade the Google police who would accuse me of self-plagiarizing.
+
+People recognized viral infections for many centuries before knowing what caused the associated illnesses. Once microscopes became available, bacteria were blamed for all manner of infectious ills.
+
+In 1892, Russian botanist Dmitri Ivanovsky studied a disease that was stunting and mottling the leaves of tobacco plants, ruining crops in Crimea and Ukraine. To isolate the bacteria that he assumed were at fault, he passed extracts of crumpled leaves through a porcelain filter designed to trap bacteria. But when he applied the filtered material to healthy plants, they became infected too.
+
+Ivanovsky was puzzled. Hadn’t the filter trapped and removed the bacteria? He concluded that nevertheless, the bacteria had persisted, but had somehow escaped the filter. Did a toxin that bacteria spewed cause the disease instead?
+
+In 1895, Dutch microbiologist and botanist Martinus Beijerinck  repeated and continued Ivanovsky’s experiments. He demonstrated that the filtered fluid retained its ability to spread infection after passing from plant to plant. So whatever was infecting was also reproducing – ruling out a toxin.
+
+After experimenting for three years, Beijerinck concluded that whatever was infecting the tobacco plants was alive, but smaller than a bacterium. He dubbed it a  “contagium vivum fluidum,” (contagious living fluid). It’s unclear who then coined the terms “filterable agent” and “virus,” which is Latin either for “poison” or “slimy fluid.”
+
+The same year that Beijerinck published his findings, 1898, other researchers isolated the first viruses to infect animal cells, causing hoof-and-mouth disease in cattle and other bovids. In 1901, scientists finally identified a virus as the cause of the mosquito-borne yellow fever. In 1939, an electron microscope imaged the first virus – the scourge of the tobacco plants that started the field of virology.
+
+Much of what we know about molecular biology began with classic experiments using the simpler genomes of viruses. I took an entire course in viral genomes in graduate school. I even had a favorite, phi X 174. It was the first DNA-based genome sequenced, and it infects E. coli, which are bacteria.
+
+The ability of viruses to borrow a cell’s protein synthetic machinery to reproduce provided glimpses into genetic control of cells and revealed, through decades of experiments, how cells work. Investigation of viruses also revealed how cancer arises by leading to the discovery of oncogenes (specifically, the Rous sarcoma virus of chickens).
+
+Because viruses are so adept at entering certain cells, they are used as vectors to deliver DNA in gene therapy. Even HIV enjoys an alternate reputation as a gene therapy vector, stripped of the genes that cause AIDS, of course.
+
+With the genome of the Wuhan coronavirus in hand, epidemiologists can connect the dots of human response. We’ve come a long way from using filters to deduce the presence of viruses from what they aren’t.

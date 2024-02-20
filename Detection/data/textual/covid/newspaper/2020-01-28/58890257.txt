@@ -1,0 +1,317 @@
+United Technologies Corp (UTX) Q4 2019 Earnings Call Transcript 
+ Image source: The Motley Fool.
+
+
+
+United Technologies Corp (NYSE:UTX)
+Q4 2019 Earnings Call
+Jan 28, 2020, 8:00 a.m. ET
+Contents:
+
+
+Prepared Remarks
+
+Questions and Answers
+
+Call Participants
+
+
+
+Prepared Remarks:
+
+Operator
+Good morning and welcome to the United Technologies' Fourth Quarter 2019 Earnings Conference Call. On the call today are, Greg Hayes, Chairman and Chief Executive Officer; Neil Mitchill, Acting Senior Vice President and Chief Financial Officer; and Nathan Ware, Senior Director, Investor Relations. This call is being carried live on the Internet and there is a presentation available for download from UTC's website at www.utc.com.
+Please note, except where otherwise noted, the Company will speak to results from continuing operations, excluding restructuring costs and other significant items of a non-recurring and or non-operational nature, often referred to by management as other significant items. The Company also reminds listeners that the earnings and cash flow expectation and other forward-looking statements provided on this call are subject to risk and uncertainties. UTC's SEC filings including its forms 10-Q and 10-K provide detail on important factors that could cause actual results to differ materially from those anticipated in forward-looking statements.
+In addition, in connection with the proposed Raytheon merger to be discussed today, UTC has filed with the SEC a registration statement which includes as prospectus of UTC and a joint proxy statement of UTC and Raytheon, that contains important information about UTC, Raytheon and the merger and related matters. [Operator Instructions]
+Please go ahead, Mr. Hayes.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Thank you, Catherine. Good morning, everyone. So a couple of new folks on the call with me this morning, Neil Mitchill, taking over for Akhil Johri, as our new Senior VP and CFO, and Nathan Ware, taking over for Carroll Lane, Head of Investor Relations. So a little bit of change here, but no change in terms of the results as you would have expected. So really a solid quarter and more importantly, a great year -- record year in fact of financial performance.
+This morning, we are going to cover three topics. We will of course go through the fourth quarter and full year 2019 results, but I'm also giving you an update on where we are with the UTC portfolio transformation, including the Rockwell Collins integration, the separation activity around Otis and Carrier and of course, the pending merger with Raytheon. And finally, Neil will take you through the 2020 outlook for Pratt  Whitney and Collins Aerospace. Just a word on the cadence of our outlook disclosures for the years can be a little bit different this year given the separation activity, and given the pending merger. We recently announced that Carrier and Otis investor meetings are scheduled for February 10th and 11th respectively. This is when Dave Gitlin and Judy Marks along with their senior team will give you guys an overview of their respective businesses and provide their financial outlook for 2020.
+So we're not going to pre-empt those today and go through their guidance, but you can look forward to talking including Dave and Judy in early February. Also, you'll notice that we're not going to provide EPS or cash outlooks today. We'll come back and talk about all of those metrics and the full year outlook for Raytheon Technologies following the completion of the merger, which we expect to close early in the second quarter.
+So as you expect, different timeline this year given the various transformational events under way, but again, it will -- we will get it all out there in due course. So starting on 2019, for the year, we reported record sales, adjusted EPS and free cash flow. Adjusted EPS that was $8.26 and that's up 9% versus last year. Sales, $77 billion, that's up 16% and importantly, organic growth, 5% and that's on top of the 8% organic sales growth we saw in 2018.
+All four businesses contributed to the organic growth. We saw good margin expansion at the aerospace business as well as a return to earnings growth and margin stabilization at Otis. At Carrier, the team closed out a challenging year on a positive note, slightly exceeding the most recent outlook for the business. Free cash flow for UTC was $6.6 billion for the year and that included approximately $400 million of one-time cash payments, related to the portfolio separation activities.
+The cash performance was about $1.1 billion better than the midpoint of our latest outlook due to the timing of separation tax payments, most of which will take place here in the first half of 2020 and of course, better operational performance from each of the businesses. In total, we continue to expect about $2.5 billion to $3 billion of one-time cash costs associated with the portfolio separation. So strong results for 2019 above our expectations coming into the year and above our expectations as late as October with each of the businesses well positioned as we move into 2020.
+Okay, on the webcast, this is now on to slide 2. In addition to the financial results, we had several notable highlights and we've made significant progress on the transformational initiatives that we've been working for the last year. Let me give you a quick update on a few of those.
+At Pratt  Whitney, the GTF and F135 engine output continue to ramp in 2019. We continue to add to the order book for both programs including yesterday's announcement that Wizz Air had selected the GTF engine to power its next lot of 166 aircraft adding to an order book of more than 10,000 firm and option engines for the GTF program.
+While durability issues on the GTF continue to be addressed, it's clear, our customer see the value of the engine, which continues to meet or exceed all of the key performance metrics, including fuel burn, reduced noise and emissions. And with -- we now have more than 700 GTF powered aircraft in service about 4.3 million flight hours. Since October, Pratt has also secured contracts totaling more than $7 billion for the production of more than 400 F135 engines in the related program support. So, a very strong backlog at Pratt  Whitney.
+This past quarter, we also celebrated the one year anniversary of Rockwell Collins. Throughout the year, following close, the Collins team has delivered outstanding performance. We achieved approximately $300 million of acquisition related cost synergies and captured about $200 million of sales synergies in our order book.
+Adjusted EPS accretion from the Collins acquisition was $0.66 for the year. Now you recall, going into the year, we had estimated about $0.35 of accretion. So a very strong year from Kelly Ortberg and the whole team at Collins Aerospace. We continue to see clear line of sight to the $600 million of cost synergies that we started out with, but more importantly over $1 billion of sales synergies, we would expect from the acquisition.
+Okay. Let's turn to the separations. For both Otis and Carrier, they are substantially complete from an operational standpoint. That happened on January 1, where we cut them off from the corporate systems for the most part and they are now operating independently. Both companies as you see, announced their future Board of Directors in December and are looking forward to their pre-spin investor meetings in early February.
+Importantly, we received both US and Canadian tax rulings for the separation and we're currently working through a few final legal entity restructuring activities required to stand up the businesses as independent companies. Again, we're now targeting early in the second quarter for the spin of both businesses. So, no surprises there, portfolio separations remain on track.
+Finally, on the merger with Raytheon. Our goal is to have the combination of UTC's aerospace businesses with Raytheon closed concurrent with the portfolio separation in early April. As of course subject to receiving all regulatory approvals, integration planning is well under way and we are already working a detailed list of items to generate the $1 billion of gross cost synergies that we're targeting for the transaction. I also remain very excited about the technology synergies that result from the combination and the opportunity this merger presents to create best-in-class premier aerospace and defense system provider.
+Okay, with that, so let me turn it over to Nathan to take you through the fourth quarter results and then Neil will walk you through 2020 outlook and I'll be back to wrap up at the end. Nathan?
+Nathan Ware -- Senior Director of Investor Relations
+All right. Thanks, Greg. Moving to slide 3, as Greg said, Q4 was another solid quarter for UTC, reported sales of $19.6 billion were up 8% including 1% organic growth and 8 points of MA benefit driven by the Rockwell Collins acquisition. Foreign exchange was a 1 point headwind in the quarter. Adjusted earnings per share was $1.94, down 1% versus the prior year on a difficult compare. You will recall, we saw 22% adjusted earnings-per-share growth in the fourth quarter of 2018. Within the quarter, segment profit growth was offset by expected higher corporate items including interest expense and higher share count.
+On a GAAP basis, earnings per share was $1.32, that's up 59% versus the prior year and includes $0.16 of restructuring and $0.46 of net non-recurring charges including $0.39 related to the portfolio separation activities. The GAAP earnings-per-share growth was largely driven by the absence of a tax charge that you will recall we booked last year, partially offset by the portfolio separation charges incurred this year. Free cash flow was $1.9 billion, up 54% or approximately $700 million compared to the prior year and included approximately $200 million of one-time cash separation payments. The quarter capped a strong year for free cash flow as Greg mentioned earlier.
+Okay. With that, I'll move on to the segment results and I'll be speaking to the segments at constant currency as we usually do and as a reminder, there is an appendix on slide 17 with additional segment data as a reference. So starting with Otis on slide 4, sales of $3.4 billion in the quarter were up 4% organically. New equipment sales grew 1% driven by high-teens growth in China, partially offset by declines in Asia-Pacific and the Middle East. Service sales grew 5% driven by growth across all regions. Within service, maintenance and repair was up 5% and modernization was up 8%.
+At constant currency, new equipment orders grew 3% driven by mid-single-digit growth in the Americas and Europe, as well as low-single-digit growth in China as the region continue to benefit from favorable pricing and mix. Asia-Pacific was down low-single-digit. Operating profit was up 3% at constant currency driven primarily by volume growth and favorable price and mix in service, partially offset by higher research and development and strategic investments in the business. Service contribution also grew for the sixth straight quarter with all regions contributing. Foreign exchange translation was a 2 point headwind to sales and a 1 point headwind to earnings.
+For the year, Otis' sales grew 5% organically with mid-single-digit growth in both new equipment and service. Operating profit was up $28 million at actual currency. The benefits from service transformation initiatives globally and improvements in China led to margin stabilization during the year and establishes a solid base for Otis to build upon as they become independent company.
+Moving to Carrier on slide 5. Carrier sales were down 2% organically in the quarter driven by refrigeration which was down 8%. That's mainly due to hard compares in the North American truck trailer business, which was up almost 50% in Q4 of 2018. Global HVAC sales were flat and global fire  security was up 1% in the quarter. Moving to orders, Carrier equipment orders contracted 4% organically in the quarter, primarily driven by transport refrigeration, which was down 32%. Within transport refrigeration, North American truck trailer was down 63% after being up over 50% in the fourth quarter of last year.
+Fire  security product orders were down 3% while global HVAC orders were up 2% with North American residential up mid-single-digit and global commercial HVAC flat. Within commercial HVAC, EMEA was up 10% offset by high-single-digit declines in the Americas. On a constant currency basis, operating profit was down 4% in the quarter. Lower volume and adverse mix as well as headwinds from lower discount rates used for valuing long-term liabilities were partially offset by pricing benefits and material productivity net of tariff impacts. Operating profit included the gain on a sale of an equity investment and a land sale offsetting the absence of prior year similar items. For the year, Carrier sales were up 1% organically and operating profit was down $80 million at actual currency, slightly exceeding the most recent outlook for the business.
+Turning to Pratt on slide 6, sales of $5.6 billion were up 2% on both an organic and reported basis in the quarter and that was on top of 22% organic growth last year. Commercial OEM sales were down 7% driven by expected declines in V2500 shipments, partially offset by higher GTF engine shipments and favorable engine mix at Pratt  Whitney Canada.
+Commercial aftermarket sales were flat in the quarter. Early GTF shop visits, as well as higher Pratt  Whitney Canada and V2500 volumes offset expected declines in legacy programs and the absence of prior year contract adjustments. Military sales were up 12% driven by continued ramp of the F135 program and higher aftermarket sales across all key platforms. Operating profit of $456 million was up 34%, drop-through on higher military sales, favorable commercial aftermarket mix and growth at Pratt  Whitney Canada more than offset commercial OE mix headwind and the net impact of contract adjustments. Results also benefited from lower engineering and development expense in the quarter. For the full year, organic sales were up 8% driven by higher GTF and Pratt  Whitney Canada engine shipments and higher military volume. Operating profit was up $239 million.
+All right, turning to Collins Aerospace on slide 7, sales in the quarter were $6.4 billion, up $1.5 billion on a reported basis and 1% organically. Operating profit of $1 billion was up $236 million versus the prior year. You'll recall that the fourth quarter of last year contained about five weeks of results from the Rockwell Collins acquisition. On a pro forma basis, including results for Rockwell Collins, the entire fourth quarter of 2018, Collins Aerospace delivered operating profit growth of 8% on 4% higher sales. The pro forma sales growth reflects continued strength in commercial aftermarket and military channels, partially offset by commercial OEM volume.
+Commercial aftermarket sales were up 11% driven by continued strength in initial provisioning and demand for modifications and upgrades. Military was up 10% driven by F35 volume and overall aftermarket growth. Commercial OEM sales were down 6% driven by expected declines on legacy programs which more than offset growth in new platform sales.
+Operating profit growth was driven by the contribution of two additional months of results from the Rockwell Collins acquisition, drop-through on higher commercial aftermarket and military sales and synergy benefits. The growth was partially offset by lower commercial OE volume and unfavorable mix as well as higher SGA and engineering and development. On a full year basis, Collins Aerospace delivered 6% organic sales growth and over $1.8 billion of operating profit growth, driven by contributions from the Rockwell Collins acquisition, solid execution and synergy capture and strong end markets. Pro forma operating profit growth was 16% on 7% sales growth.
+With that, I'll hand it over to Neil, who will provide more detail on the 2020 outlook. Neil?
+Neil G. Mitchill -- Acting Senior Vice President and Chief Financial Officer
+Thank you, Nathan. I'm on slide 8. As Greg said, I'm going to talk about the 2020 outlook for Pratt  Whitney and Collins Aerospace today. As you think about both businesses, let me begin by highlighting a few of the dynamics we see impacting our outlook before I go through the specific numbers. Starting with the positives, revenue passenger miles are projected to remain solid and grow over 4% in 2020 which will continue to support growth in the underlying aftermarket demand in both Pratt  Whitney and Collins Aerospace.
+I'd say, we also have clear line of sight to continued growth at our military businesses driven by higher F135 engines and F35 system content as well as strong aftermarket demand across key programs including the F117, F119 and F35 programs. And lastly, we will see continued synergy benefits at Collins Aerospace as they enter year two as a combined entity. We expect to capture approximately $150 million of incremental cost synergies from the Rockwell acquisition and that's on top of the $300 million that we realized in 2019.
+On the challenges side of the equation, no surprises here, we anticipate headwinds at Collins Aerospace, driven by the suspension of the 737 MAX production as well as an expected decline in volume associated with the ADS-B mandate as the deadline for compliance in the US with the end of 2019. We do see some ADS-B demand in 2020 driven by the mid-year European deadline, but substantially less than levels we saw last year.
+So turning to slide 9, you will see the 2020 segment outlooks for both Pratt  Whitney and Collins Aerospace. As usual, the appendix has a detailed sales and operating profit walk for both businesses. At a high level, we generally see these outlooks in line with our S-4 projections excluding the impact of the suspension of the 737 MAX production, the expected impact of divestitures associated with the merger with Raytheon as well as cost to achieve synergies at Collins Aerospace.
+Okay. Starting with Pratt  Whitney and the outlook there. We expect mid-single-digit sales growth in 2020, organically commercial OE will be up high-single-digit as GTF volumes will continue to ramp and we expect to see higher Pratt  Whitney Canada OEM sales driven by business jet and helicoptered engine shipments. Commercial aftermarket is expected to grow low to mid-single-digits, primarily driven by continued V2500 growth and GTF activity, partially offset by declines in the legacy engines. The military business will continue to see benefits from higher F135 engine shipments and continued aftermarket demand that is expected to grow mid-single-digit.
+On the profit side, we expect Pratt's operating profit to increase $225 million to $275 million driven by drop-through on the higher commercial aftermarket and military sales. Commercial OE profit is expected to be flat year-over-year.
+So now turning to Collins Aerospace. Reported sales are expected to be down low-single-digit, including approximately 5 points of headwind due to the suspension of the 737 MAX production, lower ADS-B mandate volume and the divestitures that I just mentioned. Organically, commercial OEM sales will be down mid-single-digit as declines in the 737 MAX and legacy programs more than offset the ramp of other new programs.
+Commercial aftermarket is expected to be up slightly and within the commercial aftermarket, provisioning is expected to be down mid-single-digits after being up over 20% organically in 2019. Military sales will be up mid-single-digit and continued strength in the military end markets. Operating profit for Collins Aerospace will be down $275 million to $325 million versus 2019, including approximately $550 million to $600 million of combined headwinds due to the 737 MAX, the ADS-B mandate and the required divestitures.
+These headwinds are partially offset by drop-through on higher military sales and the $150 million of incremental cost synergies I referenced earlier. Lastly, before I hand it back over to Greg, just a few comments as you think about UTC in the first quarter prior to the spins and merger. Starting with sales. We expect Q1 2020 reported sales to be up slightly versus the prior year. We expect low to mid-single-digit growth at the aerospace businesses despite the 737 MAX headwind and this growth will be partially offset by Carrier, which is expected to be down driven by tough first half compares for the refrigeration business and some FX headwind.
+On the earnings front for Q1, at the segment level, we expect operating profit to be flat, including the 737 MAX and ADS-B headwind as well as some incremental costs at Otis and Carrier as each business staffs to be a stand-alone entity. Below the line, we see a few moving pieces. First, we have some FX pressure due to the portfolio separation, interest expense and other corporate costs which accounts for around $0.10 of headwind and second, non-service pension income will be lower by $0.03 driven by the discount rate impact we discussed last quarter.
+In addition, the absence of a prior-year tax gain, which you will recall was related to the legacy BE business as well as higher minority interest adds another $0.06 of pressure and finally share count will be higher than last year. On the cash front, we expect Q1 free cash flow to be an outflow and that's driven primarily by the approximately $1.6 billion of portfolio separation payments expected to occur in the first quarter.
+So with that, I'll hand it back to Greg.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Okay. Thanks, Neil. So some moving pieces, as always, but really strong performance in 2019, excuse me. As we look to 2020, I would just remind everybody that the priorities of our businesses remain clear and consistent. We're focused on executing on our commitments to customers, driving growth through innovation, cost reduction and of course remaining disciplined in capital allocation. At the same time, we continue to monitor the macroeconomic environment. The US remain strong, Asia, of course, continues to grow but at a little bit slower rate and the Europe remains a watch item. Overall, the aerospace and defense end market remain robust and we feel very good about our ability to deliver in 2020. That said, we're also keeping our eye on the developing Coronavirus situation, any impacts that could have to all of our businesses.
+And while 2020 marks the last chapter for United Technologies as it stands today, it also begins a bright future for Otis, Carrier and Raytheon Technologies as stand-alone public companies. I'm excited about the future of each of these businesses and I'm confident of the teams that we put in place to drive sustainable long-term value creation, that's going to benefit customers, employees, shareowners and our communities for decades to come.
+With that, let's go ahead and open up the call for questions. Catherine?
+Questions and Answers:
+Operator
+Thank you. [Operator Instructions] And our first question comes from Jeff Sprague with Vertical Research. Your line is open.
+Jeff Sprague -- Vertical Research -- Analyst
+Thank you. Good morning, everyone.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Good morning, Mr. Sprague.
+Jeff Sprague -- Vertical Research -- Analyst
+Feeling a little nostalgic here. This is the last call. But good run [Phonetic]. Thank you.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Yeah. It's amazing, isn't it.
+Jeff Sprague -- Vertical Research -- Analyst
+Yes. This is really -- Greg, I was hoping you could unpack a little bit to some degree kind of the Collins Aerospace headwind between what is MAX, what is ADS-B and what is tied to the divestitures and does that assume kind of a full year halt on production?
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Okay. So let's start with the 737 MAX that's probably the easiest part for everybody to understand. So we've assumed roughly a 90-day production delay, which is consistent with the direction that we've received from Boeing. So if you're thinking about that each month, if you add up both the OEM, the aftermarket provisioning that you're not going to get, costs you about $100 million in revenue and about half of that in operating profit and a big chunk of that operating profit is coming from lack of absorption in our factories. So think about $100 million over three months, that's $300 million of sales plus about $150 million of op profit and then in the back half of the year, we've essentially cut production in half from the rate that we had, so from 42 to 21 [Phonetic]. So you can double that in the back half of the year and you get roughly $600 million and $300 million.
+We've also, in the guidance added in some monies for some supplier disruption. So we think, overall, the impact could be somewhere between $350 million and $375 million to the year. I hope that's conservative, we hope, but again the reduction resumes more quickly, but as we sit here today. That's the best outlook that we can give you. The ADS-B mandate, I think we've taken you through that number before and again it's a -- north of $100 million of earnings that will go away and the other big piece of course is the divestitures.
+So two divestitures, one was the military GPS business at Rockwell -- legacy Rockwell Collins out in Cedar Rapids, that's a great business. As you guys saw, BAE brought that or signed a contract to buy that. That will close sometime we think in the back half of the year and then on top of that, our business in Danbury, Connecticut, our ISR business, military optics, space optics that will also will probably sign here in the next couple of months and that will also close in the back half of the year. So that's the additional headwind that we see both on top line and bottom line. So you are only going to see about six months impact from the divestitures this year.
+You'll see a full year obviously next year. Obviously, the good news is, we'll get another shot at this guidance in probably May. Once we close with Raytheon, we'll come back in early May, probably a month after the merger and give you full year guidance for RTX and give you an update on the MAX and everything else that's going on.
+Jeff Sprague -- Vertical Research -- Analyst
+And just one more and I'll pass it on. What was the MAX impact in the fourth quarter?
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+It was -- it really was not significant. Again, we were -- Boeing was still taking at a rate of 42 [Phonetic], again, our original guidance had assumed, it was going to be 56 [Phonetic], I think. So there was a little bit of an impact, you can do the math, but it wasn't significant. And most of that was made up by additional aftermarket in the other -- for the other aircraft that are flying.
+Jeff Sprague -- Vertical Research -- Analyst
+Great. Thank you. Good luck with everything.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Thanks, Jeff.
+Operator
+Thank you. Our next question comes from Sheila Kahyaoglu with Jefferies. Your line is open.
+Sheila Kahyaoglu -- Jefferies -- Analyst
+Good morning. Thank you, Greg.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Hi, Sheila.
+Sheila Kahyaoglu -- Jefferies -- Analyst
+Just to continue on the MAX. This has been a pretty favorable environment for the GTF in general. And Airbus recently announced the new allocation between CFM and Pratt with a higher share for CFM. So I guess, when we think about GTF, how does that change that trajectory in terms of production? How do we think about annualized losses? You mentioned was there -- are there other opportunities to take some share?
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+So, let me just put GTF in perspective, I think I mentioned it as we started. We've got about 10,000 GTF engines in backlog and as a program to date, we've got about 40% share on the A320 family. Higher share on the A321 than on the A319 and 320. If you think about it in the last 12 months, we've won about 50% of the orders that are out there. We just announced Wizz Air, obviously, I think that came out yesterday. As you think about it going forward, I think the opportunity is even better for GTF, as you think about the XLR, the long range version of the A321, that requires a higher thrust engine, which will be able to deliver for Airbus and for their customers. And again, we think more production going to the higher ends, even the -- just the basic A321 where Pratt is, got probably a stronger offering.
+Having said that, we are, I would say production constrained in terms of how many engines that we can build. I think loss provisions last year were about the same as the year before about $1.1 billion or so. We expect that number will probably continue at this rate. Cost came down roughly 8% to 10% last year. We'll continue to take cost out, but we're trying to be judicious in terms of which customers we choose and which customers we elect not to make offerings to. You'll note in the -- in the discussion before, there were some contract adjustments at Pratt in the quarter that obviously relates to some of the durability issues that we've seen on the GTF, specifically in some of those very difficult operating environments. But again very, very good performance and a very good future I think for GTF.
+Sheila Kahyaoglu -- Jefferies -- Analyst
+Thank you.
+Neil G. Mitchill -- Acting Senior Vice President and Chief Financial Officer
+Thanks, Greg. Jeff [Phonetic] -- Greg, I will add a comment to that on production. Sheila, the numbers that you'll see in our external documents here, our combined GTF and V2500 obviously the legacy engines production is coming down substantially. If I look at the production sequentially Q3 to Q4 on the GTF, it was up over 30% on a full year basis about 20% and we'd expect that same kind of rate going into 2020. So the numbers you see are aggregated, but we're supporting Airbus in 2019 and we're aligned with them in 2020 to deliver the engines for their airplanes.
+Sheila Kahyaoglu -- Jefferies -- Analyst
+Great. Thanks.
+Operator
+Thank you. And our next question comes from Steve Tusa with JP Morgan. Your line is open.
+Steve Tusa -- JP Morgan -- Analyst
+Good morning, guys.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Good morning, Steve.
+Steve Tusa -- JP Morgan -- Analyst
+Echo Jeff's comments. This is kind of a silly question, but have you guys gone back and looked at what possibly kind of could happen here with air traffic, I know it's early on with this whole virus thing, but just looking back at past events like this, what the risk -- kind of frame the risk around that?
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Yeah. Steve, we actually -- we obviously went back and took a look at 2003 and the impact of the SARS virus, and as you'll recall, air traffic slowed down significantly for about three months and really, there was about a six month impact overall in the aftermarket. I would say, there are two major differences today. One is the airlines are a hell of a lot healthier than they were in '03. You were coming off of 9/11 and airline bankruptcies and nobody had any money. The fact is air traffic remains pretty strong, but there will be a blip in Asia this quarter as a result of this.
+The second thing is the flu, it happens every year. I just -- we went back and we're looking at the last full flu season, we had 960,000 people in the US were hospitalized with the flu and 80,000 people passed away. So as we think about this, you got to keep it in perspective, it's a big deal, obviously until they get it contained. But the Chinese government, I think is doing a much better job today in terms of being proactive in containing this and while we expect there will be some impact on the commercial aftermarket, we don't expect it will be significant. I think back in 2003, we saw about a 20% drop in the aftermarket for that -- for two quarters, I don't expect, it's going to be that bad this time.
+Steve Tusa -- JP Morgan -- Analyst
+Right. And then just last -- one last one on the math here. When you look at the kind of $8 billion plus cash target, obviously this is somewhat temporary, you guys seem to make, obviously a lot of money on or what you're supplying to them. So it's a little bit different than engines, where you might be loss making, so lack of deliveries would be kind of a positive from that perspective, but -- and any -- any change to kind of that $8 billion target in kind of that '21 time period from...
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+No. So look, there is clearly a cash impact this year, it was probably in the -- let's call it $400 million range at Collins Aerospace and I would tell you, that's within the -- that's contemplated in our overall guidance for the year. It's not going to change the $8 billion target and again, it is temporary. Next year, I think that as MAX production ramps back up, that abates. So I think again, it's a one-time issue and part of it, of course, as you know, see, we're trying to keep the supply chain going a little bit here and anytime you have these production disruptions, you always worry about the supply chain and some of the smaller suppliers out there. So Collins is doing the right thing here, trying to manage that proactively, so that we don't have a problem as we start to line back up with suppliers who can't meet the new demand.
+Steve Tusa -- JP Morgan -- Analyst
+Right. Okay, great. Great color. Thanks a lot. I appreciate it.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Thanks. Thanks, Steve.
+Operator
+Thank you. And our next question comes from Carter Copeland with Melius Research. Your line is open.
+Carter Copeland -- Melius Research -- Analyst
+Good morning, gentlemen.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Good morning, Carter.
+Neil G. Mitchill -- Acting Senior Vice President and Chief Financial Officer
+Good morning.
+Carter Copeland -- Melius Research -- Analyst
+Greg, I wondered, if you might expand, just quickly to clarify on that cash impact that's -- how much of that is payments to suppliers versus inventory you may build that's higher than the rate just to keep the production healthy?
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Well, you can do the math on terms of the lost sales, right. We're talking about $600 million roughly for the year. So most of that is going to be cash, we're not seeing from suppliers -- from our customer, but there is a small piece of that -- look we -- Collins folks have identified as going to the supply chain. It's not, we're not talking hundreds of millions of dollars here, we're talking probably less than $100 million [Phonetic].
+Carter Copeland -- Melius Research -- Analyst
+Yeah. So it sounds like you're not planning on building inventory in any substantial amount above whatever the agreed upon rate is?
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Yeah. So it will be, I would say more surgical than just we're going to bring all the inventory. We're going to do -- we're going to bring inventory where we need to. So the other opportunity here is, to the extent that we were behind on certain programs, Collins does have a pretty significant backlog of things that they can work on. There is still disruption costs in the factory as you could imagine and absorption issues, but we think, we've captured all of that in the guidance numbers here.
+Carter Copeland -- Melius Research -- Analyst
+And do you have any, just as a final point, do you have any cost actions built into that or what not, are you basically just going to eat the stranded cost?
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+I believe -- we do not anticipate any lay-off. I think that would be the easiest thing to do, but quite frankly, given the scarcity of talented aerospace workers out there. We're not going to be laying anybody off for a 90-day delay here. I think, we're going to work on the backlog. We'll try and keep everybody busy, but it just doesn't make sense to lay people off for 90 days and try and bring them back. There is probably some offset here and again on the aftermarket -- haven't really been able to quantify what that is, given the kind of the late-breaking nature of this change. But there's probably some upside in the aftermarket from what -- what we've got baked into the guidance today. But we'll see what -- how that whole thing shakes out as the year progresses.
+Carter Copeland -- Melius Research -- Analyst
+Great. Thanks, Greg.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Thanks, Carter.
+Operator
+Thank you. Our next question comes from Ronald Epstein with Bank of America. Your line is open.
+Ronald Epstein -- Bank of America Merrill Lynch -- Analyst
+Hey, Greg, good morning.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Good morning, Ron.
+Ronald Epstein -- Bank of America Merrill Lynch -- Analyst
+Could you walk through some of the kind of where we stand on the durability issues on the GTF, you alluded to it being challenged in some of the more -- by this challenging operating environments, but like where do we stand. What's going on and how should we think about it?
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+So I think, let me just categorize. There is no new durability issues on the GTF. We've had three issues that we've identified over the last couple of years that have required retrofits. The biggest issue today is on the third turbine blade -- third stage turbine blade. This was a problem or an issue that we identified early on in the program, originally that blade was made of a titanium aluminum material which proved to be way too fragile for the operating environment. And so, we've moved to a nickel-based alloy. That change was made a couple of years ago. All the new engines have the upgraded blade. Unfortunately, some of the issue or some of the early engines, especially those in India that's in Indigo and GoAir, and some of the other Asian operators still have the older blades in there.
+As you can get fired [Phonetic] through the engines, this blade tends to fracture and causes in-flight shut down. So in a -- I would say, to be very cautious focus on safety first, we're doing some accelerated inspections and accelerated retrofit to get this older design blade out of the market or out of the -- out of the fleet. So that will -- it will happen mostly in India in the first half of the year, again in very difficult operating environments and we're monitoring that around the rest of the world, but probably all of that -- the retrofits going to take through the end of this year to get complete.
+The two other issues that we've always talked about, one was the auxiliary gearbox, where we had a gear that needed to be replaced. We are getting some resonance and some early fatigue on that, that retrofit is under way. And lastly, of course, the combustor liner, which again has been a problem since the get-go, especially in these difficult operating environments, given the temperature that this operates at. So that will, again we've got a retrofit program in place for that -- the latest version of the combustor the DE [Phonetic] will be out sometime in the -- in June timeframe this year, so we'll be retrofitting that.
+So no new issues, but I'll tell you, it's causing out of the operators' pain, especially in India and China, and again some of these more difficult operating environment. So as a result of that, again, we're trying to be very cautious here. We don't want to put anybody to risk. So a lot of inspections, a lot of time on wing, and a lot of time out there trying to get all of this fleet upgraded and it's just going to take us, probably through the first half of this year to get most of that work done.
+Ronald Epstein -- Bank of America Merrill Lynch -- Analyst
+Okay, great. So you expect to get it mostly done through the first half there. Super. Great. Thanks.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Thanks, Ron.
+Operator
+Our next question comes from Julian Mitchell with Barclays. Your line is open.
+Julian Mitchell -- Barclays -- Analyst
+Hi. Good morning.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Good morning, Julian.
+Julian Mitchell -- Barclays -- Analyst
+Good morning. Just a question around Pratt, so you do have those legacy programs weighing on the aftermarket growth, maybe just help us understand what headwind do you have dialing in for legacy aftermarket sales declines in 2020 and what the scale of that legacy piece now is within Pratt. And then perhaps, switching text slightly within Collins Aerospace, maybe give any color around the cadence of organic sales as we go through the year, please, within that down slightly guide how we think about first half, second half.
+Neil G. Mitchill -- Acting Senior Vice President and Chief Financial Officer
+Julian, thanks. It's Neil. Just a couple of comments on the Pratt aftermarket, clearly the legacy programs are starting to trail-off, but there is still a pretty substantial part of the profit going forward in Pratt. We've had some headwinds, we talked about that earlier this year and some contract adjustments. But I think about the V though, when we came out of the fourth quarter here, very strong inductions and so we saw about a 6% increase quarter-over-quarter in induction activity on the V. We're well capacitized to deal with that level of inductions through 2020 and we'd expect the underlying demand to be there.
+Keep in mind though in order to overhaul an engine, it needs to come off of the wing and with the 737 MAX situation, the legacy planes are flying quite a bit more. And so -- and we've seen good durability on the V2500. That said, still expecting to see growth there. The network is -- recovered from the early blips that we had in 2019. So I think, well positioned for 2020 on the aftermarket side at Pratt. As for the Collins organic growth. I think, we'll expect to see that fairly ratable through the year. What I would say is that the first quarter will hurt a bit more from the 737 MAX headwind that we just talked about, and you will recall that the first quarter of 2019 for Collins was exceptionally strong, especially given the Rockwell post merger activity.
+Julian Mitchell -- Barclays -- Analyst
+Great, thank you.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+You're welcome.
+Operator
+Our next question comes from Peter Arment with Baird. Your line is open.
+Peter Arment -- Robert W. Baird -- Analyst
+Thanks. Good morning, Greg, Neil.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Good morning, Peter.
+Peter Arment -- Robert W. Baird -- Analyst
+Just you had some acquired divestitures with the Collins GPS and I guess, the optics business, I think you mentioned regarding that -- that's going to still be closed to, you're assuming of -- what about other divestiture activity? Just given the -- the merger with Raytheon, are you thinking about other things or should we expect other actions going forward?
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+I'm not going to announce anything today, Peter. But let me tell you, I don't want to get ahead of myself here, but I think, it's clear, when we get -- when we complete the merger with Raytheon, we're going to have a fairly substantial portfolio. And I think, as we typically would do at UTC, we're going to take a look at that portfolio and quite frankly, some of it is investable and some of it probably is not, but I think, we will take the first year. Mike Dumais, who heads up our strategy group here, he and I will go through the portfolio on both sides of the business. And I think there'll be places where we might elect not to invest and to cash out in other places where we may want to double down. But right now, I can't tell you what that's going to be other than the fact that we're going to, as we typically do here, we will take a dispassionate look at the whole portfolio and figure out where we think, we can really add value over the long-term and where we can't.
+Peter Arment -- Robert W. Baird -- Analyst
+I appreciate that. And just if I could just ask one follow-up quickly on the GTF. Greg, are you changing the cash profile of that outlook just given some of these durability issues or is that still kind of tracking to what you originally said back...
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+No, it's -- we talked about the charge we took in the fourth quarter, impacted the aftermarket because of some of these durability issues. But again, it doesn't change the overall -- the overall return on the program or the cash outlook.
+Peter Arment -- Robert W. Baird -- Analyst
+I appreciate the color. Thanks, Greg.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Thanks, Peter.
+Operator
+Our next question is from Nigel Coe with Wolfe Research. Your line is open.
+Nigel Coe -- Wolfe Research -- Analyst
+Thanks, good morning.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Good morning, Nigel.
+Neil G. Mitchill -- Acting Senior Vice President and Chief Financial Officer
+Good morning.
+Nigel Coe -- Wolfe Research -- Analyst
+Greg, congratulations on getting this piece to the finish line...
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Almost there.
+Nigel Coe -- Wolfe Research -- Analyst
+So I just wanted to ask my first question on the Collins EBIT this quarter. Obviously fully in line with your guidance, but a big step down from the $1.1 billion to $1.2 billion run rate through to 2019. So I'm just curious, is that normal seasonality for Collins as is now or was there a mix differential? Anything -- any color there?
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Yeah. Look there is a lot of moving pieces there. I think obviously the aftermarket was still strong, but you also had some OEM headwinds in the quarter and some additional ED spend, which impacted the quarter, a little more than normal. Keep in mind also as we picked up the last five weeks of Collins last year that was a very, very strong five weeks of activity as you can imagine in any of these acquisitions. So I wouldn't draw any conclusions from the fourth quarter compared to Collins. I mean the business is doing great, $300 million of cost synergies. Overall, the aftermarket for the year was up what 14% with 20% growth in provisioning. So it's just a solid quarter and again, no drama there.
+Neil G. Mitchill -- Acting Senior Vice President and Chief Financial Officer
+I fully agree with that. It was I would say characterization of OE deliveries from Q4. We see some of that coming back in Q1. So nothing abnormal in the results, they're very strong.
+Nigel Coe -- Wolfe Research -- Analyst
+Thanks. But they're very helpful. And then Neil, a quick follow-on to you. You provided some, I know that -- I know Otis and Carrier guidance will be in two weeks time but you provided some elements of guidance of the outlook for 2024 for the commercial businesses. Can you just remind us on that? I didn't catch all the elements that I think you said flat while profit but maybe I'm confused there?
+Neil G. Mitchill -- Acting Senior Vice President and Chief Financial Officer
+All I was talking about there was with respect to the first quarter. So we do expect Carrier to be down a little bit on the sales, that's a headwind we expected because of the transport refrigeration headwind and some foreign currency headwind on the sales side. We also have a couple of some cost coming through in the first quarter. Now that these two businesses are operating separately. There are costs embedded in their stand-alone business right now that are not incremental to the combined UTC and so they won't be measured out. So we have a little bit of headwind there, but that's as expected because we're ready to turn them on to be stand-alone companies.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Yeah, just remember, Nigel. We always thought just probably about $300 million of annual cost that the businesses have added between the two of them for stand-alone public company costs. And that of course, on a year-over-year basis will be headwind here in the first quarter is, I think both Judy and Dave have done most of the staffing, I think we're over 90% in fact of what we have expected, needed to be added to these businesses. So, it's a -- it's just a funky quarter with all of these transition costs, some of it -- we will identify them when we're done with the quarter, but it's just, it's going to be a little choppy.
+Nigel Coe -- Wolfe Research -- Analyst
+Great. Thanks, guys and good luck.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Thanks.
+Neil G. Mitchill -- Acting Senior Vice President and Chief Financial Officer
+Thank you.
+Operator
+Next question is from Myles Walton with UBS. Your line is open.
+Myles Walton -- UBS -- Analyst
+Thanks. Good morning.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Good morning.
+Myles Walton -- UBS -- Analyst
+I think the last six or seven quarters, you've done much restructuring in at Pratt and obviously a big tick up here in the fourth quarter. So maybe, was there something you saw there that you're taking action that you had, had an opportunity to do previously. And then, as you look out over the next year not considering the kind of the integration, which sounds like you're going to keep the two businesses relatively separate with Raytheon, but what's the outlook for opportunity at both -- at both Collins Aerospace as well as Pratt?
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+So at Pratt, in the fourth quarter, we had a early retirement program which was I would say well received and frankly for the last five years as we've ramped up GTF production at Pratt, we have added a tremendous amount to the workforce in the back office to support procurement and quality manufacturing, etc. And as Chris Calio is taking over there, we decided that it was time probably to turn this -- that spicket off and take some and get some efficiencies in the overhead pools. So we've taken out over 1,000 people through the early retirement program and obviously, the payback is phenomenal on that -- that's in fact what's driving a big chunk of Pratt growth next year, is that restructuring.
+There remains other opportunities. And I think, we will get an opportunity later this year to have Mr. Calio and Mr. Ortberg, take you guys through some of the opportunities they have. Chris is looking at -- at a restructuring of some of the other manufacturing operations there. There will be other things that we can do, I think to drive efficiency at Pratt. Collins is -- I think Neil mentioned, we expect another $150 million of cost synergies this year, that's going to slow down a little bit, but there are still, I would say, lots of opportunities in the facility side that Kelly and team continue to look at.
+So even though we haven't done a lot in the last I'd say six quarters. We haven't forgotten how to do this. I would tell you also Carrier over the course of the last year did a lot of restructuring. I think, that took out about 1300 indirect heads during the year. So we haven't forgotten our roots on cost reduction. We're just trying to be judicious with the aerospace sales up like they have been for the last couple of years, there just hasn't been as much opportunity, but we certainly see more on the horizon.
+Myles Walton -- UBS -- Analyst
+Okay. And just one clarification, the GTF manufacturing and delivery profiles of the last year, has that changed significantly in terms of your outlook or is it roughly the same?
+Neil G. Mitchill -- Acting Senior Vice President and Chief Financial Officer
+No, I'd say, it's roughly the same.
+Myles Walton -- UBS -- Analyst
+Okay. Thank you.
+Neil G. Mitchill -- Acting Senior Vice President and Chief Financial Officer
+You're welcome.
+Operator
+Thank you. And our next question comes from Robert Spingarn with Credit Suisse. Your line is open.
+Robert Spingarn -- Credit Suisse -- Analyst
+Hi. Good morning.
+Neil G. Mitchill -- Acting Senior Vice President and Chief Financial Officer
+Good morning.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Good morning.
+Robert Spingarn -- Credit Suisse -- Analyst
+I wanted to follow up on the question on the Collins cadence from a couple of minutes ago and focusing on the interiors business. We don't talk about it a lot, but given that it's a discretionary driven business, it behaves differently than the others, I wanted to see how that was trending at the back end of '19 and what you're expecting there in 2020?
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Yeah. I think, I would tell you that the interiors business, first half of last year and even back in 2018, it was not doing as well as what we had hoped. But they have really picked up the cadence here in the back half and very strong backlog. They've got some new products out there, both on the economy, and economy plus as well as in the business class seating, and they've got a very strong backlog. So if anything, I would expect there's some pretty decent growth coming out of the interiors business this year.
+Robert Spingarn -- Credit Suisse -- Analyst
+[Speech Overlap] Neil, I'm sorry.
+Neil G. Mitchill -- Acting Senior Vice President and Chief Financial Officer
+I was just going to say, the interiors business was a major part of our parts and repair performance in the fourth quarter. So they are performing quite well.
+Robert Spingarn -- Credit Suisse -- Analyst
+Does the pressure from MAX on the airlines interfere with that discretionary spend or is the idea that that's really narrow-body carriers really doesn't influence what is otherwise a wide-body business?
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Well, just to be clear, we still supply a lot of I would say economy, economy plus seating in the narrow-body sector. Now we haven't seen a big impact this past year, of course because Boeing was still building the aircraft and still doing -- fitting out the interiors. And keep in mind, it's more than just seating. It's also all the galleys, where we've got pretty good share as well. So when we think about that, we've talked about $100 million of sales a month, a chunk of that will come out of the interiors business here in the first few months as Boeing has this production pause. But beyond that, the backlog still remains very robust. We've continued to add there folks both in the Philippines, at our factory there as well as down in Winston-Salem. So, I would say, that business has turned around nicely.
+Robert Spingarn -- Credit Suisse -- Analyst
+Okay. Thank you very much.
+Operator
+Thank you. And our last question comes from Cai Von Rumohr with Cowen. Your line is open.
+Cai Von Rumohr -- Cowen and Company -- Analyst
+Yes, thank you very much. I think, I followed UTC longer than most. So Greg, you mentioned on the MAX that the 90-day suspension and then you're going to 21 [Phonetic] in the second half, is that based on your estimate or with some rough guidance from Boeing?
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+I would say that we have been in constant contact with Boeing and so this is our best guess, I would say, educated guess and working with Boeing about what that production pause will look like. Obviously, I mean, we're working with them on the software elements of this, but we think this is a -- the most reasonable view we could have in terms of what the impact will be to the year. If it's better, you guys will certainly see it, but for right now, we think that's what it's going to be.
+Cai Von Rumohr -- Cowen and Company -- Analyst
+But you mentioned that you don't plan on laying anyone off for 90 days, but it isn't really 90 days, because your production rate in the second half by your assumption is going to be down 50%. So could this very high drop through of the decremental volume be lower, I mean at some point, are you going to think of laying some people off, given, this goes for more than nine months?
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Well, keep in mind, Cai. This -- if you think about Collins, $26 billion in revenue last year. You've got a lot of other programs out there, you've got growing demand on the military side, you've got backlog in wheels and brakes and many other parts of the business. So will we work some less over time, probably, but are we going to lay people off because of this? No. I think again, it's just, it hurts on the absorption front, but it's not significant in terms of the overall Collins business.
+Cai Von Rumohr -- Cowen and Company -- Analyst
+Okay, terrific. Thank you.
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Thanks, Cai. So we want to thank everybody for listening today. I know it's a busy earnings day. This will be the last earnings call for UTX. All things being equal, and we look forward to seeing everybody, talking to everybody with the completion of the merger and we wish our friends at Carrier and Otis very well, and thank everybody for listening today. Take care.
+Operator
+[Operator Closing Remarks]
+Duration: 58 minutes
+Call participants:
+Gregory J. Hayes -- Chairman and Chief Executive Officer
+Nathan Ware -- Senior Director of Investor Relations
+Neil G. Mitchill -- Acting Senior Vice President and Chief Financial Officer
+Jeff Sprague -- Vertical Research -- Analyst
+Sheila Kahyaoglu -- Jefferies -- Analyst
+Steve Tusa -- JP Morgan -- Analyst
+Carter Copeland -- Melius Research -- Analyst
+Ronald Epstein -- Bank of America Merrill Lynch -- Analyst
+Julian Mitchell -- Barclays -- Analyst
+Peter Arment -- Robert W. Baird -- Analyst
+Nigel Coe -- Wolfe Research -- Analyst
+Myles Walton -- UBS -- Analyst
+Robert Spingarn -- Credit Suisse -- Analyst
+Cai Von Rumohr -- Cowen and Company -- Analyst
+
+More UTX analysis
+
+All earnings call transcripts

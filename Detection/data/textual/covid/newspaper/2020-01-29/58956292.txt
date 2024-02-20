@@ -1,0 +1,252 @@
+Accuray Incorporated (ARAY) CEO Joshua Levine on Q2 2020 Results - Earnings Call Transcript 
+ Ladies and gentlemen, thank you for standing by, and welcome to the Accuray Incorporated Q2 Fiscal 2020 Financial Results Conference Call. At this time, all participants are in a listen-only mode. After the speaker presentation, there will be a question-and-answer session. [Operator Instructions] Please be advised that today's conference is being recorded. [Operator Instructions]
+
+I would now like to hand the conference over to your speaker today, Joe Diaz with Lytham Partners. Please go ahead, sir.
+
+Thank you, Josh, and good afternoon, everyone. Welcome to Accuray's conference call to review financial results for the second quarter of fiscal year 2020, which ended on December 31, 2019. In addition, during our call this afternoon, management will review recent corporate developments.
+
+Joining us today are Josh Levine, Accuray's President and Chief Executive Officer; and Shig Hamamatsu, Accuray's Senior Vice President and Chief Financial Officer.
+
+Before we begin, I would like to remind you that our call today includes forward-looking statements that involve risks and uncertainties, including statements regarding our fiscal 2020 guidance, including factors that could affect such guidance, expectations regarding market conditions and the Company's market opportunity in China, expectations regarding the Company's China joint venture, expectations regarding revenue growth and expansion in operating income and adjusted EBITDA including for the next three years, expectations regarding recognition of revenue from China Type A systems, expectations regarding the tariff exemption of our products in China, expectations regarding gross margins, expectations related to new product shipments, installations and releases and future business plans and strategies.
+
+There are a number of factors that could cause actual results to differ materially from our expectations, including, but not limited to risks associated with the adoption of the CyberKnife, TomoTherapy and Radixact Systems, commercial execution; operationalizing the China joint venture and overall strategy in China, the Company's ability to realize the expected benefits of the joint venture, risks and uncertainties related to future Type A and B license announcements in China as well as the ongoing tender process in China, future order growth, future revenue growth, profitability and macroeconomic factors outside of the Company's control. These and other risks are more fully described in the news release we issued just after the market closed this afternoon as well as in our filings with the Securities and Exchange Commission.
+
+The forward-looking statements on this call are based on information available to us as of today's date, and we assume no obligation to update any forward-looking statements to reflect actual performance or results, changes in assumptions or changes or changes in other factors affecting forward-looking information, except to the extent required by applicable securities law. Accordingly, you should not put undue reliance on any forward-looking statements.
+
+Two housekeeping items for today's call. First, during the Q&A session, we request that participants limit themselves to two questions and then requeue with any follow-ups. Second, all references we make to specific quarter in the prepared remarks are to our fiscal year quarters. For example, statements regarding our second quarter referred to our fiscal second quarter ended December 31, 2019.
+
+Now I'd like to turn the call over to Accuray's President and Chief Executive Officer, Josh Levine. Josh?
+
+Thanks, Joe, and thanks to everyone joining us on today's call. Accuray's Q2 and first half gross order performance has exceeded previously communicated expectations as we maintained a strong order momentum in China despite having a difficult year-over-year comparison. In addition, net orders during the quarter increased by 30% over last year as we saw strong age-in activities, which Shig will cover more deeply in his prepared remarks.
+
+In terms of revenue, our Q2 and the first half performance was in line with our expectations. As we had shared in prior calls, we expected revenue growth in fiscal 2020 was going to be weighted to the second half of the year due to the timing of China Type A license revenue recognition, and we believe that projected timing is still valid.
+
+As a follow-up to an important topic that remains somewhat open following our Q1 call, we have confirmed that the tariff exemption for medical linear accelerators is applicable to all of our systems. We believe that this exemption will support our commercial momentum and expand access to our innovative radiation therapy solutions for hospitals and patients in China.
+
+In light of recent events with the coronavirus outbreak in China, we do not believe that the outbreak affects the longer-term demand outlook for radiotherapy equipment in that market. China remains the world's fastest-growing market for radiation oncology systems, where we have a highly differentiated strategy to drive significant revenue growth in the coming years.
+
+Gross orders for the quarter were $98.6 million, down 2% from the prior year's second quarter, but materially above the previously expected range of $87 million to $90 million, we had discussed in our Q1 call.
+
+During prior fiscal year two, we received 16 orders from China as the Chinese government published the long-awaited quotas for Type A and B licenses in that quarter, which presented a tough year-over-year order growth comparison.
+
+Geographically, in fiscal Q2, our EMEA and APAC regions were meaningful contributors to gross orders, and we saw a strong order contribution from China, which contributed 11 new systems despite the tough year-over-year comparison I mentioned earlier. I am pleased to report that we saw orders in the Americas grow 37% year-over-year, which represents two sequential quarters of double-digit order growth as we continue to focus on rebuilding the revenue pipeline in that region.
+
+Japan also delivered solid results, with its gross orders growing 17% year-over-year. From a product mix perspective, CyberKnife contributed approximately 36% of total gross orders in Q2, while the TomoTherapy platform led by Radixact accounted for approximately 64% of the gross orders during the quarter. Revenues for the quarter were $98.8 million, which was in line with our internal expectations, and Shig will provide a more detailed review of the revenue numbers in his prepared remarks.
+
+Turning now to a more detailed update related to China. We continue to closely monitor the status of the ongoing tender process, which is the process that must be completed by end user hospitals prior to their taking receipt of a Type A device.
+
+As discussed previously, this tender process has been put in place to define the transactional terms and conditions related to each hospital's equipment order and is not a competitive bidding situation that would result in changes in the specific device that the hospital has received the Type A license for.
+
+We expect that based on the timelines required for this tendering process, we will begin to see the first revenue impact related to China Type A license awards sometime in our fiscal fourth quarter. We are also aware that the second batch of Type A license applications are currently under review by the China National Health Commission and believe that Accuray Systems are well represented in the second round of applications. While the exact timing of the announcement of additional license awards is not known, we are excited about the prospect of additional Type A opportunities in the coming months.
+
+Our China joint venture continues to make operational progress in a number of important areas. Construction of the JV manufacturing facility as well as the training center is on schedule and we expect that manufacturing activities for our Type B products will commence in the next 18 to 24 months, which will allow us to support the growth and overall opportunity associated with the Type B radiotherapy products.
+
+Circling back to the U.S., we announced during the quarter that Stanford University Medical Center has added a second CyberKnife System to expand access to precise radiosurgery treatments to more of their patients.
+
+The new CyberKnife System will be dedicated to the treatment of diseases in the brain and base of the skull, while their existing system will continue to be focused on patients with tumors elsewhere in the body. As many of you know, Stanford is the technological and clinical birthplace of CyberKnife and we are proud that they continue to see the clinical value in this unique product and are expanding their CyberKnife treatment capacity to deliver treatment to an expanding volume of patients.
+
+We also recently announced data from a prospective study, which showed that at five years, hypofractionated SBRT treatments administered with the CyberKnife System provided excellent disease control with very low rates of toxicity in men with recurrent prostate cancer after previous treatment with radiation therapy.
+
+Most importantly, 69% of men required no hormone therapy, which is the most common treatment given for recurrent prostate cancer. The study was a multicenter study conducted at Genesis Healthcare Partners and AtlantiCare, which is part of the Geisinger Health System.
+
+The study results were recently published online in the International Journal of Radiation Oncology, Biology and Physics. We are excited that these data clearly reflect the benefit of our CyberKnife System in treating recurrent prostate cancer and believe the study data may act as a catalyst to expand the range of patients to whom treatment is offered.
+
+Turning now to our product development roadmap. We've seen strong customer demand for our Synchrony technology for Radixact, which we introduced at the annual ASTRO meeting in September. As a reminder, Synchrony is a unique Accuray innovation available on both the CyberKnife and now Radixact Systems. Synchrony compensates for tumor motion that may occur during treatment by precisely tracking target motion or changes in surrounding tissue and automatically compensates for that motion and adapts beam delivery in real time.
+
+We've gained valuable experience from our primary clinical product evaluation sites and have completed installation of our next phase of ramp and monitor sites with additional global reference sites on track to install in our fiscal Q3. These installations will help ensure maximum commercial impact upon full production release in the fourth fiscal quarter.
+
+Before I turn the call over to Shig, I'd like to speak to Accuray’s revenue growth expectations for the next three fiscal years, which we discussed at the JPMorgan Healthcare Conference earlier this month.
+
+We believe our opportunity in China, including the recent grants of 50 Type A radiotherapy licenses for Accuray Systems this past October will enable us to achieve a compounded annual revenue growth in the range of 8% to 12% from fiscal 2021 through fiscal 2023.
+
+With respect to the 50 Type A licenses already awarded to Accuray Systems, these units have system revenue value of approximately $115 million and we expect that the first of these units will convert to revenue beginning in our fiscal fourth quarter and continue from that point over the following 24 months.
+
+We expect this revenue growth will drive faster expansion in our operating income and adjusted EBITDA for the same periods as we start to benefit from operating leverage we have built into our business model over the past several years. In summary, I believe Accuray has never been better positioned for growth and our entire team here is singularly focused on executing on the substantial opportunities ahead of us.
+
+With that, let me turn the call over to Shig for a more detailed review of the financial results for the quarter. Shig?
+
+Thank you, Josh, and good afternoon, everyone. I'll begin with some additional details on our order performance for the second quarter and then focus on certain highlights for the period. Gross orders for the second quarter were $98.6 million, which was materially above the previously expected range of $87 million to $90 million and down 2% from the prior year. On a year-to-date basis, gross orders increased approximately 10% over the same period prior year.
+
+Net age-outs for the quarter were $8.3 million, which was significantly better than our prior expectation of $18 million to $20 million, as we converted six previously aged-out orders to revenue during the quarter.
+
+The age-ins during the quarter were related to the orders across all regions. While we expect the amount of age-ins will vary from quarter-to-quarter, we are pleased to see the progress we have made in this area. We continue to believe that a meaningful number of the orders from China that aged out during the past two years will eventually convert to revenue. The 50 Type A licenses already awarded for Accuray Systems included several systems that were previously aged-out.
+
+During the second quarter, we had no cancellations and recorded $0.3 million of other adjustments. As a result, on a net basis, we generated $90 million of orders in the second quarter, which represented a 30% increase over the prior year. We ended the second quarter with a backlog of $539 million, an increase of 12% from December 31, 2018.
+
+Turning now to our income statement. Total revenue for the second quarter was $98.8 million, down from $102.3 million in the prior year. For the first half of fiscal 2020, revenue was down 5% from the prior year, which was consistent with our internal expectations we previously communicated.
+
+Our product revenue of $43.8 million during the quarter declined 9% compared to the prior year. Service revenue in the second quarter was $55.1 million, up 1.5% from the prior year.
+
+From a product mix perspective, CyberKnife accounted for approximately 45% of the quarter's revenue, while the TomoTherapy platform accounted for the remaining 55%. Radixact revenue represented approximately 65% of TomoTherapy revenue during the quarter.
+
+Turning now to gross margin. Our product gross margin was 44%, up from 39.5% in the prior year, primarily due to higher mix of CyberKnife revenue. Service gross margin in the quarter was 33.9% compared to 35.7% in the prior year.
+
+As noted in our Q1 call, we experienced higher than normal service parts consumption last quarter, which negatively impacted our service margin. During the second quarter, we have conducted a full physical inventory of service parts in our field service engineering network in connection with our parts quality control initiative.
+
+And as a result, written off certain service parts in the network, which will lower our Q2 service gross margin by 110 basis points. Without the impact of this write-off, our Q2 service gross margin would have been 35%.
+
+With the proactive quality control measure taken in the second quarter, we have a reasonable basis to believe that our service parts consumption rate will normalize in the second half of this fiscal year. Overall gross margin in the second quarter was 38.4% compared to 37.5% in the prior year.
+
+Moving down to income statement. Operating expenses for the quarter were $34.3 million, a decrease of $5 million or 13% from the prior year. Although the second quarter operating expenses included a net benefit of approximately $1 million from infrequent items such as release of non-income tax reserves, the year-over-year decline in our operating expenses was primarily driven by the cost reduction initiatives we undertook a year-ago.
+
+We are pleased to see the full benefit of this action and continue to believe our operating leverage will allow us to deliver operating margin and adjusted EBITDA expansion in the coming quarters as we expect the revenue growth starting in the second half of this fiscal year.
+
+Despite a slight year-over-year decline in our revenue, our operating leverage allowed us to deliver GAAP operating income of $3.6 million during the quarter compared to the operating loss of $900,000 in the prior year.
+
+We did not record any China joint venture loss pickup during the second quarter due to the timing of Accuray's contractual obligations related to our equity contributions. We will begin to report the operating impact of China JV in the third quarter and expect it will be a loss for the second half of our fiscal year.
+
+I would like to note that reported net income of $10.7 million for the second quarter due to recording of non-cash $13 million gain related to the systems we contributed to China joint venture in exchange for our equity stake in the JV. As discussed previously, we expect to maintain our 49% equity interest in the JV through non-cash contributions as allowed under the joint venture agreement.
+
+This special non-cash gain of $30 million represents the difference between the fair value of our joint venture equity stake and the original cost of the systems we contributed. The gain was recorded as other income in our income statement and excluded from the calculation of adjusted EBITDA due to its nature. Excluding the gain I just described, adjusted EBITDA was $7.1 million in the quarter, which represented a 72% increase compared to $4.1 million in the prior year.
+
+We had a very strong cash collections quarter and ended the second quarter with $99 million of cash and short-term restricted cash, an increase of $12 million from the prior quarter.
+
+Turning now to our guidance for fiscal 2020. We are reiterating our prior guidance with revenue expected to range between $410 million and $420 million. We continue to believe in our ability to return to revenue growth during the second half of this fiscal year.
+
+As discussed previously, our revenue forecast for fiscal 2020 includes a certain number of Type A system orders combining to revenue, most likely starting in the fourth quarter of this fiscal year as the hospitals awarded the licenses wait for the completion of their tender process. We are reaffirming our expectations for gross order growth in the mid single-digit range during fiscal 2020 with Americas and Japan regions leading the way.
+
+As for our adjusted EBITDA guidance for the full-year, given our Q2 adjusted EBITDA of $7.1 million and favorable operating expense trend we see going into the second half, we now expect adjusted EBITDA range to be between $21 million to $26 million, compared with the prior guidance of $19 million to $24 million.
+
+The new guidance range includes approximately $1 million of our share of expected loss of the China joint venture operations. In terms of our gross margin outlook, we expect overall gross margin to be approximately 38%.
+
+We forecast operating expenses for fiscal 2020 to be down approximately 7% to 8% year-over-year as we see the benefit of the cost reduction actions that we took in the prior year.
+
+Turning to our net-age forecast. We anticipate Q3 net age-outs to be in the $17 million to $23 million range.
+
+With that, let's open up the call for questions. Operator?
+
+[Operator Instructions] Our first question comes from Josh Jennings with Cowen. You may proceed with your question.
+
+Hi, good afternoon. Thanks for taking the questions, and congratulations on the strong quarter here. I was hoping to just follow-up with a call-up question on the momentum you're seeing on the order side, and I think you've done a nice job of mapping out the tailwinds that are in play in China. Just wanted to check in on where you guys are in the replacement cycle? How much of a tailwind you're experiencing from getting – winning replacement vaults? And then what regions are – is the replacement cycle the strongest?
+
+So Josh, the primary focus geographically or areas contributing from a replacement cycle standpoint are the Americas region with a primary focus in the U.S., and the EMEA region in essentially the Eurozone countries in Western Europe and they are contributing to the order momentum in terms of ongoing tailwind.
+
+For the quarter, we've had a good contribution from, again AMS. This was the second quarter that orders – second sequential quarter that orders were showing double-digit growth. Admittedly, it's growing off of a relatively small base. So no one is prepared to declare victory here, but directionally, we're pleased with what we're seeing there.
+
+And I think that we've got the team from a structure standpoint. Suzanne Winter, our new Chief Commercial Officer, has done, I think, a good job of understanding where we're at and what's needed from a people and structure standpoint, processes are in place. So I think that we should continue to see some momentum from and contribution from U.S.
+
+Japan was also a strong order growth in the quarter. I think we had 17% – roughly 17% gross order growth in Japan. And so this is more than just the China story. I wish I could tell you that we have every region contributing at that level every quarter. But it feels like some of places, especially in AMS where we haven't seen the ability to string together the kind of quarter-after-quarter momentum that we would have liked. It started to kind of come into better visibility, and a lot of that has to do with replacement cycle and launch of – or introduction of Synchrony on Radixact to the marketplace, things that are – should be catalyst going forward for more order activity.
+
+Excellent. And then just my follow-up is maybe a tough question to answer, but just anything you're hearing, any buzz just in terms of CMS' progress on the instituting the alternative payment models? And any timing that you can share with us in terms of your expectations for that to kick in or whether or not that will be delayed out into calendar 2021? Thanks for taking the questions. I'll get back in queue.
+
+No problem. I mean, the answer is, we haven't heard anything incremental to what's already been communicated. I think that if you looked at when the public comment period drew to a close in the fall of last year, there was the time – at least anticipated timing had moved around a little bit, which started out at the beginning of calendar 2020 move to July, and then perhaps even beyond that. I don't have anything new. I do think that the important part of what's really important about that – more than the timing is that directionally, CMS has been clear about what they expect, and what they'd like to see happen from this.
+
+And I think that messaging and the direction in terms of what it – what impact that will have on movement towards more SBRT case mix, movement to more perhaps hyperfractionated and ultra hyperfractionated treatment delivery as opposed to more conventional treatment fractions, I think that word is out there. That message is out there. And that I think bodes well as we've talked about in the past for us, given our portfolio and our traditional focus in those areas.
+
+Thank you. Our next question comes from Brooks O'Neil with Lake Street Capital. You may proceed with your question.
+
+Good afternoon, guys, and also congratulations. I think it's a terrific quarter, terrific progress, so keep up all the good work.
+
+So I'm curious, if I was listening correctly, and it's always possible I wasn't, I think you commented about the 8% to 12% potential revenue growth from 21% to 23% is based primarily on converting the 50 Type A licenses. I didn't think I heard you allude to any potential contribution from additional Type A licenses and the massive amount of potential Type B licenses that are out there. Could you just comment a little bit more about your expectations what's included in your 8% to 12% and what might be outside that is further upside for the future?
+
+Yes. So Brooks, the direct line of sight that we have to the 8% to 12% compounded annual growth range that we've communicated between fiscal 2021 and fiscal 2023 is directly related to that first tranche of Type A licenses. And again, the announcement from last fall, 50 to 58 were for Accuray Systems, 29 for TomoTherapy devices, 21 were for CyberKnife devices, so there was a very healthy mix or contribution of mix across both platforms.
+
+We're really not – other than the fact that we're aware that the review process is currently in active form for the second wave or tranche, if you will, of Type A license applications, we don't have visibility to the timing of an announcement of those specific awards or anything beyond that. Although, we do – I think we alluded to in prepared remarks, we do have an understanding that Accuray Systems are well represented in that universe of applications.
+
+How many of those end user hospitals that have an Accuray device? We will actually get an award at this point, it’s premature to comment on or forecast on. So we won't be doing that. But that's kind of what the core assumption is based on and I'll give Shig a chance to elaborate on that a little bit.
+
+Yes. Thanks, Josh. Hey, Brooks. The way to think about it is that Josh and I talked about $115 million of revenue value associated with the 50 Type A licenses that we already won. And what we said was we expect the revenue recognition of the $115 million to occur over the 24 months period. It's starting in this fourth quarter.
+
+So if you think about the growth rates that we talked about in FY 2021 and 2022, so next two years, that – while we already having $115 million gives us a pretty good feel for our ability to achieve 8% to 12% we talked about.
+
+I think when you get out to third year, what we talked about was the progress we're making on the China joint venture manufacturing facility, and that's mainly as you know for the Type B market that we want to further penetrate in addition to, a) market penetration in near-term.
+
+And so if you think about third year, the way we think about it is, in addition to the Type A that we expect to win additionally, but also the additional volume from Type B locally branded product that we expect to have in the China market in 18 to 24 months, giving us a lift in revenue, let's say, in a third year out.
+
+Yes. That's great. I thought that was the case, and I'm glad you confirmed that. That's fantastic. So I have a lot of other questions, but I'm going to try to ascribe to your guidance here. So I just was hoping you guys might talk a little bit about the market response to Synchrony. I know there was a little bit in the prepared remarks.
+
+And in particular, as it relates to how you feel the market is receiving Synchrony's capabilities on CyberKnife and Radixact as it relates to the competitive offerings that might be out there or at least talked about in the marketplace by others? That would be a big help? Thank you.
+
+So as you're familiar Brooks, several years ago, we started – in terms of new product introduction. We started taking the approach that we wouldn't go to commercial full production, full commercial release of any large new product introduction without making sure that we had, call it, a beta process in place that allowed us to get clear feedback from clinical product evaluation sites or what we're calling ramp and monitor sites that will provide early feedback about their experience with the technology in use with treating patients and also be able to help us understand other aspects of supporting the introduction or launch of those new type technologies.
+
+The things we learned around installation and upgrade activity related to getting the technology in place for customers. So it's a process that has served us well. It gives us a chance to get early feedback and also make a dial in other corrective actions that we feel are important, whether it's additional training for our field service engineers in making these installations go more smoothly.
+
+Synchrony has been really well received. And I think it – simply put it is the kind of the single biggest catalyst we think going forward to continue to support trade in and trade up activity on the installed earlier generation TomoTherapy base – installed base of business, which is – the largest concentration of which is in the U.S. and Western Europe right now. So Synchrony becomes a – I think a pretty significant catalyst for continued momentum in terms of replacement sale opportunity on the TomoTherapy platform.
+
+Great. Thank you very much.
+
+Thank you. Our next question comes from Marie Thibault with BTIG. You may proceed with your question.
+
+Great. Thanks for taking the questions, and I'll add my congratulations here on a strong performance. It's really great to see.
+
+My first question, I wanted to dig in a little bit on the strength you're seeing in growth orders in the Americas region? And just if you could tell us a little bit more about what you're seeing in possible trends that are driving that? Is it the replacement cycle? Is it multi-system ordering? Is it getting excited about Synchrony and so they're getting onboard with Radixact? Any detail you can offer on that would help us understand the sustainability of this?
+
+Yes. I would say, Marie, it's probably most heavily concentrated around launch of Synchrony and also kind of the natural trends from a replacement cycle standpoint. I don't believe at this point, I think it's too early to characterize any of it or any large contribution of it related to the proposed alternative payment model from CMS.
+
+Although I think over time that could also be an impact, but it's really more what I would describe as organic opportunity from an installed base standpoint and early reaction to the opportunity for motion management capabilities on the Radixact platform that Synchrony represents.
+
+Makes sense. Perfect. And I have to thank you for proactively touching on the Coronavirus outbreak since it's clearly at the front of a lot of people's minds. You emphasize there that there's no change to longer-term demand. I wonder if you could give us a little color on what you're hearing from customers and some of your folks on the ground in China about what the situation might mean, if anything at all for sort of the near-term hospital installation schedules?
+
+I would just plainly say that we don't have any incremental information to what's been publicly disclosed. I think that obviously people are appropriately cautious and calibrated around overall general impact overall around this. But we don't have any information that changes the – again, the longer-term outlook here. This is the fastest growing radiotherapy market in the world.
+
+We think we've got a very good strategy for a company of our size and current bandwidth to be able to participate in a way that that gives us a chance to overshare that opportunity. And we think – we feel good about the people we've selected as a JV partner in the momentum that we have – that we see and that visibility to, from an operational standpoint with regards to the plant coming online on the projected timelines we've communicated.
+
+So I mean, we still are very bullish about the longer-term outlook. I mean, I can't comment or don't have anything to add to specifics around the Coronavirus outbreak and impact that that could have or might have in any other timeframe.
+
+Okay. Perfect. Thank you so much.
+
+Thank you. [Operator Instructions] Our next question comes from Anthony Petrone from Jefferies. You may proceed with your question.
+
+Thanks and congrats on a good quarter here. Maybe I'll start with a couple on China and then shift to the U.S. And maybe for Shig, just on the gain from JV that was reversed out of adjusted EBITDA. Is that due to shipments from some of the Class A licenses you've disclosed here or were those from orders outside of the tender licenses? So just a little clarity on that gain in adjusted EBITDA?
+
+Yes. Anthony, thanks for the question. My short answer would be the two systems that we contributed to the joint venture, which caused a gain to the quarter. It has nothing to do with the revenue shipment that we're going to have once the tender process is complete. So I want to make that clear.
+
+It was simply a transaction where the onset of the joint venture agreement, instead of putting cash into the joint venture in exchange for 0.8% equity interest, our agreement with the – our partner was for us to put the systems into joint venture for the JV to use, whereas the other side was putting cash into the joint venture for operational purpose.
+
+So that's really the underlying transaction. So therefore given its nature, it's not really alignment with our ongoing operations so to speak. It's a one-time event. So that's why we took it out of the adjusted EBITDA calculation.
+
+Maybe just to follow-up on the JV while we're on the topic. Just maybe an update on where the infrastructure build sits out? I think you've shared in the past that they're actively training on systems out of the joint venture at the moment. And I think the distribution network is also being established. So just a little bit on the infrastructure of the JV?
+
+And then the last one on the U.S. installed base. Maybe just can you quantify the average age of the installed base in the U.S. and what you think the upgrade opportunity is from the RO bundle once that gets going? Thanks again.
+
+Anthony, let me take just – sequencing wise, let me take the last question first. I'd say that the sweet spot of what we're seeing in terms of trade in, trade up opportunities are really probably in 10 to 12-year range in terms of life – service life and that really is not all that different or substantially different from what we've seen over time.
+
+I mean, these devices come into the replacement windows, so to speak, probably beginning as early as maybe eight years. But we've got systems that are in the – in use and in active service life beyond 12 as well. But I'd say that in the most recent activity, it's probably in that 10 to 12-year range.
+
+I don't think that any of – as I mentioned before, I don't think any of the current replacement opportunity that we're seeing is being impacted as of yet by the proposed alternative payment model discussion. I don't think that it's impossible that over time, once that gets launched officially and it rolls out that it might not have a – very well could have an impact going forward as a catalyst for more trade in and trade up activity. But right now, I'd say, it's too early. I don't hear anything specifically tying what we're seeing on trade in, trade up to RO-APM, so that – I think that covers that part of the question.
+
+On the China joint venture and infrastructure discussion, I mean on the physical plant, just to give you kind of a sense about speed with which things are happening. I was in China last July – late July, and groundbreaking was taking place on the facility, the manufacturing facility and the customer training facility. I was there again right before JPMorgan, so a week or 10 days into the month of January.
+
+And essentially, the customer – the offices and the administrative headquarters for the JV location, the internal customer training classrooms, all of that facility is now built out and complete.
+
+It's actually being occupied by the folks that are administratively and from functional leadership roles involved in the joint venture. And the manufacturing facility, including the training bunkers, those would be the bunkers where equipment will reside that will be used in training – actual training activities with customers, those bunkers were being completed while I was there.
+
+The projected timeline for manufacturing facility close out, if you will, in terms of the construction is sometime towards end of April, beginning of May, and it just – it's really extraordinary how fast things move there from a project standpoint.
+
+We've gotten great support from our JV partner. They have great relationships with the Tianjin provincial government and who are the folks that oversee permitting and licensing for building construction permits, et cetera. So we've had a lot of support from China Isotope & Radiation Corp, as our partner. And we've been fortunate that things have moved along nicely with regards to the construction of the facility.
+
+All of the distributors that the sales age-ins that are attached to and represent the China JV and will be the primary selling mechanism for Type A going forward as well as Type B. All of those distributor organizations have been trained, and they're out selling today. I mean, we have – I'd say in great part, we are materially complete except for maybe another couple of months in terms of the facility build out.
+
+But in terms of the infrastructure involving sales, marketing, sales support, service – field service engineering network, that work is complete in terms of transitioning employees, hiring employees, et cetera. I think they've gone from – well, from a dead start last July. That organization now has roughly, I think its 95 or 96 people in total across all functions related to that organization in a span of maybe 6.5 months, 7 months, pretty phenomenal.
+
+That's great. Thanks for the update. Now, I'll get back in. Thanks.
+
+[Operator Instructions] Our next question comes from Tycho Peterson with JPMorgan. You may proceed with your question.
+
+Hi, thank you. This is Eleni on for Tycho. So I was just wondering to start off, net age-outs were significantly lower than you had anticipated. Could you talk about the dynamics at play here? And regionally, whether you're starting to see age-ins from China or if there is something else underpinning the better result here?
+
+Yes. Thanks for the question, Eleni. As I said earlier, we had a six total age-in orders in a quarter. And as we begin each quarter, every time we obviously look at the not only watching a backlog, but also the orders that have been previously aged-out and try hard to convert any of those to revenues.
+
+So as I said earlier, too, that as far as the number of aging could vary from quarter-to-quarter. Although, I do think that if you look at two to three quarters out, as we start to convert Type A revenue in China, that's going to include some of the previously aged-out items. So I do expect few quarters out, we start to see a more steady flow of age-ins, but that's really the dynamic here.
+
+And as far as the six age-ins orders, it was across all regions. And so that was good to see as well. As you know, majority of the sales outside of the United States, we have a pretty big distribution China presence. So EMEA, in particular, those are regions where we had a very high amount of age-outs beyond China. So it's very good to see the – a very positive activity here, and hopefully, we get more steady about the age-ins as the China revenue started to convert in the future.
+
+That's helpful. Thank you. I was also wondering, how should we think about the pacing in terms of your revenue guidance for the second half of the fiscal year, just to better understand the balance between 3Q and 4Q?
+
+Yes. I think the best way to look at it is, we've been consistently saying that the Type A revenue conversion for China, we believe it's going to start in Q4. So if anything between the two quarters in second half, I would weight it more towards Q4.
+
+Okay. And just wanted to check with you that, in terms of tariffs, are you still embedding around 150 basis points to the topline and then also for your gross margin outlook?
+
+Yes. Thanks for the question, Eleni. Yes, so it was great to see us that we had to confirm the status – exemption status for tariff this quarter. And you might recall that, I did specifically call it out 1.5% or about $6 million coming into this year. And we obviously left the revenue range as it was before in terms of guidance.
+
+And the way we think about it is that the – again, realization of this tariff exemption benefit ties into the timing of Type A revenue shipment that we've been talking about. So for us, because of the dependency on the timing of shipment, didn’t make sense to really change the guidance at this point.
+
+And the thing I would stress about that is it is a good news that the amount that we thought that we're going to lose the tariff. Now we don't. And it’s just a matter of timing. So whether that's $6 million I originally talked about come into this year or next year. It's a purely timing issue. So that's how we think about it.
+
+Okay. That's helpful. Thank you.
+
+[Operator Instructions] And I'm not showing any further questions at this time. I would now like to turn the call back over to Josh Levine, President and CEO of Accuray Incorporated for any further remarks.
+
+I'd like to thank everyone for joining our call this afternoon. We look forward to speaking with you again in April, when we report our fiscal third quarter results. Thanks very much for your participation.
+
+Thank you. Ladies and gentlemen, this concludes today's conference call. Thank you for participating. You may now disconnect.

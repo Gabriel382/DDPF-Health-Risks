@@ -1,0 +1,46 @@
+Skyworks Solutions Is Now Approaching Fair Value 
+ The coronavirus is a risk for Skyworks worth mentioning as the company has operations in China, but remains a non-issue long term, in my opinion.
+
+Fair value based on my DCF model is $121 per share, making the stock close to fair value as of the time of writing.
+
+I continue to think Skyworks will be able to return to growth over the next few years, and possibly as soon as the back half of 2020.
+
+It was not more than 6 months ago that I rated Skyworks Solutions (SWKS) as bullish with more than 60% upside in the share price and a price target of $125.09 per share. That thesis was explained in detail in my article titled 60% Upside In Skyworks Solutions when the stock was trading in the high $70s. Since that article, the company's stock price has achieved my $125 price target and briefly exceeded it before dropping to $117 on January 27, the day I am writing this article, on coronavirus concerns. An unexpected risk I'll mention below.
+
+Skyworks has reported two quarters since my previous article's valuation, thus I have updated my DCF model, which now illustrates a fair value per share of $121.38.
+
+Skyworks manufactures various components used in electronic devices, including smartphones. The company derives a significant portion of their revenue from none other than Apple (AAPL). In fact, Apple accounted for 51% of the company's revenue in fiscal 2019, up from 47% in fiscal 2018, as reported in the fiscal 2019 10-K annual report Filing under the headline CONCENTRATIONS on page 57.
+
+It comes as no surprise then that Skyworks' stock price does well when Apple's stock price does well. The last 6 months or so have seen SWKS keep pace with the significant rally in AAPL.
+
+Skyworks reported a revenue decline in fiscal 2019 of 12.7% but managed to keep EPS relatively steady, reporting just a 2.4% decline in diluted GAAP EPS to $4.89 from $5.01 in 2018. The company increased its modest dividend in 2019 to $1.58, which is still low in both yield and payout ratio, leaving plenty of room for growth. They bought back more shares as well, a trend that has continued for several years.
+
+Q1 2020 didn't reverse the declining revenue trend, as revenue fell nearly 8% again, although it beat analyst expectations by $14M. GAAP EPS beat by $0.09, coming in at $1.50 for the quarter, compared to $1.60 in the quarter 1 year ago.
+
+Skyworks' management guided for revenue in the 2nd quarter of fiscal 2020 to be near flat year over year at $800 to $820 million, with non-GAAP EPS of $1.46 compared to 2019's $1.47 figure. This is a positive sign for Skyworks if they can reverse the declining revenue trend and return to growth. The company has hammered 5G technology hard but has yet to show growth results because of it.
+
+My previous model had used 2019 as a base year, and year 1 was 2020. As we are not far enough into 2020 to move this, I have kept this the same. I updated all numbers using the most recent SEC filings. My assumptions in the model are as follows:
+
+1) Fiscal 2019 is my base year in this model. Year 1 represents 2020 and is a reflection of my estimates.
+
+2) A tax rate of 21%, a long-term growth rate and a risk-free rate of 2.00%, a beta of 1.46, and a market risk premium of 7%.
+
+3) Operating margin of 31.00% in year 1 (fiscal 2020), which is a very slight increase to the actual Q1 2020 operating margin number. My model has operating margin increasing to 35% by year 10. I increased operating margins by 0.50% each year until year 9, where it caps out at 35% in perpetuity.
+
+4) Sales to capital ratio of 1.10 calculated by taking actual fiscal 2019 revenue and dividing by 2020 Q1 capital (book value of equity + book value of debt - cash and marketable securities). I maintained this ratio across all 10 years. I used this ratio to calculate the amount Skyworks will have to reinvest in the business to sustain revenue growth. The amount left over is free cash flow.
+
+5) A weighted average cost of capital of 9.30%. As the company has no debt and no preferred shares, this is equivalent to the cost of equity.
+
+6) Revenue growth was once again tricky on this one, but I left it virtually the same from my previous model. I forecasted 5% growth in year 1 (fiscal 2020) as Skyworks starts to see 5G implemented in some of their smaller customer's devices in the back half of the year. Management seemed bullish on the Q1 2020 conference call for the second half of 2020, thus I think we might squeeze out some revenue growth by the end of the year. Then, I forecasted 25% growth in year 2 (fiscal 2021) as Apple brings on 5G spurring a new wave of iPhone sales. Skyworks should benefit greatly from this. I used 20% revenue growth in year 3 as the 5G momentum continues. From here, I dropped revenue growth by 5% each year as the 5G momentum dies down until year 7. I maintained a 5% revenue growth from year 7 until year 10. In year 10 and in perpetuity, I used a 2% growth. These growth rates are based mostly upon my expectations for iPhone sales more than anything else.
+
+My model came up with a fair value per share of $121.28, down slightly from the $125.09 fair value in my August 2019 article, due mostly to an increase in the cost of capital that came as a result of increasing the beta from 1.41 to 1.46. With shares trading around $117 as of the time of writing, I must conclude that there is limited, if any, the further upside for the shares. Because of this, I am rating the company as neutral, although I don't believe in selling stocks until they are overvalued, which Skyworks appears not to be (not yet at least).
+
+Skyworks Solutions was an undervalued stock 5-6 months ago, but that is no longer the case. The stock has rallied along with Apple, bringing shares up to near fair value. The company still hasn't shown an increase in revenue for 5G, but I haven't lost faith that they can still pull off growth over the coming years.
+
+One final key risk worth mentioning that everyone seems to be talking about is the Chinese coronavirus. Stocks with exposure to China have sold off a little in the last few days. Business will certainly slow in the country because of it, but I continue to think long-term the virus is virtually irrelevant for Skyworks as well as most other businesses. This is just my opinion, though, so take it with a grain of salt. I'm no virus expert.
+
+Finally, I'll reiterate that just because a stock has reached fair value does not make it a sell. Investors can expect lower returns going forward than if they had bought a few months ago, but by no means am I bearish on Skyworks. As I already mentioned, I only tend to sell stocks if they appear clearly overvalued, which for Skyworks, I think would be closer to $150-200 per share.
+
+I'll be writing more articles on Skyworks Solutions in the future, as well as other great (or sometimes not so great) stocks. So, be sure to follow me and turn on email notifications to ensure you never miss another one of my articles! I try to help all my readers find interesting opportunities in the market. Consider checking out some of the other articles I've written as well, which often do a deep dive into a company's fundamentals or take a look at their most recent earnings or news releases.
+
+Disclosure: I/we have no positions in any stocks mentioned, but may initiate a long position in SWKS over the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.

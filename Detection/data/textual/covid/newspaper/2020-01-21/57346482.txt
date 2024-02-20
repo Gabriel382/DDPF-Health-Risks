@@ -1,0 +1,97 @@
+TREASURIES- yields sink on fears about China's new virus 
+ * U.S. 2-year, 10-year, 30-year yields fall to two-week lows
+    * New cases on coronavirus surge to 300
+    * Some strategists downplay virus economic impact
+    * Trump's impeachment trial raises mild concern 
+
+ (Adds new comment, updates prices)
+    By Gertrude Chavez-Dreyfuss
+    NEW YORK, Jan 21 (Reuters) - U.S. Treasury prices surged on
+Tuesday, pushing yields lower as risk appetite dropped, amid
+worries about the potential fallout from a lethal virus that has
+broken out in China.
+    U.S. two-year, 10-year, and 30-year yields fell to two-week
+lows on the news.
+    Wall Street shares struggled as well, as investors tried to
+make sense of this new virus outbreak.
+    Global officials confirmed that the coronavirus strain is
+contagious between humans. The death toll from a mysterious
+flu-like virus in China climbed to six on Tuesday as new cases
+surged beyond 300.
+    "The fear is that it could be a SARS-type event, which was
+an economic issue," said Ellis Phifer, market strategist at
+Raymond James in Tennessee. "But this is all cautionary. The
+market is not panicking or anything."
+    China's Severe Acute Respiratory Syndrome (SARS) outbreak
+from 2002 to 2003 killed nearly 800 people.
+    In afternoon trading, U.S. 10-year yields fell
+to 1.769%, from 1.835% late on Friday. Earlier in the session,
+two-year yields fell to two-week lows of 1.766%.
+    U.S. financial markets were closed on Monday for the Martin
+Luther King Jr holiday.
+    Yields on U.S. 30-year bonds were at 2.229%,
+down from 2.296% on Friday. Thirty-year yields also fell to
+two-week troughs of 2.223%.
+    On the short end of the curve, U.S. two-year yields fell to
+two-week lows of 1.528% from Friday's 1.569%. They
+were last at 1.532%.
+    The yield curve flattened on Tuesday after steepening last
+week, as global rates fell on caution about the Chinese
+coronavirus. The spread between the two-year and 10-year note
+yields narrowed to 23.38 basis points. 
+    Oliver Jones, markets economist at Capital Economics in
+London, suggested that events such as the latest virus scare
+rarely have long-lasting and widespread effects on financial
+markets.
+    He noted that while SARS had clear economic and financial
+impact in Asia when it hit in 2003, the effects were fairly
+contained and did not last long.
+    "With all of that in mind, for the time being we are not
+altering any of our forecasts in response to the spread of the
+new virus," Jones said.
+    Meanwhile, U.S. President Donald Trump's impeachment trial
+in the Senate, which began on Tuesday, has also caused some mild
+jitters.
+    Democrats have called on the Senate to remove the Republican
+president from office, describing him as a danger to American
+democracy and national security. Trump and his lawyers have
+decried his impeachment, saying he has done nothing wrong and
+that Democrats are simply trying to stop him from being
+re-elected.
+    "The impeachment trial is finally here," said Raymond James'
+Phifer. "I don't think the concern is anything more than that.
+Now that it's here, let's be a little cautious again."
+    
+      January 21 Tuesday 3:03 PM New York/2003 GMT
+                                                      
+                                                      
+                                                      
+                               Price        Current   Net
+                                            Yield %   Change
+                                                      (bps)
+ Three-month bills             1.5125       1.5432    -0.018
+ Six-month bills               1.5175       1.5543    -0.011
+ Two-year note                 100-46/256   1.5304    -0.039
+ Three-year note               99-232/256   1.5322    -0.049
+ Five-year note                100-214/256  1.5734    -0.058
+ Seven-year note               100-112/256  1.6829    -0.062
+ 10-year note                  99-212/256   1.7691    -0.066
+ 30-year bond                  103-36/256   2.2301    -0.066
+                                                      
+   DOLLAR SWAP SPREADS                                
+                               Last (bps)   Net       
+                                            Change    
+                                            (bps)     
+ U.S. 2-year dollar swap         7.50        -0.25    
+ spread                                               
+ U.S. 3-year dollar swap         4.25         0.00    
+ spread                                               
+ U.S. 5-year dollar swap         1.50         0.25    
+ spread                                               
+ U.S. 10-year dollar swap       -4.00         0.50    
+ spread                                               
+ U.S. 30-year dollar swap      -30.75         1.00    
+ spread                                               
+ 
+ (Reporting by Gertrude Chavez-Dreyfuss
+Editing by Nick Zieminski and Lisa Shumaker)

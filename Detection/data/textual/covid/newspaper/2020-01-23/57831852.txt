@@ -1,0 +1,44 @@
+New coronavirus from China: Everything you need to know 
+ A newly identified coronavirus has been spreading in China, and has now reached several other countries. As the number of confirmed cases and deaths continue to rise, health officials are working on all fronts to learn more about the virus and put measure into place to curtail its spread. Here's a look at what you need to know about the virus, now called 2019-nCoV.
+
+Coronaviruses are a large family of viruses that can cause respiratory illnesses such as the common cold, according to the Centers for Disease Control and Prevention (CDC). Most people get infected with coronaviruses at one point in their lives, but symptoms are typically mild to moderate. In some cases, the viruses can cause lower-respiratory tract illnesses such as pneumonia and bronchitis.
+
+These viruses are common amongst animals worldwide, but only a handful of them are known to affect humans. Rarely, coronaviruses can evolve and spread from animals to humans. This is what happened with the coronaviruses known as the Middle East respiratory syndrome coronavirus (MERS-CoV) and the severe acute respiratory syndrome coronavirus (SARS-Cov), both of which are known to cause more severe symptoms.
+
+As of Jan. 23, there are more than 500 confirmed cases and 17 deaths linked to the 2019-nCoV virus in China, according to the BBC. The World Health Organization (WHO) said on Jan. 20 that 51 of the patients are "severely ill," and 12 are in "critical condition."
+
+The first cases of the pneumonia-like virus were reported in Wuhan, China on Dec. 31, 2019. Since then, the virus has spread to various other countries, including Thailand, Japan, the Republic of Korea and the United States (a man in Washington state was confirmed to have the virus after returning to the U.S. from Wuhan on Jan. 15, becoming the first case in the U.S., officials announced on Jan. 21).
+
+Since the virus first popped up in Wuhan in people who had visited a local seafood and animal market, officials could only say it likely hopped from an animal to humans. In a new study, however, researchers sequenced the genes of 2019-nCoV (as the virus is now called), and then they compared it with the genetic sequences of more than 200 coronaviruses that infect various animals around the world. Their results, detailed in the , showed that .
+
+As for what kind of snake, the scientists noted there are two snakes that are common to southeastern China where the outbreak originated: the many-banded krait (Bungarus multicinctus) and the Chinese cobra (Naja atra).
+
+Some viruses are known to become capable of transmitting to humans, and this coronavirus is one of those. But how? The study published in the Journal of Medical Virology, revealing the likely snake host, also found that a change to one of the viral proteins in 2019-nCoV allows the virus to recognize and bind to receptors on certain host cells. This ability is a critical step to entering cells, and the researchers said that the change in this particular protein may have helped the virus hop from snakes to humans.
+
+Yes, in limited cases, according to the CDC, but the primary mode of transmission seems to be from animal to human. In terms of how one would catch the virus, the CDC says that human coronaviruses are most commonly spread between an infected person and others via:
+
+—the air (from viral particles from a cough or sneeze);
+
+—an object or surface with viral particles on it (then touching your mouth, nose or eyes before washing your hands);
+
+In order for this virus, or any, to lead to a pandemic in humans, it needs to do three things: efficiently infect humans, replicate in humans and then spread easily among humans, . Right now, the CDC is saying this virus passes between humans in a limited manner, but they are still investigating.
+
+MERS and SARS have both been known to cause severe symptoms in people. It's unclear how the new coronavirus will compare in severity, as it has caused severe symptoms and death in some patients while causing only mild illness in others, according to the CDC. All three of the coronaviruses can be transmitted between humans through close contact.
+
+MERS, which was transmitted from touching infected camels or consuming their meat or milk, was first reported in 2012 in Saudi Arabia and has mostly been contained in the Arabian Peninsula, according to NPR. SARS was first reported in 2002 in southern China (no new cases have been reported since 2004) and is thought to have spread from bats that infected civets. The new coronavirus was transmitted from touching or eating an infected animal in Wuhan.
+
+Symptoms of the new coronavirus include fever, cough and difficulty breathing.
+
+There are no specific treatments for coronavirus infections and most people will recover on their own, according to the CDC . So treatment involves rest and medication to relieve symptoms. A humidifier or hot shower can help to relieve a sore throat and cough. If you are mildly sick, you should drink a lot of fluids and rest but if you are worried about your symptoms, you should see a healthcare provider, they wrote. (This is advice for all coronaviruses, not specifically aimed toward the new virus).
+
+There is no vaccine for the new coronavirus but researchers at the U.S. National Institutes of Health confirmed they were in preliminary stages of developing one. In addition, the drug company Regeneron announced that it is in the early stages of developing a treatment for this virus, according to NBC News.
+
+Chinese authorities have begun to quarantine the city of Wuhan, cutting off public transportation to and from the city including the metro system, airport, train and bus stations. Officials have also begun to cut off access to highways leading into the city.
+
+Major airports in the U.S. have begun screenings to make sure incoming passengers aren't infected. In addition, the CDC now recommends avoiding nonessential travel to Wuhan.
+
+Looking at what happened with MERS and SARS, it's likely that some spread of the virus from close contact between humans will continue to occur, according to CDC. More cases — possibly including some in the U.S. — will likely be identified in the coming days.
+
+If traveling to Wuhan, you should avoid contact with sick people, avoid dead or alive animals, animal markets or products that come from animals such as uncooked meat, according to the CDC. You should often wash hands with soap and water for at least 20 seconds, they wrote. If you are infected by the virus you can take steps to help avoid transmitting it to others such as isolating yourself at home, separating yourself from other people in the house, wearing a face mask, covering your coughs and sneezes and washing your hands, according to the CDC.
+
+People who traveled to Wuhan and became sick with fever, cough or difficulty breathing within the following two weeks should seek medical care right away, and call ahead to inform medical staff about their recent travel.

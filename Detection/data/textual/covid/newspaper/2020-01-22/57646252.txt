@@ -1,0 +1,32 @@
+Track the spread of novel coronavirus with this map 
+ A map created by U.S. researchers is tracking in real-time a virus in China that has sickened hundreds of people and resulted in at least 17 deaths. Novel coronavirus, which is linked to an outbreak of pneumonia, has global public health officials concerned about its potential to spread around the world.
+
+By Wednesday afternoon Eastern time, official Chinese reports said 444 people have been hospitalized and at least 17 had died from novel coronavirus. But the map launched Wednesday by researchers at Johns Hopkins University’s Center for Systems Science and Engineering suggests those numbers may be growing faster than national sources have shown.
+
+“We think it is important for the public to have an understanding of the situation as it unfolds, with transparent data sources,” said Lauren Gardner, an associate professor in civil and systems engineering at Johns Hopkins University, who led the team that produced the map.
+
+While their map echoes the official global death toll, it also plots out a higher infection rate, showing the virus has made 555 people sick.
+
+The outbreak is centered in Wuhan — a city of 11 million residents — where the virus was traced back to a live-animal market. Outside of China, cases have been reported in the U.S., Taiwan, Thailand, South Korea and Japan, the Centers for Disease Control and Prevention reported this week.
+
+Novel coronavirus (or 2019-nCoV) belongs to a family of viruses linked to gastrointestinal and respiratory infections in pigs, dogs, bats, cats, poultry and other animals. When spread to humans, it triggers respiratory symptoms.
+
+The virus spreads through water droplets that spew into the air when an infected person sneezes or coughs. Those droplets spread the virus when they are inhaled through a person’s nose or mouth or wiped into their eyes, according to Daniel Kuritzkes, chief of the Division of Infectious Diseases at Brigham and Women’s Hospital in Boston.
+
+Gardner said the map is a “very simple” collection of reported cases gathered from aggregated local-level sources and requires no modeling.
+
+To make the map, Gardner and her team scraped and compiled local Chinese media reports, including CCTV and People’s News. Those reports were then translated into English and their locations was mapped. As new reports come in, the map is updated, Gardner said.
+
+But because there is much the public health community still does not know about novel coronavirus, “it’s hard to keep it up to date,” she said. People may not know they are infected until they show symptoms. Another important thing to keep in mind is that novel coronavirus in many ways resembles influenza, so people may not realize they have it.
+
+“There’s not a lot of other global cases reported yet,” Gardner said. “They’ll happen because people travel.”
+
+The timing of the outbreak is opportunistic for the virus, and perilous for people. This week, millions of people are embarking on international travel, particularly in and out of East Asia, for Lunar New Year celebrations — the world’s largest annual human migration.
+
+In China, authorities have taken extreme measures to prevent further spread of the virus. They suspended train and airplane travel from Wuhan along with local bus, subway, ferry and long-distance bus travel, state-owned China Daily reported. These measures effectively quarantined the city.
+
+“Public transport and other mass gatherings should be avoided,” World Health Organization Director-General Tedros Adhanom said when asked by reporters if the measures were warranted.
+
+In the U.S., one person in Washington State has been infected with the virus after traveling to Wuhan. The CDC elevated its travel warning to U.S. residents, and Great Britain issued an advisory against all but essential travel to Wuhan.
+
+As the outbreak grows beyond China, Gardner said her team will rely on WHO and CDC data to keep their map up to date.

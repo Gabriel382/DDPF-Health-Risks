@@ -1,0 +1,86 @@
+Coronavirus death roll spikes, cases climb to over 800: Everything we know 
+ A never-before-seen virus detected in the Chinese city of Wuhan has claimed at least 25 lives and infected hundreds of Chinese citizens with a pneumonia-like illness, according to China's National Health Commission. The virus was first reported to the World Health Organization on Dec. 31 and has been under investigation since. Chinese scientists have linked the disease to a family of viruses known as coronaviruses, which include the deadly SARS and Middle East respiratory syndrome.
+
+Scientists have yet to fully understand the destructive potential of the new virus, known as 2019-nCoV. Researchers and investigators are just beginning to figure out where it originated, how it's transmitted and how far it has spread.
+
+As of Thursday, case numbers had skyrocketed to more than 800 in China and abroad. Chinese authorities also confirmed that health workers have been infected with the virus, suggesting that human-to-human transmission is possible. Authorities are taking steps to guard against its spread. On Thursday, the World Health Organization reconvened an emergency committee to explore whether the virus constitutes a public health emergency. The body decided it's still too early to declare an emergency on a global level.
+
+The situation is rapidly evolving. We've collated everything we know about the mystery virus, what's next for researchers and some of the steps you can take to reduce your risk.
+
+Coronaviruses belong to a family known as Coronaviridae, and under an electron microscope they look like spiked rings. They're named for these spikes, which form a halo around their viral envelope.
+
+Coronaviruses contain a strand of RNA in their envelope and can't reproduce without getting inside living cells and hijacking their machinery. The spikes on the viral envelope help them bind to cells, which gives them a way in. It's like blasting the door open with C4. Once inside, they turn the cell into a virus factory, using its molecular conveyor belt to produce more viruses, which are then shipped out. The virus progeny infect other cells and the cycle starts anew.
+
+Typically, these types of viruses are found in animals ranging from livestock to household pets to wildlife such as bats. When they make the jump to humans, they can cause fever, respiratory illness and inflammation in the lungs. In immunocompromised individuals, such as the elderly or those with HIV-AIDS, such viruses can cause severe respiratory illness.
+
+Extremely pathogenic coronaviruses were behind SARS (severe acute respiratory syndrome) and MERS and were easily transmitted from human to human. SARS, which showed up in the early 2000s, infected more than 8,000 people and resulted in nearly 800 deaths. MERS, which appeared in the early 2010s, infected almost 2,500 people and led to more than 850 deaths.
+
+The virus appears to have originated in the Huanan Seafood Wholesale Market in Wuhan, a Chinese city about 650 miles south of Beijing that has a population of more than 11 million people. The market sells fish, as well as a panoply of other animal meats. However, it's still unknown whether the virus emerged from an animal species, like SARS and MERS did. The Wuhan market was shut down Jan. 1.
+
+Markets have been implicated in the origin and spread of viral diseases in past epidemics, and a large majority of the people so far confirmed to have come down with this coronavirus had been to the Huanan Seafood marketplace in recent weeks. The market seems like an integral piece of the puzzle, but researchers will need to conduct a range of experiments and tests to confirm the virus' origin.
+
+"Testing of animals in the Wuhan area, including sampling from the markets, will provide more information," said Raina MacIntyre, a head of the biosecurity research program at the University of New South Wales' Kirby Institute.
+
+On Wednesday, a report in the Journal of Medical Virology by a team of Chinese researchers suggested snakes were the most probable wildlife animal reservoir for 2019-nCoV. The work examined the genetic code of the virus and compared it with that of two types of snakes, the many-banded krait and the Chinese cobra. The research demonstrated that the snakes' genetic code displayed the most similarities with the virus. Other animals known to be sold at the Huanan market (bats, birds, hedgehogs and marmots) were also analyzed but didn't show the same level of genetic likeness.
+
+Another study refuted these claims, suggesting 2019-nCoV was harbored by bats.
+
+"We haven't seen evidence ample enough to suggest a snake reservoir for Wuhan coronavirus (2019-nCoV)," said Peter Daszak, president of nonprofit EcoHealth Alliance, which researches the links between human and animal health.
+
+"This work is really interesting, but when we compare the genetic sequence of this new virus with all other known coronaviruses, all of its closest relatives have origins in mammals, specifically bats. Therefore, without further details on testing of animals in the markets, it looks like we are no closer to knowing this virus' natural reservoir."
+
+Authorities have confirmed more than 800 cases as of Thursday. The bulk are in China, with a handful of cases confirmed in Thailand, Japan, South Korea and the US, where a man in his 30s in Washington state has been confirmed to have the disease. There are four suspected cases in New South Wales, Australia, currently being investigated. In the UK, 14 people have been tested with five cases dismissed and nine awaiting results.
+
+Here's the breakdown as it stands:
+
+National authorities in China continue to monitor more than 1,300 residents who visited the Wuhan market or have had prolonged contact with those presenting symptoms of the disease.
+
+Officials in Hubei province, where Wuhan is located, said Wednesday that the virus is responsible for 18 deaths. The first death was a 61-year-old man who'd frequented the Wuhan market and had chronic liver disease and abdominal tumors. The second was a 69-year-old man who went to a hospital with severe damage to multiple organs.
+
+A study, published by the Imperial College London on Jan. 17, estimates the total number of 2019-nCoV cases could be much higher than reported, reaching over 1,700 cases. The work, led by Neil Ferguson, calculated how far the virus is likely to spread based on its incubation period and the amount of travel in and out of Wuhan since it was first detected.
+
+Chinese scientists were able to isolate and unravel the genetic code of the virus from patients, ruling out other potential causes such as influenza and confirming that the virus is completely new. However, the genetic code shows that this virus has around 70% similarity to the SARS coronavirus.
+
+Understanding the genetic code also helps researchers in two ways: It allows them to create tests that can identify the virus from patient samples, and it gives them potential insight into creating treatments or vaccines.
+
+This is one of the major questions researchers are working hard to answer. Though the first infections were potentially the result of animal-to-human transmission, it's likely that human-to-human transmission has followed.
+
+On Monday, the University of Minnesota's Center for Infectious Disease Research and Policy reported that health workers in China had been infected with the virus. During the SARS epidemic this was a notable turning point, as health workers moving between countries spread the disease.
+
+Chinese authorities have since confirmed that health workers have been infected with the virus, suggesting human-to-human transmission.
+
+"The major concern is hospital outbreaks, which were seen with SARS and MERS coronaviruses," MacIntyre said. "Meticulous triage and infection control is needed to prevent these outbreaks and protect health workers."
+
+China has shut down Wuhan to reduce the spread of the virus, canceling transportation leaving the city starting at 10 a.m. Thursday. The travel restrictions, which are being extended to four other cities (Huanggang, Ezhou, Chibi and Zhijiang), will be in effect until an as-yet-unspecified date. The restrictions come during a busy travel period for China, when citizens typically travel for the Lunar New Year.
+
+Tedros Adhanom Ghebreyesus, the director-general of the World Health Organization, convened an emergency committee on Wednesday to determine whether this new virus constitutes a public health emergency.
+
+"There was an excellent discussion during the committee today, but it was also clear that to proceed, we need more information," Ghebreyesus said during a press conference Wednesday. A full replay of the press conference is below.
+
+The emergency committee reconvened Thursday to continue to discuss the outbreak. On Thursday, the committee decided that it was still too early to declare a public health emergency.
+
+"If WHO declares a public health emergency of international concern, it enables WHO greater powers for disease control using the International Health Regulations," MacIntyre said.
+
+In the fall, an emergency committee met regarding the ebola virus epidemic in the Democratic Republic of the Congo. The meeting outlined key strategies and commitments to strengthen and protect against the spread of the disease.
+
+The new coronavirus causes symptoms similar to those of previously identified disease-causing coronaviruses. In currently identified patients, there seems to be a spectrum of illness: A large number experience mild pneumonia-like symptoms, while others have a much more severe response.
+
+As the disease progresses, patients may also come down with pneumonia, which inflames the lungs and causes them to fill with fluid. This can be detected by an X-ray, according to the WHO.
+
+Coronaviruses are notoriously hardy organisms. They're effective at hiding from the human immune system, and we haven't developed any reliable treatments or vaccines that can eradicate them. In most cases, health officials attempt to deal with the symptoms.
+
+"There is no recognized therapeutic against coronaviruses," Mike Ryan, executive director of the WHO Health Emergencies Programme, said during the Emergency Committee press conference Wednesday. "The primary objective in an outbreak related to a coronavirus is to give adequate support of care to patients, particularly in terms of respiratory support and multi-organ support."
+
+That doesn't mean vaccines are an impossibility, however. Chinese scientists were able to sequence the virus' genetic code incredibly quickly, giving scientists a chance to study it and look for ways to combat the disease. According to CNN, researchers at the US National Institutes of Health are already working on a vaccine, though it could be a year or more away from release.
+
+Notably, SARS, which infected around 8,000 people and killed around 800, seemed to run its course and then mostly disappear. It wasn't a vaccine that turned the tide on the disease but rather effective communication between nations and a range of tools that helped track the disease and its spread.
+
+"We learnt that epidemics can be controlled without drugs or vaccines, using enhanced surveillance, case isolation, contact tracking, PPE and infection control measures," MacIntyre said.
+
+With confirmed cases now seen in the US, Thailand, Japan, South Korea and potentially Australia, it's possible that 2019-nCoV could be spreading much further afield. The WHO recommends a range of measures to protect yourself from contracting the disease, based on good hand hygiene and good respiratory hygiene -- in much the same way you'd reduce the risk of contracting the flu.
+
+Meanwhile, the US State Department has issued a travel advisory, urging people to "exercise increased caution in China." A warning from the US Centers for Disease Control and Prevention advises people to "avoid nonessential travel."
+
+A Twitter thread, developed by the WHO, is below.
+
+This story was originally published Jan. 19 and is updated as new information becomes available.

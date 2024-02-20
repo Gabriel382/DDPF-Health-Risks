@@ -1,0 +1,70 @@
+Building An Energy Based High Yield Retirement Portfolio - Starting With Coronavirus Fears 
+ The average American only has $172 thousand saved for retirement with close to $40 thousand in annual expenses - that's not enough and they need to generate yield.
+
+Our discussion on the coronavirus shows that it could potentially spread going forward - however, even then it shouldn't impact natural gas volumes.
+
+The coronavirus is another item in a long list of things that have placed negative pressure on oil prices.
+
+The beauty of the energy markets are their highly cyclical nature provides significant investment opportunities to invest in quality companies during the down cycle. These down cycles can come for any variety of reasons, from the attacks on Saudi Arabia’s oil infrastructure all the way to the recent coronavirus. Utilizing these opportunities to invest in quality high-yield companies and other stocks can allow retirement investors to build a high-yield income generating retirement portfolio.
+
+I want to preface this section by stating that I am not an infectious disease expert and this entire section is based on the research of others. However, I felt it was important to dedicate this section at the start of this portfolio introduction article, because it provides a strong basis for the risk that can pop-up at anytime in the energy markets along with the potential effects of these risks.
+
+Coronavirus’ are a well known group of viruses. They primarily affect animals, however, some of them do affect humans. Their prevalence and dangerous nature varies significantly from Human Coronavirus NL63, a virus that a study in the Netherlands showed was responsible for 4.7% of common respiratory illnesses to Middle Eastern Respiratory Syndrome, or MERS, a virus that crossed into humans from animals and has a 34.4% case-fatality rate.
+
+These viruses are common in animals, but occasionally they do make the cross from animals to humans. Such is the case for the current coronavirus (hereafter called the Wuhan Coronavirus or 2019-nCoV). The cross from animals to humans for these viruses often occurs where interaction between the animals and humans that normally wouldn’t occur in the wild does occur. For SARS (another coronavirus) it was between civet cats and humans in China.
+
+This Wuhan Coronavirus is thought to have come from snakes in a live food market in Wuhan.
+
+The point of this section isn’t to teach you about biology or infectious disease, but to explain the threat to the oil and energy markets. This novel disease (Wuhan Coronavirus) - never seen before in humans until a few months ago - is contagious. More importantly, the Wuhan Coronavirus has 3 main aspects that make it potentially a much bigger risk than SARS or MERS or any other recent infectious disease.
+
+The Wuhan Coronavirus is mild (as far as novel corona viruses go) with a 2.9% case-fatality rate, or less than 10% the case-fatality rate of MERS. Ordinarily, you would consider that a good thing. However, in medicine that’s bad. A virus that rapidly kills its victims, like Ebola, has had a tough time spreading because there’s less people carrying it around. In contrast, one that leaves victims alive for decades, like HIV spreads much quicker.
+
+This leads into the second issue - arguably the most significant. China has stated the Wuhan Coronavirus is contagious in asymptomatic people and that it can take up to 2 weeks for symptoms to appear. The CDC states it hasn’t seen evidence of this, but should it be true, that means all those people allowed to travel because they had no registered fever might actually be spreading the virus.
+
+The last is another risk that hasn’t existed in previous epidemics to the same scale. The world is - everyday - more and more connected. China has shut down Wuhan, a city 5 times the size of London, that’s connected across the country to the more than 1 billion people that reside too. Five million people left Wuhan before the lock down, which combined with potentially contagious in asymptomatic people, could grow the Wuhan Coronavirus.
+
+Researchers have predicted that more than 300 thousand people will get the virus in the next 10 days and the effects on travel are clear. SARS caused a 2.4% decline in international passenger travel and a 9% in Asia Pacific travel. This Wuhan Coronavirus has come with much larger quarantines and could affect hundreds of times as many people. That could have a strong negative impact on the energy markets.
+
+However, these virus fears are tentative. Scientists have already started work on the Wuhan Coronavirus vaccine. The U.S., in spite of all the fear mongering, still sees the potential risk to the American public as low. That means now is a great time to invest in quality energy companies that have dropped and build a high-yielding retirement portfolio.
+
+The basis of the portfolio, as we have discussed, is to build a high yield energy based retirement portfolio. Our goal from this portfolio will be to achieve an average yield of approximately. Synchrony Bank estimates that the median American in their 60s has $172 thousand in retirement savings, versus $112 thousand for the median American in their 50s.
+
+However, investing the way the average investor invests isn’t enough. For those earning $50-80 thousand at retirement, in the range of the average American household, Fidelity says to use an estimated income replacement ratio of 75%. Using the bottom of this range, that’s still $37.5 thousand / year needed in retirement. The $172 thousand in savings won’t last you more than 5-6 years investing in bonds or CDs.
+
+As a result, our goal here is to show investors what they can do by carefully investing in a basket of high-yield energy stocks to manage risk and generating strong income. Using our model portfolio, someone would be able to cover all of their retirement expenses with less than $400 thousand, well below the 10x of your income number that Fidelity recommends ($500k - $800k).
+
+Additionally, using our portfolio, this investor will have that $400k still left when they pass away - it won’t slowly dwindle down to 0.
+
+Our basis for this portfolio will be that an investor has $100 thousand to invest in energy stocks. Taking advantage of the recent drop in energy stocks, we will be able to use this drop to build a quality portfolio.
+
+Let’s start by discussing the initial positions in this portfolio. We’ll discuss the logic behind these positions and the potential risk after this.
+
+Now let’s discuss the logic behind investing in this portfolio and the decisions that we made. We have chosen to invest across a number of different MLPs along with an investment in ExxonMobil to help highlight how an option strategy can help income. Our total investment amount is $72684 resulting in $7059 in annual income at a 9.71% yield. That’s close to our stated double-digit annual income.
+
+The reason we have chosen to not invest the remainder of the portfolio yet is because of the coronavirus and other fears we have chosen to wait for a potential continued decline or other buying opportunities. The majority of the remaining portfolio is invested in MLPs, which have seen their share prices drop, making them the highest-yielding category of energy companies (NYSEARCA: AMLP) yields 9.1% vs. 3.8% for the Vanguard Energy ETF (NYSEARCA: VDE).
+
+We have split the portfolio across 10 MLPs, putting approximately $5000 into each, to generate significant dividend income. MLPs stand to benefit from rising domestic supply and exports in North America. Roughly $521 billion in new energy infrastructure is needed in the United States by 2035 or almost $30 billion per year in energy infrastructure opportunities.
+
+Continued investment opportunities will continue to support the cash flow and therefore the dividend payout of these companies. Investors have pushed down share prices over concerns about the need to issue equity or borrow money to cover growth. That means if the company’s capital markets dry up they might be forced to cut their dividend for growth as Kinder Morgan (NYSE: KMI) was.
+
+However, some, like Energy Transfer are moving away from the model of issuing equity or debt, decreasing capital projects to the range where they can be fully funded by cash flow after dividends. That will help protect these company’s dividends.
+
+Additionally, we have chosen to use options to take advantage of ExxonMobil’s drop in share price despite its status as the largest American oil company. Current yields have gone above 5.3%, so we started by buying 200 shares. We then sold 2 covered CALLs at $67.5 expiring in mid-July. If the share price increases so that the shares are called away, we get $1.74 in dividends + $2.62 in share price appreciation + $1.84 for a total annualized yield of 19.11%.
+
+If they aren’t called away we get to keep our dividends for a total annualized yield of $1.74 + 1.84 (x2 for the whole year) or 11%.
+
+Lastly, we have sold 2 cash secured PUTs at $60 per share. If they don’t execute, we simply get to keep our cash while earning almost 7% annually on it - a nice way to park cash. And if they do execute, we get ExxonMobil stock, a quality stock from a quality company, at an almost 6% dividend yield. That’s a win-win situation.
+
+In terms of building a new high yielding retirement portfolio for investors, there are some risks worth paying attention too - particularly for this smaller portfolio that focuses on energy investments.
+
+The primary risk to this portfolio is any change in the natural gas volume growth story to a decline. U.S. natural gas production and exports are expected to increase significantly, as discussed above, and these MLPs primarily operate fee-based contracts that guarantee cash flow regardless of market prices. Their price to move the natural gas remains fixed, which means continued cash flow for the dividend.
+
+However, that has the chance to decline in the event that volumes change in the growth story. As a result, I recommend paying attention to continued natural gas demand and volumes. Since a respectable part of this portfolio is in ExxonMobil and its options, this portfolio could also be negatively impacted by oil price declines from travel drops like those caused by the Wuhan Coronavirus.
+
+However, as I discuss in my recent article on ExxonMobil, the company has significant growth potential even in a lower price environment.
+
+Building an energy based high yield retirement portfolio is something that’s very possible to do - and it’s a great way to take advantage of the cyclical nature of the markets. MLPs, for example, have seen their share prices driven down by the Wuhan Coronavirus despite their businesses being built on fee-based natural gas volume contracts with minimal pricing exposure.
+
+This portfolio has invested roughly $73 thousand so far to generate more than $7000 in annual income, a significant amount for any retiree. Going forward, we’ll continue to use the cyclical nature of the markets to invest and generate additional income. Let me know what you think in the comments below.
+
+Disclosure: I am/we are long AMLP, CNXM, DCP, ENBL, EQM, ET, GEL, HEP, KMI, MPLX, NGL, VDE, WES, XOM. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.

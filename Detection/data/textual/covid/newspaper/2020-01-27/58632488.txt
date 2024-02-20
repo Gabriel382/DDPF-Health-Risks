@@ -1,0 +1,14 @@
+Blockchain, not Bitcoin: China’s BTC Volume on LocalBitcoins Hits 2-Year Low 
+ China’s Bitcoin (BTC) trading volumes have continued to drop, hitting a two-year low on peer-to-peer exchange LocalBitcoins.
+According to Bitcoin statistics website Coin Dance, China’s BTC trading volumes have been gradually dropping from late 2019 to the present, touching to their lowest weekly volume in more than two years.
+During the week ending on Jan. 25, China traded just about 4.5 million yuan ($648,000) on LocalBitcoins, down over 90% from the intra-year weekly high of more than 45 million yuan ($6.4 million).
+The all-time high of China’s weekly Bitcoin trading on LocalBitcoins was hit in January 2018, and accounts for 168.6 million yuan ($24.3 million).
+
+Weekly LocalBitcoins volume for Chinese yuan. Source: Coin Dance
+China’s blockchain-not-Bitcoin approach
+China’s new Bitcoin trading volume low comes just three months after President Xi Jinping urged the country to accelerate the speed of blockchain adoption in late October 2019. According to data from Coin Dance, China’s BTC trading volumes have been dropping even more after the President’s public pro-blockchain statement, which purportedly reinforces China’s blockchain-not-Bitcoin approach.
+As reported, Chinese state-run media clarified that Beijing’s positive stance on blockchain technology should not be confused with support for cryptocurrencies such as Bitcoin. However, Chinese authorities reportedly confirmed in early November that Bitcoin mining will not be an unwanted industry in the country.
+Meanwhile, China’s central bank, the People’s Bank of China, has been progressing with its central bank digital currency and has recently completed its first tests, as reported in mid-January.
+Baidu searches for Bitcoin also drop amidst China’s New Year troubled by coronavirus
+Correlating with the dropping Bitcoin indicators on LocalBitcoins, Bitcoin search volumes on China’s search engine and web services platform Baidu have reportedly slipped as well. According to blockchain education platform Longhash, Baidu search index of Bitcoin has recently seen a sharp drop, hitting a new monthly low of 12,913 searches.
+The overall decline of Bitcoin-related indicators in China comes amidst the country’s most important holiday, the Chinese New Year, which started on Jan. 25 this year. The beginning of 2020 according to the traditional Chinese calendar was troubled by the uncertainty brought on by a new coronavirus outbreak in China, which is suggested to be one of factors behind a recent Bitcoin sell-off.

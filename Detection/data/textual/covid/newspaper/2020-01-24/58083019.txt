@@ -1,0 +1,22 @@
+Novel coronavirus 2019-nCoV 
+ From what ECDC (European Centre for Disease Prevention and Control), national and international agencies currently know, the outbreak is caused by a novel coronavirus. There are still many unknowns regarding to the virulence and pathogenicity of the virus, the severity of affected patients, its transmission patterns, reservoir and source of infection. Epidemiological analyses available to date are also limited which leads to many uncertainties on the characteristics and the dynamic of the outbreak.
+
+Authorities in China confirmed human-to-human transmission of this virus on 20 January 2020, including to a number of healthcare workers. The infection was confirmed, with 14 medical staff who provided medical care to patients with new coronavirus. Further evidence of human-to-human transmission, is based on the fact that none of the cases detected outside of China have apparent direct exposure to the Wuhan Huanan seafood market.
+
+Coronaviruses were identified in the mid-60s and are known to infect humans and a variety of animals (including birds and mammals). This family of viruses are known to cause illness in humans ranging from the common cold to more severe or even fatal diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS).
+
+There is currently limited information about the epidemiological and clinical characteristics of the infection caused by 2019-nCoV. Although the data available to ECDC is currently very scarce (see e.g. open source platform nextstrain.org which visualises phylogenetic analysis and relation between the nCoV and SARS and other beta-coronaviruses). This novel coronavirus seems genetically closely related to the 2003 SARS virus and appears to have similar epidemiological characteristics.
+
+Even if severe and fatal infections have been observed, human infections with common coronaviruses are mostly mild and asymptomatic, resembling those of a common cold (cough, fever, runny nose, etc.). These viruses are able to cause lower respiratory tract infections and pneumonia in humans.
+
+There are currently no vaccines against coronaviruses.
+
+ There is not specific treatment for this disease so the clinical approach is symptomatic-based on the patient’s clinical condition. Moreover, supportive care (e.g. supportive therapy and monitoring – oxygen therapy, fluid management, empiric antimicrobials) for infected persons can be highly effective.
+
+Currently seven countries have reported cases and further global spread is likely.
+
+ Without implementation of appropriate infection prevention and control (IPC) measures at the point of care of persons under investigation, there is a moderate likelihood of outbreaks in destination countries. In the past, systematic implementation of infection prevention and control measures were effective in controlling both SARS-CoV and MERS-CoV.
+
+The likelihood of importation of cases of 2019-nCoV to the EU/EEA by travellers from Wuhan is considered to be moderate and could be influenced by implementation of exit screening by the local authorities in Wuhan.
+
+In light of the current knowledge and the number of unknown factors, ECDC considers that there is currently a moderate likelihood of infection for EU/EEA travellers visiting Wuhan, and also a moderate likelihood of detecting imported cases in Europe, particularly in light of the Chinese New Year festivities which might lead to increased travel.

@@ -1,0 +1,103 @@
+Amazon wants Alexa to feel normal, Google wants its assistant to feel nostalgic 
+ Happy Friday — the Super Bowl is this weekend and some of the ads have begun to be released. The two that have struck me the most are from Google and Amazon, each taking a different tack to sell you on their respective intelligent assistants. 
+
+They are very different. Amazon got Ellen DeGeneres and Portia de Rossi leading off the joke about what life was like before Alexa, then people asking other people throughout history things they’d normally ask Alexa. I was with it until there was a joke about refusing to erase the Nixon tapes which maybe was a little too on the nose given this past year’s voice-recording scandals.
+
+In any case, the motive is clear: make Alexa seem like an integral part of our lives now, like electricity or running water. But do that in a way that makes it seem lighthearted and fun, not oppressive. The ad mostly works on both of those levels. If you’re Amazon and you want to try to affect people’s feelings about Alexa, I don’t know that you could possibly do better than associating a little of Ellen with Alexa. 
+
+Just, you know, it’s still okay to ask real people questions.
+
+
+Google, meanwhile, went directly for the emotional jugular in a spot so blatantly designed to tug at your heartstrings it was immediately uncomfortable to the point where it felt manipulative. It felt that way all the more so because it was based on a real relative of a Google employee. 
+
+In the spot, an 85-year-old widower asks Google to bring up various memories he has of his late wife, then says “remember when” about those moments. Guess what? That’s a little-known Google Assistant feature, asking it to remember things. It is very earnest if you think about how a computer could help, but also very dystopian if you think about sharing your fond remembrances with an uncaring algorithm instead of other actual humans.
+
+
+This is very nearly a trend now, by the way. Apple also recently created an ad that played on our emotions and sympathies for a widower who was brought to a tearful moment through the medium of technology (an iPad keynote presentation). Apple, at least, had the presence of mind to include actual human relatives in its ad to share that moment, instead of it being simply shared with a smart display.
+
+Tying a product to deep emotions is an ad tale as old as time, I suppose. And I would argue that we are going to need to find better ways to talk about how we invest genuine sentiment, nostalgia, and loving affection into our digital lives. Nobody would bat an eye at a commercial with a Kodak print in the ‘80s pulling exactly these same tricks, but somehow when you integrate software it still feels different — even though both are technological products. It probably won’t feel different for very long.
+
+Speaking of Kodak, Google’s ad reminds me of nothing so much as the famous Mad Men Don Draper Carousel pitch. Only now, instead of a slide projector, it’s a smart display. I’ll quote it in full below — tell me this couldn’t be the pitch for Google’s ad if you changed just a few words.
+
+
+Well, technology is a glittering lure. But, uh, there is the rare occasion when the public can be engaged on a level beyond flash, if they have a sentimental bond with the product. My first job, I was in-house at a fur company, with this old-pro copywriter, a Greek named Teddy. Teddy told me the most important idea in advertising is new. Creates an itch. You simply put your product in there as a kind of calamine lotion. But he also talked about a deeper bond with the product. Nostalgia. It’s delicate, but potent. Sweetheart. Teddy told me that in Greek, “nostalgia” literally means “the pain from an old wound”. It’s a twinge in your heart far more powerful than memory alone. This device isn’t a spaceship, it’s a time machine. It goes backwards, forwards, takes us to a place where we ache to go again. It’s not called the wheel. It’s called the carousel. It lets us travel the way a child travels. Round and around, and back home again, to a place where we know we are loved.
+
+Does it feel really crass and manipulative for a company to say that a technological product driven by machine-learning algorithms will help us remember our lost loved ones? That we will have some sort of emotional connection to an ephemeral piece of software instead of a physical token? Yes.
+
+Is all of that inevitable? Is it in fact already happening every day? Also yes. We should probably figure out what that means.
+
+
+
+Streaming and the Superbowl
+
+└ ATT tried to buy out the streaming wars — and customers are paying for it
+
+Good news: you no longer have to sign up for a two-year contract that subsidizes the cost of your very expensive smartphone.
+
+Bad news: you are subsidizing ATT’s harebrained scheme to turn into a media conglomerate that turns 5G subscribers into HBO Max watchers and vice versa.
+
+└ Amazon says it has more than 150 million Prime members after huge holiday season
+
+It occurred to me today that Amazon Prime is also a kind of infrastructure service that includes hidden costs for video content. 
+
+└ Here’s what you need to watch the Super Bowl in 4K HDR
+
+Good story from Cameron Faulkner. The whole story is way more complicated than it should be! It’s also low-key a win for Amazon, because the short answer to “how do you get the best Super Bowl stream?” is “get a Fire TV.”
+
+└ Twitch and Caffeine are hosting their own Super Bowls before the big game
+
+Bijan Stephen:
+
+If you squint, the Twitch Rivals tournament makes sense in terms of negotiating a new, better deal with the NFL; it can’t have escaped the league’s notice that a lot of its players — who are young and internet-literate — are interested in streaming, either professionally or personally.
+
+Gadget news
+
+└ Nintendo says it has no plans for a new Switch this year
+
+No, the Animal Crossing-themed Switch doesn’t count. 
+
+└ Huawei overtakes Apple in annual race to Samsung’s smartphone crown
+
+The jump is especially surprising given Huawei’s continued presence on the USA’s entity list, which prevents the company from installing Google’s apps and services on its new devices, limiting their appeal outside of China. As a result, Huawei’s main strength was in its home country. Counterpoint Research says China accounted for 60 percent of its sales.
+
+└ Motorola’s stylus-equipped handset appears in leaked photos
+
+Apparently it’s going to be the “Moto G Stylus.” The G line is Motorola’s branding for low-end and mid-range phones. What this rumor tells us, then, is that this isn’t quite going to be a heads-up competitor to Samsung’s Galaxy Note and this isn’t the “flagship” phone that Motorola promised to deliver this year. 
+
+Motorola teased the return to flagships back when the Razr launched, but so far as I know that high-end phone hasn’t leaked yet. That either means Motorola has done an incredible job keeping it under wraps or that it isn’t likely to hit stores imminently. My money’s on the latter.
+
+└ Samsung’s delayed Galaxy Book S will arrive on February 13th
+
+More than other companies, Samsung announces major products and then just goes radio silent on them. Exhibit A: the Bixby Cauldron Smart Speaker. Glad to see this ARM-based laptop finally getting released, then, but very curious about the hold-up. Also very curious to see how Qualcomm’s 8CX processor holds up without the custom enhancements that are present on its variant in the Surface Pro X.
+
+└ OnePlus just took a big step toward supporting wireless charging in future phones
+
+Earlier this year on The Vergecast, Lau commented that even 10W fast wireless charging was too slow and “not worth it” compared to the wired fast-charging Warp Charge that OnePlus’ current phones offer.
+
+Guess he changed his mind.
+
+More from The Verge
+
+└ Today, NASA turns off a space telescope that peered into the extra cold Universe
+
+The satellite was designed to last less than five years. It has lasted 17. It could keep going but there’s no funding for it. Seems like a tragic mistake.
+
+└ The Hummer is coming back as a 1,000-horsepower electric truck
+
+While there are plenty of electric SUVs already on the road, the electric truck market is still wide open. That won’t be the case for long. Ford is working on an all-electric F-150 that it promises will be just as capable a truck as people have come to expect from its most popular nameplate, and Tesla’s Cybertruck will serve as an option for more contrarian customers. A number of startups are entering the space, too. Most notably, Michigan’s Rivian plans to release its luxury electric pickup truck later this year. Others, like Bollinger, Karma, and Lordstown Motors, are all trying to be among the first to sell electric pickup trucks as well.
+
+└ Apple’s redesigned maps are now available for all US users
+
+If you’re an iPhone user, you should give Apple Maps another shot.
+
+└ Early iPhone hit SpellTower gets reimagined a decade later
+
+First game in a while that has a shot at replacing Holedown as my subway game.
+
+└ I love this: This Untitled Goose Game app turns your Windows PC into pure mayhem
+
+Coronavirus
+
+└ World Health Organization declares global public health emergency over coronavirus outbreak
+
+└ Pilots just sued American Airlines to force a halt to China flights

@@ -1,0 +1,62 @@
+GGN: A 14% Yield CEF That Is In An Improving Macro Backdrop 
+ While GGN has a 14% yield, its price is likely to depreciate over time as it uses a call-writing strategy that caps upside potential.
+
+As interest rates fall below inflation and fossil fuel production growth slows, a new bull market is likely to occur in all of GGN's core holdings.
+
+There are two forces in the investment world than usually do not go together: yield and inflation. The multi-decade era of low/falling interest rates has seemingly caused investors to no longer realize the danger inflation poses to their yielding investments. Bonds, utility stocks, and REITs (specifically those with few land-holdings) all suffer when inflation rises. As explained in "Long-Term Treasuries Are Hardly A Hedge", even a small rise in inflation would be disastrous to many retired investors who depend on fixed-income investments.
+
+While inflation is low and likely to fall slightly over the coming months, the risk of it rising considerably is high given the negative real-yield environment. As explained in "TIP: As Coronavirus Spreads, Investors Would Be Smart To Buy Inflation-Hedged Bonds," a significant spike could be just around the corner.
+
+So, given the high demand for yield and the rising risk of inflation, it seems smart for investors to look for the few investments that offer both inflation-protection and yield. You could look toward Treasury Inflation-Protected securities, but they pay essentially nothing after their CPI hedge (i.e., it will only protect your net-worth from rising costs but not increase real net-worth). I would argue that funds like the CEF GAMCO Global Gold, Natural Resources & Income Trust (GGN) are one of the best ways to protect and grow the purchasing power of wealth.
+
+GAMCO is managed by Gabelli funds and has been trading since 2005 with a total AUM of $750M today. The fund invests around 80% of its assets in equity securities engaged in gold mining and energy production and generates income by selling calls against those holdings.
+
+Technically speaking, this means the fund sells the right (for a premium) for others to buy its equity holdings in the future. Practically speaking, it means the fund generates income, which lessens total downside losses but caps potential appreciation. I like to think about covered calls as "bondifying" a stock.
+
+Now, gold miners and energy producers have been notoriously awful investments over the past decade as oil & natural gas prices have been in a depression along with gold (until last year). Comparing the fund's total performance (which includes dividends) to that of the SPDR S&P Oil & Gas Exploration & Production ETF (XOP) and the VanEck Vectors Gold Miners ETF (GDX), we can see that it tracks the two, but has consistently lower volatility (because of its covered-call strategy):
+
+As you can see, GGN generally performs like a mix of the two ETFs but with less appreciation and drawdowns. Indeed, the CEF holds many of the same companies as the ETFs but has had marginally better returns since inception.
+
+Over the past decade, betting on higher commodity prices has generally been a widowmaker, particularly in the energy space. Inflation, which is a major driver of gold prices, is largely driven by the price of energy and natural gas.
+
+Over the past decade, U.S. production of both oil and natural gas has surged due to regulatory changes, new energy discoveries, and cheaper extraction technology:
+
+As production has surged, oil & gas prices have crumbled which has managed to lower inflation. Gold is largely a function of post-inflation interest rates (best measured by the rate on a 10-Year Inflation-Protected Treasury bond), so lower inflation has also led to lower gold prices. See below:
+
+As you can see, oil & gas prices have been falling which has led to slightly lower inflation. As inflation drops, the return on a 10-year inflation-adjusted bond rises, which lowers the comparative value of gold (since gold has no yield but protects purchasing power). Since rates have fallen over the past two years despite stable 2%+ inflation, the post-inflation interest rate has crashed and is now negative which has caused gold prices to rise.
+
+So, for GGN to perform well, two conditions must be satisfied: interest rates must be at or below inflation (to benefit gold, currently satisfied) and energy production growth must slow (to benefit both energy and gold producers; not yet satisfied).
+
+There are two ways to increase fossil fuel production, increase rigs or increase production per rig. The primary driver of production growth has not been increasing rigs, but increasing production per rig. As you can see below, production per rig has climbed dramatically at each of the major production zones while the rig count has fallen considerably for both oil and natural gas:
+
+This is because lower energy prices, fueled by cheap fracking technology, have made expensive off-shore rigs a money loser. Thus, those rigs are taken offline and the cheap rigs used aggressively.
+
+Now, as you can also see in the chart, per-well production is flat (or nearly flat) for most outside of the Bakken. This means that the current rate of U.S. production growth is likely to taper off this year and going forward. This will mean at least slightly higher energy prices which will make producers consistently profitable. I expect it will still be a few years before we see oil back of $100/barrel as many of the old offshore rigs will return to profitability and production will increase, but this should still result in a long-run trend toward higher oil & natural gas prices.
+
+Result? Stable energy producer stock prices, slowly higher inflation, higher gold prices, and perhaps much higher gold miner stock prices. In other words, a likely strong long-term performance period for GGN.
+
+Regardless of my thoughts on underlying holdings, I want to see that a CEF is delivering returns at least greater-than-or-equal to what one would see in ETF's after fees (currently 1.35% for GGN). Simply put, if active management does not pay for itself (over a multi-year period), it is not worth it.
+
+Using the CEF's most recent report, we can see that it is currently about 33% invested in energy producers, 50% in gold miners, and the rest in T-Bills. Using the dividend-included returns GDX, XOP, and the SPDR Bloomberg Barclays 1-3 Month T-Bill ETF (BIL) in the same weighting as GGN, we can create a proxy index that should closely track GGN's performance. Of course, this strategy would not pay as high dividend yield, but the "no-free-lunch principle" tells us that the net-returns should be about the same for the CEF and ETF proxy strategy.
+
+As you can see below, the return index of both is essentially the same:
+
+As you can see, if you purchased those ETFs with GGN's current weighting or bought GGN and compounded the dividends since March 2009 (beginning of current bull market), you would have come out about the same. Technically, GGN came out on top with 26% net returns vs. 28% for the strategy, but it is worth pointing out that GGN currently trades at a 2% premium to its NAV.
+
+On that note, if we take the total returns of GGN and subtract that of the ETF strategy, we can see that it is almost identical to the premium/discount of GGN:
+
+(Data Source - Yahoo Finance) - Note the slight offset between the charts.
+
+My point in showing how close GGN's performance against the strategy index vs. its premium/discount to NAV is to show that GGN does not have a history of delivering alpha, but more importantly, manages to earn its keep.
+
+This means you would likely end with the same returns, on a NAV basis, if you bought GGN or used the weighted ETF index and rebalanced often. That said, many investors today prefer to receive their returns in dividend form as opposed to in principal appreciation. Furthermore, investors in GGN needn't worry about rebalancing which allows them more time to focus on the rest of their portfolio.
+
+Overall, GGN looks like a solid "buy" for long-term investors who are interested in dividend yield. Speaking of which, the fund's current distribution rate is 5 cents per month per share or 60 cents per year. At a 1.16% yield per month, this gives us a compounded (reinvested dividends) annual dividend yield of 14.88% (1.0116^12-1) or a simple yield of 13.85% (0.60/4.3).
+
+Now, while I believe that appreciation is likely, it is important to note that if you are not reinvesting dividends, GGN is likely to slowly lose principal value. Again, there is no free lunch when it comes to ultra-high yield assets. As you can see in GGN's price, its decay has been very significant over the years:
+
+Obviously, this is made worse by the fact that energy and gold producers have been in a depression. During boom times like 2005-2008, which I personally believe will reoccur over the coming years, the principal performance was strong, but if you're not reinvesting dividends, GGN is still likely to depreciate over enough time.
+
+Still, GGN is a positive hedge against inflation, and for that, I believe it is among the best CEF opportunities today.
+
+Disclosure: I/we have no positions in any stocks mentioned, and no plans to initiate any positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.

@@ -1,0 +1,60 @@
+SIVR Weekly: Silver's Underperformance Driven By The Base Metals Sell-Off 
+ In this respect, we maintain our $19 per share target for SIVR for Q1 although we acknowledge that downside risks in the very near term have increased.
+
+We attribute silver's recent underperformance to the heavy sell-off in base metals in a context in which silver is increasingly influenced by the fluctuations in base metals.
+
+SIVR has moved a little higher since our last publication, although it's worth noting that silver has underperformed gold since the start of the year.
+
+Welcome to Orchid's Silver weekly report, in which we wish to deliver my regular thoughts on the silver market through the Aberdeen Standard Physical Silver Shares ETF (SIVR).
+
+SIVR has moved a little higher since our last publication, although it's worth noting that silver has underperformed gold since the start of the year.
+
+We attribute silver's underperformance to the recent sell-off in base metals in a context in which silver is increasingly influenced by the fluctuations in base metals. Even though silver's spec positioning is relatively lighter than gold's spec positioning, market participants may be inclined to favor of gold over silver as a hedge against tail risks, which should cap the upside in SIVR.
+
+In the first half of the year, however, we believe that silver's outperformance should prevail given 1)our friendly view on base metals and 2)our assumption that base metals' influence on silver will continue to trend higher.
+
+In this respect, we maintain our $19 per share target for SIVR for Q1 although we acknowledge that downside risks in the very near term have increased.
+
+SIVR is an ETF product using a physically backed methodology. This means that SIVR holds physical silver bars in HSBC vaults.
+
+The physically-backed methodology prevents investors from getting punished by the contango structure of the Comex silver forward curve (forward>spot), contrary to a futures contract-based methodology.
+
+For long-term investors, SIVR seems better than its competitor iShares Silver Trust ETF (NYSEARCA:SLV), principally because its expense ratio is lower (0.30% for SIVR vs. 0.50% for SLV), which is key to make profit over the long term.
+
+Speculators raised their net long position in Comex silver in the week to January 21, marking a second consecutive week of increase. The Comex silver spot price edged 0.4% lower over the corresponding period, suggesting the presence of OTC selling activity.
+
+The net spec length in Comex silver remains unchanged at 29% of open interest (OI), well below its historical high of 57% of OI. Silver's spec positioning is relatively much lighter than gold's spec positioning, suggesting that silver prices should outperform gold prices due to the larger quantity of dry powder to deploy.
+
+However, the Comex silver spot price has underperformed the Comex gold price since the start of the year, which is not surprising considering that silver has behaved increasingly more like a base metal while the industrial metals complex has sold off hard - the London Metal Exchange Index (LMEX) is down around 6% YTD.
+
+Implications for SIVR: In the current trading regime of silver, spec buying pressure is likely to be muted because silver behaves increasingly more like a base metal and the current risk-off mood produces an anxious macro environment for the industrial metals. Consequently, the upside for the silver spot price is capped in the immediate term, which is negative for SIVR.
+
+ETF investors bought silver at a strong pace of 172 tonnes in the week to January 24, marking the first week of inflows in three weeks and the largest weekly inflow since last September.
+
+The main driver of silver ETF buying last week was the return to risk aversion, which elicited ETF buying across the entire precious metals space. This signals that ETF investors continue to see silver as a reliable safe-haven asset in the long term.
+
+However, as we showed last week, the present behavior of silver prices suggests that silver is presently more influenced by the fluctuations in the base metals complex than that in gold. But as silver ETF investors have a long-term approach, ETF buying could continue at a robust pace despite the mediocre performance of silver prices.
+
+Implications for SIVR: Long-term ETF demand for silver should lend support to silver spot prices and thus SIVR, although we believe that silver spot prices will continue to underperform gold prices in the very near term.
+
+Our cross-correlation analysis of silver shows that even though silver is presently highly influenced by gold (silver as a safe-haven asset), the influence of base metals on silver has increased steadily since late last year. Look at this chart:
+
+At this juncture, the base metals space is under heavy pressure due to macro fears stemming from the outbreak of the Coronavirus. In this respect, silver could underperform gold in the very near term.
+
+In H1-20, however, silver's outperformance should prevail given our assumptions that 1)the influence of base metals' returns on silver should continue to increase and 2)the base metals space should resume its uptrend as fundamentals reassert themselves.
+
+Implications for SIVR: Our cross-correlation study shows that silver has started to act increasingly more like a base metal. This means that SIVR could struggle in the very near term (due to the sell-off in the base metals space) but likely to outperform in H1-20 (due to the solid fundamentals of the base metals complex).
+
+We expect SIVR to continue to move higher in the first quarter of the year, but downside risks to our forecast have increased in the very near term considering the increasing influence of base metals on silver.
+
+We therefore think that the silver spot price will underperform the gold spot price in the very near term, as market participants will favor gold as a hedge against tail risks.
+
+In the first half of the year, however, we believe that silver's outperformance should prevail given our constructive view on the base metals complex and our assumption that the co-movement between silver prices and base metals prices will continue to trend higher.
+
+We maintain our Q1-20 target for SIVR at $19 per share, although we stand ready to lower our forecast if the sell-off in base metals becomes more prolonged than anticipated.
+
+Click the "Follow" button at the top of the article to receive notifications.
+
+Disclosure: I/we have no positions in any stocks mentioned, and no plans to initiate any positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.
+
+Additional disclosure: Our research has not been prepared in accordance with the legal requirements designed to promote the independence of investment research. Therefore, this material cannot be considered as investment research, a research recommendation, nor a personal recommendation or advice, for regulatory purposes.

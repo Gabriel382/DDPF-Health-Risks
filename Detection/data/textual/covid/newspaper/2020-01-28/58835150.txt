@@ -1,0 +1,22 @@
+ZTE and China Telecom enabled the first remote diagnosis of coronavirus via a 5G telehealth system 
+ Chinese networking equipment maker ZTE and network operator China Telecom facilitated China's first remote diagnosis of the deadly coronavirus using a 5G network. For context, coronavirus has reportedly infected at least 2,700 people and caused at least 80 deaths in the country since the outbreak was first reported in late December.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Business Insider Intelligence
+ 
+ 
+ 
+ZTE supplied, installed, and optimized both outdoor and indoor 5G networking and other communications equipment for the West China Hospital of Sichuan University.The equipment was used to create a reliable indoor 5G network and support remote video consultations. Going forward, ZTE will expand the system to enable remote diagnostics at other area hospitals.Using 5G to connect doctors with patients can mitigate the risks associated with treating deadly diseases without sacrificing the speed and quality of care:The high-quality, low-latency video enabled by 5G networks allows doctors to get a clear picture of a patient without placing them in harm's way. Patients in rural locations with limited resources can be treated by specialists, providing them access to quality care despite geographic restrictions. This approach also makes it easier for a limited number of expert doctors to treat a large number of patients in diverse locations with minimal travel.The next-gen network's high bandwidth supports a large number of connections, enabling more patients to seek help simultaneously. The 5G network ZTE is building for the Lei Shen Shan Hospital in Wuhan can allow an estimated 25,000 people to communicate with each other at the same time.Telecoms will play a central role in the fast-growing and lucrative telehealth industry. The global telemedicine market is set to reach over $130 billion by 2025, up from $38 billion in 2018. This massive opportunity has already spurred a host of startups and legacy medical providers to adopt telehealth technology. However, to offer telehealth services, providers need a connectivity partner to supply a reliable and high-quality network — 39% of healthcare professionals reported that cellular coverage is a challenge in hospitals.This presents telecoms with an opportunity to diversify their revenue streams, especially in saturated mobile markets, where the pool of new mobile customers is shrinking — in the US, smartphone penetration reached 85% in 2018, up from 82% in 2017, and 77% in 2016.To best capitalize on this connectivity opportunity, operators must ensure their equipment and networks are prepared for the unique challenges presented by the healthcare industry. The healthcare industry has strict data privacy standards, and telecoms must ensure their networks and equipment are prepared to meet these standards so they can quickly scale up in the case of an emergency, like China's present crisis.For example, in the US telecoms would need to provide HIPPA-compliant networks and equipment or risk large fines. Further, telecoms should look to forge close relationships with relevant public and private institutions by establishing themselves with proof-of-concept trials — AT is pursuing multiple 5G hospital trials to allow the institutions to try its network.

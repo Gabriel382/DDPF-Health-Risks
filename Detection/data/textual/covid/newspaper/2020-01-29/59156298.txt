@@ -1,0 +1,18 @@
+C'mon Apple, stop making me choose between avoiding Coronavirus and easily unlocking my iPhone in China 
+ It’s tough out there, people. Thousands have been infected with the novel Coronavirus in China, millions are under lockdown, airplanes are grounded, and borders tightened. It’s like we’ve gone back to the bubonic plague — or more accurately, gone back to the iPhone 5s!
+
+Let me explain… I know it’s not too common for people to be out and about wearing masks in public in the United States, but it’s fairly common over here in Asia. The thinking behind it is actually to prevent you, the mask-wearer, from spreading your diseased germs to other, healthy, happy people. So if you show up in Hong Kong or Kuala Lumpur or Taipei or any other Asian city and begin sneezing without a mask on, there’s a good chance you’ll get a nasty side-eye from a local.
+
+The Coronavirus, obviously, is different: doctors are recommending people wear masks to prevent coming into contact with the “novel” virus, thus keeping yourself safe. But the masks cover a huge portion of your face (even a big face, like mine) basically invalidating Face ID. I know, I know, this sounds very trivial, and it is. But trivial and annoying have long conspired together to cause great anger and frustration.
+
+Modern iPhones come with Face ID, and if Face ID doesn’t work repeatedly, then… well… the iPhone experience is horrible. It’s a testament to how well Face ID normally works that I don’t even notice it anymore – until it doesn’t. Like today. Multiple times, on the short 15-minute walk between my apartment and my office building, I whipped out my iPhone to check a message or buy a coffee using Apple Pay only to utterly confound Face ID. It looked back at me, shrugged, and kept the phone tightly locked. As I was walking and moving around a bit, it kept trying to identify me and kept failing. Sometimes when I began typing my passcode, Face ID would get desperate and try to confirm who the strange man is holding the phone, but fail again and reset the passcode before I even finished typing it in. Yeah, talk about showing up at the office angry.
+
+It’s the first time I’ve ever wished for a return to the trusty ol’ 5s and Touch ID.
+
+I can already hear people screaming at me, telling me to simply turn off Face ID. I know, I could probably do that but most of us think technology will work fine if we just give it one more chance. Maybe this time Face ID will see me, recognize me, and let me in. But alas, it was as if Face ID developed Alzheimer’s and locked me out entirely.
+
+Compared to people who actually have Coronavirus, the millions under lockdown in Wuhan, and those with symptoms but unable to see a doctor, I fully admit my problems are probably the most spoiled, #firstworldproblems possible. But still… Apple, if you’re listening, think about the good people of Asia. Help us out. It’s winter, even. Teach Face ID to unlock our phones when wearing medical masks — if there’s one thing we can be sure of, it’s that this won’t be the last health scare we’ll have to deal with.
+
+Note: As shown in the top image above, trying to set up an alternate Face ID appearance while wearing a mask doesn’t work.
+
+Check out 9to5Mac on YouTube for more Apple news:

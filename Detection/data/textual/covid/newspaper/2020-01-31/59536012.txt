@@ -1,0 +1,74 @@
+What does and doesn't work when it comes to containing pandemics? 
+ Travel restrictions may only delay the spread of very contagious diseases, a WHO report has found.
+
+As Wuhan, the epicentre of the novel coronavirus outbreak, remains in lockdown and the World Health Organisation declares the virus a global health emergency, countries are scrambling to contain the spread of the disease.
+
+Airlines around the world have suspended and cut back services to parts of mainland China, the Federal Government is offering to evacuate Australians in Wuhan to Christmas Island for a quarantine period and Hong Kong has closed schools until mid-February in attempts to stem the outbreak.
+
+But how much do we know about what works and what doesn't when it comes to containing pandemics?
+
+There's a lot we don't know about this novel coronavirus, including exactly when people who are infected become contagious.
+
+If people with an illness can't infect other people until after they start having symptoms, that makes a disease much easier to contain than if people can unknowingly infect others before they realise they're even sick, said James McCaw, an infectious diseases epidemiologist from the University of Melbourne.
+
+"The majority of the evidence — and it's changing every day and it's going to take time to sift through — suggests this is like SARS, so symptoms come before infectiousness," Professor McCaw said.
+
+This means the global response of isolating people who have been confirmed to have coronavirus is very sensible, he added.
+
+As opposed to isolating people who are confirmed to have an illness, quarantine usually refers to confining people who are at risk of having been infected, but haven't shown any symptoms yet.
+
+There is evidence to support this approach, especially if it turns out the new coronavirus can be transmitted before people start showing symptoms.
+
+But putting people who have not shown any sign of infection into quarantine with others who might develop symptoms could end up increasing the number of overall cases, said Ian Mackay, a clinical virologist at the University of Queensland.
+
+"Quarantining healthy people who may go on to develop severe respiratory illness could put at risk their health and the health of those caring for and detaining them," Dr Mackay told the Australian Science Media Centre.
+
+Professor McCaw acknowledged that, with every type of intervention, there were costs and benefits to weigh up.
+
+"This is why the WHO, the Australian government and the CDC in the US — all pandemic management plans are built around a proportionate response," he said.
+
+"One that gives us every opportunity to control a disease that is controllable but acknowledges that interventions have costs."
+
+Professor McCaw said measures like this, which reduce opportunities for a disease to spread, really only delay the inevitable.
+
+If the virus is still in the population it can re-establish once the children go back to school, he said.
+
+But that doesn't mean these measures are useless.
+
+Delaying the spread of an illness allows time to develop vaccines and might help in cases where a virus spreads more easily during certain times of the year, such as winter, Professor McCaw said.
+
+"If you've got a [healthcare] system which is under extreme stress and you can reduce the pressure on it for a period of time, that can genuinely help."
+
+Limiting air travel has negligible effect on stopping infectious diseases from spreading between countries.
+
+WHO modelling and previous pandemics have both shown restricting air travel delays the spread of pandemics by a short amount of time, would not actually stop the disease from getting to any particular country, and would have minimal impact on the magnitude of the pandemic.
+
+"It's completely clear from empirical evidence from pandemic influenza that reducing air travel has an incredibly minor effect on the ultimate spread of diseases like this," Professor McCaw said.
+
+Even reducing air travel by 99 per cent still leaves a lot of travellers, and any of those who are infected but not showing symptoms yet can still arrive.
+
+"If there was literally no travel of any type (people, goods, mail etc), the disease could not get from one country to another," he said.
+
+"But a literal halt to all international transport, even if targeted to a region, would clearly be impractical and come with huge economic, social and health costs and so counterproductive."
+
+Some countries use thermal scanners at international airports and other borders to detect people with fevers. While these cast a very broad net, they could also miss people who might be infectious because not everyone who is sick may have a raised temperature all the time.
+
+What's more, the symptom that thermal scanners are designed to pick up — fever — is associated with many illnesses, not just the still-rare new coronavirus.
+
+"Mass screening tends to miss lots of people who do have the infection and capture lots of people who don't have the infection," said Freya Shearer, who researches epidemic decision making at the University of Melbourne.
+
+Dr Shearer said Australia's current border security measures, which involve identifying people who could be at risk and following up rapidly if they develop symptoms on the plane or back in Australia, were effective as well as a more efficient use of resources.
+
+While media reports about the new coronavirus have made much of the fact it has been "deadly", its fatality rate has so far been relatively low: about 5 per cent or less.
+
+For comparison, other recent coronavirus SARS (severe acute respiratory syndrome) had a death rate of 9.6 per cent, before it was successfully contained and eradicated.
+
+And the death rate of MERS (Middle East respiratory syndrome) — which still has occasional outbreaks — is believed to be as high as 35 per cent.
+
+So why are so many resources being put into containing it? Part of the answer is because, so far, it could still be contained and wiped out.
+
+In responding to SARS, which the new coronavirus bears many similarities to, authorities isolated people while they were infectious and transmission petered out, Professor McCaw said.
+
+While the new coronavirus is spreading rapidly, the risk to the general population remains low, according to Gary Whittaker, a virology expert at Cornell University.
+
+"The good news is that the virus appears to be less deadly than feared, diagnostic tests are available, and there are reasons to believe good public health measures will help the situation. It's just that the scale of these measures is quite unprecedented."

@@ -1,0 +1,21 @@
+Coronavirus outbreak in China traced to snakes 
+ Emerging viral infections -- from bird flu to Ebola to Zika infections -- pose major threats to global public health, and understanding their origins can help investigators design defensive strategies against future outbreaks. A new study provides important insights on the potential origins of the most recent outbreak of viral pneumonia in China, which started in the middle of December and now is spreading to Hong Kong, Singapore, Thailand, and Japan. The findings are published early online in the Journal of Medical Virology.
+
+
+						
+The study notes that patients who became infected with the virus -- which is a type of virus called a coronavirus and was named 2019-nCoV by the World Health Organization -- were exposed to wildlife animals at a wholesale market, where seafood, poultry, snake, bats, and farm animals were sold.
+
+By conducting a detailed genetic analysis of the virus and comparing it with available genetic information on different viruses from various geographic locations and host species, the investigators concluded that the 2019-nCoV appears to be a virus that formed from a combination of a coronavirus found in bats and another coronavirus of unknown origin. The resulting virus developed a mix or "recombination" of a viral protein that recognizes and binds to receptors on host cells. Such recognition is key to allowing viruses to enter host cells, which can lead to infection and disease.
+
+Finally, the team uncovered evidence that the 2019-nCoV likely resided in snakes before being transmitted to humans. Recombination within the viral receptor-binding protein may have allowed for cross-species transmission from snake to humans.
+
+"Results derived from our evolutionary analysis suggest for the first time that snake is the most probable wildlife animal reservoir for the 2019-nCoV," the authors wrote. "New information obtained from our evolutionary analysis is highly significant for effective control of the outbreak caused by the 2019-nCoV-induced pneumonia."
+
+An accompanying editorial notes that although the ultimate control of emerging viral infections requires the discovery and development of effective vaccines and/or antiviral drugs, currently licensed antiviral drugs should be tested against the 2019-nCoV.
+
+
+
+
+							Story Source:
+
+							Materials provided by Wiley. Note: Content may be edited for style and length.

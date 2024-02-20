@@ -1,0 +1,18 @@
+Google launches 'SOS Alert' with WHO in response to the coronavirus 
+ Whenever global tragedy strikes, people on the internet rush to exploit it.
+
+The spread of the deadly coronavirus is no different, with fake stories going viral in an attempt to accomplish who knows what. Google, however, wants no part of that, and today announced a new feature in collaboration with the World Health Organization that will hopefully both reduce the spread of misinformation and get valuable information to those in need.
+
+"Today we launched an SOS Alert w/@WHO, to make resources about #coronavirus easily accessible," wrote the company's communication team.
+
+"When people search for related info on @Google, they’ll find the alert atop results page w/ direct access to safety tips, info, resources & Twitter updates from WHO."
+
+Now, when you Google information on the coronavirus, you're shown an "SOS Alert" notification at the top of the page.
+
+Interestingly, clicking that alert does nothing. However, if you scroll down you'll see the previously mentioned safety tips and resources.
+
+One such tip, "Clean hands with soap and water or alcohol-based hand rub," might seem obvious, but every single fact-based recommendation helps.
+
+Twitter, for its part, announced yesterday that it will tweak its search results to combat coronavirus-based disinformation.
+
+This combined effort shows how quickly tech companies can move to fight disinformation when they are incentivized to do so. Let's all keep that in mind over the course of the 2020 U.S. presidential campaign.

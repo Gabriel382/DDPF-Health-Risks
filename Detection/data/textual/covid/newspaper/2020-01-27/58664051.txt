@@ -1,0 +1,39 @@
+How Long Will It Take to Develop a Vaccine for the Wuhan Virus? 
+ As a newly discovered pneumonia-causing virus threatens to engulf China and spread far beyond its borders, governments and researchers are scrambling to create a preventive vaccine. But will it arrive too late to help people? And is it possible that we missed having a head start on its development?
+
+
+The reported toll of 2019-nCoV—more plainly known as the Wuhan virus, after the city where it was first discovered last December—continues to climb. As of early January 27, there have been nearly 3,000 reported cases of the virus, along with 81 deaths, predominantly in China. But some epidemiologists have estimated that the true number of cases in the country may be high as 100,000.
+
+So far, the epicenter remains in China, where several cities have been essentially quarantined to prevent further transmission. Cases have also been identified in more than a dozen areas outside of mainland China, including five in the U.S. These cases have largely involved people who caught the virus in China then traveled elsewhere, but some public health researchers are warning that it may already be too late to contain the outbreak within China.
+
+While governments are taking steps to physically prevent the virus from spreading further, such as through airport screenings, the U.S. and China have also announced plans to develop a vaccine, as have research teams in other countries.
+
+It’s not the first time in recent years that scientists have been tasked with creating a vaccine for an emerging disease that’s erupted into a massive outbreak; 2014 saw the largest-ever outbreak of the Ebola virus, while the Zika virus spread widely throughout the Americas in 2016. These efforts weren’t fast enough to pay off significantly during the actual crisis. There’s now an approved, highly effective vaccine for Ebola, which has helped during the ongoing outbreak that began last year but saw limited action during the 2016 outbreak. Potential Zika vaccines remain experimental.
+
+This sort of delay might not be repeated for 2019-nCoV, though.
+
+“We’re already working on it. And hopefully in a period of about three months, we’ll be able to start a phase I trial in humans,” Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases at the National Institutes of Health, told Bloomberg News last week. By as soon as this summer, assuming things go well, we could start to see successful vaccine candidates deployed on an experimental basis in the real world.
+
+If anyone is able to pull off such a feat, it would undoubtedly be the fastest time between discovering a new disease and finding a way to vaccinate ourselves against it. And it would reflect the speed with which the global research community has banded together against a common foe.
+
+Within days of the first documented 2019-nCoV case in China, researchers in the country unpacked the genetic blueprint of the virus, and more importantly, they shared it with the rest of the world. That transparency allowed researchers everywhere to quickly study the ins and outs of the virus and to start trying to create a vaccine for it.
+
+By the second week of January, Science Magazine reported on Monday, the NIH had entered a contract with the biotech firm Moderna to start work on a Wuhan coronavirus vaccine. Last week, the Coalition for Epidemic Preparedness Innovations announced it was funding three teams, including Moderna, to create their versions of a vaccine.
+
+At the same time, the race is an example of the often reactive nature of vaccine development, according to Peter Hotez, dean for the National School of Tropical Medicine at Baylor College of Medicine.
+
+“We have a broken system for two types of vaccines. One are vaccines for potentially pandemic diseases like Ebola or SARS, and the other are vaccines for neglected tropical diseases,” he told Gizmodo. “And that’s because neither of these vaccines tend to make money.”
+
+Hotez and his team have been working for years on a vaccine against a virus closely related to 2019-nCoV: the virus that causes SARS.
+
+In trials with mice, the team’s vaccine appeared highly effective at preventing any signs of lasting infection or illness from SARS. By 2017, they published research showing that they could easily and safely mass-produce the vaccine, using yeast to grow it. But that turned out to be their crescendo. Their work had largely been funded by the U.S. government through the National Institutes of Health (NIH), and the NIH declined to give them the money they’d need to pursue further studies in humans.
+
+Practically, a SARS vaccine might have seemed unnecessary at the time. In 2002, SARS erupted on the world stage as it sickened more than 8,000 people and killed nearly 800, also mostly in China, over a two-year span. But SARS hasn’t been seen in humans since July 2003, and that strain of the virus has likely gone extinct.
+
+As this current outbreak has shown, though, there are plenty of other coronaviruses out there capable of jumping the species barrier to people, as SARS did. In a world that prioritized the proactive development of vaccines, Hotez said, we might have been much better prepared for Wuhan.
+
+“That was one of the major frustrations we had. Once SARS was gone, nobody wanted to invest in a SARS vaccine. So for the last three, four years, it’s sat there in a freezer,” Hotez said. “If we had a more anticipatory system, that vaccine would have gone through all the safety testing needed and potentially would have been ready to roll in human trials right from the start.”
+
+Still, Hotez and his team’s work may not have gone to waste. Scientists have shown that the Wuhan virus is very genetically similar to SARS. That closeness should hopefully make any vaccine intended for SARS relatively easy to modify for Wuhan. Hotez said he’s been in talks with the NIH and other federal agencies to reboot his team’s research, and he believes that they could start work immediately if they get the go-ahead, with practical results, such as knowing how safe their vaccine is to use in people, not too far behind.
+
+“Potentially, if we move forward now and the stars align, we’re talking weeks and months until clinical research could advance to the point where we’re collecting patient safety information,” he said.

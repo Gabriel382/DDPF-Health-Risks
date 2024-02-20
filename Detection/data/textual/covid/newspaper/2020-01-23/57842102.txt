@@ -1,0 +1,138 @@
+Everything you need to know about the new coronavirus in China 
+ Public health experts around the globe are scrambling to understand, track, and contain a new virus that appeared in Wuhan, China at the start of December. 
+
+You can see where and how many cases have been reported in this real-time map created by US researchers. So far, there have been over 550 confirmed cases and 17 deaths. The majority of the illnesses are in Wuhan, but cases have been reported in South Korea, Japan, Taiwan, Thailand, Macau, Hong Kong, and the US.
+
+As this important story continues to unfold, The Verge will update this page with all the latest news and analysis. Our hope is to answer all your questions as people work to understand this virus and contain its spread.
+
+Table of contents
+
+
+Where did the virus come from? 
+
+At the end of December, public health officials from China informed the World Health Organization that they had a problem: an unknown, new virus was causing pneumonia-like illness in the city of Wuhan. They quickly determined that it was a coronavirus, and that it was rapidly spreading through and outside of Wuhan. 
+
+  
+  
+    
+    
+      
+        
+  
+
+
+  
+
+
+
+
+
+
+      
+    
+    
+  
+  
+    
+      
+      
+        Photo by Kevin Frayer/Getty Images
+      
+    
+  
+
+
+Coronaviruses are common in animals of all kinds, and sometimes can evolve into forms that can infect humans. Since the start of the century, two other coronaviruses have jumped to humans, causing the SARS outbreak in 2002 and the MERS outbreak in 2012.
+
+Scientists think this new virus first became capable of jumping to humans at the beginning of December. It appears to have first infected people at a seafood market in Wuhan, and spread from there. 
+
+The type of animal the virus originated from is not clear. One team of researchers in China published a report arguing that it came from snakes, based on the genetic code of the virus. However, the study didn’t actually detect the new virus in a snake — they just created a model based on how the virus’s genes predict it would behave — so scientists are still skeptical of that conclusion. Another analysis found that the genetic sequence of the new virus is 96 percent identical to one coronavirus found in bats. Both SARS and MERS originated in bats. 
+
+So is this the same as SARS? 
+
+The new virus isn’t SARS, although that also began in China. Because it comes from the same viral family as SARS, it has some similarities, but it’s an entirely new virus. However, the commonalities mean scientists and public health officials can use what they’ve learned from the past outbreak to try to stop this one. 
+
+China lied to the WHO about SARS. Are they lying about this, too? 
+
+During the SARS outbreak, Chinese officials attempted to conceal cases from WHO inspectors and limited information, both internally and externally. This time, officials quickly reported the outbreak of the new virus to the WHO, which praised their quick response and transparency in a press conference. 
+
+But critics and Chinese citizens are skeptical: there are concerns that Chinese officials are undercounting the number of illnesses, and are classifying deaths that might have been from the virus as being from pneumonia. Wuhan police also investigated citizens for spreading what it called rumors online a few weeks ago. 
+
+(It’s important to note that China isn’t the only country known for concealing the extent of public health problems. In the US, for example, dozens of cities have concealed the amount of lead in their public water supply.)
+
+How dangerous is this new virus?
+
+Right now, no one knows. Symptoms in infected people have ranged from mild to severe. So far, the fatality rate is around 3 percent, though that could change as the outbreak progresses. The fatality rate for SARS was about 14 to 15 percent. Most fatalities in this outbreak have been in older people who have underlying health issues, like heart disease, hypertension, and diabetes. (That’s the same demographic who is most at risk of dying from illnesses like the flu.)  
+
+We also don’t know how rapidly or easily the virus can spread from person to person. There are confirmed cases where illness spread from person to person, but so far, it’s only been passed from a sick person to their close family members or health workers. That’s a sign that — like other coronaviruses — it can only jump between people who are in very close contact with each other, and probably spreads when an infected person sneezes or coughs. If that’s the case, good public health practices, like isolating people who are ill and tracking their close contacts, can likely help halt the spread of the virus. But without knowing more about the progression of the disease, it’s still too early to tell how difficult this virus will be to contain. 
+
+It takes information about the severity and the transmissibility to determine how “bad” an illness can be. Epidemiologists often use this tool to assess new flus, for example, and guide decision-making: 
+
+  
+  
+    
+    
+      
+        
+  
+
+
+  
+
+
+
+
+
+
+      
+    
+    
+  
+  
+    
+      
+      
+        Image: Centers for Disease Control
+      
+    
+  
+
+
+If an illness isn’t very severe (and kills only a small percentage of people), but it’s highly transmissible, it can still cause devastating effects — if something affects millions, the small percentage it kills will still be a high number of fatalities. 
+
+I’ve been coughing. Do I have this virus? 
+
+If you haven’t recently been to Wuhan, China or been in close contact with someone who is sick and has recently been to Wuhan, China, it’s very unlikely you have this virus. So far, the vast majority of cases have been in and around that city. 
+
+If you live in the US, it’s far more likely that you have the flu or the common cold. It’s still flu season, and high levels of flu activity aren’t expected to die down anytime soon. (It’s not too late to get a flu shot!)
+
+Only one case of the virus has been reported in the US: a man in Washington state tested positive after returning from China. He’s in good condition, but still being monitored. The Centers for Disease Control and Prevention (CDC) says he does not pose a risk to health workers or to the public. 
+
+If you’re feeling sick and have been to Wuhan, China, or been in close contact with someone who has, tell your doctor about your symptoms. 
+
+How can I protect myself?
+
+Based on what we know so far, you can protect yourself with the same measures you’d take (and should be taking) to protect yourself against the flu: wash your hands, cover your mouth when you cough, and stay away from people who are sick. 
+
+Should I cancel my trip to China?
+
+The US State Department raised the travel advisory for China to a level 3, warning that people should reconsider traveling there. 
+
+How is China trying to stop the virus? 
+
+On January 22nd, officials in Wuhan shut down all transportation in the city, which is home to over 11 million people — they closed buses and subways, and canceled all flights and trains in and out of the city. The director general of the WHO applauded the decision, saying that it would help control the outbreak and slow the spread into other countries. Six other cities, home to a total of 12 million people, are locked down as well. 
+
+However, other officials weren’t sure if these quarantines would be effective: “To my knowledge, trying to contain a city of 11 million people is new to science,” Gauden Galea, the World Health Organization’s representative in China, told the Associated Press. “It has not been tried before as a public health measure. We cannot at this stage say it will or it will not work.”
+
+Four cities in China — Beijing, Wuhan, Zhejiang, and Macau — canceled celebrations for the Lunar New Year, a huge holiday in China. 
+
+
+
+
+
+
+How at risk is the United States?
+
+Until we know how easily the virus spreads, it’s hard to say how significant of an effect it could have in the United States. The CDC says the risk to people in the US is currently low.
+
+The CDC is conducting enhanced health screenings this week for passengers who flew from or connected through Wuhan at five major airports: San Francisco International Airport, John F. Kennedy International Airport in New York, Los Angeles International Airport, Chicago O’Hare International Airport, and Hartsfield-Jackson Atlanta International Airport. Any flights from or connecting through Wuhan will be funneled to those airports.
