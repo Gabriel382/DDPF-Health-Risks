@@ -1,0 +1,64 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ddpf-health-risks"
+version = "0.1.0"
+description = "Description-Detection-Prediction Framework for ontology-guided health-risk propagation analysis."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+  { name = "Gabriel Henrique Alencar Medeiros" }
+]
+keywords = [
+  "event-based surveillance",
+  "knowledge graphs",
+  "ontology",
+  "semantic web",
+  "health-risk detection",
+  "spatiotemporal analysis",
+  "clustering"
+]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: Science/Research",
+  "Intended Audience :: Developers",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+
+dependencies = []
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.0",
+  "ruff>=0.5",
+  "black>=24.0",
+  "mypy>=1.8"
+]
+
+[project.urls]
+Homepage = "https://github.com/Gabriel382/DDPF-Health-Risks"
+Repository = "https://github.com/Gabriel382/DDPF-Health-Risks"
+Thesis = "https://theses.hal.science/tel-05056160"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.black]
+line-length = 88
+target-version = ["py310"]
+
+[tool.ruff]
+line-length = 88
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+ignore = []
