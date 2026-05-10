@@ -1,0 +1,5 @@
+Outbreak
+Respiratory Outbreak
+Fever
+Hospitalization
+International Travel
