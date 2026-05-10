@@ -1,0 +1,400 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xml:base="https://w3id.org/def/umls"
+         xmlns="https://w3id.org/def/umls#">
+
+<owl:Ontology rdf:about="https://w3id.org/def/umls"/>
+
+<owl:ObjectProperty rdf:about="#RB">
+  <rdfs:domain rdf:resource="#AUI"/>
+  <rdfs:domain rdf:resource="#CUI"/>
+  <rdfs:range rdf:resource="#AUI"/>
+  <rdfs:range rdf:resource="#CUI"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#PAR">
+  <rdfs:domain rdf:resource="#AUI"/>
+  <rdfs:domain rdf:resource="#CUI"/>
+  <rdfs:range rdf:resource="#AUI"/>
+  <rdfs:range rdf:resource="#CUI"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#RQ">
+  <rdfs:domain rdf:resource="#AUI"/>
+  <rdfs:domain rdf:resource="#CUI"/>
+  <rdfs:range rdf:resource="#AUI"/>
+  <rdfs:range rdf:resource="#CUI"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#RO">
+  <rdfs:domain rdf:resource="#AUI"/>
+  <rdfs:domain rdf:resource="#CUI"/>
+  <rdfs:range rdf:resource="#AUI"/>
+  <rdfs:range rdf:resource="#CUI"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#SY">
+  <rdfs:domain rdf:resource="#AUI"/>
+  <rdfs:domain rdf:resource="#CUI"/>
+  <rdfs:range rdf:resource="#AUI"/>
+  <rdfs:range rdf:resource="#CUI"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#QB">
+  <rdfs:domain rdf:resource="#AUI"/>
+  <rdfs:domain rdf:resource="#CUI"/>
+  <rdfs:range rdf:resource="#AUI"/>
+  <rdfs:range rdf:resource="#CUI"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#AQ">
+  <rdfs:domain rdf:resource="#AUI"/>
+  <rdfs:domain rdf:resource="#CUI"/>
+  <rdfs:range rdf:resource="#AUI"/>
+  <rdfs:range rdf:resource="#CUI"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#CHD">
+  <rdfs:domain rdf:resource="#AUI"/>
+  <rdfs:domain rdf:resource="#CUI"/>
+  <rdfs:range rdf:resource="#AUI"/>
+  <rdfs:range rdf:resource="#CUI"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#RN">
+  <rdfs:domain rdf:resource="#AUI"/>
+  <rdfs:domain rdf:resource="#CUI"/>
+  <rdfs:range rdf:resource="#AUI"/>
+  <rdfs:range rdf:resource="#CUI"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T132">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T133">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T134">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T135">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T136">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T137">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T138">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T139">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T140">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T141">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T142">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T143">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T144">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T145">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T146">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T147">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T148">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T149">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T150">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T151">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T152">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T153">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T154">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T155">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T156">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T157">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T158">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T159">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T160">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T161">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T162">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T163">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T164">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T165">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T166">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T172">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T173">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T174">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T175">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T176">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T177">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T178">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T179">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T180">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T182">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T183">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T186">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T187">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T188">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T189">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T193">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T198">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T199">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#T202">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#isa">
+  <rdfs:domain rdf:resource="#SemanticType"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#STY">
+  <rdfs:domain rdf:resource="#CUI"/>
+  <rdfs:range rdf:resource="#SemanticType"/>
+</owl:ObjectProperty>
+
+<owl:Class rdf:about="#UMLSEntity">
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  <owl:equivalentClass>
+    <owl:Class>
+      <owl:unionOf rdf:parseType="Collection">
+        <rdf:Description rdf:about="#CUI"/>
+        <rdf:Description rdf:about="#LUI"/>
+        <rdf:Description rdf:about="#SUI"/>
+        <rdf:Description rdf:about="#AUI"/>
+        <rdf:Description rdf:about="#SemanticType"/>
+      </owl:unionOf>
+    </owl:Class>
+  </owl:equivalentClass>
+</owl:Class>
+
+<owl:Class rdf:about="#CUI">
+  <rdfs:subClassOf rdf:resource="#UMLSEntity"/>
+</owl:Class>
+
+<owl:Class rdf:about="#LUI">
+  <rdfs:subClassOf rdf:resource="#UMLSEntity"/>
+</owl:Class>
+
+<owl:Class rdf:about="#SUI">
+  <rdfs:subClassOf rdf:resource="#UMLSEntity"/>
+</owl:Class>
+
+<owl:Class rdf:about="#AUI">
+  <rdfs:subClassOf rdf:resource="#UMLSEntity"/>
+</owl:Class>
+
+<owl:Class rdf:about="#SemanticType">
+  <rdfs:subClassOf rdf:resource="#UMLSEntity"/>
+</owl:Class>
+
+<owl:AllDisjointClasses>
+  <owl:members rdf:parseType="Collection">
+    <rdf:Description rdf:about="#CUI"/>
+    <rdf:Description rdf:about="#LUI"/>
+    <rdf:Description rdf:about="#SUI"/>
+    <rdf:Description rdf:about="#AUI"/>
+    <rdf:Description rdf:about="#SemanticType"/>
+  </owl:members>
+</owl:AllDisjointClasses>
+
+
+</rdf:RDF>

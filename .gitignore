@@ -1,0 +1,52 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+dcvenv/
+cvenv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Build/package outputs
+build/
+dist/
+*.egg-info/
+
+# Temporary/cache folders
+apicache-py3/
+.cache/
+tmp/
+temp/
+
+# Logs
+*.log
+
+# Generated outputs
+outputs/
+runs/
+artifacts/
+
+# Data policy
+# Keep only small demo/sample data in Git.
+data/raw/
+data/generated/
+data/processed/
