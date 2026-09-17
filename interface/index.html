@@ -1,0 +1,766 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Interactive DDPF Studio mockup for retrospective semantic surveillance analysis."
+    />
+    <title>DDPF Studio · Semantic Surveillance</title>
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="data.js" defer></script>
+    <script src="app.js" defer></script>
+  </head>
+  <body data-theme="dark">
+    <svg class="svg-sprite" aria-hidden="true">
+      <symbol id="icon-grid" viewBox="0 0 24 24">
+        <rect x="3" y="3" width="7" height="7" rx="2"></rect>
+        <rect x="14" y="3" width="7" height="7" rx="2"></rect>
+        <rect x="3" y="14" width="7" height="7" rx="2"></rect>
+        <rect x="14" y="14" width="7" height="7" rx="2"></rect>
+      </symbol>
+      <symbol id="icon-pulse" viewBox="0 0 24 24">
+        <path d="M3 12h4l2.3-6 4.1 12 2.4-6H21"></path>
+      </symbol>
+      <symbol id="icon-cluster" viewBox="0 0 24 24">
+        <circle cx="6" cy="6" r="2.5"></circle>
+        <circle cx="18" cy="7" r="2.5"></circle>
+        <circle cx="12" cy="18" r="2.5"></circle>
+        <path d="M8.2 7.2 15.6 7M7.4 8.2l3.4 7.5M16.8 9.1l-3.4 6.5"></path>
+      </symbol>
+      <symbol id="icon-graph" viewBox="0 0 24 24">
+        <circle cx="5" cy="12" r="2.4"></circle>
+        <circle cx="12" cy="5" r="2.4"></circle>
+        <circle cx="19" cy="12" r="2.4"></circle>
+        <circle cx="12" cy="19" r="2.4"></circle>
+        <path d="m6.8 10.2 3.4-3.4m3.6 0 3.4 3.4m0 3.6-3.4 3.4m-3.6 0-3.4-3.4"></path>
+      </symbol>
+      <symbol id="icon-file" viewBox="0 0 24 24">
+        <path d="M6 3h8l4 4v14H6z"></path>
+        <path d="M14 3v5h5M9 13h6M9 17h6"></path>
+      </symbol>
+      <symbol id="icon-search" viewBox="0 0 24 24">
+        <circle cx="11" cy="11" r="7"></circle>
+        <path d="m20 20-4-4"></path>
+      </symbol>
+      <symbol id="icon-sun" viewBox="0 0 24 24">
+        <circle cx="12" cy="12" r="4"></circle>
+        <path d="M12 2v2m0 16v2M4.9 4.9l1.4 1.4m11.4 11.4 1.4 1.4M2 12h2m16 0h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"></path>
+      </symbol>
+      <symbol id="icon-download" viewBox="0 0 24 24">
+        <path d="M12 3v12m-4-4 4 4 4-4M4 19h16"></path>
+      </symbol>
+      <symbol id="icon-calendar" viewBox="0 0 24 24">
+        <rect x="3" y="5" width="18" height="16" rx="2"></rect>
+        <path d="M8 3v4m8-4v4M3 10h18"></path>
+      </symbol>
+      <symbol id="icon-filter" viewBox="0 0 24 24">
+        <path d="M3 5h18M6 12h12M10 19h4"></path>
+      </symbol>
+      <symbol id="icon-location" viewBox="0 0 24 24">
+        <path d="M20 10c0 5-8 11-8 11S4 15 4 10a8 8 0 1 1 16 0Z"></path>
+        <circle cx="12" cy="10" r="2.5"></circle>
+      </symbol>
+      <symbol id="icon-external" viewBox="0 0 24 24">
+        <path d="M14 4h6v6M20 4l-9 9"></path>
+        <path d="M18 13v6H5V6h6"></path>
+      </symbol>
+      <symbol id="icon-menu" viewBox="0 0 24 24">
+        <path d="M4 7h16M4 12h16M4 17h16"></path>
+      </symbol>
+      <symbol id="icon-close" viewBox="0 0 24 24">
+        <path d="m6 6 12 12M18 6 6 18"></path>
+      </symbol>
+      <symbol id="icon-chevron" viewBox="0 0 24 24">
+        <path d="m9 6 6 6-6 6"></path>
+      </symbol>
+      <symbol id="icon-info" viewBox="0 0 24 24">
+        <circle cx="12" cy="12" r="9"></circle>
+        <path d="M12 11v6M12 7.5v.5"></path>
+      </symbol>
+    </svg>
+
+    <div class="app-shell">
+      <aside class="sidebar" id="sidebar" aria-label="Primary navigation">
+        <div class="brand">
+          <div class="brand-mark" aria-hidden="true">
+            <span></span><span></span><span></span>
+          </div>
+          <div>
+            <strong>DDPF</strong>
+            <span>Studio</span>
+          </div>
+        </div>
+
+        <div class="nav-section-label">DDPF workflow</div>
+        <nav class="nav-list">
+          <button class="nav-item" data-view="description">
+            <svg class="icon"><use href="#icon-graph"></use></svg>
+            <span>Description</span>
+            <span class="nav-step">01</span>
+          </button>
+          <button class="nav-item" data-view="detection">
+            <svg class="icon"><use href="#icon-pulse"></use></svg>
+            <span>Detection</span>
+            <span class="nav-step">02</span>
+          </button>
+          <button class="nav-item" data-view="prediction">
+            <svg class="icon"><use href="#icon-cluster"></use></svg>
+            <span>Prediction</span>
+            <span class="nav-step">03</span>
+          </button>
+          <button class="nav-item active" data-view="results">
+            <svg class="icon"><use href="#icon-grid"></use></svg>
+            <span>Results</span>
+            <span class="nav-step">04</span>
+          </button>
+        </nav>
+
+        <div class="sidebar-note">
+          <div class="demo-badge">Work in progress</div>
+          <p>Interface prototype only. Pipeline actions are not connected yet.</p>
+        </div>
+
+        <div class="sidebar-footer">
+          <div class="avatar" aria-hidden="true">GA</div>
+          <div>
+              <strong>DDPF workspace</strong>
+              <span>Prototype mode</span>
+          </div>
+          <button class="icon-button" aria-label="Workspace options">•••</button>
+        </div>
+      </aside>
+
+      <div class="mobile-scrim" id="mobileScrim"></div>
+
+      <div class="workspace">
+        <header class="topbar">
+          <div class="topbar-left">
+            <button class="icon-button mobile-menu" id="mobileMenu" aria-label="Open navigation">
+              <svg class="icon"><use href="#icon-menu"></use></svg>
+            </button>
+            <div class="breadcrumbs">
+              <span>Projects</span>
+              <span>/</span>
+              <strong id="breadcrumbCurrent">Results</strong>
+            </div>
+          </div>
+          <div class="topbar-actions">
+            <span class="prototype-pill"><i></i>Prototype · WIP</span>
+            <button class="search-button results-only" id="searchButton">
+              <svg class="icon"><use href="#icon-search"></use></svg>
+              <span>Search observations</span>
+              <kbd>⌘ K</kbd>
+            </button>
+            <button class="icon-button" id="themeToggle" aria-label="Toggle colour theme">
+              <svg class="icon"><use href="#icon-sun"></use></svg>
+            </button>
+            <button class="button secondary results-only" id="exportButton">
+              <svg class="icon"><use href="#icon-download"></use></svg>
+              Export view
+            </button>
+            <button class="button primary results-only" id="briefButton">Analyst brief</button>
+          </div>
+        </header>
+
+        <main class="main-content app-view" id="view-description" data-page="description" hidden>
+          <section class="page-heading workflow-page-heading">
+            <div>
+              <div class="eyebrow"><span class="wip-dot"></span>Stage 01 · Description</div>
+              <h1>Build the semantic description</h1>
+              <p>Compose the domain, geographic and propagation knowledge required by the downstream detection workflow.</p>
+            </div>
+            <div class="wip-callout"><strong>Interface prototype</strong><span>Configuration is not executed in this mockup.</span></div>
+          </section>
+
+          <nav class="workflow-progress" aria-label="DDPF workflow stages">
+            <button class="workflow-progress-step active" data-go-view="description"><i>01</i><span><strong>Description</strong><small>Ontology &amp; mappings</small></span></button>
+            <span class="workflow-progress-line"></span>
+            <button class="workflow-progress-step" data-go-view="detection"><i>02</i><span><strong>Detection</strong><small>Observation mining</small></span></button>
+            <span class="workflow-progress-line"></span>
+            <button class="workflow-progress-step" data-go-view="prediction"><i>03</i><span><strong>Prediction</strong><small>Representation &amp; clustering</small></span></button>
+            <span class="workflow-progress-line"></span>
+            <button class="workflow-progress-step" data-go-view="results"><i>04</i><span><strong>Results</strong><small>Analyst dashboard</small></span></button>
+          </nav>
+
+          <section class="studio-grid studio-grid-description">
+            <article class="panel studio-panel ontology-panel">
+              <header class="panel-header">
+                <div><h2>Knowledge resources</h2><p>Ontology components used to construct BioPropaPhenKG+</p></div>
+                <span class="section-status">3 configured</span>
+              </header>
+              <div class="resource-list">
+                <div class="resource-card">
+                  <span class="resource-icon violet"><svg class="icon"><use href="#icon-graph"></use></svg></span>
+                  <div><strong>PropaPhen</strong><small>Propagation and event ontology · OWL/RDF</small></div>
+                  <span class="resource-state ready">Ready</span>
+                  <button class="icon-button mock-action" aria-label="Configure PropaPhen">•••</button>
+                </div>
+                <div class="resource-card">
+                  <span class="resource-icon blue"><svg class="icon"><use href="#icon-pulse"></use></svg></span>
+                  <div><strong>UMLS Semantic Network</strong><small>Biomedical concepts and semantic types · 2023AB</small></div>
+                  <span class="resource-state ready">Ready</span>
+                  <button class="icon-button mock-action" aria-label="Configure UMLS">•••</button>
+                </div>
+                <div class="resource-card">
+                  <span class="resource-icon green"><svg class="icon"><use href="#icon-location"></use></svg></span>
+                  <div><strong>WorldKG / OpenStreetMap</strong><small>Geographic concepts and place hierarchy</small></div>
+                  <span class="resource-state draft">Draft</span>
+                  <button class="icon-button mock-action" aria-label="Configure WorldKG">•••</button>
+                </div>
+                <button class="add-resource mock-action"><span>＋</span>Add ontology or mapping resource</button>
+              </div>
+            </article>
+
+            <article class="panel studio-panel parameters-panel">
+              <header class="panel-header"><div><h2>Description parameters</h2><p>Ontology composition and validation settings</p></div></header>
+              <div class="parameter-form">
+                <label class="field-label">Composition strategy<select><option>OWL graph union + explicit mappings</option><option>Import closure</option><option>Modular merge</option></select></label>
+                <label class="field-label">Base namespace<input value="https://w3id.org/ddpf/biopropaphenkg/" /></label>
+                <div class="field-row">
+                  <label class="field-label">Reasoner<select><option>HermiT</option><option>Pellet</option><option>None</option></select></label>
+                  <label class="field-label">Output format<select><option>RDF/XML</option><option>Turtle</option><option>JSON-LD</option></select></label>
+                </div>
+                <label class="switch-row"><span><strong>Validate ontology consistency</strong><small>Check class hierarchy and unsatisfiable concepts</small></span><input type="checkbox" checked /><i></i></label>
+                <label class="switch-row"><span><strong>LLM-assisted suggestions</strong><small>Experimental · suggestions do not modify the graph automatically</small></span><input type="checkbox" /><i></i></label>
+              </div>
+            </article>
+
+            <article class="panel studio-panel mapping-panel">
+              <header class="panel-header">
+                <div><h2>Ontology mapping workspace</h2><p>Preview correspondences before generating the composed knowledge graph</p></div>
+                <div class="mini-tabs"><button class="active">Classes</button><button>Properties</button><button>Validation</button></div>
+              </header>
+              <div class="mapping-workspace">
+                <div class="mapping-column">
+                  <span class="mapping-column-title">Biomedical source</span>
+                  <button class="mapping-node source active"><small>UMLS · T047</small><strong>Disease or Syndrome</strong></button>
+                  <button class="mapping-node source"><small>UMLS · T033</small><strong>Finding</strong></button>
+                  <button class="mapping-node source"><small>UMLS · T184</small><strong>Sign or Symptom</strong></button>
+                </div>
+                <div class="mapping-rules">
+                  <span>subClassOf</span><i></i>
+                  <span>equivalentClass</span><i></i>
+                  <span>hasSemanticType</span><i></i>
+                  <div class="mapping-rule-card"><small>Selected rule</small><strong>UMLS concept → PropaPhen Entity</strong><code>owl:equivalentClass</code></div>
+                </div>
+                <div class="mapping-column">
+                  <span class="mapping-column-title">DDPF target</span>
+                  <button class="mapping-node target active"><small>PropaPhen</small><strong>Entity</strong></button>
+                  <button class="mapping-node target"><small>PropaPhen</small><strong>Phenomenon</strong></button>
+                  <button class="mapping-node target"><small>BioPropaPhen</small><strong>Biomedical Entity</strong></button>
+                </div>
+              </div>
+              <footer class="studio-panel-footer">
+                <span><svg class="icon"><use href="#icon-info"></use></svg>Mappings shown here are illustrative configuration proposals.</span>
+                <div><button class="button secondary mock-action">Validate mappings</button><button class="button primary mock-action">Generate BioPropaPhenKG+</button></div>
+              </footer>
+            </article>
+          </section>
+        </main>
+
+        <main class="main-content app-view" id="view-detection" data-page="detection" hidden>
+          <section class="page-heading workflow-page-heading">
+            <div>
+              <div class="eyebrow"><span class="wip-dot"></span>Stage 02 · Detection</div>
+              <h1>Configure observation mining</h1>
+              <p>Upload heterogeneous source datasets and define how biomedical, geographic and temporal observations should be extracted.</p>
+            </div>
+            <div class="wip-callout"><strong>Interface prototype</strong><span>Uploaded files remain local to the visual mockup.</span></div>
+          </section>
+
+          <nav class="workflow-progress" aria-label="DDPF workflow stages">
+            <button class="workflow-progress-step complete" data-go-view="description"><i>✓</i><span><strong>Description</strong><small>Ontology &amp; mappings</small></span></button>
+            <span class="workflow-progress-line complete"></span>
+            <button class="workflow-progress-step active" data-go-view="detection"><i>02</i><span><strong>Detection</strong><small>Observation mining</small></span></button>
+            <span class="workflow-progress-line"></span>
+            <button class="workflow-progress-step" data-go-view="prediction"><i>03</i><span><strong>Prediction</strong><small>Representation &amp; clustering</small></span></button>
+            <span class="workflow-progress-line"></span>
+            <button class="workflow-progress-step" data-go-view="results"><i>04</i><span><strong>Results</strong><small>Analyst dashboard</small></span></button>
+          </nav>
+
+          <section class="studio-grid detection-top-grid">
+            <article class="panel studio-panel upload-panel">
+              <header class="panel-header"><div><h2>Experiment datasets</h2><p>Expected archive: datasets.zip</p></div><span class="section-status muted-status">Mock upload</span></header>
+              <label class="upload-zone" for="datasetUpload">
+                <input id="datasetUpload" type="file" accept=".zip,application/zip" />
+                <span class="upload-icon"><svg class="icon"><use href="#icon-download"></use></svg></span>
+                <strong id="uploadTitle">Drop datasets.zip here</strong>
+                <span id="uploadSubtitle">or browse a local ZIP archive · no file is transmitted</span>
+                <small>Suggested folders: news/ · medical/ · social/ · metadata/</small>
+              </label>
+              <div class="archive-hint"><svg class="icon"><use href="#icon-info"></use></svg><span>The future implementation should validate checksums, licences, schemas and personally identifiable information before ingestion.</span></div>
+            </article>
+
+            <article class="panel studio-panel dataset-panel">
+              <header class="panel-header"><div><h2>Detected source streams</h2><p>Illustrative archive inspection</p></div><span class="section-status">6 streams</span></header>
+              <div class="dataset-table-wrap">
+                <table class="studio-table">
+                  <thead><tr><th>Stream</th><th>Type</th><th>Language</th><th>Unit</th><th>Status</th></tr></thead>
+                  <tbody>
+                    <tr><td>who_updates</td><td>Official</td><td>EN</td><td>Document</td><td><span class="table-state ready">Ready</span></td></tr>
+                    <tr><td>pubmed_abstracts</td><td>Medical</td><td>EN</td><td>Document</td><td><span class="table-state ready">Ready</span></td></tr>
+                    <tr><td>online_news</td><td>News</td><td>EN/FR</td><td>Paragraph</td><td><span class="table-state ready">Ready</span></td></tr>
+                    <tr><td>social_posts</td><td>Social</td><td>Multi</td><td>Sentence</td><td><span class="table-state review">Review</span></td></tr>
+                  </tbody>
+                </table>
+              </div>
+            </article>
+          </section>
+
+          <section class="studio-grid detection-config-grid">
+            <article class="panel studio-panel">
+              <header class="panel-header"><div><h2>Extraction algorithm</h2><p>Gazetteer matching and relation discovery</p></div></header>
+              <div class="choice-card-list">
+                <label class="choice-card selected"><input type="radio" name="extraction" checked /><span><strong>GATE ANNIE + DDPF rules</strong><small>Token sequence matching with biomedical and geographic gazetteers</small></span><i>Selected</i></label>
+                <label class="choice-card"><input type="radio" name="extraction" /><span><strong>Dictionary-only matching</strong><small>Fast lexical baseline without relation rules</small></span><i>Baseline</i></label>
+                <label class="choice-card disabled"><input type="radio" name="extraction" disabled /><span><strong>Neural NER + relation extraction</strong><small>Planned extension for learned extraction models</small></span><i>Planned</i></label>
+              </div>
+            </article>
+
+            <article class="panel studio-panel">
+              <header class="panel-header"><div><h2>Observation units</h2><p>Generate parallel granularities</p></div></header>
+              <div class="parameter-form compact-form">
+                <label class="check-row"><input type="checkbox" checked /><span><strong>Document</strong><small>One unit per source record</small></span></label>
+                <label class="check-row"><input type="checkbox" checked /><span><strong>Paragraph</strong><small>Preserve local textual context</small></span></label>
+                <label class="check-row"><input type="checkbox" checked /><span><strong>Sentence</strong><small>Most specific observation unit</small></span></label>
+                <label class="field-label">Maximum concepts per observation<input type="number" value="25" min="1" /></label>
+              </div>
+            </article>
+
+            <article class="panel studio-panel thresholds-panel">
+              <header class="panel-header"><div><h2>Source-specific thresholds</h2><p>Minimum biomedical × geographic matches</p></div><span class="section-status muted-status">Editable</span></header>
+              <table class="studio-table parameter-table">
+                <thead><tr><th>Source family</th><th>COVID-19</th><th>Mpox</th><th>Deduplication</th></tr></thead>
+                <tbody>
+                  <tr><td>Online news</td><td><input type="number" value="5" /></td><td><input type="number" value="5" /></td><td><select><option>URL + text</option></select></td></tr>
+                  <tr><td>Medical literature</td><td><input type="number" value="8" /></td><td><input type="number" value="3" /></td><td><select><option>DOI + title</option></select></td></tr>
+                  <tr><td>Social media</td><td><input type="number" value="10" /></td><td><input type="number" value="10" /></td><td><select><option>Exact text</option></select></td></tr>
+                </tbody>
+              </table>
+            </article>
+          </section>
+
+          <article class="panel studio-panel detection-summary-panel">
+            <header class="panel-header"><div><h2>Entity linking and observation output</h2><p>Proposed configuration for the mock run</p></div></header>
+            <div class="summary-strip">
+              <div><span>Biomedical linking</span><strong>UMLS CUI · exact + normalised label</strong></div>
+              <div><span>Geographic linking</span><strong>WorldKG / OSM place hierarchy</strong></div>
+              <div><span>Ambiguity</span><strong>Context + geographic containment</strong></div>
+              <div><span>Unmapped mentions</span><strong>Retain with provenance flag</strong></div>
+            </div>
+            <footer class="studio-panel-footer"><span><svg class="icon"><use href="#icon-info"></use></svg>Thresholds reproduce the historical notebook configuration and remain experiment-specific.</span><div><button class="button secondary mock-action">Preview 10 records</button><button class="button primary mock-action">Run detection</button></div></footer>
+          </article>
+        </main>
+
+        <main class="main-content app-view" id="view-prediction" data-page="prediction" hidden>
+          <section class="page-heading workflow-page-heading">
+            <div>
+              <div class="eyebrow"><span class="wip-dot"></span>Stage 03 · Prediction</div>
+              <h1>Design the clustering experiment</h1>
+              <p>Select observation representations, clustering algorithms and evaluation settings for a controlled retrospective comparison.</p>
+            </div>
+            <div class="wip-callout"><strong>Interface prototype</strong><span>No model or clustering job is launched.</span></div>
+          </section>
+
+          <nav class="workflow-progress" aria-label="DDPF workflow stages">
+            <button class="workflow-progress-step complete" data-go-view="description"><i>✓</i><span><strong>Description</strong><small>Ontology &amp; mappings</small></span></button>
+            <span class="workflow-progress-line complete"></span>
+            <button class="workflow-progress-step complete" data-go-view="detection"><i>✓</i><span><strong>Detection</strong><small>Observation mining</small></span></button>
+            <span class="workflow-progress-line complete"></span>
+            <button class="workflow-progress-step active" data-go-view="prediction"><i>03</i><span><strong>Prediction</strong><small>Representation &amp; clustering</small></span></button>
+            <span class="workflow-progress-line"></span>
+            <button class="workflow-progress-step" data-go-view="results"><i>04</i><span><strong>Results</strong><small>Analyst dashboard</small></span></button>
+          </nav>
+
+          <section class="panel studio-panel input-summary-panel">
+            <div class="input-summary-icon"><svg class="icon"><use href="#icon-file"></use></svg></div>
+            <div><span>Prediction input</span><strong>536 illustrative observations · document, paragraph and sentence</strong><small>BioPropaPhenKG+ snapshot · Zenodo 10987743</small></div>
+            <button class="button secondary mock-action">Change input</button>
+          </section>
+
+          <section class="studio-grid prediction-grid">
+            <article class="panel studio-panel representations-panel">
+              <header class="panel-header"><div><h2>Representation pipelines</h2><p>Select one or more pipelines to compare</p></div><span class="section-status" id="selectedPipelineCount">3 selected</span></header>
+              <div class="representation-grid">
+                <button class="representation-card selected" data-pipeline="entity"><span class="representation-check">✓</span><i class="representation-icon">E</i><strong>Entity</strong><small>Raw extracted entity labels</small><em>Lexical baseline</em></button>
+                <button class="representation-card" data-pipeline="concept"><span class="representation-check">+</span><i class="representation-icon">C</i><strong>Concept</strong><small>Individual ontology concepts</small><em>Symbolic</em></button>
+                <button class="representation-card selected" data-pipeline="concepts"><span class="representation-check">✓</span><i class="representation-icon">C+</i><strong>Concepts</strong><small>Combined concept context</small><em>Symbolic</em></button>
+                <button class="representation-card selected" data-pipeline="biost"><span class="representation-check">✓</span><i class="representation-icon">B</i><strong>BioSTransformers</strong><small>Biomedical sentence embeddings</small><em>Neural</em></button>
+                <button class="representation-card" data-pipeline="llm"><span class="representation-check">+</span><i class="representation-icon">L</i><strong>LLM embeddings</strong><small>Precomputed encoder matrices</small><em>Journal extension</em></button>
+                <button class="representation-card" data-pipeline="node2vec"><span class="representation-check">+</span><i class="representation-icon">N2V</i><strong>Node2Vec</strong><small>Graph pipeline-level baseline</small><em>Separate protocol</em></button>
+              </div>
+            </article>
+
+            <article class="panel studio-panel model-panel">
+              <header class="panel-header"><div><h2>Encoder parameters</h2><p>Applied to neural representations</p></div></header>
+              <div class="parameter-form">
+                <label class="field-label">Model checkpoint<select><option>Biomedical encoder checkpoint</option><option>SapBERT-style baseline</option><option>Sentence-transformer baseline</option><option>Custom local checkpoint</option></select></label>
+                <div class="field-row"><label class="field-label">Pooling<select><option>Mean pooling</option><option>CLS token</option><option>Max pooling</option></select></label><label class="field-label">Dimension<input value="768" /></label></div>
+                <div class="field-row"><label class="field-label">Maximum length<input type="number" value="512" /></label><label class="field-label">Batch size<input type="number" value="16" /></label></div>
+                <label class="switch-row"><span><strong>L2 normalisation</strong><small>Normalise vectors before similarity</small></span><input type="checkbox" checked /><i></i></label>
+                <label class="field-label">Input template<select><option>[ENTITY] + [LOCATION] + [DATE]</option><option>Raw observation text</option><option>Concept sequence</option></select></label>
+              </div>
+            </article>
+
+            <article class="panel studio-panel clustering-panel">
+              <header class="panel-header"><div><h2>Clustering algorithm</h2><p>Main controlled evaluation protocol</p></div></header>
+              <div class="algorithm-tabs"><button class="active">K-Medoids</button><button>K-Means</button><button>Agglomerative</button><button>HDBSCAN</button></div>
+              <div class="parameter-form clustering-form">
+                <div class="field-row"><label class="field-label">Number of clusters<input type="number" value="2" /></label><label class="field-label">Random seed<input type="number" value="42" /></label></div>
+                <label class="field-label">Distance input<select><option>Precomputed distance matrix</option><option>Embedding vectors</option></select></label>
+                <label class="formula-row"><span>Distance conversion</span><code>D = 1 − S</code></label>
+                <label class="formula-row"><span>Scaling</span><code>Global min–max [0, 1]</code></label>
+                <label class="field-label">Initialisation<select><option>k-medoids++</option><option>Random medoids</option><option>Heuristic</option></select></label>
+              </div>
+            </article>
+
+            <article class="panel studio-panel evaluation-panel">
+              <header class="panel-header"><div><h2>Evaluation</h2><p>Metrics and reporting protocol</p></div></header>
+              <div class="metric-choice-list">
+                <label><input type="checkbox" checked /><span>Support-weighted F1</span><small>Primary</small></label>
+                <label><input type="checkbox" checked /><span>Adjusted Rand Index</span><small>Secondary</small></label>
+                <label><input type="checkbox" checked /><span>Normalised mutual information</span><small>Secondary</small></label>
+                <label><input type="checkbox" checked /><span>Silhouette score</span><small>Internal</small></label>
+              </div>
+              <div class="parameter-form compact-form">
+                <div class="field-row"><label class="field-label">Repeated runs<input type="number" value="1" /></label><label class="field-label">Label matching<select><option>Best binary permutation</option><option>Hungarian assignment</option></select></label></div>
+              </div>
+              <div class="warning-box"><svg class="icon"><use href="#icon-info"></use></svg><span>One run means no standard deviation or confidence interval can be claimed.</span></div>
+            </article>
+          </section>
+
+          <article class="panel studio-panel run-panel">
+            <div><span class="eyebrow plain">Experiment queue</span><h2>3 selected pipelines × 3 granularities</h2><p>Estimated interface preview: 9 configurations. Execution is intentionally disabled.</p></div>
+            <div class="run-tags"><span>k = 2</span><span>seed 42</span><span>weighted F1</span><span>retrospective labels</span></div>
+            <button class="button primary mock-action">Run comparison <span>→</span></button>
+          </article>
+
+          <div class="node2vec-note"><strong>Node2Vec protocol note</strong><span>The historical Node2Vec branch uses aggregated graph embeddings → t-SNE (seed 99) → K-Means (seed 0). It is presented as a pipeline-level baseline, not an encoder-only comparison.</span></div>
+        </main>
+
+        <main class="main-content app-view active" id="view-results" data-page="results">
+          <nav class="workflow-progress results-progress" aria-label="DDPF workflow stages">
+            <button class="workflow-progress-step complete" data-go-view="description"><i>✓</i><span><strong>Description</strong><small>Ontology &amp; mappings</small></span></button>
+            <span class="workflow-progress-line complete"></span>
+            <button class="workflow-progress-step complete" data-go-view="detection"><i>✓</i><span><strong>Detection</strong><small>Observation mining</small></span></button>
+            <span class="workflow-progress-line complete"></span>
+            <button class="workflow-progress-step complete" data-go-view="prediction"><i>✓</i><span><strong>Prediction</strong><small>Representation &amp; clustering</small></span></button>
+            <span class="workflow-progress-line complete"></span>
+            <button class="workflow-progress-step active" data-go-view="results"><i>04</i><span><strong>Results</strong><small>Analyst dashboard</small></span></button>
+          </nav>
+          <section class="page-heading">
+            <div>
+              <div class="eyebrow">
+                <span class="wip-dot"></span>
+                Stage 04 · Results · Work in progress
+              </div>
+              <h1>Health-event landscape</h1>
+              <p>
+                Explore how heterogeneous observations are organised by biomedical meaning,
+                place, time and provenance.
+              </p>
+            </div>
+            <div class="snapshot-card">
+              <div class="snapshot-icon">
+                <svg class="icon"><use href="#icon-calendar"></use></svg>
+              </div>
+              <div>
+                <span>Analysis snapshot</span>
+                <strong>Nov 2019 – Aug 2022</strong>
+              </div>
+              <svg class="icon muted"><use href="#icon-chevron"></use></svg>
+            </div>
+          </section>
+
+          <section class="filter-bar" aria-label="Dashboard filters">
+            <div class="filter-title">
+              <svg class="icon"><use href="#icon-filter"></use></svg>
+              <span>Filters</span>
+            </div>
+            <div class="segmented" aria-label="Disease filter">
+              <button class="segment active" data-disease="all">All events</button>
+              <button class="segment" data-disease="covid">COVID-19</button>
+              <button class="segment" data-disease="mpox">Mpox</button>
+            </div>
+            <label class="select-field">
+              <span class="sr-only">Source</span>
+              <select id="sourceFilter">
+                <option value="all">All sources</option>
+              </select>
+            </label>
+            <label class="select-field">
+              <span class="sr-only">Granularity</span>
+              <select id="granularityFilter">
+                <option value="all">All granularities</option>
+                <option value="Document">Document</option>
+                <option value="Paragraph">Paragraph</option>
+                <option value="Sentence">Sentence</option>
+              </select>
+            </label>
+            <button class="text-button" id="resetFilters">Reset</button>
+            <div class="filter-result" id="filterResult">536 observations</div>
+          </section>
+
+          <section class="metrics-grid" aria-label="Summary metrics">
+            <article class="metric-card">
+              <div class="metric-top">
+                <span>Observations</span>
+                <span class="metric-icon violet"><svg class="icon"><use href="#icon-pulse"></use></svg></span>
+              </div>
+              <strong id="metricObservations">536</strong>
+              <div class="metric-meta"><span class="trend up">↗ 18.4%</span> across the selected period</div>
+            </article>
+            <article class="metric-card">
+              <div class="metric-top">
+                <span>Source streams</span>
+                <span class="metric-icon blue"><svg class="icon"><use href="#icon-file"></use></svg></span>
+              </div>
+              <strong id="metricSources">6</strong>
+              <div class="metric-meta">news, medical and social signals</div>
+            </article>
+            <article class="metric-card">
+              <div class="metric-top">
+                <span>Geographic entities</span>
+                <span class="metric-icon green"><svg class="icon"><use href="#icon-location"></use></svg></span>
+              </div>
+              <strong id="metricLocations">12</strong>
+              <div class="metric-meta">linked to WorldKG / OSM concepts</div>
+            </article>
+            <article class="metric-card accent-card">
+              <div class="metric-top">
+                <span>Semantic clusters</span>
+                <span class="metric-icon coral"><svg class="icon"><use href="#icon-cluster"></use></svg></span>
+              </div>
+              <strong id="metricClusters">2</strong>
+              <div class="metric-meta"><span class="trend stable">Retrospective labels</span></div>
+            </article>
+          </section>
+
+          <section class="dashboard-grid primary-grid">
+            <article class="panel map-panel" id="observations">
+              <header class="panel-header">
+                <div>
+                  <h2>Geographic distribution</h2>
+                  <p>Observation volume by linked location</p>
+                </div>
+                <div class="legend compact">
+                  <span><i class="dot covid"></i>COVID-19</span>
+                  <span><i class="dot mpox"></i>Mpox</span>
+                </div>
+              </header>
+              <div class="map-stage" id="mapStage" aria-label="Illustrative world map of observations">
+                <svg class="world-map" viewBox="0 0 760 390" role="img" aria-label="Observation locations">
+                  <defs>
+                    <pattern id="gridPattern" width="36" height="36" patternUnits="userSpaceOnUse">
+                      <path d="M36 0H0V36" fill="none" class="map-grid-line"></path>
+                    </pattern>
+                    <filter id="softGlow">
+                      <feGaussianBlur stdDeviation="7"></feGaussianBlur>
+                    </filter>
+                  </defs>
+                  <rect width="760" height="390" fill="url(#gridPattern)"></rect>
+                  <g class="continents">
+                    <path d="M70 92 115 54 180 47 225 67 246 101 220 122 191 127 178 155 146 165 134 205 105 190 91 151 59 132Z"></path>
+                    <path d="m206 211 35 25 18 46-10 67-28 33-17-46-14-54-22-37Z"></path>
+                    <path d="m325 77 39-26 65 4 30 21 58-5 64 20 73 6 47 38-25 26-56-3-38 18-47-6-28-30-41 2-35-24-48 10-39-18Z"></path>
+                    <path d="m381 153 60 4 42 35 13 56-30 76-43 25-20-53-28-42-30-50Z"></path>
+                    <path d="m632 275 38-24 47 21 10 36-33 26-52-13Z"></path>
+                    <path d="m302 86 18-19 17 15-7 25-24 3Z"></path>
+                    <path d="m713 177 13-11 14 7-6 15Z"></path>
+                  </g>
+                  <g id="mapMarkers"></g>
+                </svg>
+                <div class="map-scale">
+                  <span>Low</span><i></i><span>High volume</span>
+                </div>
+                <div class="map-tooltip" id="mapTooltip" role="status"></div>
+              </div>
+            </article>
+
+            <article class="panel timeline-panel">
+              <header class="panel-header">
+                <div>
+                  <h2>Observation timeline</h2>
+                  <p>Normalised volume across the archived period</p>
+                </div>
+                <button class="panel-action" aria-label="Timeline information" data-tooltip="Illustrative monthly aggregation">
+                  <svg class="icon"><use href="#icon-info"></use></svg>
+                </button>
+              </header>
+              <div class="timeline-chart" id="timelineChart" aria-label="Timeline chart"></div>
+              <div class="timeline-foot">
+                <div><i class="dot covid"></i><span>COVID-19</span><strong id="covidTimelineTotal">339</strong></div>
+                <div><i class="dot mpox"></i><span>Mpox</span><strong id="mpoxTimelineTotal">197</strong></div>
+              </div>
+            </article>
+
+            <article class="panel signals-panel">
+              <header class="panel-header">
+                <div>
+                  <h2>Priority observations</h2>
+                  <p>Ranked for analyst inspection</p>
+                </div>
+                <span class="live-pill"><i></i>Ready</span>
+              </header>
+              <div class="signal-list" id="signalList"></div>
+              <button class="panel-link" id="showAllSignals">View all observations <span>→</span></button>
+            </article>
+          </section>
+
+          <section class="dashboard-grid secondary-grid">
+            <article class="panel cluster-panel" id="clusters">
+              <header class="panel-header cluster-header">
+                <div>
+                  <h2>Semantic organisation</h2>
+                  <p>Two-dimensional projection for qualitative exploration</p>
+                </div>
+                <div class="mini-tabs" aria-label="Representation level">
+                  <button data-layer="entity">Entity</button>
+                  <button data-layer="concept">Concept</button>
+                  <button class="active" data-layer="concepts">Concepts</button>
+                </div>
+              </header>
+              <div class="cluster-chart" id="clusterChart" aria-label="Qualitative embedding projection"></div>
+              <footer class="panel-footer">
+                <span><svg class="icon"><use href="#icon-info"></use></svg>Projection is qualitative, not primary evidence.</span>
+                <span id="clusterSelection">All clusters visible</span>
+              </footer>
+            </article>
+
+            <article class="panel inspector-panel">
+              <header class="panel-header">
+                <div>
+                  <div class="inspector-label">Selected observation</div>
+                  <h2 id="detailTitle">Respiratory syndrome reports increase</h2>
+                </div>
+                <span class="confidence-pill" id="detailConfidence">94% match</span>
+              </header>
+              <div class="detail-meta" id="detailMeta"></div>
+              <blockquote id="detailExcerpt"></blockquote>
+              <div class="detail-section">
+                <span class="detail-heading">Biomedical entities</span>
+                <div class="tag-list" id="detailEntities"></div>
+              </div>
+              <div class="detail-section">
+                <span class="detail-heading">Concept path</span>
+                <div class="concept-path" id="detailConceptPath"></div>
+              </div>
+              <div class="provenance-row">
+                <div>
+                  <span>Provenance</span>
+                  <strong id="detailProvenance">Archived news source</strong>
+                </div>
+                <button class="icon-button" aria-label="Open provenance record">
+                  <svg class="icon"><use href="#icon-external"></use></svg>
+                </button>
+              </div>
+            </article>
+          </section>
+
+          <section class="dashboard-grid tertiary-grid">
+            <article class="panel source-panel">
+              <header class="panel-header">
+                <div>
+                  <h2>Source composition</h2>
+                  <p>Filtered observation volume by stream</p>
+                </div>
+              </header>
+              <div class="source-bars" id="sourceBars"></div>
+            </article>
+
+            <article class="panel pipeline-panel" id="knowledge">
+              <header class="panel-header">
+                <div>
+                  <h2>Pipeline trace</h2>
+                  <p>From knowledge resources to analyst-facing clusters</p>
+                </div>
+                <span class="snapshot-tag">Zenodo snapshot</span>
+              </header>
+              <div class="pipeline-flow">
+                <div class="pipeline-step complete">
+                  <span>01</span>
+                  <div><strong>Description</strong><small>Ontology composition</small></div>
+                  <i>✓</i>
+                </div>
+                <div class="pipeline-connector"><span></span></div>
+                <div class="pipeline-step complete">
+                  <span>02</span>
+                  <div><strong>Detection</strong><small>Observation mining</small></div>
+                  <i>✓</i>
+                </div>
+                <div class="pipeline-connector"><span></span></div>
+                <div class="pipeline-step active">
+                  <span>03</span>
+                  <div><strong>Prediction</strong><small>Semantic clustering</small></div>
+                  <i>●</i>
+                </div>
+              </div>
+            </article>
+          </section>
+
+          <section class="repro-card" id="provenance">
+            <div class="repro-icon"><svg class="icon"><use href="#icon-file"></use></svg></div>
+            <div>
+              <span class="eyebrow plain">Reproducibility record</span>
+              <h2>Every view should remain traceable to its experiment inputs.</h2>
+              <p>Data snapshot, representation, clustering configuration and provenance stay attached to the analysis.</p>
+            </div>
+            <dl>
+              <div><dt>Snapshot</dt><dd>Zenodo 10987743</dd></div>
+              <div><dt>Clustering</dt><dd>K-Medoids · k = 2</dd></div>
+              <div><dt>Random seed</dt><dd>42</dd></div>
+              <div><dt>Mode</dt><dd>Retrospective</dd></div>
+            </dl>
+          </section>
+
+          <footer class="page-footer">
+            <span>DDPF Studio · Interface mockup</span>
+            <span>Illustrative data — not for clinical or operational decision-making</span>
+          </footer>
+        </main>
+      </div>
+    </div>
+
+    <div class="modal-backdrop" id="briefModal" aria-hidden="true">
+      <section class="modal" role="dialog" aria-modal="true" aria-labelledby="briefTitle">
+        <header>
+          <div>
+            <span class="eyebrow plain">Generated from the current view</span>
+            <h2 id="briefTitle">Analyst brief</h2>
+          </div>
+          <button class="icon-button" id="closeBrief" aria-label="Close analyst brief">
+            <svg class="icon"><use href="#icon-close"></use></svg>
+          </button>
+        </header>
+        <div class="brief-summary" id="briefSummary"></div>
+        <div class="brief-callout">
+          <svg class="icon"><use href="#icon-info"></use></svg>
+          <p>
+            This mockup organises already collected observations. It does not claim real-time
+            outbreak detection, causal inference or clinical validation.
+          </p>
+        </div>
+        <footer>
+          <button class="button secondary" id="copyBrief">Copy summary</button>
+          <button class="button primary" id="closeBriefFooter">Done</button>
+        </footer>
+      </section>
+    </div>
+
+    <div class="command-backdrop" id="commandPalette" aria-hidden="true">
+      <section class="command-palette" role="dialog" aria-modal="true" aria-labelledby="searchLabel">
+        <label id="searchLabel" for="commandInput">
+          <svg class="icon"><use href="#icon-search"></use></svg>
+          <input id="commandInput" type="search" placeholder="Search titles, locations or entities…" autocomplete="off" />
+          <kbd>ESC</kbd>
+        </label>
+        <div class="command-results" id="commandResults"></div>
+      </section>
+    </div>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  </body>
+</html>
