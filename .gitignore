@@ -1,5 +1,4 @@
 data/
-*.jsonl
 .venv
 
 # KBS Journal generated checkpoints, full prompts, API traces and experiment logs

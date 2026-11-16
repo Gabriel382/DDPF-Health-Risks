@@ -1,0 +1,4 @@
+{"parent_id":"SYN-001","child_id":"SYN-002","label":"same_event","basis":"synthetic_only","note":"Not usable for measured real-world Edge F1"}
+{"parent_id":"SYN-001","child_id":"SYN-003","label":"documented_continuation","basis":"synthetic_only","note":"Not usable for measured real-world Edge F1"}
+{"parent_id":"SYN-003","child_id":"SYN-005","label":"documented_continuation","basis":"synthetic_only","note":"Not usable for measured real-world Edge F1"}
+{"parent_id":"SYN-001","child_id":"SYN-004","label":"no_relation","basis":"synthetic_only","note":"Not usable for measured real-world Edge F1"}
