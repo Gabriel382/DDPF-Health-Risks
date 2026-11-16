@@ -1,125 +1,50 @@
-# PreDiViD: Aggregate Temporal Trajectory Study (M1–M4)
+# PreDiViD Temporal Trajectory V4: prevent Ollama output truncation
 
-This self-contained drop-in extends the existing repository after
-`build_weekly_episodes.py`. It **does not modify** Neo4j, Prediction, or the
-documentary Story Forest code.
+V3 passed the standalone native Ollama JSON probe but failed on a real benchmark example with `Ollama output truncated at num_predict=192`. This **is not a transport timeout**, and neither Neo4j nor the weekly dataset needs rebuilding.
 
-## Scientific scope
+## What V4 changes
 
-- Source: reconstructed `:isReported` aggregate country-week snapshots from
-  the BioPropaPhenKG (COVID-19 and Mpox).
-- Observed result: whether the **next reported snapshot value** is higher,
-  equal, or lower than the current snapshot.
-- This task is **NOT** incidence estimation, epidemiological transmission,
-  event-link truth, or the original Story Forest paper's documentary story trees.
-- Data must be ordered and consecutive weekly. The program fails on gaps.
-- No target week's value is passed to the methods. An explicit chronological
-  holdout starts on 2024-01-01 by default.
-- Previous country-source concepts from `hasPresence` are static, with their
-  collection dates retained, not interpreted as weekly observations.
+- Requests **one classification only**, e.g. `{"prediction":"flat"}`; no natural-language `reason` in the generation request. The `reason` field in the saved cache is consequently empty and should not be interpreted as an explanation.
+- Keeps `think: false`, `format: "json"`, `stream: false`, and direct local Ollama API `/api/chat`.
+- On `done_reason: "length"`, discards that response and retries automatically with doubled output token budget (256 -> 512 -> 1024 by default). Even an apparently parseable truncated response is discarded.
+- Never saves partial, invalid, or failed responses. Completed predictions are flushed and cached individually.
+- Uses **separate V4 output directory** and a prompt/settings cache signature, so it does not mix V2/V3 outputs with V4 outputs.
+- Keeps chronological train/holdout splits, M1 baseline, M2 noKG vs staticKG ablation, and shared, disease-balanced M3/M4 selection from V3.
 
-## Methods
+**Important:** V4 has passed **12 mocked/synthetic local tests**. It has not been executed against your remote Ollama or actual local Neo4j data; that requires the commands below.
 
-| ID | Description | Evaluation coverage |
-| --- | --- | --- |
-| M1 | Persistence of the last observed snapshot change | Full chronological holdout |
-| M2 | k-nearest previous-week patterns + optional static KG concept Jaccard context | Full chronological holdout |
-| M3 | LLM predicts next snapshot change from historical values only | Deterministic bounded sample |
-| M4 | LLM + static KG concepts + typed/provenance input guard | Same bounded sample |
-
-M4 is **not** an OWL reasoner: it only implements explicit schema and provenance
-checks. It must not be presented as formal BioPropaPhen OWL validation. That
-requires a separate implementation and benchmark.
-
-Negative reporting corrections are labeled `revision`, preserved in outputs,
-and **excluded** from the headline two-class increase-vs-flat F1 (counts
-reported). Abstentions (`unknown`) lower coverage and are counted as wrong
-in unconditional class F1.
-
-## Run in your existing `predivid2` tmux
+## Install and smoke-test (in your repository root)
 
 ```bash
-cd /data/dataRapide/gabriel/DDPF-Health-Risks
-source .venv/bin/activate
-unzip -o PreDiViD_Temporal_Trajectory_Study.zip
+unzip -o PreDiViD_Temporal_LLM_V4.zip
+python -m unittest discover -s tests/realdata -p 'test_temporal_trajectory_v4.py' -v
 
-python -m pip install numpy python-dotenv
-
-python -m unittest discover -s tests/realdata     -p 'test_temporal_trajectory_study.py' -v
-
-# Preflight: M1 and M2 only. No calls to Ollama.
-python -u scripts/realdata/temporal_trajectory_study.py --skip-llm     --max-llm-per-disease 5     --output outputs/realdata/temporal_trajectory_study
-
-# Bounded live test, up to 5 examples per disease, M3 and M4
 mkdir -p logs
 set -o pipefail
-python -u scripts/realdata/temporal_trajectory_study.py     --max-llm-per-disease 5     --output outputs/realdata/temporal_trajectory_study     2>&1 | tee logs/temporal_study_smoke.log
-
-# Full planned sample (20 per disease = 40 origins = 80 LLM judgments)
-python -u scripts/realdata/temporal_trajectory_study.py     --max-llm-per-disease 20     --output outputs/realdata/temporal_trajectory_study     2>&1 | tee logs/temporal_study_full.log
+python -u scripts/realdata/temporal_trajectory_study_v4.py \
+  --max-llm-per-disease 1 \
+  --llm-max-tokens 256 \
+  --llm-max-output-tokens 1024 \
+  --llm-timeout-seconds 240 \
+  2>&1 | tee logs/temporal_study_v4_smoke.log
 ```
 
-`tmux` detach: Ctrl+B then D. Runs stay in foreground in tmux; no need to
-start Docker again. You can use `bash scripts/realdata/run_temporal_study_tmux.sh`
-for the full sample after smoke test.
+The smoke test runs M3 and M4 on one shared KG-covered example per disease (up to 4 model calls, plus internal retries only if truncated).
 
-**Important**: The script detects existing cached LLM outputs with different
-model/prompt/dataset settings and rejects them. Use a new `--output` directory
-for a different LLM or when changing the data. No secrets printed or stored.
+When successful, run the same V4 program with `--max-llm-per-disease 5` to expand the sample, retaining other settings unchanged and **reusing the V4 cache**:
 
-## Required inputs
+```bash
+python -u scripts/realdata/temporal_trajectory_study_v4.py \
+  --max-llm-per-disease 5 \
+  --llm-max-tokens 256 \
+  --llm-max-output-tokens 1024 \
+  --llm-timeout-seconds 240 \
+  2>&1 | tee logs/temporal_study_v4_small.log
+cat outputs/realdata/temporal_trajectory_study_v4/metrics.csv
+```
 
-- `outputs/realdata/who_series/weekly/snapshots.csv`
-- `outputs/realdata/reconstructed_observations.jsonl` (optional but needed to
-  interpret M2 as KG-assisted and to get M4 coverage)
-- `.env` with valid `LLM_PROVIDER=ollama` and `OLLAMA_MODEL=qwen3:4b`
-  (or valid OpenRouter settings), for M3/M4.
+If even a one-field JSON response is truncated at 1024 output tokens, the script stops with an explicit error and does not save the truncated response. Then inspect the Ollama server version, model load, actual raw generation behavior and API token usage rather than silently modifying results. The `--llm-retries` option handles other exceptions, but the built-in truncation retries do not require it.
 
-Verify `ollama list` before starting if using the local backend.
+## Scientific caution
 
-## Outputs
-
-At `outputs/realdata/temporal_trajectory_study/`:
-
-- `predictions.csv`: row-level future-observed-change labels and method output,
-  with both original Neo4j relation IDs.
-- `metrics.csv`: headline macro-F1, balanced accuracy, accuracy, coverage;
-  `M1/M2__all_holdout` and `__common_sample`, and `M3/M4__common_sample`.
-- `manifest.json`: hashes, split dates, counts, caveats, confusion matrices,
-  exact sample strategy and graph-profile availability.
-- `llm_predictions.jsonl`: append-only, resumable LLM outputs, model signature.
-- `temporal_adjacency_not_link_gold.jsonl`: deterministic adjacency with
-  `is_documented_event_continuation=false`.
-
-## Methodological cautions
-
-1. The BioPropaPhenKG `hasPresence` source dates are fixed corpus periods.
-   The KG concepts are therefore static historical context, not weekly
-   source-document observations.
-2. WHO fields `Cumulative_cases` and `total_cases` were not independently
-   proven equivalent. Compare changes **within each disease**, not between
-   magnitudes of diseases.
-3. COVID and Mpox cover different historical periods; country/date effects
-   can confound disease classification. This benchmark predicts directions
-   of within-disease reporting snapshots, not disease labels.
-4. Country-week adjacency is a deterministic baseline, not evidence of
-   linked outbreaks or documentary narrative transitions.
-5. M2 uses labeled historical future-change training targets up to 2023;
-   M1/M3/M4 use inference without those labels. This is a comparison of
-   pipelines with different supervision, not an ablation isolating LLM alone.
-6. An official OWL reasoner, source document metadata, gold event-pair labels,
-   and a proper event-forest evaluation remain necessary for the primary
-   *Discover Artificial Intelligence* Story Forest claim.
-7. Results only count as real when the script is run on your remote datasets.
-   Bundled tests use synthetic data, and do not establish epidemiological
-   correctness.
-
-## Reproducibility
-
-- No scripts modify the Neo4j dump or source data.
-- No randomized train/test sampling: holdout by calendar date, LLM sample by
-  SHA256 of the origin episode ID, separately within each disease.
-- A model change requires a new output directory, detected by cache signature.
-- Does not download datasets or call external APIs unless LLM inference is
-  deliberately enabled without `--skip-llm`.
-
+This is a retrospective **country-week reported aggregate direction** benchmark. M3/M4 predict `increase`, `flat`, or `revision` in the next weekly snapshot. The output is not case incidence, causal transmission, event identity, or documentary link ground truth. M4 validates typed/provenance properties in a limited fashion; it does not perform complete OWL entailment. To assess KG added value, compare M2 with- and without-KG variants on the same holdout; compare M3 vs M4 on their shared sample and report coverage.
