@@ -108,8 +108,12 @@ def fastrp_style_embed(A,n,dim,seed):
     rng=np.random.default_rng(seed)
     N=A.shape[0]
     degree=np.asarray(A.sum(axis=1)).reshape(-1)
-    if (degree==0).any():raise ValueError('Graph contains isolated nodes')
-    P=diags(1.0/degree)@A
+    # Masking can remove every concept from an observation. Such observations
+    # remain in the dataset for strict row alignment, but must not receive
+    # random embeddings: an isolated vertex has no graph evidence.
+    inverse=np.zeros_like(degree,dtype=np.float64)
+    np.divide(1.0,degree,out=inverse,where=degree>0)
+    P=diags(inverse)@A
     H=rng.normal(0,1/math.sqrt(dim),size=(N,dim)).astype('float32')
     snapshots=[]
     for _ in range(4):
@@ -150,7 +154,10 @@ def node2vec_embed(A,n,dim,seed,walks=8,walk_length=24,epochs=5):
             walks_out.append([str(z) for z in trace])
     model=Word2Vec(sentences=walks_out,vector_size=dim,window=5,sg=1,
                    min_count=0,workers=1,seed=seed,epochs=epochs,negative=5)
-    return np.asarray([model.wv[str(i)] for i in range(n)],dtype=np.float32)
+    Z=np.asarray([model.wv[str(i)] for i in range(n)],dtype=np.float32)
+    degree=np.asarray(A.sum(axis=1)).reshape(-1)
+    Z[degree[:n]==0]=0.0  # Skip-gram random initialization is not evidence.
+    return Z
 
 
 def graphsage_embed(A,n,dim,seed,epochs=65):
@@ -210,7 +217,10 @@ def graphsage_embed(A,n,dim,seed,epochs=65):
         b=(z[negatives[:,0]]*z[negatives[:,1]]).sum(dim=1)*5
         loss=F.binary_cross_entropy_with_logits(a,torch.ones_like(a))+F.binary_cross_entropy_with_logits(b,torch.zeros_like(b))
         loss.backward();optimizer.step()
-    with torch.no_grad():return net(x)[:n].detach().cpu().numpy().astype('float32')
+    with torch.no_grad():
+        Z=net(x)[:n].detach().cpu().numpy().astype('float32')
+    Z[degree[:n]==0]=0.0  # No observed neighbors, so abstain from encoding.
+    return Z
 
 
 def write_result(path,method,masked,with_country,dim,seed,rows,B,A,graph_stats,input_path):
@@ -219,19 +229,59 @@ def write_result(path,method,masked,with_country,dim,seed,rows,B,A,graph_stats,i
     path.mkdir(parents=True,exist_ok=True)
     meta=path/'manifest.json'
     h=sha256(input_path)
+    degree=np.asarray(A.sum(axis=1)).reshape(-1)
+    isolated_obs=np.flatnonzero(degree[:len(rows)]==0).tolist()
+    isolated_total=int(np.count_nonzero(degree==0))
     cfg={'input_sha256':h,'algorithm':method,'seed':seed,'dimension_requested':dim,
          'mask_disease_terms':masked,'with_country_nodes':with_country,'graph_stats':graph_stats,
          'version':1}
+    # Preserve fingerprints of all previously completed matrices, including
+    # the SVD masked run: SVD already handled empty observation rows correctly.
+    if isolated_total and method in ('fastrp_style','node2vec','graphsage'):
+        cfg['isolated_vertex_policy']='zero_embedding_v1'
+    if method=='svd' and with_country:
+        # Previous implementation ignored the country flag in SVD. Do not
+        # reuse its invalid country-ablation matrices as if they were correct.
+        cfg['country_feature_policy']='append_binary_country_nodes_v2'
     fingerprint=hashlib.sha256(json.dumps(cfg,sort_keys=True).encode()).hexdigest()
     if meta.exists():
         old=json.loads(meta.read_text(encoding='utf-8'))
-        if old['fingerprint']!=fingerprint:raise ValueError(f'Existing output differs: {path}')
-        if not (path/'embeddings.npy').exists():raise FileNotFoundError('Missing existing matrix')
-        print('SKIP existing',method,masked,with_country,flush=True)
-        return
+        if old['fingerprint']!=fingerprint:
+            # The only permitted automatic migration is the *verified* old
+            # SVD-country configuration. Archive its output, do not delete it.
+            legacy_cfg=dict(cfg)
+            legacy_cfg.pop('country_feature_policy',None)
+            legacy_fp=hashlib.sha256(json.dumps(legacy_cfg,sort_keys=True).encode()).hexdigest()
+            if not (method=='svd' and with_country and
+                    old.get('fingerprint')==legacy_fp and
+                    old.get('source_sha256')==h):
+                raise ValueError(f'Existing output differs: {path}')
+            archive=path/'archive_svd_country_ignored_v1'
+            if archive.exists():
+                raise FileExistsError(f'Archive already exists; inspect manually: {archive}')
+            original=['manifest.json','embeddings.npy','observations.csv']
+            if any(not (path/name).exists() for name in original):
+                raise FileNotFoundError(f'Incomplete legacy SVD-country result: {path}')
+            import shutil
+            archive.mkdir()
+            for name in original:
+                shutil.move(str(path/name),str(archive/('original_'+name+'.legacy')))
+            print('ARCHIVED legacy SVD-country (country was previously ignored):',archive,flush=True)
+        else:
+            if not (path/'embeddings.npy').exists():raise FileNotFoundError('Missing existing matrix')
+            print('SKIP existing',method,masked,with_country,flush=True)
+            return
     if (path/'embeddings.npy').exists():raise FileExistsError(f'Orphan matrix at {path}')
     n=len(rows)
-    if method=='svd':Z=svd_embed(B,dim,seed)
+    if method=='svd':
+        if with_country:
+            from scipy.sparse import hstack
+            # Adjacency order is [observations | concepts | countries].
+            C=A[:n,n+B.shape[1]:]
+            features=hstack((B,C),format='csr')
+            Z=svd_embed(features,dim,seed)
+        else:
+            Z=svd_embed(B,dim,seed)
     elif method=='fastrp_style':Z=fastrp_style_embed(A,n,dim,seed)
     elif method=='node2vec':Z=node2vec_embed(A,n,dim,seed)
     elif method=='graphsage':Z=graphsage_embed(A,n,dim,seed)
@@ -241,7 +291,11 @@ def write_result(path,method,masked,with_country,dim,seed,rows,B,A,graph_stats,i
     with (path/'observations.csv').open('w',newline='',encoding='utf-8') as f:
         writer=csv.writer(f);writer.writerow(['row','observation_id','country_id','source','disease_label'])
         for i,r in enumerate(rows):writer.writerow([i,r['observation_id'],r.get('country_id',''),r.get('source',''),r.get('disease_label','')])
-    cfg.update({'fingerprint':fingerprint,'created_utc':datetime.now(timezone.utc).isoformat(),
+    cfg.update({'n_isolated_observations':len(isolated_obs),
+                'n_isolated_vertices':isolated_total,
+                'isolated_observation_ids':[rows[i]['observation_id'] for i in isolated_obs],
+                'isolate_treatment':'zero embeddings; retain all rows for alignment',
+                'fingerprint':fingerprint,'created_utc':datetime.now(timezone.utc).isoformat(),
                 'method':'structural_projected_bipartite','model':method,
                 'features':('obs_concept_country' if with_country else 'obs_concept')+('_masked' if masked else ''),
                 'source_sha256':h,'dimension':int(Z.shape[1]),'sample':False,
@@ -266,6 +320,13 @@ def main():
     for masked in (False,True):
       for with_country in (False,True):
         B,A,stats=build_graph(rows,masked,with_country)
+        import numpy as np
+        graph_degree=np.asarray(A.sum(axis=1)).ravel()
+        count=int(np.count_nonzero(graph_degree[:len(rows)]==0))
+        print(f'GRAPH mask={masked} country={with_country} '
+              f'isolated observations={count}/{len(rows)}; '
+              'these are retained as all-zero vectors when no neighbors exist',flush=True)
+        summary[f'graph_mask_{int(masked)}_country_{int(with_country)}_isolates']=count
         for method in args.methods:
             label=method+('_masked' if masked else '')+('_country' if with_country else '')
             directory=args.out/label
