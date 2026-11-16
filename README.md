@@ -1,50 +1,60 @@
-# PreDiViD Temporal Trajectory V4: prevent Ollama output truncation
+# PreDiViD — Temporal Trajectory LLM V5: schema-constrained Ollama
 
-V3 passed the standalone native Ollama JSON probe but failed on a real benchmark example with `Ollama output truncated at num_predict=192`. This **is not a transport timeout**, and neither Neo4j nor the weekly dataset needs rebuilding.
+## Why this fix?
 
-## What V4 changes
+V4's Ollama native probe succeeded but a benchmark sample failed with `Invalid Ollama response: invalid_response`, after an earlier `length` truncation at 256 tokens. This is consistent with the model returning JSON whose `prediction` is absent or not in the supported enum, **not** proof that all requested LLM classifications are wrong. The exact V4 response cannot be recovered from the supplied traceback because V4 did not log its content/shape.
 
-- Requests **one classification only**, e.g. `{"prediction":"flat"}`; no natural-language `reason` in the generation request. The `reason` field in the saved cache is consequently empty and should not be interpreted as an explanation.
-- Keeps `think: false`, `format: "json"`, `stream: false`, and direct local Ollama API `/api/chat`.
-- On `done_reason: "length"`, discards that response and retries automatically with doubled output token budget (256 -> 512 -> 1024 by default). Even an apparently parseable truncated response is discarded.
-- Never saves partial, invalid, or failed responses. Completed predictions are flushed and cached individually.
-- Uses **separate V4 output directory** and a prompt/settings cache signature, so it does not mix V2/V3 outputs with V4 outputs.
-- Keeps chronological train/holdout splits, M1 baseline, M2 noKG vs staticKG ablation, and shared, disease-balanced M3/M4 selection from V3.
+V5 uses native `/api/chat` with a **JSON schema** specifying exactly one required field, `prediction`, whose value is `increase`, `flat`, or `revision`. The thinking switch is still explicitly `false`. The model is retried if the response is truncated or invalid. A response is considered valid only after explicit programmatic validation: JSON mode alone is not sufficient. No invalid output is converted to `flat`, `unknown`, or a correct label.
 
-**Important:** V4 has passed **12 mocked/synthetic local tests**. It has not been executed against your remote Ollama or actual local Neo4j data; that requires the commands below.
+V5 **does not overwrite V4**. It bundles the original V4 script as a dependency and saves to `outputs/realdata/temporal_trajectory_study_v5` by default. Every successfully evaluated call is cached; failed calls are recorded separately in `llm_failures.jsonl` without storing any model reasoning text. Reruns with identical options preserve valid cached calls and retry missing calls.
 
-## Install and smoke-test (in your repository root)
+Additional V5 `manifest.json` fields show `expected_llm_calls`, `completed_llm_calls`, `technical_failures_or_missing_calls`, `llm_study_complete`, and `paired_complete_examples`. A `paired_metrics.csv` file is generated only if both M3/M4 successfully completed for the same episode, to ensure fair comparison with M1/M2. The original `metrics.csv` may have incomplete M3/M4 sample rows after technical errors; consult `paired_metrics.csv` and the manifest instead.
+
+## Run on remote repository (tmux session predivid2)
+
+From the repository root:
 
 ```bash
-unzip -o PreDiViD_Temporal_LLM_V4.zip
-python -m unittest discover -s tests/realdata -p 'test_temporal_trajectory_v4.py' -v
+unzip -o PreDiViD_Temporal_LLM_V5.zip
+python -m unittest discover -s tests/realdata -p 'test_temporal_trajectory_v5.py' -v
 
 mkdir -p logs
 set -o pipefail
-python -u scripts/realdata/temporal_trajectory_study_v4.py \
+python -u scripts/realdata/temporal_trajectory_study_v5.py \
   --max-llm-per-disease 1 \
   --llm-max-tokens 256 \
   --llm-max-output-tokens 1024 \
   --llm-timeout-seconds 240 \
-  2>&1 | tee logs/temporal_study_v4_smoke.log
+  2>&1 | tee logs/temporal_study_v5_smoke.log
 ```
 
-The smoke test runs M3 and M4 on one shared KG-covered example per disease (up to 4 model calls, plus internal retries only if truncated).
-
-When successful, run the same V4 program with `--max-llm-per-disease 5` to expand the sample, retaining other settings unchanged and **reusing the V4 cache**:
+If at least the small run works, reuse the cache by increasing the **number of examples only**, keeping the same model, prompt and generation limits:
 
 ```bash
-python -u scripts/realdata/temporal_trajectory_study_v4.py \
+python -u scripts/realdata/temporal_trajectory_study_v5.py \
   --max-llm-per-disease 5 \
   --llm-max-tokens 256 \
   --llm-max-output-tokens 1024 \
   --llm-timeout-seconds 240 \
-  2>&1 | tee logs/temporal_study_v4_small.log
-cat outputs/realdata/temporal_trajectory_study_v4/metrics.csv
+  2>&1 | tee logs/temporal_study_v5_small.log
 ```
 
-If even a one-field JSON response is truncated at 1024 output tokens, the script stops with an explicit error and does not save the truncated response. Then inspect the Ollama server version, model load, actual raw generation behavior and API token usage rather than silently modifying results. The `--llm-retries` option handles other exceptions, but the built-in truncation retries do not require it.
+Inspect:
 
-## Scientific caution
+```bash
+python - <<'PY'
+import json
+from pathlib import Path
+p=Path('outputs/realdata/temporal_trajectory_study_v5')
+manifest=json.loads((p/'manifest.json').read_text())
+for key in ('expected_llm_calls','completed_llm_calls','technical_failures_or_missing_calls',
+            'paired_complete_examples','llm_study_complete'):
+    print(f'{key}: {manifest[key]}')
+for file in ('paired_metrics.csv','llm_failures.jsonl'):
+    if (p/file).exists():print(f'Output: {p/file}')
+PY
+```
 
-This is a retrospective **country-week reported aggregate direction** benchmark. M3/M4 predict `increase`, `flat`, or `revision` in the next weekly snapshot. The output is not case incidence, causal transmission, event identity, or documentary link ground truth. M4 validates typed/provenance properties in a limited fashion; it does not perform complete OWL entailment. To assess KG added value, compare M2 with- and without-KG variants on the same holdout; compare M3 vs M4 on their shared sample and report coverage.
+**If all calls remain invalid**, check `llm_failures.jsonl` for `json_keys`, `prediction_value`, `done_reason`, and `eval_count`. A `json_keys` result such as `["thought"]` indicates that reasoning-shaped JSON may have been emitted despite `think: false`. Do not interpret it as a model prediction. Check `ollama --version` and the model details; if needed, try a model with reliable structured-output support as a separately labeled experiment.
+
+The V5 tests (14 passed locally) use mocked native Ollama responses and a synthetic dataset; **no test was run against the user's remote Ollama or private KG**. The code preserves existing fixed chronological train/holdout evaluation, the M2 with/without KG ablation, the non-future-information rule, and the scientific warning that these are aggregate reported-value forecasts **not validated documentary Story Forest links**, causal transmission or clinical predictions.
