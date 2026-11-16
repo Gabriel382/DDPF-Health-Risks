@@ -1,0 +1,47 @@
+Metadata-Version: 2.4
+Name: ddpf-health-risks
+Version: 0.1.0
+Summary: Description-Detection-Prediction Framework for ontology-guided health-risk propagation analysis.
+Author: Gabriel Henrique Alencar Medeiros
+License: MIT
+Project-URL: Homepage, https://github.com/Gabriel382/DDPF-Health-Risks
+Project-URL: Repository, https://github.com/Gabriel382/DDPF-Health-Risks
+Project-URL: Thesis, https://theses.hal.science/tel-05056160
+Keywords: event-based surveillance,knowledge graphs,ontology,semantic web,health-risk detection,spatiotemporal analysis,clustering
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: owlready2>=0.46
+Requires-Dist: rdflib>=7.0
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0; extra == "dev"
+Requires-Dist: ruff>=0.5; extra == "dev"
+Requires-Dist: black>=24.0; extra == "dev"
+Requires-Dist: mypy>=1.8; extra == "dev"
+Dynamic: license-file
+
+# DDPF
+Description-Detection-Prediction Framework for Phenomenon Propagation
+
+## Experiment
+
+### COVID-19 vs Monkeypox Clustering Experiment
+
+For the full COVID-19 and Monkeypox experiment, please refer to the "Experiment" folder, "Description/description.ipynb", "Detection/Detection Module-COVIDvsMPOX.ipynb" and "Prediction/Prediction Module - COVID vs Monkeypox Observation.ipynb".
+
+If you desire to skip the first three jupyter notebooks, you can download this version of BioPropaPhenKG+ from 10.5281/zenodo.10987743
+
+### COVID-19 Relation Extraction Benchmark
+
+For the experiment on Online Newspapers with COVID-19, please refer to "Detection/Detection Module-COVIDvsMPOX.ipynb" on the section "Relationship Discovery - COVID-19 on Journals from November 2019", and its evaluation on "1 Experiments on COVID on Journal". 
+
+You can download this version of BioPropaPhenKG+ from 10.5281/zenodo.10997359

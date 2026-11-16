@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>DDPF Studio • Story Forest</title><link rel="stylesheet" href="/storyforest.css"></head>
+<body>
+  <header class="mast"><div class="brand">DDPF <span>Studio / Story Forest</span></div><div class="pill">RESEARCH PROTOTYPE · RETROSPECTIVE</div></header>
+  <main>
+    <section class="intro"><div><p class="eyebrow">ONTOLOGY-GUIDED EVENT STORIES</p><h1>Investigate the evidence,<br>not just the clusters.</h1><p>Explore event trees, links, and provenance from the local SQLite research run. No fabricated outbreak claims.</p></div><div class="config"><label for="method">Experiment</label><select id="method"><option value="full">Full • LiteLLM + KG + ontology</option><option value="llm_kg">LLM + KG</option><option value="llm_only">LLM only</option><option value="kg_rules">Concept/time baseline</option><option value="temporal">Temporal baseline</option></select><button id="reload">Reload results</button><div id="status" role="status">Connecting to local API…</div></div></section>
+    <div class="stats"><div><small>Events loaded</small><strong id="eventCount">—</strong></div><div><small>Stories</small><strong id="storyCount">—</strong></div><div><small>Candidate links</small><strong id="linkCount">—</strong></div><div><small>Selected model</small><strong id="modelName">—</strong></div></div>
+    <section class="workspace"><aside class="panel"><div class="panel-title">Story roots <span id="storyHint">Select one</span></div><div id="stories" class="story-list"><p class="placeholder">No data loaded.</p></div></aside>
+    <div class="panel canvas"><div class="panel-title">Timeline & branches <span>Solid = documented continuation; other links shown separately</span></div><div id="tree" class="tree"><p class="placeholder">Select a story.</p></div></div><aside class="panel inspector"><div class="panel-title">Evidence inspector</div><div id="details"><p class="placeholder">Select an event to view its provenance.</p></div></aside></section>
+    <section class="panel below"><div class="panel-title">Candidate link decisions <span>Not all candidate links become story edges.</span></div><div id="links" class="links"><p class="placeholder">No decisions loaded.</p></div></section>
+    <p class="disclaimer">Not a diagnostic tool. A temporal or thematic association is not evidence of epidemiological transmission. LLM scores are not calibrated probabilities. This view is backed by the current local research database.</p>
+  </main><script src="/storyforest.js"></script>
+</body></html>
