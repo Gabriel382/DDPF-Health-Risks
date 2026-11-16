@@ -1,0 +1,76 @@
+{
+  "method": "full",
+  "input_events_seen": 5,
+  "events_created": 4,
+  "total_events_in_db": 5,
+  "stories_sample": [
+    {
+      "story_id": "story-SYN-001",
+      "root_id": "SYN-001",
+      "nodes": [
+        {
+          "event_id": "SYN-001",
+          "parent_id": null,
+          "description": "Fictional respiratory cluster announced in City A",
+          "occurred_at": "2024-02-01",
+          "location": "City A"
+        }
+      ]
+    },
+    {
+      "story_id": "story-SYN-002",
+      "root_id": "SYN-002",
+      "nodes": [
+        {
+          "event_id": "SYN-002",
+          "parent_id": null,
+          "description": "Additional article reporting fictional City A bulletin",
+          "occurred_at": "2024-02-01",
+          "location": "City A"
+        }
+      ]
+    },
+    {
+      "story_id": "story-SYN-003",
+      "root_id": "SYN-003",
+      "nodes": [
+        {
+          "event_id": "SYN-003",
+          "parent_id": null,
+          "description": "Fictional City A bulletin updates the previous respiratory incident",
+          "occurred_at": "2024-02-06",
+          "location": "City A"
+        }
+      ]
+    },
+    {
+      "story_id": "story-SYN-004",
+      "root_id": "SYN-004",
+      "nodes": [
+        {
+          "event_id": "SYN-004",
+          "parent_id": null,
+          "description": "Unrelated fictional rash observation in City B",
+          "occurred_at": "2024-02-08",
+          "location": "City B"
+        }
+      ]
+    },
+    {
+      "story_id": "story-SYN-005",
+      "root_id": "SYN-005",
+      "nodes": [
+        {
+          "event_id": "SYN-005",
+          "parent_id": null,
+          "description": "Fictional respiratory follow up report in City A",
+          "occurred_at": "2024-02-11",
+          "location": "City A"
+        }
+      ]
+    }
+  ],
+  "sample_capped_at": 500,
+  "links_count": 10,
+  "note": "No claim of epidemiologically correct links. Inspect evidence and gold references."
+}

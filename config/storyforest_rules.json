@@ -1,0 +1,5 @@
+{
+  "_notice": "Conservative example configuration, NOT a validated mapping of all BioPropaPhen axioms. Populate forbidden_type_pairs ONLY after inspecting ontology IRIs and class semantics.",
+  "same_event_max_days": 7,
+  "forbidden_type_pairs": []
+}
