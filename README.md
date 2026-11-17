@@ -1,48 +1,84 @@
-# PreDiViD — One-shot final audit of the V5 temporal trajectory study
+# PreDiViD V6 — One-shot Qwen3 model-size experiment
 
-**One package, one command.** No more iterative Ollama smoke tests or additional manual queries for this experiment.
+This is **one final exploratory scaling experiment**, not a replacement for the V5 scientific audit. It compares the same **40 deterministic KG-covered** episodes (20 COVID-19 and 20 Mpox), each assessed by M3 (LLM-only) and M4 (LLM + static KG guard). The task is predicting the direction of next-week **aggregate reported values**, not biological transmission, incident cases, or documentary Story Forest links.
 
-## Run (in the repository root, inside your existing `predivid2` tmux)
+## What it tests
+
+Same Qwen3 family, same 40 episodes, same prompt and JSON schema, same decoding (`temperature=0`, thinking off, `num_ctx=4096`, `num_predict=256` with retries up to 1024), same labels:
+
+| Model | Approximate Ollama model download | Calls |
+|---|---:|---:|
+| `qwen3:0.6b` | 523 MB | 80 |
+| `qwen3:1.7b` | 1.4 GB | 80 |
+| `qwen3:4b` | 2.5 GB | **Reuse 80 V5 calls**, if the V5 hash/settings match |
+| `qwen3:8b` | 5.2 GB | 80 |
+| `qwen3:14b` | 9.3 GB | 80 |
+| `qwen3:32b` | 20 GB | 80 |
+
+Approximately **400 new calls** if the 4B cache matches; otherwise the script evaluates 4B anew. The new models are installed one by one via `ollama pull`, and the previous model is stopped to reclaim memory. Model download amounts do not equal RAM, VRAM, or peak inference requirements. Total downloads may require ~40 GB of disk before overhead. **125 GB host RAM is not 125 GB GPU VRAM**. A large model with CPU offload may be slow; there is no runtime guarantee.
+
+Models are standard Ollama model tags; quantization and model digests are saved in the manifest. Compare model family rather than mixing unrelated models. `qwen3:30b` is deliberately **not** used because its Mixture-of-Experts architecture complicates a simple dense-parameter scaling comparison.
+
+## Single command on the Linux server
+
+Use the **same server** where V5 completed: `gabriel@192.168.20.14` (`pc-15rpqd3`). In the repository root:
 
 ```bash
-unzip -o PreDiViD_Final_OneShot.zip
-bash scripts/realdata/run_predivid_final_audit.sh
+unzip -o PreDiViD_Qwen3_Size_OneShot_V6.zip
+bash scripts/realdata/run_llm_size_study_v6.sh
 ```
 
-This command runs the existing realdata unit tests together with the supplied final-audit tests, then consumes **already generated V5 predictions and Ollama caches**. It **does not** call Ollama, write Neo4j data, download files, retrain models, alter existing predictions or recompute embeddings. Requires Python and NumPy as already installed for V5.
+The shell script runs all included V5 and V6 tests, downloads models, performs **all** size tests, and prints a final report. There is no need to ask for individual follow-up scripts. Run inside tmux (`predivid2`) if you want the job to survive disconnects. It can be restarted with the **same command**; successful predictions are never rerun. Failures are explicitly recorded and are not silently converted into predictions.
 
-**Precondition:** Your completed run is under `outputs/realdata/temporal_trajectory_study_v5` and your weekly snapshots remain under `outputs/realdata/who_series/weekly/snapshots.csv`. You already reported 80/80 cached LLM outputs and 40 paired test examples, so both conditions appear met.
+Optional alternatives **only if necessary**:
 
-## What runs, together
+```bash
+# Models already installed (no downloads):
+bash scripts/realdata/run_llm_size_study_v6.sh --skip-pull
 
-1. All tests named `test_*.py` in `tests/realdata` (including previously installed exporter, weekly snapshots, M1–M4/V5 and 12 new audit tests).
-2. **Integrity & reproducibility**: snapshot SHA256 against V5 manifest, contiguous weekly series, correct countries/episodes and true labels recomputed from source values, source relationship provenance, chronological training/holdout timestamps, LLM cache agreement and all expected calls complete.
-3. **Class imbalance controls**: always-flat and always-increase reference classifiers; macro-F1, balanced accuracy, precision/recall, accuracy, class frequencies, confusion matrices.
-4. **Disease-stratified evaluations**: COVID-19, Mpox and both combined, on full test set / KG-covered / uncovered cohorts and the LLM sample.
-5. **Paired ablations**: M2 without/with KG; M3 vs M4; M2-KG vs M3/M4, on identical held-out examples, with detailed discordant correctness counts.
-6. **Cluster uncertainty**: 2,000 country-block bootstrap draws, 5,000 country-level sign-flip permutations per comparison, plus Holm adjustment across reported contrasts. Countries rather than weeks are independent resampling blocks.
-7. **KG negative control**: reconstruct the original M2/KG predictions and verify perfect match with the saved results; then shuffle profiles between countries **within each disease** 99 times, preserving disease, KG availability and numeric KNN candidate pool. Report a descriptive empirical upper-tail p-value.
-8. **Publication-ready audit summaries** plus explicit restrictions on what can and cannot be concluded.
-
-The frozen `final_knn_reference_v4.py` in this package is the original V4 algorithm bundled with V5, copied under a new name **without overwriting** your experiment code.
+# Skip 32B if CPU-only execution or disk constraints make it impractical.
+# IMPORTANT: use a distinct output directory for a different model set.
+bash scripts/realdata/run_llm_size_study_v6.sh \
+  --models qwen3:0.6b,qwen3:1.7b,qwen3:4b,qwen3:8b,qwen3:14b \
+  --output outputs/realdata/llm_size_study_v6_without_32b
+```
 
 ## Outputs
 
-- `logs/predivid_final_one_shot_audit.log`: complete automatic test and evaluation log.
-- `outputs/realdata/temporal_trajectory_study_v5/final_one_shot_audit.json`: full evidence (including country intervals, disease-specific effects, negative control, adjusted p-values).
-- `outputs/realdata/temporal_trajectory_study_v5/final_one_shot_report.md`: readable methods/results summary.
-- `outputs/realdata/temporal_trajectory_study_v5/final_one_shot_performance.csv`: stratified metrics and baselines.
+In `outputs/realdata/llm_size_study_v6/`:
 
-## Important scientific limits
+- `size_comparison_report.md`: **main report** with comparison, controls, trend and caveats.
+- `study_manifest.json`: **full detailed results**, hashes, model metadata/quantization, completeness.
+- `metrics_by_size.csv`: accuracy, macro-F1, increase recall by disease and by model, complete-sample and success-only estimates.
+- `predictions_by_size.csv`: same paired examples, model predictions and true labels.
+- `model_runtime.csv`: latency, output tokens and measured tokens/s.
+- `predictions_qwen3_*.jsonl`: separate **resumable per-model caches**.
+- `failures_qwen3_*.jsonl`: invalid responses or model/backend errors, **not** converted into model failures on the benchmark task.
 
-- Evaluates **direction of the next aggregate reported count**: flat, increase or downward revision. The test holdout contains no revision examples; the main scores are therefore **increase vs flat**.
-- These are **not** independently verified cases of documentary Story Forest event continuation, outbreak transmission, or valid incident case estimates.
-- Static KG profiles originate from fixed source-collection periods, not individual weekly documents. They must not be misrepresented as time-local evidence.
-- M2 is fitted on past labeled patterns; M3/M4 are prompted LLMs, a difference in supervision that must remain explicit.
-- M4's checks are not an OWL reasoner. Evaluation of ontology-constrained documentary linking would require **new document-sourced events and gold annotations**, which the current data simply do not provide.
-- LLM sample comprises 20 deterministic, KG-eligible origins for each disease, **not** a random or exhaustive LLM holdout evaluation.
-- Bootstrap confidence intervals are **conditional on fixed model predictions**, not cross-run uncertainty. The country sign-flip test is approximate under cluster-label exchangeability. Exploratory negative control and post-hoc subgroup tests require cautious interpretation.
-- Country profiles shuffled between countries within disease only test **sensitivity to biomedical content**, not a randomized clinical trial or causal hypothesis.
-- Data (COVID cumulative cases vs Mpox total cases) have not been independently verified for equivalence.
+`logs/llm_size_study_v6.log` is the combined terminal log.
 
-**After this batch, the V5 temporal study is complete at its current scope.** No additional sequential benchmark requests are required to finish this experiment. A paper on genuine documentary Story Forest requires separate source document collection and gold relation validation, not another round of V5 tests.
+The report includes **country-block bootstrap confidence intervals** (2,000 resamples), cluster sign-flip p-values and Holm correction for the two predefined largest-vs-smallest accuracy tests, plus an exploratory exact permutation Spearman correlation of model size versus macro-F1. These are **exploratory** (only six sizes and 40 selected examples); an apparent trend cannot be interpreted as causal because different model sizes also differ in training behavior and quantization.
+
+### Download final results to Windows
+
+From **Windows PowerShell**, outside SSH:
+
+```powershell
+scp `
+  gabriel@192.168.20.14:/data/dataRapide/gabriel/DDPF-Health-Risks/outputs/realdata/llm_size_study_v6/study_manifest.json `
+  gabriel@192.168.20.14:/data/dataRapide/gabriel/DDPF-Health-Risks/outputs/realdata/llm_size_study_v6/size_comparison_report.md `
+  "$HOME\Downloads\"
+```
+
+## Methodological safeguards
+
+- Requires the existing V5 `manifest.json`, `llm_predictions.jsonl`, `predictions.csv`, `snapshots.csv`, and original static profiles file. The script does **not** regenerate M1/M2, reconstruct KG/embeddings, call Neo4j, or alter V5 files.
+- Checks SHA-256 of the exact V5 data, cutoff (`2024-01-01`), KG-covered sample and 40 labels before running.
+- Reuses 4B cache only after the **exact V5 configuration signature** matches the current model/prompt/temperature/context/output schema. A mismatch triggers fresh 4B inference, never cross-experiment mixing.
+- Per-model caches have their own signatures; any configuration change requires a new `--output` folder.
+- Ollama returns only one `prediction` field with `increase`, `flat` or `revision`; invalid or truncated JSON cannot become a prediction.
+- Missing outputs are reported in **coverage**; comparisons across models use the **intersection of episodes completed by every model for both M3 and M4**.
+- Reports both overall and disease-specific results to reveal possible `flat` collapse (particularly Mpox).
+- Tests run locally with mocked Ollama, not against the user's GPU/server; actual model availability and runtime are determined on the Linux server.
+
+The prior final audit's negative shuffled-KG control remains scientifically important: the scale study does **not** establish that KG semantic content helps, even if any M4 model becomes better at this task.
