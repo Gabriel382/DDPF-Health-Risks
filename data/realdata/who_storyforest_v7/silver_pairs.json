@@ -1,0 +1,275 @@
+[
+  {
+    "parent_id": "W01",
+    "child_id": "W05",
+    "label": "same_event",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Two WHO reports refer to the same initial Wuhan cluster notification"
+  },
+  {
+    "parent_id": "W06",
+    "child_id": "W07",
+    "label": "documented_continuation",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Same WHO-documented patient or explicitly updated situation; temporal progression, not causal transmission"
+  },
+  {
+    "parent_id": "W07",
+    "child_id": "W08",
+    "label": "documented_continuation",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Same WHO-documented patient or explicitly updated situation; temporal progression, not causal transmission"
+  },
+  {
+    "parent_id": "W08",
+    "child_id": "W09",
+    "label": "documented_continuation",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Same WHO-documented patient or explicitly updated situation; temporal progression, not causal transmission"
+  },
+  {
+    "parent_id": "W10",
+    "child_id": "W11",
+    "label": "documented_continuation",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Same WHO-documented patient or explicitly updated situation; temporal progression, not causal transmission"
+  },
+  {
+    "parent_id": "W11",
+    "child_id": "W12",
+    "label": "documented_continuation",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Same WHO-documented patient or explicitly updated situation; temporal progression, not causal transmission"
+  },
+  {
+    "parent_id": "W12",
+    "child_id": "W13",
+    "label": "documented_continuation",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Same WHO-documented patient or explicitly updated situation; temporal progression, not causal transmission"
+  },
+  {
+    "parent_id": "W14",
+    "child_id": "W15",
+    "label": "documented_continuation",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Same WHO-documented patient or explicitly updated situation; temporal progression, not causal transmission"
+  },
+  {
+    "parent_id": "W15",
+    "child_id": "W16",
+    "label": "documented_continuation",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Same WHO-documented patient or explicitly updated situation; temporal progression, not causal transmission"
+  },
+  {
+    "parent_id": "W17",
+    "child_id": "W18",
+    "label": "documented_continuation",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Same WHO-documented patient or explicitly updated situation; temporal progression, not causal transmission"
+  },
+  {
+    "parent_id": "W18",
+    "child_id": "W19",
+    "label": "documented_continuation",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Same WHO-documented patient or explicitly updated situation; temporal progression, not causal transmission"
+  },
+  {
+    "parent_id": "W19",
+    "child_id": "W20",
+    "label": "documented_continuation",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Same WHO-documented patient or explicitly updated situation; temporal progression, not causal transmission"
+  },
+  {
+    "parent_id": "W21",
+    "child_id": "W22",
+    "label": "documented_continuation",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Same WHO-documented patient or explicitly updated situation; temporal progression, not causal transmission"
+  },
+  {
+    "parent_id": "W22",
+    "child_id": "W23",
+    "label": "documented_continuation",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Same WHO-documented patient or explicitly updated situation; temporal progression, not causal transmission"
+  },
+  {
+    "parent_id": "W25",
+    "child_id": "W26",
+    "label": "documented_continuation",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Same WHO-documented patient or explicitly updated situation; temporal progression, not causal transmission"
+  },
+  {
+    "parent_id": "W03",
+    "child_id": "W04",
+    "label": "documented_continuation",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Same WHO-documented patient or explicitly updated situation; temporal progression, not causal transmission"
+  },
+  {
+    "parent_id": "W28",
+    "child_id": "W29",
+    "label": "documented_continuation",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Same WHO-documented patient or explicitly updated situation; temporal progression, not causal transmission"
+  },
+  {
+    "parent_id": "W06",
+    "child_id": "W09",
+    "label": "documented_continuation",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Non-adjacent observations describe the same patient in the WHO report"
+  },
+  {
+    "parent_id": "W10",
+    "child_id": "W13",
+    "label": "documented_continuation",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Non-adjacent observations describe the same patient in the WHO report"
+  },
+  {
+    "parent_id": "W14",
+    "child_id": "W16",
+    "label": "documented_continuation",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Non-adjacent observations describe the same patient in the WHO report"
+  },
+  {
+    "parent_id": "W17",
+    "child_id": "W20",
+    "label": "documented_continuation",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Non-adjacent observations describe the same patient in the WHO report"
+  },
+  {
+    "parent_id": "W21",
+    "child_id": "W23",
+    "label": "documented_continuation",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Non-adjacent observations describe the same patient in the WHO report"
+  },
+  {
+    "parent_id": "W17",
+    "child_id": "W21",
+    "label": "related_only",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Distinct patients/incidents despite a shared disease or reporting context; no strong episode-identity claim"
+  },
+  {
+    "parent_id": "W18",
+    "child_id": "W22",
+    "label": "related_only",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Distinct patients/incidents despite a shared disease or reporting context; no strong episode-identity claim"
+  },
+  {
+    "parent_id": "W19",
+    "child_id": "W23",
+    "label": "related_only",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Distinct patients/incidents despite a shared disease or reporting context; no strong episode-identity claim"
+  },
+  {
+    "parent_id": "W20",
+    "child_id": "W24",
+    "label": "related_only",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Distinct patients/incidents despite a shared disease or reporting context; no strong episode-identity claim"
+  },
+  {
+    "parent_id": "W17",
+    "child_id": "W27",
+    "label": "related_only",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Distinct patients/incidents despite a shared disease or reporting context; no strong episode-identity claim"
+  },
+  {
+    "parent_id": "W06",
+    "child_id": "W10",
+    "label": "related_only",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Distinct patients/incidents despite a shared disease or reporting context; no strong episode-identity claim"
+  },
+  {
+    "parent_id": "W08",
+    "child_id": "W13",
+    "label": "related_only",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Distinct patients/incidents despite a shared disease or reporting context; no strong episode-identity claim"
+  },
+  {
+    "parent_id": "W09",
+    "child_id": "W16",
+    "label": "related_only",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Distinct patients/incidents despite a shared disease or reporting context; no strong episode-identity claim"
+  },
+  {
+    "parent_id": "W10",
+    "child_id": "W14",
+    "label": "related_only",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Distinct patients/incidents despite a shared disease or reporting context; no strong episode-identity claim"
+  },
+  {
+    "parent_id": "W11",
+    "child_id": "W15",
+    "label": "related_only",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Distinct patients/incidents despite a shared disease or reporting context; no strong episode-identity claim"
+  },
+  {
+    "parent_id": "W13",
+    "child_id": "W16",
+    "label": "related_only",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Distinct patients/incidents despite a shared disease or reporting context; no strong episode-identity claim"
+  },
+  {
+    "parent_id": "W22",
+    "child_id": "W25",
+    "label": "related_only",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Distinct patients/incidents despite a shared disease or reporting context; no strong episode-identity claim"
+  },
+  {
+    "parent_id": "W23",
+    "child_id": "W26",
+    "label": "related_only",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Distinct patients/incidents despite a shared disease or reporting context; no strong episode-identity claim"
+  },
+  {
+    "parent_id": "W24",
+    "child_id": "W27",
+    "label": "related_only",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Distinct patients/incidents despite a shared disease or reporting context; no strong episode-identity claim"
+  },
+  {
+    "parent_id": "W01",
+    "child_id": "W06",
+    "label": "related_only",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Distinct patients/incidents despite a shared disease or reporting context; no strong episode-identity claim"
+  },
+  {
+    "parent_id": "W05",
+    "child_id": "W09",
+    "label": "related_only",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Distinct patients/incidents despite a shared disease or reporting context; no strong episode-identity claim"
+  },
+  {
+    "parent_id": "W12",
+    "child_id": "W14",
+    "label": "related_only",
+    "annotation_basis": "WHO_document_silver_manual_review_needed",
+    "explanation": "Distinct patients/incidents despite a shared disease or reporting context; no strong episode-identity claim"
+  }
+]

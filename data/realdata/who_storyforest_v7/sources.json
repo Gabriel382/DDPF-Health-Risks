@@ -1,0 +1,66 @@
+[
+  {
+    "source_id": "DON233",
+    "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2020-DON233",
+    "published_at": "2020-01-12",
+    "disease": "COVID-19",
+    "country": "China",
+    "title": "COVID-19 outbreak in China"
+  },
+  {
+    "source_id": "DON234",
+    "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2020-DON234",
+    "published_at": "2020-01-14",
+    "disease": "COVID-19",
+    "country": "Thailand",
+    "title": "COVID-19 case reported by Thailand"
+  },
+  {
+    "source_id": "DON237",
+    "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2020-DON237",
+    "published_at": "2020-01-17",
+    "disease": "COVID-19",
+    "country": "Japan",
+    "title": "COVID-19 case reported by Japan"
+  },
+  {
+    "source_id": "DON238",
+    "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2020-DON238",
+    "published_at": "2020-01-21",
+    "disease": "COVID-19",
+    "country": "Republic of Korea",
+    "title": "COVID-19 case reported by Republic of Korea"
+  },
+  {
+    "source_id": "DON381",
+    "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2022-DON381",
+    "published_at": "2022-05-16",
+    "disease": "Mpox",
+    "country": "United Kingdom",
+    "title": "Imported mpox case in the United Kingdom"
+  },
+  {
+    "source_id": "DON383",
+    "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2022-DON383",
+    "published_at": "2022-05-18",
+    "disease": "Mpox",
+    "country": "United Kingdom",
+    "title": "Local mpox household cluster in the United Kingdom"
+  },
+  {
+    "source_id": "DON385",
+    "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2022-DON385",
+    "published_at": "2022-05-21",
+    "disease": "Mpox",
+    "country": "Multi-country",
+    "title": "Multi-country mpox situation, 21 May"
+  },
+  {
+    "source_id": "DON388",
+    "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2022-DON388",
+    "published_at": "2022-05-29",
+    "disease": "Mpox",
+    "country": "Multi-country",
+    "title": "Multi-country mpox update, 29 May"
+  }
+]
