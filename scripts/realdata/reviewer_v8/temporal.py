@@ -46,48 +46,118 @@ def profile_candidates(root,expected):
                 if p.is_file() and p not in paths and p.suffix.lower() in ('.json','.jsonl','.csv','.tsv') and 'reviewer_v8' not in p.parts and p.stat().st_size<64*1024*1024 and sha(p)==expected:return p
     return None
 
-def profile_records(obj):
-    """Index only records with explicit disease + country IDs (or compound keys).
-    Never send arbitrary metadata, case counts, labels, or target columns to the model.
-    """
-    found={};allowed={'concepts','concept_ids','concept_names','concept_labels','concept_counts','concept_weights','concept_profile','profile','terms','cuis','features','top_concepts','biomedical_concepts','concept_intensities','concept_freq','concept_frequencies','vector','concept_vector','source_counts'}
-    def walk(x,hints=()):
-        if isinstance(x,dict):
-            d=first(x,'disease_id','disease_cui','disease','phenomenon_id',default='');c=first(x,'country_id','location_id','country',default='');alltext=' '.join([str(d),str(c),*map(str,hints)])
-            ds=re.findall(r'C\d{7}',alltext);cs=re.findall(r'wkg:\d+',alltext)
-            vals={k:v for k,v in x.items() if k in allowed and v not in (None,'',[],{})}
-            for k,v in list(vals.items()):
-                if isinstance(v,str) and v[:1] in ('[','{'):
-                    try:vals[k]=json.loads(v)
-                    except ValueError:pass
-            # Accept a pure CUI->weight map, with parent keys carrying the identities.
-            if not vals and x and all(re.fullmatch(r'C\d{7}',str(k)) and isinstance(v,(int,float,str)) for k,v in x.items()):vals={'concept_weights':x}
-            if ds and cs and vals:
-                found[(ds[0],cs[0])]=vals;return
-            for k,v in x.items():
-                if isinstance(v,(list,dict)):walk(v,hints+(str(k),))
-        elif isinstance(x,list):
-            for v in x:walk(v,hints)
-    walk(obj);return found
+def disease_id(value):
+    """Map explicit disease metadata, never infer disease from observation concepts."""
+    text=str(value or '').casefold()
+    found=set(re.findall(r'C\d{7}',str(value or '')))&{'C5203670','C0276180'}
+    if re.search(r'covid|2019.novel.coronavirus|sars.cov.2',text):found.add('C5203670')
+    if re.search(r'monkeypox|mpox',text):found.add('C0276180')
+    return next(iter(found)) if len(found)==1 else None
 
-def load_profiles(root,expected):
+def country_id(value):
+    ids=set(re.findall(r'wkg:\d+',str(value or ''),re.I))
+    return next(iter(ids)).lower() if len(ids)==1 else None
+
+# These are explicit semantic-content fields, not arbitrary record metadata.
+PROFILE_FIELDS={'concepts','concept_ids','concept_names','concept_labels','concept_counts','concept_weights','concept_profile','profile','terms','cuis','features','top_concepts','biomedical_concepts','concept_intensities','concept_freq','concept_frequencies','vector','concept_vector','source_counts','concept_set','concept_list','concepts_by_source','concepts_by_id','concepts_by_cui','selected_concepts','top_terms','tokens','cui_counts','cui_set','cui_list','entities','entity_ids','entity_concepts','observed_concepts','observations','concept_records','concept_ids_masked','concept_names_masked','concept_tokens','concepts_with_intensity','concepts_with_weights','concepts_with_names','concepts_with_intensities','concepts_and_intensities','concept_data','semantic_concepts','semantic_profile','profile_concepts','concept_features','cui_features','cui_names','cui_weights','cui_terms','observed_entities','concept_entries','concept_items','concept_values','concept_ids_and_names','concept_ids_and_intensities'}
+
+def profile_records(obj):
+    """Read flat/nested observation records or legacy disease-country maps.
+
+    Repeated observations are accumulated rather than overwritten. Identity is
+    established only by explicit metadata, not by scanning biomedical concepts.
+    """
+    found=defaultdict(list)
+    def walk(x,d=None,c=None):
+        if isinstance(x,dict):
+            dv=[x[k] for k in ('disease_id','disease_cui','disease','disease_name','phenomenon_id','phenomenon','source','source_id','source_name','source_type','source_label','source_key','source_category','source_dataset','dataset','dataset_name','label','observation_id','episode_id','_key') if k in x]
+            cv=[x[k] for k in ('country_id','country','location_id','location','country_node_id','country_wkg_id','country_wkg','country_uri','location_uri','geographic_id','geo_id','system_id','system','System_ID','System_Id','System_Name','location_cui','observation_id','episode_id','_key','id') if k in x]
+            ds={z for v in dv if (z:=disease_id(v))};cs={z for v in cv if (z:=country_id(v))}
+            if len(ds)>1 or len(cs)>1:return
+            d=next(iter(ds),d);c=next(iter(cs),c)
+            vals={k:v for k,v in x.items() if str(k).casefold() in PROFILE_FIELDS and v not in (None,'',[],{})}
+            # Legacy profiles may be direct CUI -> numeric weight maps.
+            direct={str(k):v for k,v in x.items() if re.fullmatch(r'C\d{7}',str(k)) and isinstance(v,(int,float,str))}
+            if direct:vals['concept_weights']=direct
+            if d and c and vals:
+                found[d,c].append(vals);return
+            for k,v in x.items():
+                if isinstance(v,(list,dict,set,tuple)):
+                    walk(v,disease_id(k) or d,country_id(k) or c)
+        elif isinstance(x,(list,tuple,set)):
+            # A profile loader may return bare concept lists/sets for tuple keys.
+            if d and c and x and all(isinstance(v,str) for v in x):
+                found[d,c].append({'concepts':sorted(x) if isinstance(x,set) else list(x)});return
+            for v in x:walk(v,d,c)
+    walk(obj)
+    return {k: (v[0] if len(v)==1 else {'observation_profiles':v}) for k,v in found.items()}
+
+def legacy_profile_adapter(root,path):
+    """Prefer the actual V5 aggregation when the original function is available.
+    Discover only profile-loading/building functions accepting a single path/root.
+    Import the user's existing module without executing its CLI main.
+    """
+    import ast,importlib.util,inspect,sys
+    attempts=[];results=[]
+    for filename in ('temporal_trajectory_study_v5.py','llm_size_study_v6.py'):
+        script=root/'scripts'/'realdata'/filename
+        if not script.is_file():continue
+        try:
+            tree=ast.parse(script.read_text(encoding='utf-8-sig'))
+            names=[n.name for n in tree.body if isinstance(n,ast.FunctionDef) and ('profil' in n.name.lower() or ('observation' in n.name.lower() and 'profil' in (ast.get_source_segment(script.read_text(encoding='utf-8-sig'),n) or '').lower())) and any(w in n.name.lower() for w in ('load','build','read','collect','recover','make','aggregate'))]
+            if not names:continue
+            name='_reviewer_v8_legacy_'+script.stem
+            spec=importlib.util.spec_from_file_location(name,script);mod=importlib.util.module_from_spec(spec);sys.modules[name]=mod;spec.loader.exec_module(mod)
+            for name in names:
+                f=getattr(mod,name);sig=inspect.signature(f);params=list(sig.parameters.values())
+                required=[p for p in params if p.default is p.empty and p.kind in (p.POSITIONAL_ONLY,p.POSITIONAL_OR_KEYWORD)]
+                if len(required)!=1:continue
+                param=required[0].name.lower()
+                if not any(w in param for w in ('root','path','file','profile','observation','input','rows','records','data')):continue
+                if 'root' in param:arg=root
+                elif param in ('rows','records','observations','data'):arg=[json.loads(l) for l in path.read_text(encoding='utf-8-sig').splitlines() if l.strip()]
+                else:arg=path
+                try:
+                    result=f(arg);objects=[result]+list(result) if isinstance(result,tuple) else [result]
+                    for obj in objects:
+                        parsed=profile_records(obj)
+                        if parsed:results.append((parsed,{'adapter':'legacy_function','function':filename+':'+name,'script_sha256':sha(script)}))
+                    attempts.append({'function':filename+':'+name,'status':'called','return_type':type(result).__name__})
+                except Exception as e:attempts.append({'function':filename+':'+name,'status':'failed','error':str(e)[:200]})
+        except Exception as e:attempts.append({'file':filename,'status':'import_failed','error':str(e)[:200]})
+    return results,attempts
+
+def load_profiles(root,expected,expected_keys=None,holdout_keys=None):
     path=profile_candidates(root,expected)
     if not path:return {},{'status':'exact_legacy_profile_file_not_found','expected_sha256':expected}
     if path.suffix=='.csv':obj=csvread(path)
-    elif path.suffix=='.jsonl':obj=[json.loads(x) for x in path.read_text().splitlines() if x.strip()]
+    elif path.suffix=='.jsonl':obj=[json.loads(x) for x in path.read_text(encoding='utf-8-sig').splitlines() if x.strip()]
     elif path.suffix=='.tsv':
         import csv
         with path.open() as f:obj=list(csv.DictReader(f,delimiter='\t'))
     else:obj=load(path)
-    profiles=profile_records(obj)
-    # Bound supplied features, keep raw data hash and do not claim same old prompt.
+    options,attempts=legacy_profile_adapter(root,path)
+    options.append((profile_records(obj),{'adapter':'explicit_observation_schema'}))
+    # Do not select an adapter merely because it returns some data. Compare to
+    # the original eligible disease-country keys when the old predictions exist.
+    def rank(item):
+        p,info=item
+        relevant=set(p)&holdout_keys if holdout_keys is not None else set(p)
+        return (-len(relevant^expected_keys) if expected_keys is not None else len(relevant), bool(any(re.findall(r'C\d{7}',json.dumps(v,default=str)) for v in p.values())),info['adapter']=='legacy_function')
+    profiles,adapter=max(options,key=rank)
     def safe(v,depth=0):
-        if depth>5:return None
-        if isinstance(v,dict):return {str(k):safe(x,depth+1) for k,x in sorted(v.items(),key=lambda t:str(t[0]))[:80] if not re.search(r'(target|label|future|report|cases|date|prediction|outcome)',str(k),re.I) or k=='concept_labels'}
-        if isinstance(v,list):return [safe(x,depth+1) for x in v[:80]]
-        return v if isinstance(v,(int,float,bool)) else str(v)[:300]
+        if depth>8:return None
+        if isinstance(v,dict):return {str(k):safe(x,depth+1) for k,x in sorted(v.items(),key=lambda t:str(t[0])) if not re.search(r'(target|label|future|report|cases|date|prediction|outcome)',str(k),re.I) or k=='concept_labels'}
+        if isinstance(v,(list,tuple,set)):return [safe(x,depth+1) for x in (sorted(v,key=str) if isinstance(v,set) else v)]
+        return v if isinstance(v,(int,float,bool)) else str(v)[:500]
     profiles={k:safe(v) for k,v in profiles.items()}
-    return profiles,{'status':'parsed' if profiles else 'exact_file_found_schema_not_recognized','file':str(path.relative_to(root)),'sha256':sha(path),'n_profiles':len(profiles)}
+    # Expose actual record structure for diagnostics without printing full data.
+    def shape(x,depth=0):
+        if depth>2:return type(x).__name__
+        if isinstance(x,dict):return {str(k):shape(v,depth+1) for k,v in list(x.items())[:30]}
+        if isinstance(x,(list,tuple)):return {'type':'list','length':len(x),'first':shape(x[0],depth+1) if x else None}
+        return str(x)[:120] if isinstance(x,(str,int,float)) else type(x).__name__
+    return profiles,{'status':'parsed' if profiles else 'exact_file_found_schema_not_recognized','file':str(path.relative_to(root)),'sha256':sha(path),'n_profiles':len(profiles),**adapter,'legacy_adapter_attempts':attempts,'candidate_adapters':[dict(info,n_profiles=len(p)) for p,info in options],'first_record_schema':shape(obj[0] if isinstance(obj,list) and obj else obj)}
 
 def harmonize_legacy(summary):
     """Exact binary macro F1 from archived support, prediction marginals, accuracy and recall.
@@ -183,10 +253,18 @@ def run(root,out,client,models,preflight=False):
         if None not in ids and ids:
             if ids!=set(index):raise ValueError('Holdout ID mismatch vs V5')
             old_ids_verified=True
-    profiles,paudit=load_profiles(root,config['dataset_profiles_sha256']);covered=[x for x in test if (x['disease_id'],x['country_id']) in profiles];matched_profile_cohort=len(covered)==578 and all((x['disease_id'],x['country_id']) in profiles for x in selected)
+    old_eligible_ids=None
+    if oldpred.exists():
+        eligible={first(r,'origin_episode_id','origin_id','episode_id','origin') for r in old if r.get('split')=='holdout_all' and str(r.get('has_static_kg_context','')).lower() in ('1','1.0','true')}
+        if len(eligible)==578 and eligible<=set(index):old_eligible_ids=eligible
+    expected_keys={(index[i]['disease_id'],index[i]['country_id']) for i in old_eligible_ids} if old_eligible_ids is not None else None
+    profiles,paudit=load_profiles(root,config['dataset_profiles_sha256'],expected_keys,{(x['disease_id'],x['country_id']) for x in test});covered=[x for x in test if (x['disease_id'],x['country_id']) in profiles];actual_ids={x['origin_id'] for x in covered}
+    matched_profile_cohort=len(covered)==578 and all((x['disease_id'],x['country_id']) in profiles for x in selected) and (old_eligible_ids is None or actual_ids==old_eligible_ids)
+    paudit['legacy_eligibility_ids_verified']=old_eligible_ids is not None and actual_ids==old_eligible_ids
+    if old_eligible_ids is not None:paudit.update(missing_eligible_ids=sorted(old_eligible_ids-actual_ids)[:10],extra_eligible_ids=sorted(actual_ids-old_eligible_ids)[:10])
     quality.update(n_train=len(train),n_holdout=len(test),n_selected=len(selected),holdout_labels=dict(Counter(x['label'] for x in test)),sample_labels=dict(Counter(x['label'] for x in selected)),old_holdout_ids_verified=old_ids_verified,snapshot_sha256=sha(p),profile_audit=paudit,parsed_kg_eligible=len(covered),original_profile_cohort_matched=matched_profile_cohort)
     dump(out/'cohort_audit.json',quality);dump(out/'selected_episodes.json',selected);csvwrite(out/'legacy_v6_harmonized.csv',harmonize_legacy(legacy));print('Temporal cohort:',quality,flush=True)
-    if preflight:return {'status':'PREFLIGHT_OK','profile_cohort_matched':matched_profile_cohort,'quality':quality}
+    if preflight:return {'status':'PREFLIGHT_OK' if matched_profile_cohort else 'PROFILE_COHORT_BLOCKED','profile_cohort_matched':matched_profile_cohort,'quality':quality}
     from sklearn.pipeline import make_pipeline
     from sklearn.preprocessing import StandardScaler
     from sklearn.linear_model import LogisticRegression
@@ -210,12 +288,17 @@ def run(root,out,client,models,preflight=False):
     for keys in groups.values():
         v=list(keys);rng.shuffle(v);permuted.update(dict(zip(keys,v)))
     dump(out/'llm_profile_permutation.json',{'mapping':[{'disease':k[0],'country':k[1],'assigned_country':v[1]} for k,v in permuted.items()], 'changed_profiles':sum(stable(profiles[k])!=stable(profiles[v]) for k,v in permuted.items())})
+    def compact(v,depth=0):
+        if depth>8:return None
+        if isinstance(v,dict):return {k:compact(x,depth+1) for k,x in list(v.items())[:80]}
+        if isinstance(v,list):return [compact(x,depth+1) for x in v[:80]]
+        return v
     for m in models:
         for x in selected:
             base={'disease':x['disease'],'country':x['country'],'weekly_reported_values_oldest_to_latest':x['history'],'historical_differences':x['historical_differences'],'origin_week':x['origin_week'],'target_definition':'next reported value compared with latest observed value; increase if larger, flat if equal, revision if smaller. Use supplied historical values only; no retrospective factual recall.'}
             conditions={'temporal_only':base}
             if matched_profile_cohort:
-                k=(x['disease_id'],x['country_id']);conditions['static_kg_context']=dict(base,static_profile=profiles[k]);conditions['shuffled_static_kg_context']=dict(base,static_profile=profiles[permuted[k]])
+                k=(x['disease_id'],x['country_id']);conditions['static_kg_context']=dict(base,static_profile=compact(profiles[k]));conditions['shuffled_static_kg_context']=dict(base,static_profile=compact(profiles[permuted[k]]))
             for c,payload in conditions.items():
                 ans=client.call(m,'Predict next-week reported-value direction',payload,schema_enum('prediction',DIR),val,budget=128);rows.append({k:x[k] for k in ('origin_id','disease','country_id','target_week','label')}|{'model':m,'condition':c,'cohort':'fixed_40','prediction':ans['prediction'] if ans else None})
         csvwrite(out/'predictions.csv',rows);dump(out/'metrics.json',score_rows(rows))

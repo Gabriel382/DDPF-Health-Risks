@@ -8,12 +8,16 @@ test_history_and_no_leakage (test_reviewer_revision_v8.TestV8.test_history_and_n
 test_identity_separate (test_reviewer_revision_v8.TestV8.test_identity_separate) ... ok
 test_label_parser (test_reviewer_revision_v8.TestV8.test_label_parser) ... ok
 test_legacy_8b (test_reviewer_revision_v8.TestV8.test_legacy_8b) ... ok
+test_legacy_profile_loader_exact_membership (test_reviewer_revision_v8.TestV8.test_legacy_profile_loader_exact_membership) ... ok
 test_mock_ollama_cache (test_reviewer_revision_v8.TestV8.test_mock_ollama_cache) ... ok
 test_profile_index (test_reviewer_revision_v8.TestV8.test_profile_index) ... ok
+test_profile_no_disease_inference_from_concepts (test_reviewer_revision_v8.TestV8.test_profile_no_disease_inference_from_concepts) ... ok
+test_real_logged_event_schema (test_reviewer_revision_v8.TestV8.test_real_logged_event_schema) ... ok
+test_source_observation_profile_aggregation (test_reviewer_revision_v8.TestV8.test_source_observation_profile_aggregation) ... ok
 test_unlabelled_not_false (test_reviewer_revision_v8.TestV8.test_unlabelled_not_false) ... ok
 test_zero_positive_f1 (test_reviewer_revision_v8.TestV8.test_zero_positive_f1) ... ok
 
 ----------------------------------------------------------------------
-Ran 14 tests in 0.777s
+Ran 18 tests in 1.152s
 
 OK

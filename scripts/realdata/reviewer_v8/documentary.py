@@ -27,14 +27,19 @@ def event(x):
             quotes.append(str(first(z,'quote','text','excerpt','span','evidence_text','passage',default='')));ids.append(str(first(z,'evidence_id','id',default='')));sources.append(str(first(z,'document_id','doc_id','source_id','source','url',default='')))
         elif z:quotes.append(str(z))
     src=don(first(d,'document_id','doc_id','source_document','source_doc','source_doc_id','source_id','source','don_id','url',default='')) or don(sources) or don(d)
-    id_=first(d,'event_id','id','uid','_key','mention_id'); day=iso(first(d,'date','event_date','occurrence_date','reported_date','time','event_time','timestamp','date_iso','event_date_iso','start_date'))
+    id_=first(d,'event_id','id','uid','_key','mention_id'); day=iso(first(d,'date','occurred_at','event_date','occurrence_date','reported_date','time','event_time','timestamp','date_iso','event_date_iso','start_date'))
     typ=first(d,'event_type','type','kind','category','event_kind'); desc=first(d,'description','title','summary','event_description','text','label','name','event')
     concepts=first(d,'concept_ids','concepts','umls_cuis','disease_id','concept_id','cui',default=[])
     if isinstance(concepts,str):concepts=re.findall(r'C\d{7}',concepts)
     concepts=sorted(set(re.findall(r'C\d{7}',json.dumps(concepts))))
-    disease=first(d,'disease','phenomenon','disease_name',default=''); loc=first(d,'location','country','country_name','place','locations',default='')
+    disease=first(d,'disease','phenomenon','disease_name',default='');
+    if not concepts:
+        name=norm(disease)
+        if name in ('covid-19','covid','disease caused by 2019 novel coronavirus'):concepts=['C5203670']
+        elif name in ('mpox','monkeypox'):concepts=['C0276180']
+    loc=first(d,'location','country','country_name','place','locations',default='')
     if not id_ or not day or not typ or not desc or not src:raise ValueError('Missing required event fields: '+json.dumps(x,default=str)[:850])
-    return {'id':str(id_),'date':day,'type':str(typ),'description':str(desc),'doc':src,'disease':str(disease),'location':str(loc),'concepts':concepts,'quotes':[q for q in quotes if q], 'evidence_ids':[i for i in ids if i]}
+    return {'id':str(id_),'date':day,'type':str(typ),'description':str(desc),'doc':src,'disease':str(disease),'location':str(loc),'concepts':concepts,'quotes':[q for q in quotes if q], 'evidence_ids':[i for i in ids if i], 'evidence_anchor':str(first(d,'evidence_anchor',default=''))}
 
 def pairids(x):
     def ident(v):return str(first(v,'event_id','id','uid')) if isinstance(v,dict) else str(v)
@@ -80,7 +85,7 @@ def validate_sources(events,docs):
         src=docs[e['doc']]['text'];e['verified_quotes']=[q for q in e['quotes'] if norm(q) in norm(src)]
         # A verified quote is preferable; otherwise supply the source itself without fabricating a passage.
         e['evidence']=e['verified_quotes'] or [src]
-        e['source_hash']=docs[e['doc']]['sha256'];e['quote_verified']=bool(e['verified_quotes'])
+        e['source_hash']=docs[e['doc']]['sha256'];e['quote_verified']=bool(e['verified_quotes']);e['anchor_verified']=bool(e.get('evidence_anchor')) and norm(e['evidence_anchor']) in norm(src)
     return events
 
 def candidates(events,k=4):

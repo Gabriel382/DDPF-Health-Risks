@@ -36,6 +36,21 @@ class TestV8(unittest.TestCase):
         self.assertAlmostEqual(x['fixed_two_class_macro_f1'],(2*26/61+2*4/18)/2);self.assertEqual(x['predicted_revision'],1)
     def test_profile_index(self):
         p=temporal.profile_records({'C5203670':{'wkg:123':{'concept_counts':{'C0123456':2}}}});self.assertIn(('C5203670','wkg:123'),p)
+    def test_real_logged_event_schema(self):
+        x={"event_id":"W01","source_id":"DON233","occurred_at":"2019-12-31","event_type":"outbreak_report","description":"WHO was informed of the initial pneumonia cluster in Wuhan.","evidence_anchor":"31 December 2019","episode_group":"wuhan_report","country":"China","disease":"COVID-19","reference_status":"curated_silver_unadjudicated"}
+        e=d.event(x);self.assertEqual(e['date'],'2019-12-31');self.assertEqual(e['concepts'],['C5203670']);self.assertEqual(e['quotes'],[])
+        docs={'DON233':{'text':'On 31 December 2019 the WHO was informed of a cluster.','sha256':'example'}}
+        d.validate_sources([e],docs);self.assertTrue(e['anchor_verified']);self.assertFalse(e['quote_verified']);self.assertEqual(e['evidence'],[docs['DON233']['text']])
+    def test_source_observation_profile_aggregation(self):
+        x=[{'source':'Journal_COVID','country':{'id':'wkg:123'},'concepts':[{'id':'C1111111','name':'a'}]}, {'source':'Medical_COVID','country_id':'wkg:123','concepts':[{'id':'C2222222','name':'b'}]}, {'disease':'Mpox','location':{'id':'wkg:456'},'concept_ids':['C3333333']}]
+        p=temporal.profile_records(x);self.assertEqual(set(p),{('C5203670','wkg:123'),('C0276180','wkg:456')});self.assertEqual(len(p['C5203670','wkg:123']['observation_profiles']),2)
+    def test_legacy_profile_loader_exact_membership(self):
+        with tempfile.TemporaryDirectory() as z:
+            root=Path(z);script=root/'scripts/realdata/temporal_trajectory_study_v5.py';script.parent.mkdir(parents=True);script.write_text("def load_static_profiles(path):\n    return {('COVID-19','wkg:123'): {'concept_ids': ['C1111111']}, ('Mpox','wkg:456'): {'concept_ids':['C2222222']}}\n")
+            path=root/'outputs/realdata/reconstructed_observations.jsonl';path.parent.mkdir(parents=True);path.write_text('{"legacy_schema":true}\n')
+            keys={('C5203670','wkg:123'),('C0276180','wkg:456')};p,a=temporal.load_profiles(root,core.sha(path),keys,keys);self.assertEqual(set(p),keys);self.assertEqual(a['adapter'],'legacy_function')
+    def test_profile_no_disease_inference_from_concepts(self):
+        self.assertEqual(temporal.profile_records([{'country_id':'wkg:1','concepts':['C5203670','C1111111']}]),{})
     def test_forest_structure(self):
         e=[{'id':str(i),'date':str(date(2020,1,1)+timedelta(days=i))} for i in range(29)];pairs=d.candidates(e);self.assertEqual(len(pairs),106);preds={k:'documented_continuation' for k in pairs};f=d.forest(e,preds,pairs);self.assertEqual(f['n_edges'],28);self.assertEqual(f['n_roots'],1);self.assertEqual(f['max_indegree'],1)
     def test_identity_separate(self):
