@@ -1,0 +1,225 @@
+{
+  "status": "CONTROLLED_PILOT_COMPLETE_WITH_LIMITATIONS",
+  "independently_adjudicated_gold": false,
+  "full_end_to_end_generated_forest_validated": false,
+  "scope": "cache-only fixed-pair candidate replay; unqueried pairs abstain",
+  "extraction": {
+    "qwen3:0.6b": {
+      "documents_ok": 8,
+      "documents_total": 8,
+      "reference_slots_in_completed_documents": 29,
+      "matched_slots": 2,
+      "slot_recall_conditional_on_completed": 0.068966,
+      "failures": 0
+    },
+    "qwen3:4b": {
+      "documents_ok": 8,
+      "documents_total": 8,
+      "reference_slots_in_completed_documents": 29,
+      "matched_slots": 20,
+      "slot_recall_conditional_on_completed": 0.689655,
+      "failures": 0
+    },
+    "qwen3:32b": {
+      "documents_ok": 8,
+      "documents_total": 8,
+      "reference_slots_in_completed_documents": 29,
+      "matched_slots": 23,
+      "slot_recall_conditional_on_completed": 0.793103,
+      "failures": 0
+    }
+  },
+  "tree_replay": [
+    {
+      "model": "qwen3:4b",
+      "method": "llm_only",
+      "scope": "cached_fixed_pair_candidate_replay",
+      "cached_decisions": 32,
+      "unqueried_candidates_abstained": 74,
+      "candidate_decisions": 106,
+      "n_errors": 0,
+      "n_accepted_continuations": 0,
+      "n_nodes": 29,
+      "n_unique_nodes": 29,
+      "n_roots": 29,
+      "n_edges": 0,
+      "largest_tree": 1,
+      "all_nodes_included": true,
+      "acyclic": true,
+      "gold_documented_direct_edges": 21,
+      "retrieved_gold_edges_in_forest": 0,
+      "direct_edge_recall_silver": 0.0,
+      "known_negative_edges_in_forest": 0,
+      "unlabelled_edges_not_scored": 0,
+      "note": "Tree recall counts direct edges only; valid transitive paths are not credited."
+    },
+    {
+      "model": "qwen3:4b",
+      "method": "full",
+      "scope": "cached_fixed_pair_candidate_replay",
+      "cached_decisions": 32,
+      "unqueried_candidates_abstained": 74,
+      "candidate_decisions": 106,
+      "n_errors": 0,
+      "n_accepted_continuations": 0,
+      "n_nodes": 29,
+      "n_unique_nodes": 29,
+      "n_roots": 29,
+      "n_edges": 0,
+      "largest_tree": 1,
+      "all_nodes_included": true,
+      "acyclic": true,
+      "gold_documented_direct_edges": 21,
+      "retrieved_gold_edges_in_forest": 0,
+      "direct_edge_recall_silver": 0.0,
+      "known_negative_edges_in_forest": 0,
+      "unlabelled_edges_not_scored": 0,
+      "note": "Tree recall counts direct edges only; valid transitive paths are not credited."
+    },
+    {
+      "model": "qwen3:32b",
+      "method": "llm_only",
+      "scope": "cached_fixed_pair_candidate_replay",
+      "cached_decisions": 32,
+      "unqueried_candidates_abstained": 74,
+      "candidate_decisions": 106,
+      "n_errors": 0,
+      "n_accepted_continuations": 10,
+      "n_nodes": 29,
+      "n_unique_nodes": 29,
+      "n_roots": 19,
+      "n_edges": 10,
+      "largest_tree": 4,
+      "all_nodes_included": true,
+      "acyclic": true,
+      "gold_documented_direct_edges": 21,
+      "retrieved_gold_edges_in_forest": 9,
+      "direct_edge_recall_silver": 0.42857142857142855,
+      "known_negative_edges_in_forest": 1,
+      "unlabelled_edges_not_scored": 0,
+      "note": "Tree recall counts direct edges only; valid transitive paths are not credited."
+    },
+    {
+      "model": "qwen3:32b",
+      "method": "full",
+      "scope": "cached_fixed_pair_candidate_replay",
+      "cached_decisions": 32,
+      "unqueried_candidates_abstained": 74,
+      "candidate_decisions": 106,
+      "n_errors": 0,
+      "n_accepted_continuations": 13,
+      "n_nodes": 29,
+      "n_unique_nodes": 29,
+      "n_roots": 17,
+      "n_edges": 12,
+      "largest_tree": 4,
+      "all_nodes_included": true,
+      "acyclic": true,
+      "gold_documented_direct_edges": 21,
+      "retrieved_gold_edges_in_forest": 11,
+      "direct_edge_recall_silver": 0.5238095238095238,
+      "known_negative_edges_in_forest": 1,
+      "unlabelled_edges_not_scored": 0,
+      "note": "Tree recall counts direct edges only; valid transitive paths are not credited."
+    }
+  ],
+  "issues": [],
+  "provenance": {
+    "source_audit": "PASS",
+    "v7_cache_sha256": "9721cd7f641dc7d186df36aef551216cd09bc1eb3e5d882a6878e9c4c52fdfd1"
+  },
+  "date_normalizations": [
+    {
+      "raw_date": "21 May 2022",
+      "iso_date": "2022-05-21"
+    },
+    {
+      "raw_date": "13 May 2022",
+      "iso_date": "2022-05-13"
+    },
+    {
+      "raw_date": "21 May 2022",
+      "iso_date": "2022-05-21"
+    },
+    {
+      "raw_date": "21 May 2022",
+      "iso_date": "2022-05-21"
+    },
+    {
+      "raw_date": "21 May 2022",
+      "iso_date": "2022-05-21"
+    },
+    {
+      "raw_date": "21 May 2022",
+      "iso_date": "2022-05-21"
+    },
+    {
+      "raw_date": "21 May 2022",
+      "iso_date": "2022-05-21"
+    },
+    {
+      "raw_date": "21 May 2022",
+      "iso_date": "2022-05-21"
+    },
+    {
+      "raw_date": "21 May 2022",
+      "iso_date": "2022-05-21"
+    },
+    {
+      "raw_date": "21 May 2022",
+      "iso_date": "2022-05-21"
+    },
+    {
+      "raw_date": "21 May 2022",
+      "iso_date": "2022-05-21"
+    },
+    {
+      "raw_date": "29 May 2022",
+      "iso_date": "2022-05-29"
+    },
+    {
+      "raw_date": "21 May 2022",
+      "iso_date": "2022-05-21"
+    },
+    {
+      "raw_date": "26 May 2022",
+      "iso_date": "2022-05-26"
+    },
+    {
+      "raw_date": "13 May 2022",
+      "iso_date": "2022-05-13"
+    },
+    {
+      "raw_date": "26 May 2022",
+      "iso_date": "2022-05-26"
+    },
+    {
+      "raw_date": "26 May 2022",
+      "iso_date": "2022-05-26"
+    },
+    {
+      "raw_date": "26 May 2022",
+      "iso_date": "2022-05-26"
+    },
+    {
+      "raw_date": "26 May 2022",
+      "iso_date": "2022-05-26"
+    },
+    {
+      "raw_date": "26 May 2022",
+      "iso_date": "2022-05-26"
+    },
+    {
+      "raw_date": "26 May 2022",
+      "iso_date": "2022-05-26"
+    },
+    {
+      "raw_date": "26 May 2022",
+      "iso_date": "2022-05-26"
+    },
+    {
+      "raw_date": "26 May 2022",
+      "iso_date": "2022-05-26"
+    }
+  ]
+}

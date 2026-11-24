@@ -1,0 +1,19 @@
+test_ambiguous_alignment (test_reviewer_revision_v8.TestV8.test_ambiguous_alignment) ... ok
+test_blind_full_mock_run (test_reviewer_revision_v8.TestV8.test_blind_full_mock_run) ... ok
+test_date_normalization (test_reviewer_revision_v8.TestV8.test_date_normalization) ... ok
+test_fixed_macro_f1 (test_reviewer_revision_v8.TestV8.test_fixed_macro_f1) ... ok
+test_forest_structure (test_reviewer_revision_v8.TestV8.test_forest_structure) ... ok
+test_guard_rejects_evidence (test_reviewer_revision_v8.TestV8.test_guard_rejects_evidence) ... ok
+test_history_and_no_leakage (test_reviewer_revision_v8.TestV8.test_history_and_no_leakage) ... ok
+test_identity_separate (test_reviewer_revision_v8.TestV8.test_identity_separate) ... ok
+test_label_parser (test_reviewer_revision_v8.TestV8.test_label_parser) ... ok
+test_legacy_8b (test_reviewer_revision_v8.TestV8.test_legacy_8b) ... ok
+test_mock_ollama_cache (test_reviewer_revision_v8.TestV8.test_mock_ollama_cache) ... ok
+test_profile_index (test_reviewer_revision_v8.TestV8.test_profile_index) ... ok
+test_unlabelled_not_false (test_reviewer_revision_v8.TestV8.test_unlabelled_not_false) ... ok
+test_zero_positive_f1 (test_reviewer_revision_v8.TestV8.test_zero_positive_f1) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.777s
+
+OK

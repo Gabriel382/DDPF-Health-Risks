@@ -1,0 +1,2780 @@
+{
+  "scope": "Aggregate reported-value next-week direction benchmark, NOT documentary Story Forest",
+  "integrity": {
+    "status": "PASS",
+    "v5_manifest_complete": true,
+    "snapshots": 26873,
+    "country_disease_series": 167,
+    "holdout": 1565,
+    "prediction_rows": 4775,
+    "pairwise_llm_episodes": 40,
+    "llm_cache_entries": 80,
+    "cutoff_date": "2024-01-01",
+    "last_train_target": "2023-12-25",
+    "first_holdout_target": "2024-01-01",
+    "train_target_before_holdout": true,
+    "valid_consecutive_origin_target_links": 1565,
+    "all_snapshot_series_without_gaps": true,
+    "all_target_labels_recomputed_from_snapshots": true,
+    "provenance_ids_verified": true,
+    "class_counts_holdout": {
+      "flat": 1155,
+      "increase": 410
+    },
+    "KG_covered_holdout": 578,
+    "LLM_by_disease": {
+      "Mpox": 20,
+      "COVID-19": 20
+    }
+  },
+  "performance": [
+    {
+      "method": "M1_persistence",
+      "cohort": "full_holdout",
+      "disease": "ALL",
+      "classes": {
+        "flat": 1155,
+        "increase": 410
+      },
+      "predicted": {
+        "increase": 427,
+        "flat": 1138
+      },
+      "accuracy": 0.92524,
+      "macro_f1": 0.904595,
+      "n": 1565,
+      "balanced_accuracy_observed_classes": 0.91002,
+      "recall_by_class": {
+        "increase": 0.878049,
+        "flat": 0.941991
+      },
+      "precision_by_class": {
+        "increase": 0.843091,
+        "flat": 0.956063
+      },
+      "confusion": {
+        "increase": {
+          "increase": 360,
+          "flat": 50
+        },
+        "flat": {
+          "increase": 67,
+          "flat": 1088
+        }
+      }
+    },
+    {
+      "method": "M1_persistence",
+      "cohort": "full_holdout",
+      "disease": "COVID-19",
+      "classes": {
+        "flat": 578,
+        "increase": 358
+      },
+      "predicted": {
+        "flat": 572,
+        "increase": 364
+      },
+      "accuracy": 0.976496,
+      "macro_f1": 0.975199,
+      "n": 936,
+      "balanced_accuracy_observed_classes": 0.976716,
+      "recall_by_class": {
+        "increase": 0.977654,
+        "flat": 0.975779
+      },
+      "precision_by_class": {
+        "increase": 0.961538,
+        "flat": 0.986014
+      },
+      "confusion": {
+        "increase": {
+          "increase": 350,
+          "flat": 8
+        },
+        "flat": {
+          "flat": 564,
+          "increase": 14
+        }
+      }
+    },
+    {
+      "method": "M1_persistence",
+      "cohort": "full_holdout",
+      "disease": "Mpox",
+      "classes": {
+        "flat": 577,
+        "increase": 52
+      },
+      "predicted": {
+        "increase": 63,
+        "flat": 566
+      },
+      "accuracy": 0.848967,
+      "macro_f1": 0.545399,
+      "n": 629,
+      "balanced_accuracy_observed_classes": 0.550227,
+      "recall_by_class": {
+        "increase": 0.192308,
+        "flat": 0.908146
+      },
+      "precision_by_class": {
+        "increase": 0.15873,
+        "flat": 0.925795
+      },
+      "confusion": {
+        "increase": {
+          "flat": 42,
+          "increase": 10
+        },
+        "flat": {
+          "increase": 53,
+          "flat": 524
+        }
+      }
+    },
+    {
+      "method": "M1_persistence",
+      "cohort": "kg_eligible",
+      "disease": "ALL",
+      "classes": {
+        "flat": 409,
+        "increase": 169
+      },
+      "predicted": {
+        "increase": 178,
+        "flat": 400
+      },
+      "accuracy": 0.880623,
+      "macro_f1": 0.857931,
+      "n": 578,
+      "balanced_accuracy_observed_classes": 0.863565,
+      "recall_by_class": {
+        "increase": 0.822485,
+        "flat": 0.904645
+      },
+      "precision_by_class": {
+        "increase": 0.780899,
+        "flat": 0.925
+      },
+      "confusion": {
+        "increase": {
+          "increase": 139,
+          "flat": 30
+        },
+        "flat": {
+          "increase": 39,
+          "flat": 370
+        }
+      }
+    },
+    {
+      "method": "M1_persistence",
+      "cohort": "kg_eligible",
+      "disease": "COVID-19",
+      "classes": {
+        "flat": 152,
+        "increase": 136
+      },
+      "predicted": {
+        "flat": 152,
+        "increase": 136
+      },
+      "accuracy": 0.986111,
+      "macro_f1": 0.986068,
+      "n": 288,
+      "balanced_accuracy_observed_classes": 0.986068,
+      "recall_by_class": {
+        "increase": 0.985294,
+        "flat": 0.986842
+      },
+      "precision_by_class": {
+        "increase": 0.985294,
+        "flat": 0.986842
+      },
+      "confusion": {
+        "increase": {
+          "increase": 134,
+          "flat": 2
+        },
+        "flat": {
+          "flat": 150,
+          "increase": 2
+        }
+      }
+    },
+    {
+      "method": "M1_persistence",
+      "cohort": "kg_eligible",
+      "disease": "Mpox",
+      "classes": {
+        "flat": 257,
+        "increase": 33
+      },
+      "predicted": {
+        "increase": 42,
+        "flat": 248
+      },
+      "accuracy": 0.775862,
+      "macro_f1": 0.50231,
+      "n": 290,
+      "balanced_accuracy_observed_classes": 0.503773,
+      "recall_by_class": {
+        "increase": 0.151515,
+        "flat": 0.856031
+      },
+      "precision_by_class": {
+        "increase": 0.119048,
+        "flat": 0.887097
+      },
+      "confusion": {
+        "increase": {
+          "flat": 28,
+          "increase": 5
+        },
+        "flat": {
+          "increase": 37,
+          "flat": 220
+        }
+      }
+    },
+    {
+      "method": "M1_persistence",
+      "cohort": "kg_ineligible",
+      "disease": "ALL",
+      "classes": {
+        "flat": 746,
+        "increase": 241
+      },
+      "predicted": {
+        "flat": 738,
+        "increase": 249
+      },
+      "accuracy": 0.951368,
+      "macro_f1": 0.934848,
+      "n": 987,
+      "balanced_accuracy_observed_classes": 0.939739,
+      "recall_by_class": {
+        "increase": 0.917012,
+        "flat": 0.962466
+      },
+      "precision_by_class": {
+        "increase": 0.88755,
+        "flat": 0.9729
+      },
+      "confusion": {
+        "increase": {
+          "increase": 221,
+          "flat": 20
+        },
+        "flat": {
+          "flat": 718,
+          "increase": 28
+        }
+      }
+    },
+    {
+      "method": "M1_persistence",
+      "cohort": "kg_ineligible",
+      "disease": "COVID-19",
+      "classes": {
+        "flat": 426,
+        "increase": 222
+      },
+      "predicted": {
+        "flat": 420,
+        "increase": 228
+      },
+      "accuracy": 0.972222,
+      "macro_f1": 0.969362,
+      "n": 648,
+      "balanced_accuracy_observed_classes": 0.972402,
+      "recall_by_class": {
+        "increase": 0.972973,
+        "flat": 0.971831
+      },
+      "precision_by_class": {
+        "increase": 0.947368,
+        "flat": 0.985714
+      },
+      "confusion": {
+        "increase": {
+          "increase": 216,
+          "flat": 6
+        },
+        "flat": {
+          "flat": 414,
+          "increase": 12
+        }
+      }
+    },
+    {
+      "method": "M1_persistence",
+      "cohort": "kg_ineligible",
+      "disease": "Mpox",
+      "classes": {
+        "flat": 320,
+        "increase": 19
+      },
+      "predicted": {
+        "flat": 318,
+        "increase": 21
+      },
+      "accuracy": 0.911504,
+      "macro_f1": 0.601489,
+      "n": 339,
+      "balanced_accuracy_observed_classes": 0.606579,
+      "recall_by_class": {
+        "increase": 0.263158,
+        "flat": 0.95
+      },
+      "precision_by_class": {
+        "increase": 0.238095,
+        "flat": 0.955975
+      },
+      "confusion": {
+        "increase": {
+          "flat": 14,
+          "increase": 5
+        },
+        "flat": {
+          "flat": 304,
+          "increase": 16
+        }
+      }
+    },
+    {
+      "method": "M2_temporal_knn_noKG",
+      "cohort": "full_holdout",
+      "disease": "ALL",
+      "classes": {
+        "flat": 1155,
+        "increase": 410
+      },
+      "predicted": {
+        "flat": 1147,
+        "increase": 418
+      },
+      "accuracy": 0.925879,
+      "macro_f1": 0.904756,
+      "n": 1565,
+      "balanced_accuracy_observed_classes": 0.907307,
+      "recall_by_class": {
+        "increase": 0.868293,
+        "flat": 0.94632
+      },
+      "precision_by_class": {
+        "increase": 0.851675,
+        "flat": 0.952921
+      },
+      "confusion": {
+        "increase": {
+          "increase": 356,
+          "flat": 54
+        },
+        "flat": {
+          "flat": 1093,
+          "increase": 62
+        }
+      }
+    },
+    {
+      "method": "M2_temporal_knn_noKG",
+      "cohort": "full_holdout",
+      "disease": "COVID-19",
+      "classes": {
+        "flat": 578,
+        "increase": 358
+      },
+      "predicted": {
+        "flat": 561,
+        "increase": 375
+      },
+      "accuracy": 0.964744,
+      "macro_f1": 0.963003,
+      "n": 936,
+      "balanced_accuracy_observed_classes": 0.967201,
+      "recall_by_class": {
+        "increase": 0.977654,
+        "flat": 0.956747
+      },
+      "precision_by_class": {
+        "increase": 0.933333,
+        "flat": 0.98574
+      },
+      "confusion": {
+        "increase": {
+          "increase": 350,
+          "flat": 8
+        },
+        "flat": {
+          "flat": 553,
+          "increase": 25
+        }
+      }
+    },
+    {
+      "method": "M2_temporal_knn_noKG",
+      "cohort": "full_holdout",
+      "disease": "Mpox",
+      "classes": {
+        "flat": 577,
+        "increase": 52
+      },
+      "predicted": {
+        "flat": 586,
+        "increase": 43
+      },
+      "accuracy": 0.868045,
+      "macro_f1": 0.527474,
+      "n": 629,
+      "balanced_accuracy_observed_classes": 0.52563,
+      "recall_by_class": {
+        "increase": 0.115385,
+        "flat": 0.935875
+      },
+      "precision_by_class": {
+        "increase": 0.139535,
+        "flat": 0.921502
+      },
+      "confusion": {
+        "increase": {
+          "flat": 46,
+          "increase": 6
+        },
+        "flat": {
+          "flat": 540,
+          "increase": 37
+        }
+      }
+    },
+    {
+      "method": "M2_temporal_knn_noKG",
+      "cohort": "kg_eligible",
+      "disease": "ALL",
+      "classes": {
+        "flat": 409,
+        "increase": 169
+      },
+      "predicted": {
+        "flat": 399,
+        "increase": 179
+      },
+      "accuracy": 0.885813,
+      "macro_f1": 0.864331,
+      "n": 578,
+      "balanced_accuracy_observed_classes": 0.870705,
+      "recall_by_class": {
+        "increase": 0.83432,
+        "flat": 0.90709
+      },
+      "precision_by_class": {
+        "increase": 0.787709,
+        "flat": 0.929825
+      },
+      "confusion": {
+        "increase": {
+          "increase": 141,
+          "flat": 28
+        },
+        "flat": {
+          "flat": 371,
+          "increase": 38
+        }
+      }
+    },
+    {
+      "method": "M2_temporal_knn_noKG",
+      "cohort": "kg_eligible",
+      "disease": "COVID-19",
+      "classes": {
+        "flat": 152,
+        "increase": 136
+      },
+      "predicted": {
+        "flat": 150,
+        "increase": 138
+      },
+      "accuracy": 0.986111,
+      "macro_f1": 0.986078,
+      "n": 288,
+      "balanced_accuracy_observed_classes": 0.986455,
+      "recall_by_class": {
+        "increase": 0.992647,
+        "flat": 0.980263
+      },
+      "precision_by_class": {
+        "increase": 0.978261,
+        "flat": 0.993333
+      },
+      "confusion": {
+        "increase": {
+          "increase": 135,
+          "flat": 1
+        },
+        "flat": {
+          "flat": 149,
+          "increase": 3
+        }
+      }
+    },
+    {
+      "method": "M2_temporal_knn_noKG",
+      "cohort": "kg_eligible",
+      "disease": "Mpox",
+      "classes": {
+        "flat": 257,
+        "increase": 33
+      },
+      "predicted": {
+        "flat": 249,
+        "increase": 41
+      },
+      "accuracy": 0.786207,
+      "macro_f1": 0.519816,
+      "n": 290,
+      "balanced_accuracy_observed_classes": 0.522815,
+      "recall_by_class": {
+        "increase": 0.181818,
+        "flat": 0.863813
+      },
+      "precision_by_class": {
+        "increase": 0.146341,
+        "flat": 0.891566
+      },
+      "confusion": {
+        "increase": {
+          "flat": 27,
+          "increase": 6
+        },
+        "flat": {
+          "flat": 222,
+          "increase": 35
+        }
+      }
+    },
+    {
+      "method": "M2_temporal_knn_noKG",
+      "cohort": "kg_ineligible",
+      "disease": "ALL",
+      "classes": {
+        "flat": 746,
+        "increase": 241
+      },
+      "predicted": {
+        "flat": 748,
+        "increase": 239
+      },
+      "accuracy": 0.949341,
+      "macro_f1": 0.931183,
+      "n": 987,
+      "balanced_accuracy_observed_classes": 0.929972,
+      "recall_by_class": {
+        "increase": 0.892116,
+        "flat": 0.967828
+      },
+      "precision_by_class": {
+        "increase": 0.899582,
+        "flat": 0.965241
+      },
+      "confusion": {
+        "increase": {
+          "increase": 215,
+          "flat": 26
+        },
+        "flat": {
+          "flat": 722,
+          "increase": 24
+        }
+      }
+    },
+    {
+      "method": "M2_temporal_knn_noKG",
+      "cohort": "kg_ineligible",
+      "disease": "COVID-19",
+      "classes": {
+        "flat": 426,
+        "increase": 222
+      },
+      "predicted": {
+        "flat": 411,
+        "increase": 237
+      },
+      "accuracy": 0.955247,
+      "macro_f1": 0.951086,
+      "n": 648,
+      "balanced_accuracy_observed_classes": 0.958413,
+      "recall_by_class": {
+        "increase": 0.968468,
+        "flat": 0.948357
+      },
+      "precision_by_class": {
+        "increase": 0.907173,
+        "flat": 0.982968
+      },
+      "confusion": {
+        "increase": {
+          "increase": 215,
+          "flat": 7
+        },
+        "flat": {
+          "flat": 404,
+          "increase": 22
+        }
+      }
+    },
+    {
+      "method": "M2_temporal_knn_noKG",
+      "cohort": "kg_ineligible",
+      "disease": "Mpox",
+      "classes": {
+        "flat": 320,
+        "increase": 19
+      },
+      "predicted": {
+        "flat": 337,
+        "increase": 2
+      },
+      "accuracy": 0.938053,
+      "macro_f1": 0.484018,
+      "n": 339,
+      "balanced_accuracy_observed_classes": 0.496875,
+      "recall_by_class": {
+        "increase": 0.0,
+        "flat": 0.99375
+      },
+      "precision_by_class": {
+        "increase": 0.0,
+        "flat": 0.94362
+      },
+      "confusion": {
+        "increase": {
+          "flat": 19
+        },
+        "flat": {
+          "flat": 318,
+          "increase": 2
+        }
+      }
+    },
+    {
+      "method": "M2_temporal_staticKG_knn",
+      "cohort": "full_holdout",
+      "disease": "ALL",
+      "classes": {
+        "flat": 1155,
+        "increase": 410
+      },
+      "predicted": {
+        "flat": 1187,
+        "increase": 378
+      },
+      "accuracy": 0.942492,
+      "macro_f1": 0.923679,
+      "n": 1565,
+      "balanced_accuracy_observed_classes": 0.913056,
+      "recall_by_class": {
+        "increase": 0.85122,
+        "flat": 0.974892
+      },
+      "precision_by_class": {
+        "increase": 0.92328,
+        "flat": 0.94861
+      },
+      "confusion": {
+        "increase": {
+          "increase": 349,
+          "flat": 61
+        },
+        "flat": {
+          "flat": 1126,
+          "increase": 29
+        }
+      }
+    },
+    {
+      "method": "M2_temporal_staticKG_knn",
+      "cohort": "full_holdout",
+      "disease": "COVID-19",
+      "classes": {
+        "flat": 578,
+        "increase": 358
+      },
+      "predicted": {
+        "flat": 562,
+        "increase": 374
+      },
+      "accuracy": 0.963675,
+      "macro_f1": 0.961864,
+      "n": 936,
+      "balanced_accuracy_observed_classes": 0.965804,
+      "recall_by_class": {
+        "increase": 0.97486,
+        "flat": 0.956747
+      },
+      "precision_by_class": {
+        "increase": 0.933155,
+        "flat": 0.983986
+      },
+      "confusion": {
+        "increase": {
+          "increase": 349,
+          "flat": 9
+        },
+        "flat": {
+          "flat": 553,
+          "increase": 25
+        }
+      }
+    },
+    {
+      "method": "M2_temporal_staticKG_knn",
+      "cohort": "full_holdout",
+      "disease": "Mpox",
+      "classes": {
+        "flat": 577,
+        "increase": 52
+      },
+      "predicted": {
+        "flat": 625,
+        "increase": 4
+      },
+      "accuracy": 0.91097,
+      "macro_f1": 0.476705,
+      "n": 629,
+      "balanced_accuracy_observed_classes": 0.496534,
+      "recall_by_class": {
+        "increase": 0.0,
+        "flat": 0.993068
+      },
+      "precision_by_class": {
+        "increase": 0.0,
+        "flat": 0.9168
+      },
+      "confusion": {
+        "increase": {
+          "flat": 52
+        },
+        "flat": {
+          "flat": 573,
+          "increase": 4
+        }
+      }
+    },
+    {
+      "method": "M2_temporal_staticKG_knn",
+      "cohort": "kg_eligible",
+      "disease": "ALL",
+      "classes": {
+        "flat": 409,
+        "increase": 169
+      },
+      "predicted": {
+        "flat": 439,
+        "increase": 139
+      },
+      "accuracy": 0.930796,
+      "macro_f1": 0.91148,
+      "n": 578,
+      "balanced_accuracy_observed_classes": 0.890337,
+      "recall_by_class": {
+        "increase": 0.792899,
+        "flat": 0.987775
+      },
+      "precision_by_class": {
+        "increase": 0.964029,
+        "flat": 0.920273
+      },
+      "confusion": {
+        "increase": {
+          "increase": 134,
+          "flat": 35
+        },
+        "flat": {
+          "flat": 404,
+          "increase": 5
+        }
+      }
+    },
+    {
+      "method": "M2_temporal_staticKG_knn",
+      "cohort": "kg_eligible",
+      "disease": "COVID-19",
+      "classes": {
+        "flat": 152,
+        "increase": 136
+      },
+      "predicted": {
+        "flat": 151,
+        "increase": 137
+      },
+      "accuracy": 0.982639,
+      "macro_f1": 0.982592,
+      "n": 288,
+      "balanced_accuracy_observed_classes": 0.982778,
+      "recall_by_class": {
+        "increase": 0.985294,
+        "flat": 0.980263
+      },
+      "precision_by_class": {
+        "increase": 0.978102,
+        "flat": 0.986755
+      },
+      "confusion": {
+        "increase": {
+          "increase": 134,
+          "flat": 2
+        },
+        "flat": {
+          "flat": 149,
+          "increase": 3
+        }
+      }
+    },
+    {
+      "method": "M2_temporal_staticKG_knn",
+      "cohort": "kg_eligible",
+      "disease": "Mpox",
+      "classes": {
+        "flat": 257,
+        "increase": 33
+      },
+      "predicted": {
+        "flat": 288,
+        "increase": 2
+      },
+      "accuracy": 0.87931,
+      "macro_f1": 0.46789,
+      "n": 290,
+      "balanced_accuracy_observed_classes": 0.496109,
+      "recall_by_class": {
+        "increase": 0.0,
+        "flat": 0.992218
+      },
+      "precision_by_class": {
+        "increase": 0.0,
+        "flat": 0.885417
+      },
+      "confusion": {
+        "increase": {
+          "flat": 33
+        },
+        "flat": {
+          "flat": 255,
+          "increase": 2
+        }
+      }
+    },
+    {
+      "method": "M2_temporal_staticKG_knn",
+      "cohort": "kg_ineligible",
+      "disease": "ALL",
+      "classes": {
+        "flat": 746,
+        "increase": 241
+      },
+      "predicted": {
+        "flat": 748,
+        "increase": 239
+      },
+      "accuracy": 0.949341,
+      "macro_f1": 0.931183,
+      "n": 987,
+      "balanced_accuracy_observed_classes": 0.929972,
+      "recall_by_class": {
+        "increase": 0.892116,
+        "flat": 0.967828
+      },
+      "precision_by_class": {
+        "increase": 0.899582,
+        "flat": 0.965241
+      },
+      "confusion": {
+        "increase": {
+          "increase": 215,
+          "flat": 26
+        },
+        "flat": {
+          "flat": 722,
+          "increase": 24
+        }
+      }
+    },
+    {
+      "method": "M2_temporal_staticKG_knn",
+      "cohort": "kg_ineligible",
+      "disease": "COVID-19",
+      "classes": {
+        "flat": 426,
+        "increase": 222
+      },
+      "predicted": {
+        "flat": 411,
+        "increase": 237
+      },
+      "accuracy": 0.955247,
+      "macro_f1": 0.951086,
+      "n": 648,
+      "balanced_accuracy_observed_classes": 0.958413,
+      "recall_by_class": {
+        "increase": 0.968468,
+        "flat": 0.948357
+      },
+      "precision_by_class": {
+        "increase": 0.907173,
+        "flat": 0.982968
+      },
+      "confusion": {
+        "increase": {
+          "increase": 215,
+          "flat": 7
+        },
+        "flat": {
+          "flat": 404,
+          "increase": 22
+        }
+      }
+    },
+    {
+      "method": "M2_temporal_staticKG_knn",
+      "cohort": "kg_ineligible",
+      "disease": "Mpox",
+      "classes": {
+        "flat": 320,
+        "increase": 19
+      },
+      "predicted": {
+        "flat": 337,
+        "increase": 2
+      },
+      "accuracy": 0.938053,
+      "macro_f1": 0.484018,
+      "n": 339,
+      "balanced_accuracy_observed_classes": 0.496875,
+      "recall_by_class": {
+        "increase": 0.0,
+        "flat": 0.99375
+      },
+      "precision_by_class": {
+        "increase": 0.0,
+        "flat": 0.94362
+      },
+      "confusion": {
+        "increase": {
+          "flat": 19
+        },
+        "flat": {
+          "flat": 318,
+          "increase": 2
+        }
+      }
+    },
+    {
+      "method": "M3_llm_only",
+      "cohort": "llm_sample",
+      "disease": "ALL",
+      "classes": {
+        "flat": 28,
+        "increase": 12
+      },
+      "predicted": {
+        "flat": 32,
+        "increase": 8
+      },
+      "accuracy": 0.85,
+      "macro_f1": 0.8,
+      "n": 40,
+      "balanced_accuracy_observed_classes": 0.77381,
+      "recall_by_class": {
+        "increase": 0.583333,
+        "flat": 0.964286
+      },
+      "precision_by_class": {
+        "increase": 0.875,
+        "flat": 0.84375
+      },
+      "confusion": {
+        "increase": {
+          "increase": 7,
+          "flat": 5
+        },
+        "flat": {
+          "flat": 27,
+          "increase": 1
+        }
+      }
+    },
+    {
+      "method": "M3_llm_only",
+      "cohort": "llm_sample",
+      "disease": "COVID-19",
+      "classes": {
+        "flat": 11,
+        "increase": 9
+      },
+      "predicted": {
+        "flat": 13,
+        "increase": 7
+      },
+      "accuracy": 0.9,
+      "macro_f1": 0.895833,
+      "n": 20,
+      "balanced_accuracy_observed_classes": 0.888889,
+      "recall_by_class": {
+        "increase": 0.777778,
+        "flat": 1.0
+      },
+      "precision_by_class": {
+        "increase": 1.0,
+        "flat": 0.846154
+      },
+      "confusion": {
+        "increase": {
+          "increase": 7,
+          "flat": 2
+        },
+        "flat": {
+          "flat": 11
+        }
+      }
+    },
+    {
+      "method": "M3_llm_only",
+      "cohort": "llm_sample",
+      "disease": "Mpox",
+      "classes": {
+        "flat": 17,
+        "increase": 3
+      },
+      "predicted": {
+        "flat": 19,
+        "increase": 1
+      },
+      "accuracy": 0.8,
+      "macro_f1": 0.444444,
+      "n": 20,
+      "balanced_accuracy_observed_classes": 0.470588,
+      "recall_by_class": {
+        "increase": 0.0,
+        "flat": 0.941176
+      },
+      "precision_by_class": {
+        "increase": 0.0,
+        "flat": 0.842105
+      },
+      "confusion": {
+        "increase": {
+          "flat": 3
+        },
+        "flat": {
+          "flat": 16,
+          "increase": 1
+        }
+      }
+    },
+    {
+      "method": "M4_llm_kg_guard",
+      "cohort": "llm_sample",
+      "disease": "ALL",
+      "classes": {
+        "flat": 28,
+        "increase": 12
+      },
+      "predicted": {
+        "flat": 38,
+        "increase": 2
+      },
+      "accuracy": 0.75,
+      "macro_f1": 0.5671,
+      "n": 40,
+      "balanced_accuracy_observed_classes": 0.583333,
+      "recall_by_class": {
+        "increase": 0.166667,
+        "flat": 1.0
+      },
+      "precision_by_class": {
+        "increase": 1.0,
+        "flat": 0.736842
+      },
+      "confusion": {
+        "increase": {
+          "increase": 2,
+          "flat": 10
+        },
+        "flat": {
+          "flat": 28
+        }
+      }
+    },
+    {
+      "method": "M4_llm_kg_guard",
+      "cohort": "llm_sample",
+      "disease": "COVID-19",
+      "classes": {
+        "flat": 11,
+        "increase": 9
+      },
+      "predicted": {
+        "flat": 18,
+        "increase": 2
+      },
+      "accuracy": 0.65,
+      "macro_f1": 0.561129,
+      "n": 20,
+      "balanced_accuracy_observed_classes": 0.611111,
+      "recall_by_class": {
+        "increase": 0.222222,
+        "flat": 1.0
+      },
+      "precision_by_class": {
+        "increase": 1.0,
+        "flat": 0.611111
+      },
+      "confusion": {
+        "increase": {
+          "increase": 2,
+          "flat": 7
+        },
+        "flat": {
+          "flat": 11
+        }
+      }
+    },
+    {
+      "method": "M4_llm_kg_guard",
+      "cohort": "llm_sample",
+      "disease": "Mpox",
+      "classes": {
+        "flat": 17,
+        "increase": 3
+      },
+      "predicted": {
+        "flat": 20
+      },
+      "accuracy": 0.85,
+      "macro_f1": 0.459459,
+      "n": 20,
+      "balanced_accuracy_observed_classes": 0.5,
+      "recall_by_class": {
+        "increase": 0.0,
+        "flat": 1.0
+      },
+      "precision_by_class": {
+        "increase": null,
+        "flat": 0.85
+      },
+      "confusion": {
+        "increase": {
+          "flat": 3
+        },
+        "flat": {
+          "flat": 17
+        }
+      }
+    },
+    {
+      "method": "always_flat",
+      "cohort": "full_holdout",
+      "disease": "ALL",
+      "classes": {
+        "flat": 1155,
+        "increase": 410
+      },
+      "predicted": {
+        "flat": 1565
+      },
+      "accuracy": 0.738019,
+      "macro_f1": 0.424632,
+      "n": 1565,
+      "balanced_accuracy_observed_classes": 0.5,
+      "recall_by_class": {
+        "increase": 0.0,
+        "flat": 1.0
+      },
+      "precision_by_class": {
+        "increase": null,
+        "flat": 0.738019
+      },
+      "confusion": {
+        "increase": {
+          "flat": 410
+        },
+        "flat": {
+          "flat": 1155
+        }
+      }
+    },
+    {
+      "method": "always_flat",
+      "cohort": "full_holdout",
+      "disease": "COVID-19",
+      "classes": {
+        "flat": 578,
+        "increase": 358
+      },
+      "predicted": {
+        "flat": 936
+      },
+      "accuracy": 0.617521,
+      "macro_f1": 0.38177,
+      "n": 936,
+      "balanced_accuracy_observed_classes": 0.5,
+      "recall_by_class": {
+        "increase": 0.0,
+        "flat": 1.0
+      },
+      "precision_by_class": {
+        "increase": null,
+        "flat": 0.617521
+      },
+      "confusion": {
+        "increase": {
+          "flat": 358
+        },
+        "flat": {
+          "flat": 578
+        }
+      }
+    },
+    {
+      "method": "always_flat",
+      "cohort": "full_holdout",
+      "disease": "Mpox",
+      "classes": {
+        "flat": 577,
+        "increase": 52
+      },
+      "predicted": {
+        "flat": 629
+      },
+      "accuracy": 0.917329,
+      "macro_f1": 0.478441,
+      "n": 629,
+      "balanced_accuracy_observed_classes": 0.5,
+      "recall_by_class": {
+        "increase": 0.0,
+        "flat": 1.0
+      },
+      "precision_by_class": {
+        "increase": null,
+        "flat": 0.917329
+      },
+      "confusion": {
+        "increase": {
+          "flat": 52
+        },
+        "flat": {
+          "flat": 577
+        }
+      }
+    },
+    {
+      "method": "always_flat",
+      "cohort": "kg_eligible",
+      "disease": "ALL",
+      "classes": {
+        "flat": 409,
+        "increase": 169
+      },
+      "predicted": {
+        "flat": 578
+      },
+      "accuracy": 0.707612,
+      "macro_f1": 0.414387,
+      "n": 578,
+      "balanced_accuracy_observed_classes": 0.5,
+      "recall_by_class": {
+        "increase": 0.0,
+        "flat": 1.0
+      },
+      "precision_by_class": {
+        "increase": null,
+        "flat": 0.707612
+      },
+      "confusion": {
+        "increase": {
+          "flat": 169
+        },
+        "flat": {
+          "flat": 409
+        }
+      }
+    },
+    {
+      "method": "always_flat",
+      "cohort": "kg_eligible",
+      "disease": "COVID-19",
+      "classes": {
+        "flat": 152,
+        "increase": 136
+      },
+      "predicted": {
+        "flat": 288
+      },
+      "accuracy": 0.527778,
+      "macro_f1": 0.345455,
+      "n": 288,
+      "balanced_accuracy_observed_classes": 0.5,
+      "recall_by_class": {
+        "increase": 0.0,
+        "flat": 1.0
+      },
+      "precision_by_class": {
+        "increase": null,
+        "flat": 0.527778
+      },
+      "confusion": {
+        "increase": {
+          "flat": 136
+        },
+        "flat": {
+          "flat": 152
+        }
+      }
+    },
+    {
+      "method": "always_flat",
+      "cohort": "kg_eligible",
+      "disease": "Mpox",
+      "classes": {
+        "flat": 257,
+        "increase": 33
+      },
+      "predicted": {
+        "flat": 290
+      },
+      "accuracy": 0.886207,
+      "macro_f1": 0.469835,
+      "n": 290,
+      "balanced_accuracy_observed_classes": 0.5,
+      "recall_by_class": {
+        "increase": 0.0,
+        "flat": 1.0
+      },
+      "precision_by_class": {
+        "increase": null,
+        "flat": 0.886207
+      },
+      "confusion": {
+        "increase": {
+          "flat": 33
+        },
+        "flat": {
+          "flat": 257
+        }
+      }
+    },
+    {
+      "method": "always_flat",
+      "cohort": "kg_ineligible",
+      "disease": "ALL",
+      "classes": {
+        "flat": 746,
+        "increase": 241
+      },
+      "predicted": {
+        "flat": 987
+      },
+      "accuracy": 0.755826,
+      "macro_f1": 0.430467,
+      "n": 987,
+      "balanced_accuracy_observed_classes": 0.5,
+      "recall_by_class": {
+        "increase": 0.0,
+        "flat": 1.0
+      },
+      "precision_by_class": {
+        "increase": null,
+        "flat": 0.755826
+      },
+      "confusion": {
+        "increase": {
+          "flat": 241
+        },
+        "flat": {
+          "flat": 746
+        }
+      }
+    },
+    {
+      "method": "always_flat",
+      "cohort": "kg_ineligible",
+      "disease": "COVID-19",
+      "classes": {
+        "flat": 426,
+        "increase": 222
+      },
+      "predicted": {
+        "flat": 648
+      },
+      "accuracy": 0.657407,
+      "macro_f1": 0.396648,
+      "n": 648,
+      "balanced_accuracy_observed_classes": 0.5,
+      "recall_by_class": {
+        "increase": 0.0,
+        "flat": 1.0
+      },
+      "precision_by_class": {
+        "increase": null,
+        "flat": 0.657407
+      },
+      "confusion": {
+        "increase": {
+          "flat": 222
+        },
+        "flat": {
+          "flat": 426
+        }
+      }
+    },
+    {
+      "method": "always_flat",
+      "cohort": "kg_ineligible",
+      "disease": "Mpox",
+      "classes": {
+        "flat": 320,
+        "increase": 19
+      },
+      "predicted": {
+        "flat": 339
+      },
+      "accuracy": 0.943953,
+      "macro_f1": 0.485584,
+      "n": 339,
+      "balanced_accuracy_observed_classes": 0.5,
+      "recall_by_class": {
+        "increase": 0.0,
+        "flat": 1.0
+      },
+      "precision_by_class": {
+        "increase": null,
+        "flat": 0.943953
+      },
+      "confusion": {
+        "increase": {
+          "flat": 19
+        },
+        "flat": {
+          "flat": 320
+        }
+      }
+    },
+    {
+      "method": "always_flat",
+      "cohort": "llm_sample",
+      "disease": "ALL",
+      "classes": {
+        "flat": 28,
+        "increase": 12
+      },
+      "predicted": {
+        "flat": 40
+      },
+      "accuracy": 0.7,
+      "macro_f1": 0.411765,
+      "n": 40,
+      "balanced_accuracy_observed_classes": 0.5,
+      "recall_by_class": {
+        "increase": 0.0,
+        "flat": 1.0
+      },
+      "precision_by_class": {
+        "increase": null,
+        "flat": 0.7
+      },
+      "confusion": {
+        "increase": {
+          "flat": 12
+        },
+        "flat": {
+          "flat": 28
+        }
+      }
+    },
+    {
+      "method": "always_flat",
+      "cohort": "llm_sample",
+      "disease": "COVID-19",
+      "classes": {
+        "flat": 11,
+        "increase": 9
+      },
+      "predicted": {
+        "flat": 20
+      },
+      "accuracy": 0.55,
+      "macro_f1": 0.354839,
+      "n": 20,
+      "balanced_accuracy_observed_classes": 0.5,
+      "recall_by_class": {
+        "increase": 0.0,
+        "flat": 1.0
+      },
+      "precision_by_class": {
+        "increase": null,
+        "flat": 0.55
+      },
+      "confusion": {
+        "increase": {
+          "flat": 9
+        },
+        "flat": {
+          "flat": 11
+        }
+      }
+    },
+    {
+      "method": "always_flat",
+      "cohort": "llm_sample",
+      "disease": "Mpox",
+      "classes": {
+        "flat": 17,
+        "increase": 3
+      },
+      "predicted": {
+        "flat": 20
+      },
+      "accuracy": 0.85,
+      "macro_f1": 0.459459,
+      "n": 20,
+      "balanced_accuracy_observed_classes": 0.5,
+      "recall_by_class": {
+        "increase": 0.0,
+        "flat": 1.0
+      },
+      "precision_by_class": {
+        "increase": null,
+        "flat": 0.85
+      },
+      "confusion": {
+        "increase": {
+          "flat": 3
+        },
+        "flat": {
+          "flat": 17
+        }
+      }
+    },
+    {
+      "method": "always_increase",
+      "cohort": "full_holdout",
+      "disease": "ALL",
+      "classes": {
+        "flat": 1155,
+        "increase": 410
+      },
+      "predicted": {
+        "increase": 1565
+      },
+      "accuracy": 0.261981,
+      "macro_f1": 0.207595,
+      "n": 1565,
+      "balanced_accuracy_observed_classes": 0.5,
+      "recall_by_class": {
+        "increase": 1.0,
+        "flat": 0.0
+      },
+      "precision_by_class": {
+        "increase": 0.261981,
+        "flat": null
+      },
+      "confusion": {
+        "increase": {
+          "increase": 410
+        },
+        "flat": {
+          "increase": 1155
+        }
+      }
+    },
+    {
+      "method": "always_increase",
+      "cohort": "full_holdout",
+      "disease": "COVID-19",
+      "classes": {
+        "flat": 578,
+        "increase": 358
+      },
+      "predicted": {
+        "increase": 936
+      },
+      "accuracy": 0.382479,
+      "macro_f1": 0.276662,
+      "n": 936,
+      "balanced_accuracy_observed_classes": 0.5,
+      "recall_by_class": {
+        "increase": 1.0,
+        "flat": 0.0
+      },
+      "precision_by_class": {
+        "increase": 0.382479,
+        "flat": null
+      },
+      "confusion": {
+        "increase": {
+          "increase": 358
+        },
+        "flat": {
+          "increase": 578
+        }
+      }
+    },
+    {
+      "method": "always_increase",
+      "cohort": "full_holdout",
+      "disease": "Mpox",
+      "classes": {
+        "flat": 577,
+        "increase": 52
+      },
+      "predicted": {
+        "increase": 629
+      },
+      "accuracy": 0.082671,
+      "macro_f1": 0.076358,
+      "n": 629,
+      "balanced_accuracy_observed_classes": 0.5,
+      "recall_by_class": {
+        "increase": 1.0,
+        "flat": 0.0
+      },
+      "precision_by_class": {
+        "increase": 0.082671,
+        "flat": null
+      },
+      "confusion": {
+        "increase": {
+          "increase": 52
+        },
+        "flat": {
+          "increase": 577
+        }
+      }
+    },
+    {
+      "method": "always_increase",
+      "cohort": "kg_eligible",
+      "disease": "ALL",
+      "classes": {
+        "flat": 409,
+        "increase": 169
+      },
+      "predicted": {
+        "increase": 578
+      },
+      "accuracy": 0.292388,
+      "macro_f1": 0.226238,
+      "n": 578,
+      "balanced_accuracy_observed_classes": 0.5,
+      "recall_by_class": {
+        "increase": 1.0,
+        "flat": 0.0
+      },
+      "precision_by_class": {
+        "increase": 0.292388,
+        "flat": null
+      },
+      "confusion": {
+        "increase": {
+          "increase": 169
+        },
+        "flat": {
+          "increase": 409
+        }
+      }
+    },
+    {
+      "method": "always_increase",
+      "cohort": "kg_eligible",
+      "disease": "COVID-19",
+      "classes": {
+        "flat": 152,
+        "increase": 136
+      },
+      "predicted": {
+        "increase": 288
+      },
+      "accuracy": 0.472222,
+      "macro_f1": 0.320755,
+      "n": 288,
+      "balanced_accuracy_observed_classes": 0.5,
+      "recall_by_class": {
+        "increase": 1.0,
+        "flat": 0.0
+      },
+      "precision_by_class": {
+        "increase": 0.472222,
+        "flat": null
+      },
+      "confusion": {
+        "increase": {
+          "increase": 136
+        },
+        "flat": {
+          "increase": 152
+        }
+      }
+    },
+    {
+      "method": "always_increase",
+      "cohort": "kg_eligible",
+      "disease": "Mpox",
+      "classes": {
+        "flat": 257,
+        "increase": 33
+      },
+      "predicted": {
+        "increase": 290
+      },
+      "accuracy": 0.113793,
+      "macro_f1": 0.102167,
+      "n": 290,
+      "balanced_accuracy_observed_classes": 0.5,
+      "recall_by_class": {
+        "increase": 1.0,
+        "flat": 0.0
+      },
+      "precision_by_class": {
+        "increase": 0.113793,
+        "flat": null
+      },
+      "confusion": {
+        "increase": {
+          "increase": 33
+        },
+        "flat": {
+          "increase": 257
+        }
+      }
+    },
+    {
+      "method": "always_increase",
+      "cohort": "kg_ineligible",
+      "disease": "ALL",
+      "classes": {
+        "flat": 746,
+        "increase": 241
+      },
+      "predicted": {
+        "increase": 987
+      },
+      "accuracy": 0.244174,
+      "macro_f1": 0.196254,
+      "n": 987,
+      "balanced_accuracy_observed_classes": 0.5,
+      "recall_by_class": {
+        "increase": 1.0,
+        "flat": 0.0
+      },
+      "precision_by_class": {
+        "increase": 0.244174,
+        "flat": null
+      },
+      "confusion": {
+        "increase": {
+          "increase": 241
+        },
+        "flat": {
+          "increase": 746
+        }
+      }
+    },
+    {
+      "method": "always_increase",
+      "cohort": "kg_ineligible",
+      "disease": "COVID-19",
+      "classes": {
+        "flat": 426,
+        "increase": 222
+      },
+      "predicted": {
+        "increase": 648
+      },
+      "accuracy": 0.342593,
+      "macro_f1": 0.255172,
+      "n": 648,
+      "balanced_accuracy_observed_classes": 0.5,
+      "recall_by_class": {
+        "increase": 1.0,
+        "flat": 0.0
+      },
+      "precision_by_class": {
+        "increase": 0.342593,
+        "flat": null
+      },
+      "confusion": {
+        "increase": {
+          "increase": 222
+        },
+        "flat": {
+          "increase": 426
+        }
+      }
+    },
+    {
+      "method": "always_increase",
+      "cohort": "kg_ineligible",
+      "disease": "Mpox",
+      "classes": {
+        "flat": 320,
+        "increase": 19
+      },
+      "predicted": {
+        "increase": 339
+      },
+      "accuracy": 0.056047,
+      "macro_f1": 0.053073,
+      "n": 339,
+      "balanced_accuracy_observed_classes": 0.5,
+      "recall_by_class": {
+        "increase": 1.0,
+        "flat": 0.0
+      },
+      "precision_by_class": {
+        "increase": 0.056047,
+        "flat": null
+      },
+      "confusion": {
+        "increase": {
+          "increase": 19
+        },
+        "flat": {
+          "increase": 320
+        }
+      }
+    },
+    {
+      "method": "always_increase",
+      "cohort": "llm_sample",
+      "disease": "ALL",
+      "classes": {
+        "flat": 28,
+        "increase": 12
+      },
+      "predicted": {
+        "increase": 40
+      },
+      "accuracy": 0.3,
+      "macro_f1": 0.230769,
+      "n": 40,
+      "balanced_accuracy_observed_classes": 0.5,
+      "recall_by_class": {
+        "increase": 1.0,
+        "flat": 0.0
+      },
+      "precision_by_class": {
+        "increase": 0.3,
+        "flat": null
+      },
+      "confusion": {
+        "increase": {
+          "increase": 12
+        },
+        "flat": {
+          "increase": 28
+        }
+      }
+    },
+    {
+      "method": "always_increase",
+      "cohort": "llm_sample",
+      "disease": "COVID-19",
+      "classes": {
+        "flat": 11,
+        "increase": 9
+      },
+      "predicted": {
+        "increase": 20
+      },
+      "accuracy": 0.45,
+      "macro_f1": 0.310345,
+      "n": 20,
+      "balanced_accuracy_observed_classes": 0.5,
+      "recall_by_class": {
+        "increase": 1.0,
+        "flat": 0.0
+      },
+      "precision_by_class": {
+        "increase": 0.45,
+        "flat": null
+      },
+      "confusion": {
+        "increase": {
+          "increase": 9
+        },
+        "flat": {
+          "increase": 11
+        }
+      }
+    },
+    {
+      "method": "always_increase",
+      "cohort": "llm_sample",
+      "disease": "Mpox",
+      "classes": {
+        "flat": 17,
+        "increase": 3
+      },
+      "predicted": {
+        "increase": 20
+      },
+      "accuracy": 0.15,
+      "macro_f1": 0.130435,
+      "n": 20,
+      "balanced_accuracy_observed_classes": 0.5,
+      "recall_by_class": {
+        "increase": 1.0,
+        "flat": 0.0
+      },
+      "precision_by_class": {
+        "increase": 0.15,
+        "flat": null
+      },
+      "confusion": {
+        "increase": {
+          "increase": 3
+        },
+        "flat": {
+          "increase": 17
+        }
+      }
+    }
+  ],
+  "paired_comparisons": [
+    {
+      "comparison": "M2_temporal_staticKG_knn minus M2_temporal_knn_noKG",
+      "cohort": "full_holdout",
+      "n": 1565,
+      "countries": 106,
+      "diseases": {
+        "Mpox": 629,
+        "COVID-19": 936
+      },
+      "true_labels": {
+        "flat": 1155,
+        "increase": 410
+      },
+      "predictions_a": {
+        "flat": 1147,
+        "increase": 418
+      },
+      "predictions_b": {
+        "flat": 1187,
+        "increase": 378
+      },
+      "method_a": {
+        "accuracy": 0.925879,
+        "macro_f1": 0.904756,
+        "n": 1565
+      },
+      "method_b": {
+        "accuracy": 0.942492,
+        "macro_f1": 0.923679,
+        "n": 1565
+      },
+      "delta_accuracy": 0.016613,
+      "delta_macro_f1": 0.018923,
+      "a_only_correct": 7,
+      "b_only_correct": 33,
+      "net_correct_gain_b": 26,
+      "bootstrap_conditional_fixed_predictions": {
+        "block_unit": "country_id",
+        "n_country_blocks": 106,
+        "resamples": 2000,
+        "seed": 20261117,
+        "delta_accuracy_95pct_CI": [
+          0.005896,
+          0.028859
+        ],
+        "delta_macro_f1_95pct_CI": [
+          0.006085,
+          0.033185
+        ]
+      },
+      "cluster_signflip_accuracy": {
+        "two_sided_p": 0.008598,
+        "n_country_blocks": 106,
+        "permutations": 5000,
+        "assumption": "exchangeable paired algorithm labels at country-block level",
+        "holm_adjusted_p_across_report_contrasts": 0.111774
+      }
+    },
+    {
+      "comparison": "M2_temporal_staticKG_knn minus M2_temporal_knn_noKG",
+      "cohort": "kg_eligible",
+      "n": 578,
+      "countries": 44,
+      "diseases": {
+        "Mpox": 290,
+        "COVID-19": 288
+      },
+      "true_labels": {
+        "flat": 409,
+        "increase": 169
+      },
+      "predictions_a": {
+        "flat": 399,
+        "increase": 179
+      },
+      "predictions_b": {
+        "flat": 439,
+        "increase": 139
+      },
+      "method_a": {
+        "accuracy": 0.885813,
+        "macro_f1": 0.864331,
+        "n": 578
+      },
+      "method_b": {
+        "accuracy": 0.930796,
+        "macro_f1": 0.91148,
+        "n": 578
+      },
+      "delta_accuracy": 0.044983,
+      "delta_macro_f1": 0.047149,
+      "a_only_correct": 7,
+      "b_only_correct": 33,
+      "net_correct_gain_b": 26,
+      "bootstrap_conditional_fixed_predictions": {
+        "block_unit": "country_id",
+        "n_country_blocks": 44,
+        "resamples": 2000,
+        "seed": 20261118,
+        "delta_accuracy_95pct_CI": [
+          0.01692,
+          0.073348
+        ],
+        "delta_macro_f1_95pct_CI": [
+          0.015111,
+          0.080454
+        ]
+      },
+      "cluster_signflip_accuracy": {
+        "two_sided_p": 0.009398,
+        "n_country_blocks": 44,
+        "permutations": 5000,
+        "assumption": "exchangeable paired algorithm labels at country-block level",
+        "holm_adjusted_p_across_report_contrasts": 0.112776
+      }
+    },
+    {
+      "comparison": "M2_temporal_staticKG_knn minus M2_temporal_knn_noKG",
+      "cohort": "kg_ineligible",
+      "n": 987,
+      "countries": 83,
+      "diseases": {
+        "Mpox": 339,
+        "COVID-19": 648
+      },
+      "true_labels": {
+        "flat": 746,
+        "increase": 241
+      },
+      "predictions_a": {
+        "flat": 748,
+        "increase": 239
+      },
+      "predictions_b": {
+        "flat": 748,
+        "increase": 239
+      },
+      "method_a": {
+        "accuracy": 0.949341,
+        "macro_f1": 0.931183,
+        "n": 987
+      },
+      "method_b": {
+        "accuracy": 0.949341,
+        "macro_f1": 0.931183,
+        "n": 987
+      },
+      "delta_accuracy": 0.0,
+      "delta_macro_f1": 0.0,
+      "a_only_correct": 0,
+      "b_only_correct": 0,
+      "net_correct_gain_b": 0,
+      "bootstrap_conditional_fixed_predictions": {
+        "block_unit": "country_id",
+        "n_country_blocks": 83,
+        "resamples": 2000,
+        "seed": 20261119,
+        "delta_accuracy_95pct_CI": [
+          0.0,
+          0.0
+        ],
+        "delta_macro_f1_95pct_CI": [
+          0.0,
+          0.0
+        ]
+      },
+      "cluster_signflip_accuracy": {
+        "two_sided_p": 1.0,
+        "n_country_blocks": 83,
+        "permutations": 5000,
+        "holm_adjusted_p_across_report_contrasts": 1.0
+      }
+    },
+    {
+      "comparison": "M4_llm_kg_guard minus M3_llm_only",
+      "cohort": "llm_paired",
+      "n": 40,
+      "countries": 26,
+      "diseases": {
+        "Mpox": 20,
+        "COVID-19": 20
+      },
+      "true_labels": {
+        "flat": 28,
+        "increase": 12
+      },
+      "predictions_a": {
+        "flat": 32,
+        "increase": 8
+      },
+      "predictions_b": {
+        "flat": 38,
+        "increase": 2
+      },
+      "method_a": {
+        "accuracy": 0.85,
+        "macro_f1": 0.8,
+        "n": 40
+      },
+      "method_b": {
+        "accuracy": 0.75,
+        "macro_f1": 0.5671,
+        "n": 40
+      },
+      "delta_accuracy": -0.1,
+      "delta_macro_f1": -0.2329,
+      "a_only_correct": 5,
+      "b_only_correct": 1,
+      "net_correct_gain_b": -4,
+      "bootstrap_conditional_fixed_predictions": {
+        "block_unit": "country_id",
+        "n_country_blocks": 26,
+        "resamples": 2000,
+        "seed": 20261120,
+        "delta_accuracy_95pct_CI": [
+          -0.233352,
+          0.025658
+        ],
+        "delta_macro_f1_95pct_CI": [
+          -0.470501,
+          -0.020193
+        ]
+      },
+      "cluster_signflip_accuracy": {
+        "two_sided_p": 0.305139,
+        "n_country_blocks": 26,
+        "permutations": 5000,
+        "assumption": "exchangeable paired algorithm labels at country-block level",
+        "holm_adjusted_p_across_report_contrasts": 1.0
+      }
+    },
+    {
+      "comparison": "M3_llm_only minus M2_temporal_staticKG_knn",
+      "cohort": "llm_paired",
+      "n": 40,
+      "countries": 26,
+      "diseases": {
+        "Mpox": 20,
+        "COVID-19": 20
+      },
+      "true_labels": {
+        "flat": 28,
+        "increase": 12
+      },
+      "predictions_a": {
+        "flat": 31,
+        "increase": 9
+      },
+      "predictions_b": {
+        "flat": 32,
+        "increase": 8
+      },
+      "method_a": {
+        "accuracy": 0.925,
+        "macro_f1": 0.903148,
+        "n": 40
+      },
+      "method_b": {
+        "accuracy": 0.85,
+        "macro_f1": 0.8,
+        "n": 40
+      },
+      "delta_accuracy": -0.075,
+      "delta_macro_f1": -0.103148,
+      "a_only_correct": 3,
+      "b_only_correct": 0,
+      "net_correct_gain_b": -3,
+      "bootstrap_conditional_fixed_predictions": {
+        "block_unit": "country_id",
+        "n_country_blocks": 26,
+        "resamples": 2000,
+        "seed": 20261121,
+        "delta_accuracy_95pct_CI": [
+          -0.17394,
+          0.0
+        ],
+        "delta_macro_f1_95pct_CI": [
+          -0.271145,
+          0.0
+        ]
+      },
+      "cluster_signflip_accuracy": {
+        "two_sided_p": 0.246151,
+        "n_country_blocks": 26,
+        "permutations": 5000,
+        "assumption": "exchangeable paired algorithm labels at country-block level",
+        "holm_adjusted_p_across_report_contrasts": 1.0
+      }
+    },
+    {
+      "comparison": "M4_llm_kg_guard minus M2_temporal_staticKG_knn",
+      "cohort": "llm_paired",
+      "n": 40,
+      "countries": 26,
+      "diseases": {
+        "Mpox": 20,
+        "COVID-19": 20
+      },
+      "true_labels": {
+        "flat": 28,
+        "increase": 12
+      },
+      "predictions_a": {
+        "flat": 31,
+        "increase": 9
+      },
+      "predictions_b": {
+        "flat": 38,
+        "increase": 2
+      },
+      "method_a": {
+        "accuracy": 0.925,
+        "macro_f1": 0.903148,
+        "n": 40
+      },
+      "method_b": {
+        "accuracy": 0.75,
+        "macro_f1": 0.5671,
+        "n": 40
+      },
+      "delta_accuracy": -0.175,
+      "delta_macro_f1": -0.336048,
+      "a_only_correct": 7,
+      "b_only_correct": 0,
+      "net_correct_gain_b": -7,
+      "bootstrap_conditional_fixed_predictions": {
+        "block_unit": "country_id",
+        "n_country_blocks": 26,
+        "resamples": 2000,
+        "seed": 20261122,
+        "delta_accuracy_95pct_CI": [
+          -0.315789,
+          -0.054054
+        ],
+        "delta_macro_f1_95pct_CI": [
+          -0.557707,
+          -0.138535
+        ]
+      },
+      "cluster_signflip_accuracy": {
+        "two_sided_p": 0.031794,
+        "n_country_blocks": 26,
+        "permutations": 5000,
+        "assumption": "exchangeable paired algorithm labels at country-block level",
+        "holm_adjusted_p_across_report_contrasts": 0.340934
+      }
+    },
+    {
+      "comparison": "M2_temporal_staticKG_knn minus M2_temporal_knn_noKG",
+      "cohort": "kg_eligible_COVID-19",
+      "n": 288,
+      "countries": 32,
+      "diseases": {
+        "COVID-19": 288
+      },
+      "true_labels": {
+        "flat": 152,
+        "increase": 136
+      },
+      "predictions_a": {
+        "flat": 150,
+        "increase": 138
+      },
+      "predictions_b": {
+        "flat": 151,
+        "increase": 137
+      },
+      "method_a": {
+        "accuracy": 0.986111,
+        "macro_f1": 0.986078,
+        "n": 288
+      },
+      "method_b": {
+        "accuracy": 0.982639,
+        "macro_f1": 0.982592,
+        "n": 288
+      },
+      "delta_accuracy": -0.003472,
+      "delta_macro_f1": -0.003486,
+      "a_only_correct": 1,
+      "b_only_correct": 0,
+      "net_correct_gain_b": -1,
+      "bootstrap_conditional_fixed_predictions": {
+        "block_unit": "country_id",
+        "n_country_blocks": 32,
+        "resamples": 2000,
+        "seed": 20261123,
+        "delta_accuracy_95pct_CI": [
+          -0.010417,
+          0.0
+        ],
+        "delta_macro_f1_95pct_CI": [
+          -0.011053,
+          0.0
+        ]
+      },
+      "cluster_signflip_accuracy": {
+        "two_sided_p": 1.0,
+        "n_country_blocks": 32,
+        "permutations": 5000,
+        "assumption": "exchangeable paired algorithm labels at country-block level",
+        "holm_adjusted_p_across_report_contrasts": 1.0
+      }
+    },
+    {
+      "comparison": "M4_llm_kg_guard minus M3_llm_only",
+      "cohort": "llm_paired_COVID-19",
+      "n": 20,
+      "countries": 15,
+      "diseases": {
+        "COVID-19": 20
+      },
+      "true_labels": {
+        "flat": 11,
+        "increase": 9
+      },
+      "predictions_a": {
+        "flat": 13,
+        "increase": 7
+      },
+      "predictions_b": {
+        "flat": 18,
+        "increase": 2
+      },
+      "method_a": {
+        "accuracy": 0.9,
+        "macro_f1": 0.895833,
+        "n": 20
+      },
+      "method_b": {
+        "accuracy": 0.65,
+        "macro_f1": 0.561129,
+        "n": 20
+      },
+      "delta_accuracy": -0.25,
+      "delta_macro_f1": -0.334704,
+      "a_only_correct": 5,
+      "b_only_correct": 0,
+      "net_correct_gain_b": -5,
+      "bootstrap_conditional_fixed_predictions": {
+        "block_unit": "country_id",
+        "n_country_blocks": 15,
+        "resamples": 2000,
+        "seed": 20261124,
+        "delta_accuracy_95pct_CI": [
+          -0.500543,
+          -0.05
+        ],
+        "delta_macro_f1_95pct_CI": [
+          -0.625939,
+          -0.092407
+        ]
+      },
+      "cluster_signflip_accuracy": {
+        "two_sided_p": 0.123975,
+        "n_country_blocks": 15,
+        "permutations": 5000,
+        "assumption": "exchangeable paired algorithm labels at country-block level",
+        "holm_adjusted_p_across_report_contrasts": 1.0
+      }
+    },
+    {
+      "comparison": "M3_llm_only minus M2_temporal_staticKG_knn",
+      "cohort": "llm_paired_COVID-19",
+      "n": 20,
+      "countries": 15,
+      "diseases": {
+        "COVID-19": 20
+      },
+      "true_labels": {
+        "flat": 11,
+        "increase": 9
+      },
+      "predictions_a": {
+        "flat": 11,
+        "increase": 9
+      },
+      "predictions_b": {
+        "flat": 13,
+        "increase": 7
+      },
+      "method_a": {
+        "accuracy": 1.0,
+        "macro_f1": 1.0,
+        "n": 20
+      },
+      "method_b": {
+        "accuracy": 0.9,
+        "macro_f1": 0.895833,
+        "n": 20
+      },
+      "delta_accuracy": -0.1,
+      "delta_macro_f1": -0.104167,
+      "a_only_correct": 2,
+      "b_only_correct": 0,
+      "net_correct_gain_b": -2,
+      "bootstrap_conditional_fixed_predictions": {
+        "block_unit": "country_id",
+        "n_country_blocks": 15,
+        "resamples": 2000,
+        "seed": 20261125,
+        "delta_accuracy_95pct_CI": [
+          -0.263158,
+          0.0
+        ],
+        "delta_macro_f1_95pct_CI": [
+          -0.319865,
+          0.0
+        ]
+      },
+      "cluster_signflip_accuracy": {
+        "two_sided_p": 0.503299,
+        "n_country_blocks": 15,
+        "permutations": 5000,
+        "assumption": "exchangeable paired algorithm labels at country-block level",
+        "holm_adjusted_p_across_report_contrasts": 1.0
+      }
+    },
+    {
+      "comparison": "M4_llm_kg_guard minus M2_temporal_staticKG_knn",
+      "cohort": "llm_paired_COVID-19",
+      "n": 20,
+      "countries": 15,
+      "diseases": {
+        "COVID-19": 20
+      },
+      "true_labels": {
+        "flat": 11,
+        "increase": 9
+      },
+      "predictions_a": {
+        "flat": 11,
+        "increase": 9
+      },
+      "predictions_b": {
+        "flat": 18,
+        "increase": 2
+      },
+      "method_a": {
+        "accuracy": 1.0,
+        "macro_f1": 1.0,
+        "n": 20
+      },
+      "method_b": {
+        "accuracy": 0.65,
+        "macro_f1": 0.561129,
+        "n": 20
+      },
+      "delta_accuracy": -0.35,
+      "delta_macro_f1": -0.438871,
+      "a_only_correct": 7,
+      "b_only_correct": 0,
+      "net_correct_gain_b": -7,
+      "bootstrap_conditional_fixed_predictions": {
+        "block_unit": "country_id",
+        "n_country_blocks": 15,
+        "resamples": 2000,
+        "seed": 20261126,
+        "delta_accuracy_95pct_CI": [
+          -0.631579,
+          -0.125
+        ],
+        "delta_macro_f1_95pct_CI": [
+          -0.718781,
+          -0.184751
+        ]
+      },
+      "cluster_signflip_accuracy": {
+        "two_sided_p": 0.030994,
+        "n_country_blocks": 15,
+        "permutations": 5000,
+        "assumption": "exchangeable paired algorithm labels at country-block level",
+        "holm_adjusted_p_across_report_contrasts": 0.340934
+      }
+    },
+    {
+      "comparison": "M2_temporal_staticKG_knn minus M2_temporal_knn_noKG",
+      "cohort": "kg_eligible_Mpox",
+      "n": 290,
+      "countries": 29,
+      "diseases": {
+        "Mpox": 290
+      },
+      "true_labels": {
+        "flat": 257,
+        "increase": 33
+      },
+      "predictions_a": {
+        "flat": 249,
+        "increase": 41
+      },
+      "predictions_b": {
+        "flat": 288,
+        "increase": 2
+      },
+      "method_a": {
+        "accuracy": 0.786207,
+        "macro_f1": 0.519816,
+        "n": 290
+      },
+      "method_b": {
+        "accuracy": 0.87931,
+        "macro_f1": 0.46789,
+        "n": 290
+      },
+      "delta_accuracy": 0.093103,
+      "delta_macro_f1": -0.051926,
+      "a_only_correct": 6,
+      "b_only_correct": 33,
+      "net_correct_gain_b": 27,
+      "bootstrap_conditional_fixed_predictions": {
+        "block_unit": "country_id",
+        "n_country_blocks": 29,
+        "resamples": 2000,
+        "seed": 20261127,
+        "delta_accuracy_95pct_CI": [
+          0.037931,
+          0.151724
+        ],
+        "delta_macro_f1_95pct_CI": [
+          -0.123143,
+          0.016359
+        ]
+      },
+      "cluster_signflip_accuracy": {
+        "two_sided_p": 0.003999,
+        "n_country_blocks": 29,
+        "permutations": 5000,
+        "assumption": "exchangeable paired algorithm labels at country-block level",
+        "holm_adjusted_p_across_report_contrasts": 0.055986
+      }
+    },
+    {
+      "comparison": "M4_llm_kg_guard minus M3_llm_only",
+      "cohort": "llm_paired_Mpox",
+      "n": 20,
+      "countries": 15,
+      "diseases": {
+        "Mpox": 20
+      },
+      "true_labels": {
+        "flat": 17,
+        "increase": 3
+      },
+      "predictions_a": {
+        "flat": 19,
+        "increase": 1
+      },
+      "predictions_b": {
+        "flat": 20
+      },
+      "method_a": {
+        "accuracy": 0.8,
+        "macro_f1": 0.444444,
+        "n": 20
+      },
+      "method_b": {
+        "accuracy": 0.85,
+        "macro_f1": 0.459459,
+        "n": 20
+      },
+      "delta_accuracy": 0.05,
+      "delta_macro_f1": 0.015015,
+      "a_only_correct": 0,
+      "b_only_correct": 1,
+      "net_correct_gain_b": 1,
+      "bootstrap_conditional_fixed_predictions": {
+        "block_unit": "country_id",
+        "n_country_blocks": 15,
+        "resamples": 2000,
+        "seed": 20261128,
+        "delta_accuracy_95pct_CI": [
+          0.0,
+          0.17647
+        ],
+        "delta_macro_f1_95pct_CI": [
+          0.0,
+          0.054555
+        ]
+      },
+      "cluster_signflip_accuracy": {
+        "two_sided_p": 1.0,
+        "n_country_blocks": 15,
+        "permutations": 5000,
+        "assumption": "exchangeable paired algorithm labels at country-block level",
+        "holm_adjusted_p_across_report_contrasts": 1.0
+      }
+    },
+    {
+      "comparison": "M3_llm_only minus M2_temporal_staticKG_knn",
+      "cohort": "llm_paired_Mpox",
+      "n": 20,
+      "countries": 15,
+      "diseases": {
+        "Mpox": 20
+      },
+      "true_labels": {
+        "flat": 17,
+        "increase": 3
+      },
+      "predictions_a": {
+        "flat": 20
+      },
+      "predictions_b": {
+        "flat": 19,
+        "increase": 1
+      },
+      "method_a": {
+        "accuracy": 0.85,
+        "macro_f1": 0.459459,
+        "n": 20
+      },
+      "method_b": {
+        "accuracy": 0.8,
+        "macro_f1": 0.444444,
+        "n": 20
+      },
+      "delta_accuracy": -0.05,
+      "delta_macro_f1": -0.015015,
+      "a_only_correct": 1,
+      "b_only_correct": 0,
+      "net_correct_gain_b": -1,
+      "bootstrap_conditional_fixed_predictions": {
+        "block_unit": "country_id",
+        "n_country_blocks": 15,
+        "resamples": 2000,
+        "seed": 20261129,
+        "delta_accuracy_95pct_CI": [
+          -0.17647,
+          0.0
+        ],
+        "delta_macro_f1_95pct_CI": [
+          -0.05759,
+          0.0
+        ]
+      },
+      "cluster_signflip_accuracy": {
+        "two_sided_p": 1.0,
+        "n_country_blocks": 15,
+        "permutations": 5000,
+        "assumption": "exchangeable paired algorithm labels at country-block level",
+        "holm_adjusted_p_across_report_contrasts": 1.0
+      }
+    },
+    {
+      "comparison": "M4_llm_kg_guard minus M2_temporal_staticKG_knn",
+      "cohort": "llm_paired_Mpox",
+      "n": 20,
+      "countries": 15,
+      "diseases": {
+        "Mpox": 20
+      },
+      "true_labels": {
+        "flat": 17,
+        "increase": 3
+      },
+      "predictions_a": {
+        "flat": 20
+      },
+      "predictions_b": {
+        "flat": 20
+      },
+      "method_a": {
+        "accuracy": 0.85,
+        "macro_f1": 0.459459,
+        "n": 20
+      },
+      "method_b": {
+        "accuracy": 0.85,
+        "macro_f1": 0.459459,
+        "n": 20
+      },
+      "delta_accuracy": 0.0,
+      "delta_macro_f1": 0.0,
+      "a_only_correct": 0,
+      "b_only_correct": 0,
+      "net_correct_gain_b": 0,
+      "bootstrap_conditional_fixed_predictions": {
+        "block_unit": "country_id",
+        "n_country_blocks": 15,
+        "resamples": 2000,
+        "seed": 20261130,
+        "delta_accuracy_95pct_CI": [
+          0.0,
+          0.0
+        ],
+        "delta_macro_f1_95pct_CI": [
+          0.0,
+          0.0
+        ]
+      },
+      "cluster_signflip_accuracy": {
+        "two_sided_p": 1.0,
+        "n_country_blocks": 15,
+        "permutations": 5000,
+        "holm_adjusted_p_across_report_contrasts": 1.0
+      }
+    }
+  ],
+  "KG_placebo": {
+    "status": "PASS",
+    "n_train_examples": 24640,
+    "n_kg_eligible_episodes": 578,
+    "n_country_profiles_per_disease": {
+      "C5203670": 32,
+      "C0276180": 29
+    },
+    "verified_exact_reproduction_of_original_M2KG_predictions": true,
+    "original_macro_f1": 0.91148,
+    "original_accuracy": 0.930796,
+    "placebo_permutations": 99,
+    "placebo_f1_mean": 0.917094,
+    "placebo_f1_std": 0.001931,
+    "placebo_f1_min": 0.913514,
+    "placebo_f1_max": 0.92302,
+    "placebo_accuracy_mean": 0.935095,
+    "empirical_upper_tail_p_f1": 1.0,
+    "note": "Exploratory profile-shuffling negative control; keeps country-level profile identity but permutes biomedical content within each disease. Not a randomized train/test re-fit."
+  },
+  "uncertainty_methods": {
+    "bootstrap": "country-block resampling conditional on already fitted predictions",
+    "country_signflip": "country-level paired-method label-exchange permutation for accuracy",
+    "KG_placebo": "shuffled static country KG profile identities within each disease, fixed numerical neighbor candidates",
+    "caveat": "exploratory multiple comparisons; p-values unadjusted; not repeated trainings"
+  },
+  "scientific_boundaries": [
+    "No source-backed documentary events, no gold link labels, no Story Forest event-link evaluation",
+    "Semantic profiles from source-specific collection dates are static, not evidence specific to weekly snapshots",
+    "M4 type and provenance guards do not implement complete OWL reasoning",
+    "Labels are higher/equal/lower observed aggregate values, not validated incidence",
+    "Only increase versus flat labels in holdout; revision-class evaluation not possible",
+    "Deterministic disease-balanced LLM sample of KG-covered examples; not random representative sampling",
+    "M2 has supervised historical next-week labels, unlike prompting M3/M4",
+    "Source count semantics COVID versus Mpox not independently verified"
+  ]
+}
