@@ -1,0 +1,18 @@
+{
+  "reviewer": "",
+  "date": "",
+  "independent_reference_verified": false,
+  "source_derivatives_excluded": false,
+  "static_knowledge_availability_verified": false,
+  "embedding_provenance_verified": false,
+  "development_only_tuning": false,
+  "splits_frozen": false,
+  "annotation_protocol_frozen": false,
+  "test_reference_isolated": false,
+  "coverage_verified": false,
+  "export_hashes": {},
+  "config_sha256": "",
+  "plan_hashes": {},
+  "static_context_sha256": "",
+  "formal_violations_sha256": ""
+}

@@ -1,0 +1,23 @@
+{
+  "models": ["qwen3:4b", "qwen3:14b", "qwen3:32b", "gemma3:4b", "gemma3:12b", "gemma3:27b"],
+  "conditions": ["C0", "C1", "C2", "C3", "C4", "C5"],
+  "seed": 42,
+  "top_k": 10,
+  "retrieval_k_grid": [5,10,20,30],
+  "window_days": 730,
+  "threshold": 0.65,
+  "embedding": "hashing_bow",
+  "embedding_model": "qwen3-embedding:0.6b",
+  "embedding_dimensions": 512,
+  "clusters": 2,
+  "max_facts": 25,
+  "max_static_facts": 15,
+  "context_tokens": 16384,
+  "timeout": 600,
+  "pilot_pairs": 100,
+  "shuffle_seeds": [42,43,44],
+  "bootstrap": 2000,
+  "static_relations": ["SCO","ISA","IS_A","subClassOf","PAR","CHD","RB","RN","SY"],
+  "history_expected": {"document":339,"paragraph":71,"sentence":126},
+  "note": "Defaults are proposed exploratory settings, not tuned values. Freeze after development. No gold labels as model inputs."
+}
