@@ -107,18 +107,87 @@ def verify_neo4j(root,events,facts):
                 q="MATCH (c)-[r:hasPresence]->(p:Country {id:$country}) WHERE c.id IN $ids AND r.source=$source RETURN c.id AS concept, id(r) AS relationship_id, r.date AS period, r.intensity AS intensity"
                 rows=[dict(x) for x in s.run(q,country=e['country_id'],ids=ids,source=source)]
                 for f in want:
-                    ps=f['properties'].get('collection_periods',[]);matches=[r for r in rows if r['concept']==f['subject'] and r['period'] in ps]
+                    ps=f['properties'].get('collection_periods',[]);matches=[r for r in rows if r['concept']==f['subject'] and str(r['period']) in [str(x) for x in ps]]
                     audit.append({'observation_id':e['observation_id'],'fact_id':f['fact_id'],'matches':matches,'status':'matching_relationships_found' if matches else 'missing','note':'internal IDs valid only for this restored DB; summary intensity may aggregate multiple relations'})
     finally:driver.close()
     return audit
+
+# Exact notebook thresholds recovered from reconstruction_manifest.json (16 Nov 2026).
+THRESHOLDS={'Journal_COVID':5,'Medical_COVID':8,'Social_COVID':10,'Journal_Monkeypox':5,'Medical_Monkeypox':3,'Social_Monkeypox':10}
+
+def chronology_order(a,b):
+    """Strictly ordered observation windows; occurrence is a distinct optional task."""
+    if a.get('chronology_basis')=='collection' and b.get('chronology_basis')=='collection':
+        return bool(a.get('collection_end') and b.get('collection_start') and a['collection_end']<b['collection_start'])
+    return bool(a.get('occurrence_end') and b.get('occurrence_start') and a['occurrence_end']<b['occurrence_start'])
+
+def graph_inventory(root,out):
+    from neo4j import GraphDatabase
+    from dotenv import load_dotenv
+    load_dotenv(root/'.env');driver=GraphDatabase.driver(os.environ['NEO4J_URI'],auth=(os.getenv('NEO4J_USERNAME','neo4j'),os.environ['NEO4J_PASSWORD']))
+    # Known six source groups only; no isReported, WHO or reference data.
+    q="""MATCH (c)-[r:hasPresence]->(n:Country)
+    WHERE r.source IN $sources AND toInteger(r.intensity) >= $thresholds[r.source]
+    RETURN r.source AS source, n.id AS country_id, n.wkgs_nameEn AS country_name,
+           c.id AS concept_id, c.name AS concept_name, r.date AS relation_date,
+           r.intensity AS intensity, id(r) AS relationship_id, properties(r) AS properties"""
+    try:
+        with driver.session(database=os.getenv('NEO4J_DATABASE','neo4j'),default_access_mode='READ') as session:
+            rows=[dict(x) for x in session.run(q,sources=list(THRESHOLDS),thresholds=THRESHOLDS)]
+            schema=[dict(x) for x in session.run("MATCH ()-[r:hasPresence]->(:Country) RETURN r.source AS source, keys(r) AS property_keys, count(*) AS n ORDER BY n DESC")]
+    finally:driver.close()
+    rows.sort(key=lambda x:(str(x['source']),str(x['country_id']),str(x['concept_id']),str(x['relation_date']),str(x['relationship_id'])))
+    jsonl(out/'neo4j_notebook_threshold_rows.jsonl',rows)
+    groups={(x['source'],x['country_id']) for x in rows if x['country_id']}
+    audit={'query':q,'thresholds':THRESHOLDS,'rows':len(rows),'source_country_groups':len(groups),'by_source':dict(Counter(a for a,b in groups)),'relationship_schema':schema,'sha256':sha(out/'neo4j_notebook_threshold_rows.jsonl'),'note':'Notebook threshold cohort; source-country groups are aggregate observations, not proof of document/paragraph granularity. Other levels require independently identifiable extraction exports or notebook settings.'}
+    dump(out/'neo4j_recovery_inventory.json',audit);return audit
+
+def rehydrate(events,facts,audit):
+    """Keep the original DDPF selected concepts; attach exact graph properties and periods.
+    Do not substitute all threshold-matching concepts for the original top-x selection."""
+    fm={f['fact_id']:f for f in facts};am={(r['observation_id'],r['fact_id']):r for r in audit};new=[]
+    for e in events:
+        ids=[];periods=[]
+        for id in e['fact_ids']:
+            old=fm[id];r=am.get((e['observation_id'],id));matches=(r or {}).get('matches',[])
+            if old['predicate']!='hasPresence':new.append(old);ids.append(id);continue
+            if not matches:raise ValueError('Missing original graph relationship for '+e['observation_id']+' '+id)
+            # Preserve top-concept aggregate intensity and actual individual relationship values separately.
+            dates=sorted({str(m['period']) for m in matches});periods.extend(dates)
+            props=dict(old['properties'],collection_periods=dates,graph_relationships=sorted([{'relationship_id':str(m['relationship_id']),'date':str(m['period']),'intensity':m['intensity']} for m in matches],key=lambda m:m['relationship_id']))
+            by_period=defaultdict(list)
+            for m in matches:by_period[str(m['period'])].append(m['intensity'])
+            props['period_intensities']={k:sorted(v,key=str) for k,v in sorted(by_period.items())}
+            pr=dict(old['provenance'],graph_verified=True,aggregation='DDPF selected concept; exact matching hasPresence relationships retained')
+            f=fact(old['subject'],old['predicate'],old['object'],props,pr,'observed_aggregate',max(interval(x)[1] for x in dates));new.append(f);ids.append(f['fact_id'])
+        if periods:
+            bounds=[interval(x) for x in periods];e['collection_start']=min(x[0] for x in bounds);e['collection_end']=max(x[1] for x in bounds)
+            if e['availability_basis']=='collection_end_proxy':e['available_at']=e['collection_end']
+            e['chronology_provenance']='Neo4j hasPresence.date on the original selected DDPF concepts'
+        e['fact_ids']=ids
+    return new
+
 
 def prepare(root,out,args,cfg):
     out.mkdir(parents=True,exist_ok=True);inventory(root,out,args.hash_large)
     p=Path(args.observations) if args.observations else root/LEGACY
     if args.export_dir:events,facts,nodes=canonical_adapter(args.export_dir);origin={'export_dir':str(args.export_dir),'hashes':{n:sha(Path(args.export_dir)/n) for n in ('events.jsonl','edges.jsonl','nodes.jsonl')}}
     else:
+        if args.level!='sentence' and not args.observations:raise ValueError('Other granularities require --observations or --export-dir with independently verified DDPF extraction level; see inventory.json and neo4j_recovery_inventory.json.')
         if not p.is_file():raise FileNotFoundError(f'{p}; provide --observations or --export-dir. See inventory.json.')
         h=sha(p);events,facts,nodes=legacy_adapter(read_jsonl(p),h,args.level);origin={'file':str(p),'sha256':h,'exact_legacy_file':h==LEGACY_SHA}
+    validate(events,facts,nodes)
+    for e in events:
+        e['chronology_basis']=cfg.get('chronology_basis','collection')
+        e.setdefault('chronology_provenance','original DDPF relation dates or canonical collection interval')
+    graph_audit=None;recovery=None
+    if args.neo4j and not args.skip_neo4j_audit:
+        if not args.export_dir:
+            recovery=graph_inventory(root,out)
+        graph_audit=verify_neo4j(root,events,facts)
+        jsonl(out/'neo4j_relationship_audit.jsonl',graph_audit)
+        if not args.export_dir:
+            facts=rehydrate(events,facts,graph_audit)
     validate(events,facts,nodes)
     levels=Counter(e['RE_level'] for e in events)
     if len(levels)!=1:raise ValueError('run each RE granularity separately')
@@ -127,8 +196,8 @@ def prepare(root,out,args,cfg):
     csvwrite(out/'dataset_manifest.csv',[{k:e.get(k) for k in ('observation_id','source_corpus','source_ids','collection_start','collection_end','available_at','availability_basis','RE_level','country_id','extraction_config_hash','provenance_status')} for e in events])
     for name,rows in [('events',events),('edges',facts),('nodes',nodes)]:jsonl(out/(name+'.jsonl'),rows)
     status={'status':'PREPARED','origin':origin,'observations':len(events),'facts':len(facts),'nodes':len(nodes),'levels':dict(levels),'historical_expected':cfg['history_expected'],'unrecovered_levels':{k:v for k,v in cfg['history_expected'].items() if levels.get(k,0)!=v},'availability_proxy_count':sum(e['availability_basis']!='verified_publication' for e in events),'missing_source_ids':sum(not e['source_ids'] for e in events),'missing_source_text':sum(not e.get('source_text') for e in events),'known_occurrence_intervals':sum(bool(e.get('occurrence_start')) for e in events),'note':'WHO/ECDC marker scan is not a full provenance or near-duplicate audit. No benchmark or official events read.'}
-    if args.neo4j and not args.skip_neo4j_audit:
-        try:
-            rows=verify_neo4j(root,events,facts);jsonl(out/'neo4j_relationship_audit.jsonl',rows);status['neo4j']={'checked':len(rows),'matched':sum(x['status']=='matching_relationships_found' for x in rows)}
-        except Exception as ex:status['neo4j']={'status':'failed','error':type(ex).__name__};print('Neo4j recovery failed:',type(ex).__name__)
+    if graph_audit is not None:status['neo4j']={'checked':len(graph_audit),'matched':sum(x['status']=='matching_relationships_found' for x in graph_audit),'rehydrated':not bool(args.export_dir)}
+    if recovery is not None:status['graph_recovery']=recovery
+    status['chronology_basis']=cfg.get('chronology_basis','collection')
+    status['source_text_required_for_observation_analysis']=False
     status['hashes']={n:sha(out/n) for n in ('events.jsonl','edges.jsonl','nodes.jsonl')};dump(out/'export_audit.json',status);return status

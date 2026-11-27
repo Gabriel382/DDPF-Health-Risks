@@ -4,7 +4,7 @@ from scripts.realdata.reviewer_v8_ddpf.data import *
 from scripts.realdata.reviewer_v8_ddpf.experiment import *
 from scripts.realdata.reviewer_v8_ddpf.evaluation import *
 
-CFG=load(Path(__file__).resolve().parents[2]/'configs/reviewer_v8_ddpf/default.json')
+CFG=dict(load(Path(__file__).resolve().parents[2]/'configs/reviewer_v8_ddpf/default.json'),embedding='hashing_bow',chronology_basis='occurrence')
 def make(n=4,known=False):
     rows=[{'observation_id':f'Journal_COVID::wkg:{i}','country_name':f'"Country {i}"','country_id':f'wkg:{i}','source':'Journal_COVID','disease_label':'0','top_concepts':[{'id':'C0000001','name':'Fever','intensity':3},{'id':f'C{i+100:07}','name':f'Symptom {i}','intensity':2}], 'relation_dates':['2019-11' if i<2 else '2019-12'],'provenance':{'entity_granularity':'country_by_source','source':'BioPropaPhenKG-COVIDvsMPOX.dump','selection':'hasPresence with notebook original source-specific thresholds','aggregation':'by country and source; NOT by document'}} for i in range(n)]
     es,fs,ns=legacy_adapter(rows,'abc','sentence')
@@ -65,4 +65,26 @@ class TestV8DDPF(unittest.TestCase):
                 for i,r in enumerate(rows):r.update(label='continuation' if i%2 else 'unrelated',evidence_ids='test',justification='fixture',block_id=str(i%2))
                 csvwrite(gold/f,rows)
             z=evaluate(out,gold);self.assertEqual(z['variants'],1);self.assertEqual(z['agreement']['raw_agreement'],1.)
+    def test_collection_order_without_occurrence(self):
+        e,f,n=make();a,b=e[0],e[2]
+        for x in e:x['chronology_basis']='collection'
+        self.assertTrue(ordered(a,b));self.assertFalse(ordered(e[0],e[1]));self.assertIsNone(a['occurrence_start'])
+        v,why=guard(a,b,ans(ids=[a['fact_ids'][0],b['fact_ids'][0]]),a['fact_ids'],b['fact_ids']);self.assertEqual(v['relation'],'continuation');self.assertFalse(why)
+        ei,fi,ni=validate(e,f,n);ids,mat,txt,me=representations(ei,fi,ni,CFG);sel,_,_=candidates(ei,fi,ids,mat,txt,CFG);self.assertEqual(sum(p['known_observation_order'] for p in sel),4);self.assertEqual(sum(p['known_occurrence_order'] for p in sel),0)
+        g=graphs(ei,[{'a':a['observation_id'],'b':b['observation_id'],'pair_id':'p','validated':v}],.65);self.assertEqual(len(g['forest']),1)
+    def test_rehydrate_graph_dates(self):
+        e,f,n=make();audit=[{'observation_id':x['observation_id'],'fact_id':i,'matches':[{'relationship_id':str(j),'period':x['collection_start'][:7],'intensity':3}]} for x in e for j,i in enumerate(x['fact_ids'])];ff=rehydrate(e,f,audit);validate(e,ff,n);self.assertEqual(len(ff),len(f));self.assertTrue(all(x['provenance']['graph_verified'] for x in ff));self.assertTrue(all(x['occurrence_start'] is None for x in e))
+    def test_ddpf_embedding_view(self):
+        class Mock:
+            meta={'embeddinggemma':{'digest':'x'}}
+            def embed(self,m,texts):
+                assert m=='embeddinggemma' and all('Concepts:' in x and 'Country:' in x and 'Observation interval:' in x for x in texts);return [[1,2] for x in texts]
+        ei,fi,ni=validate(*make());ids,mat,txt,meta=representations(ei,fi,ni,dict(CFG,embedding='ddpf_best',embedding_model='embeddinggemma'),Mock());self.assertEqual(mat.shape,(4,2));self.assertTrue(meta['not_original_embedding'])
+    def test_ordered_predecessor_quota(self):
+        e,f,n=make(8)
+        for x in e:x['chronology_basis']='collection'
+        ei,fi,ni=validate(e,f,n);ids,mat,txt,me=representations(ei,fi,ni,CFG);sel,_,_=candidates(ei,fi,ids,mat,txt,dict(CFG,top_k=1,top_k_same_window=1))
+        for x in e[2:]:self.assertTrue(any(p['arrival_id']==x['observation_id'] and p['known_observation_order'] for p in sel))
+    def test_binary_bow(self):
+        ei,fi,ni=validate(*make());ids,mat,txt,meta=representations(ei,fi,ni,dict(CFG,embedding='binary_bow'));self.assertEqual(meta['method'],'ddpf_binary_concepts_unit_normalized');self.assertTrue(np.allclose(np.linalg.norm(mat,axis=1),1))
 if __name__=='__main__':unittest.main()

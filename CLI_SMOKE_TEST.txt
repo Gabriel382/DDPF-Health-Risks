@@ -1,24 +1,24 @@
---preflight 0 e2871a7c25f0b1e5",
-      "eligible_pairs.jsonl": "863744a56979f6537b6dd69ad00056703bc5a67fdb64abb4b9c728d4be13773d",
-      "clusters.jsonl": "c3983b9b6eed70f4cdb78c0dda089ba75444f9a8b97dd684e53446cdb13940be"
+--preflight 0 23e1cdc11ce54213",
+      "eligible_pairs.jsonl": "cba65fd85aaebda8edde958407254a8c7371bab73a30bbea23e1cdc11ce54213",
+      "clusters.jsonl": "3634c1aa485210316af5cf5f7887d4324077910d745a4b0bd17f4a220999d277"
     }
   }
 }
 
---pilot 0 navailable': 0, 'scope': 'pilot'}
+--pilot 0 able': 0, 'scope': 'pilot'}
 {
   "status": "COMPLETE",
-  "output": "/tmp/tmp0h8omu6m/outputs/realdata/reviewer_revision_v8_ddpf/HIST_sentence_pilot",
+  "output": "/tmp/tmpje3ezezt/outputs/realdata/reviewer_revision_v8_ddpf_final/HIST_sentence_pilot",
   "new_llm_calls": 6,
-  "elapsed_seconds": 0.03410033400007251
+  "elapsed_seconds": 0.04966684400005761
 }
 
---pilot 0 available': 0, 'scope': 'pilot'}
+--pilot 0 ble': 0, 'scope': 'pilot'}
 {
   "status": "COMPLETE",
-  "output": "/tmp/tmp0h8omu6m/outputs/realdata/reviewer_revision_v8_ddpf/HIST_sentence_pilot",
+  "output": "/tmp/tmpje3ezezt/outputs/realdata/reviewer_revision_v8_ddpf_final/HIST_sentence_pilot",
   "new_llm_calls": 0,
-  "elapsed_seconds": 0.024126654000042436
+  "elapsed_seconds": 0.025149306999992405
 }
 
-CLI preflight, pilot native HTTP mock, cached resume, full gate: PASS
+CLI embeddinggemma:latest, preflight, pilot cache resume, collection full run, occurrence gate, baseline-only resume: PASS

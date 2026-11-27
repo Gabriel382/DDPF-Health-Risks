@@ -14,7 +14,7 @@ def sample_review(out,gold,n,seed):
     strata=defaultdict(list)
     for a,b in itertools.combinations(ids,2):
         x,y=ei[a],ei[b];
-        if y.get('occurrence_end') and x.get('occurrence_start') and y['occurrence_end']<x['occurrence_start']:a,b=b,a;x,y=y,x
+        if chronology_order(y,x):a,b=b,a;x,y=y,x
         stratum='|'.join([str(x['country_id']==y['country_id']),str(x['collection_start'][:7]==y['collection_start'][:7]),str(x['source_corpus']==y['source_corpus']),':'.join(sorted([x['modality'],y['modality']]))]);strata[stratum].append((a,b))
     picked=[];pools={k:r.sample(v,len(v)) for k,v in sorted(strata.items())}
     while len(picked)<n and any(pools.values()):
@@ -26,6 +26,9 @@ def sample_review(out,gold,n,seed):
         if target.exists():raise FileExistsError(f'{target} already exists; choose separate gold folder')
     for name in ('annotator_A.csv','annotator_B.csv','adjudication.csv'):csvwrite(gold/name,rows)
     csvwrite(gold/'mapping_template.csv',[{'observation_id':e['observation_id'],'reference_event_id':'','match_kind':'','evidence_ids':'','justification':''} for e in events]);csvwrite(gold/'reference_events_template.csv',[],['reference_event_id','disease','country_id','occurrence_start','occurrence_end','event_type','description','source_id','evidence_anchor','block_id']);csvwrite(gold/'reference_edges_template.csv',[],['source_event','target_event','evidence_ids','block_id']);dump(gold/'sampling_manifest.json',{'seed':seed,'n':len(rows),'universe_size':sum(map(len,strata.values())),'stratum_populations':{k:len(v) for k,v in strata.items()},'gold_independent_of_predictions':True,'note':'Add all independently identified positives in adjudication, including not sampled. This sheet is a probability sample within strata, not an exhaustive edge gold.'})
+    if (out/'edges.jsonl').is_file() and (out/'nodes.jsonl').is_file():
+        fs={f['fact_id']:f for f in read_jsonl(out/'edges.jsonl')};ns={n['node_id']:n for n in read_jsonl(out/'nodes.jsonl')}
+        jsonl(gold/'observation_cards.jsonl',[{'observation_id':e['observation_id'],'country':e['country_label'],'collection_start':e['collection_start'],'collection_end':e['collection_end'],'source_corpus':e['source_corpus'],'facts':[dict(fs[i],subject_label=ns[fs[i]['subject']]['label'],object_label=ns[fs[i]['object']]['label']) for i in e['fact_ids']]} for e in events])
     return {'pairs':len(rows),'events_to_map':len(events)}
 
 def read_labels(p):
@@ -91,7 +94,7 @@ def evaluate(out,gold):
     if any(x not in ei or y not in ei or x==y for x,y in ref):raise ValueError('gold contains unknown IDs')
     agreement={'n':len(common),'raw_agreement':sum(a[k]['label']==b[k]['label'] for k in common)/len(common) if common else None,'kappa':float(cohen_kappa_score([a[k]['label'] for k in common],[b[k]['label'] for k in common],labels=ALL)) if common and len({a[k]['label'] for k in common}|{b[k]['label'] for k in common})>1 else None,'coverage_of_adjudication':len(set(ref)&set(common))/len(ref)}
     allpairs=read_jsonl(out/'eligible_pairs.jsonl');rank={(p['a'],p['b']):p['rank'] for p in allpairs};positive={k for k,r in ref.items() if r['label']=='continuation'};eligible=positive&rank.keys()
-    retrieval={'positive_reference_pairs':len(positive),'eligible_positive_pairs':len(eligible),'outside_candidate_universe':len(positive-eligible),'recall_at_k':{str(k):sum(rank[x]<=k for x in eligible)/len(eligible) if eligible else None for k in (5,10,20,30)},'mrr_over_eligible_positive_pairs':sum(1/rank[x] for x in eligible)/len(eligible) if eligible else None,'scope':'judged reference positives; no unjudged negatives assumed'}
+    retrieval={'positive_reference_pairs':len(positive),'eligible_positive_pairs':len(eligible),'outside_candidate_universe':len(positive-eligible),'recall_at_k':{str(k):sum(rank[x]<=k for x in eligible)/len(eligible) if eligible else None for k in (5,10,20,30)},'mrr_over_eligible_positive_pairs':sum(1/rank[x] for x in eligible)/len(eligible) if eligible else None,'scope':'judged reference positives; ranks within ordered vs overlapping retrieval strata; no unjudged negatives assumed'}
     for ch in ('cosine','jaccard','geo','time','cluster','tfidf','hybrid','no_embedding','no_cluster','no_time','no_geography'):
         cr={(p['a'],p['b']):p['rank_'+ch] for p in allpairs}
         retrieval.setdefault('channel_recall_at_k',{})[ch]={str(k):sum(cr[x]<=k for x in eligible)/len(eligible) if eligible else None for k in (5,10,20,30)}

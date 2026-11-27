@@ -14,5 +14,6 @@
   "config_sha256": "",
   "plan_hashes": {},
   "static_context_sha256": "",
-  "formal_violations_sha256": ""
+  "formal_violations_sha256": "",
+  "aggregate_provenance_limitations_acknowledged": false
 }

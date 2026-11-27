@@ -11,7 +11,7 @@ from sklearn.preprocessing import normalize
 
 LABELS=['same_event','continuation','related_only','unrelated','insufficient_evidence']
 SCHEMA={'type':'object','properties':{'relation':{'type':'string','enum':LABELS},'subtype':{'type':'string','enum':['within_location','cross_location','other','none']},'score':{'type':'number','minimum':0,'maximum':1},'evidence_ids':{'type':'array','items':{'type':'string'}},'rationale':{'type':'string'},'abstain_reason':{'type':'string'}},'required':['relation','subtype','score','evidence_ids','rationale','abstain_reason'],'additionalProperties':False}
-TASK=('Classify the relationship between the two DDPF observations. same_event means the same occurrence, not merely same country or disease. continuation means evidence supports evolution of a situation, not mere similarity or chronology. Collection dates are not occurrence dates. related_only means a supported association without continuity. unrelated requires support for distinct unrelated occurrences. insufficient_evidence is not a negative label. Cite supplied fact IDs from both observations for positive links; never use external knowledge or assume transmission. Scores are confidence rankings, not calibrated probabilities.')
+TASK=('Classify the relationship between the two DDPF observations. same_event means the same occurrence, not merely same country or disease. continuation means evidence supports evolution of the DDPF observations across ordered collection windows (or occurrence intervals when explicitly selected), not mere similarity, chronology, disease identity or causal transmission. The collection period is the date of the observation, not necessarily the occurrence of an individual incident. related_only means a supported association without continuity. unrelated requires support for distinct unrelated occurrences. insufficient_evidence is not a negative label. Cite supplied fact IDs from both observations for positive links; never use external knowledge or assume transmission. Scores are confidence rankings, not calibrated probabilities.')
 
 def check_answer(a):
     if set(a)!=set(SCHEMA['required']) or a['relation'] not in LABELS or a['subtype'] not in SCHEMA['properties']['subtype']['enum']:raise ValueError('bad schema')
@@ -33,17 +33,27 @@ def representations(ei,fi,ni,cfg,client=None,external=None):
     if external:
         records=read_jsonl(external);mp={r['observation_id']:r for r in records}
         if len(mp)!=len(records) or set(mp)!=set(ids):raise ValueError('embedding IDs must exactly match DDPF observations')
-        mat=np.array([mp[i]['vector'] for i in ids],dtype=float);method='external_DDPF_embeddings';meta={'source_sha256':sha(external),'availability':'requires frozen encoder/provenance attestation for replay'}
-    elif cfg['embedding']=='ollama':
+        for i in ids:
+            if mp[i].get('cluster_id') is not None:ei[i]['cluster_id']=mp[i]['cluster_id']
+        mat=np.array([mp[i]['vector'] for i in ids],dtype=float);method='external_DDPF_embeddings';meta={'source_sha256':sha(external),'representation_records_method':sorted({str(r.get('method','unspecified')) for r in records}),'availability':'requires frozen encoder/provenance attestation for replay'}
+    elif cfg['embedding'] in ('ollama','ddpf_best'):
         if client is None:raise ValueError('Ollama embeddings require client')
-        mat=np.array(client.embed(cfg['embedding_model'],texts));method=cfg['embedding_model'];meta={'model':client.meta[cfg['embedding_model']]}
+        # Reconstruct the reported concept + country + time view. This is NOT a byte-exact
+        # reproduction unless the original ID-keyed matrix is provided.
+        views=['Concepts: '+ '; '.join(sorted({str(ni[fi[x]['subject']]['label']) for x in ei[i]['fact_ids']}))+ '\nCountry: '+ei[i]['country_label']+'\nObservation interval: '+ei[i]['collection_start']+' to '+ei[i]['collection_end'] for i in ids]
+        mat=np.array(client.embed(cfg['embedding_model'],views));method=cfg['embedding_model']+'_concepts_country_time';meta={'model':client.meta[cfg['embedding_model']],'not_original_embedding':True,'view':'concept labels + country + observation period, regenerated from DDPF selected concepts','view_sha256':stable(views),'historical_selection':('EmbeddingGemma + country/time reported ARI .8172, macro-F1 .9519; exact run requires original matrix' if cfg['embedding_model'].startswith('embeddinggemma') else 'alternative encoder control using same view')}
+    elif cfg['embedding']=='binary_bow':
+        # Original DDPF binary concept presence; global dictionary only indexes features, no fit/weights.
+        vocab=sorted({x for e in ei.values() for x in concepts(e,fi)});ix={x:j for j,x in enumerate(vocab)};mat=np.zeros((len(ids),len(vocab)))
+        for j,i in enumerate(ids):
+            for x in concepts(ei[i],fi):mat[j,ix[x]]=1
+        method='ddpf_binary_concepts_unit_normalized';meta={'vocabulary_sha256':stable(vocab),'not_original_embedding':True}
     else:
         mat=HashingVectorizer(n_features=cfg['embedding_dimensions'],alternate_sign=False,token_pattern=r'(?u)\b\w+\b').transform(texts).toarray();method='regenerated_stateless_hashing_bow';meta={'not_original_embedding':True}
     if mat.ndim!=2 or len(mat)!=len(ids) or not np.isfinite(mat).all():raise ValueError('invalid embedding matrix')
     mat=normalize(mat);return ids,mat,texts,dict(meta,method=method,dimension=int(mat.shape[1]))
 
-def ordered(a,b):
-    return bool(a.get('occurrence_end') and b.get('occurrence_start') and a['occurrence_end']<b['occurrence_start'])
+def ordered(a,b):return chronology_order(a,b)
 
 def pair_id(a,b):return 'P'+stable([a,b])[:24]
 
@@ -65,20 +75,25 @@ def candidates(ei,fi,ids,mat,texts,cfg):
                 gap=(date.fromisoformat(t)-date.fromisoformat(ei[a]['available_at'])).days
                 if gap>cfg['window_days']:continue
                 j=len(co[a]&co[b])/max(1,len(co[a]|co[b]));cos=float(np.clip(mat[pos[a]]@mat[pos[b]],-1,1));geo=float(ei[a]['country_id']==ei[b]['country_id']);time_score=math.exp(-gap/180);cluster=float(cl[a]==cl[b]);lexical=float(lex[a]);hybrid=(max(0,cos)+j+geo+time_score+cluster)/5
-                choices.append({'pair_id':pair_id(a,b),'a':a,'b':b,'arrival_id':b,'as_of':t,'gap_days':gap,'cosine':cos,'jaccard':j,'geo':geo,'time':time_score,'cluster':cluster,'tfidf':lexical,'hybrid':hybrid,'known_occurrence_order':ordered(ei[a],ei[b])})
-                if ordered(ei[b],ei[a]):choices[-1].update(a=b,b=a,pair_id=pair_id(b,a),known_occurrence_order=True)
+                choices.append({'pair_id':pair_id(a,b),'a':a,'b':b,'arrival_id':b,'as_of':t,'gap_days':gap,'cosine':cos,'jaccard':j,'geo':geo,'time':time_score,'cluster':cluster,'tfidf':lexical,'hybrid':hybrid,'known_occurrence_order':bool(ei[a].get('occurrence_end') and ei[b].get('occurrence_start') and ei[a]['occurrence_end']<ei[b]['occurrence_start']),'known_observation_order':ordered(ei[a],ei[b])})
+                if ordered(ei[b],ei[a]):choices[-1].update(a=b,b=a,pair_id=pair_id(b,a),known_observation_order=True,known_occurrence_order=bool(ei[b].get('occurrence_end') and ei[a].get('occurrence_start') and ei[b]['occurrence_end']<ei[a]['occurrence_start']))
             for p in choices:
                 for name,drop in [('no_embedding','cosine'),('no_cluster','cluster'),('no_time','time'),('no_geography','geo')]:
                     p[name]=sum(max(0,p[k]) for k in ('cosine','jaccard','geo','time','cluster') if k!=drop)/4
-            channels=['cosine','jaccard','geo','time','cluster','tfidf','hybrid','no_embedding','no_cluster','no_time','no_geography'];ranked={ch:sorted(choices,key=lambda p:(-p[ch],p['pair_id'])) for ch in channels}
-            for ch,rs in ranked.items():
-                for n,p in enumerate(rs,1):p['rank_'+ch]=n
-            union={p['pair_id']:p for ch,rs in ranked.items() if not ch.startswith('no_') for p in rs[:cfg['top_k']]}
-            # Hybrid final ranking over union; retain per-channel ranks for retrieval evaluation.
+            channels=['cosine','jaccard','geo','time','cluster','tfidf','hybrid','no_embedding','no_cluster','no_time','no_geography']
             mode=cfg.get('retrieval_mode','hybrid')
-            selected=(sorted(union.values(),key=lambda p:(-p['hybrid'],p['pair_id'])) if mode=='hybrid' else ranked[mode])[:cfg['top_k']]
-            for n,p in enumerate(sorted(choices,key=lambda p:(-p['hybrid'],p['pair_id'])),1):p['rank']=n
-            allpairs.extend(choices);out.extend(selected)
+            # Keep ordered predecessors separate from overlapping collection windows. Otherwise a
+            # large same-month batch can crowd out every meaningful predecessor.
+            for is_ordered in (True,False):
+                pool=[p for p in choices if p['known_observation_order']==is_ordered]
+                cap=cfg['top_k'] if is_ordered else cfg.get('top_k_same_window',cfg['top_k'])
+                ranked={ch:sorted(pool,key=lambda p:(-p[ch],p['pair_id'])) for ch in channels}
+                for ch,rs in ranked.items():
+                    for n,p in enumerate(rs,1):p['rank_'+ch]=n
+                union={p['pair_id']:p for ch,rs in ranked.items() if not ch.startswith('no_') for p in rs[:cap]}
+                selected=(sorted(union.values(),key=lambda p:(-p['hybrid'],p['pair_id'])) if mode=='hybrid' else ranked[mode])[:cap]
+                for n,p in enumerate(ranked[mode],1):p['rank']=n;p['retrieval_stratum']='ordered' if is_ordered else 'overlapping_or_unknown'
+                allpairs.extend(pool);out.extend(selected)
     return out,allpairs,cluster_rows
 
 class StaticContext:
@@ -156,12 +171,12 @@ class StaticContext:
 def selected_facts(e,fi,cfg):return [fi[x] for x in e['fact_ids'][:cfg['max_facts']]]
 def block(e,fi,ni,cfg,condition,static,donor=None):
     e2=donor or e;fs=selected_facts(e2,fi,cfg)
-    metadata={'country':e['country_label'],'collection_interval':[e['collection_start'],e['collection_end']],'occurrence_interval':[e.get('occurrence_start'),e.get('occurrence_end')],'modality':e['modality'],'granularity':e['RE_level'],'availability_basis':e['availability_basis']}
+    metadata={'country':e['country_label'],'collection_interval':[e['collection_start'],e['collection_end']],'occurrence_interval':[e.get('occurrence_start'),e.get('occurrence_end')],'modality':e['modality'],'granularity':e['RE_level'],'availability_basis':e['availability_basis'],'chronology_basis':e.get('chronology_basis','occurrence')}
     d={'metadata':metadata}
     if condition=='C0':return d,[]
-    if condition=='C1':d['facts']=[{'fact_id':f['fact_id'],'text':fact_text(f,ni)+' '+json.dumps({k:v for k,v in f['properties'].items() if k in ('intensity','frequency','degree','collection_periods','relation_type')},sort_keys=True,ensure_ascii=False)} for f in fs]
+    if condition=='C1':d['facts']=[{'fact_id':f['fact_id'],'text':fact_text(f,ni)+' '+json.dumps({k:v for k,v in f['properties'].items() if k in ('intensity','frequency','degree','collection_periods','relation_type','period_intensities')},sort_keys=True,ensure_ascii=False)} for f in fs]
     else:
-        d['facts']=[{'fact_id':f['fact_id'],'subject':f['subject'],'subject_label':ni[f['subject']]['label'],'subject_type':ni[f['subject']].get('type'),'predicate':f['predicate'],'object':f['object'],'object_label':ni[f['object']]['label'],'object_type':ni[f['object']].get('type'),'properties':{k:v for k,v in f['properties'].items() if k in ('intensity','frequency','degree','collection_periods','relation_type')},'kind':f['kind']} for f in fs]
+        d['facts']=[{'fact_id':f['fact_id'],'subject':f['subject'],'subject_label':ni[f['subject']]['label'],'subject_type':ni[f['subject']].get('type'),'predicate':f['predicate'],'object':f['object'],'object_label':ni[f['object']]['label'],'object_type':ni[f['object']].get('type'),'properties':{k:v for k,v in f['properties'].items() if k in ('intensity','frequency','degree','collection_periods','relation_type','period_intensities')},'kind':f['kind']} for f in fs]
     if condition in ('C3','C4','C5','C3_no_guard','C3_no_inference'):
         d['static_facts']=[x for x in static.get(e2['observation_id'],[]) if condition!='C3_no_inference' or x['kind']!='inferred_rdfs']
     return d,[f['fact_id'] for f in fs]
@@ -173,7 +188,9 @@ def anonymize(payload,seed):
         if s not in mapping:mapping[s]='E'+stable([seed,s])[:12]
         return mapping[s]
     def rec(x,key=''):
-        if isinstance(x,dict):return {k:rec(v,k) for k,v in x.items()}
+        if isinstance(x,dict):
+            if key=='period_intensities':return {rec(k,'collection_periods'):rec(v,k) for k,v in x.items()}
+            return {k:rec(v,k) for k,v in x.items()}
         if isinstance(x,list):return [rec(v,key) for v in x]
         if isinstance(x,str):
             if key in {'country','subject','object','subject_label','object_label','node_id','neighbor_id','neighbor_label'}:return alias(x)
@@ -201,7 +218,7 @@ def guard(a,b,ans,aid,bid,static_ids=(),violations=None):
     for id in sorted(ids & set(violations or {})):why.extend(violations[id])
     if ans['relation'] in ('same_event','continuation'):
         if not (ids&set(aid) and ids&set(bid)):why.append('no_evidence_from_both_observations')
-        if ans['relation']=='continuation' and not ordered(a,b):why.append('occurrence_order_not_established')
+        if ans['relation']=='continuation' and not ordered(a,b):why.append('observation_order_not_established' if a.get('chronology_basis')=='collection' else 'occurrence_order_not_established')
         if ans['relation']=='same_event' and a.get('occurrence_end') and b.get('occurrence_start') and a['occurrence_end']<b['occurrence_start']:why.append('disjoint_occurrence_intervals')
         if ans['relation']=='same_event' and b.get('occurrence_end') and a.get('occurrence_start') and b['occurrence_end']<a['occurrence_start']:why.append('disjoint_occurrence_intervals')
     if why:result.update(relation='insufficient_evidence',abstain_reason=';'.join(why))
@@ -213,14 +230,14 @@ def graphs(ei,rows,threshold):
     for r in rows:
         ans=r.get('validated');a,b=r['a'],r['b']
         if not ans:continue
-        rel=ans['relation'];score=ans['score'];edge={'a':a,'b':b,'pair_id':r['pair_id'],'score':score,'evidence_ids':ans['evidence_ids']}
+        rel=ans['relation'];score=ans['score'];edge={'a':a,'b':b,'pair_id':r['pair_id'],'score':score,'evidence_ids':ans['evidence_ids'],'chronology_basis':ei[a].get('chronology_basis','occurrence')}
         if rel=='same_event':identity.append(edge) # never automatically collapse ambiguous aggregate events
         elif rel=='related_only':related.append(edge)
         elif rel=='continuation':
             raw.append(edge)
-            if score<threshold or not ordered(ei[a],ei[b]):rejected.append(dict(edge,reason='threshold_or_unknown_occurrence_order'));continue
+            if score<threshold or not ordered(ei[a],ei[b]):rejected.append(dict(edge,reason='threshold_or_unknown_chronology'));continue
             g.add_edge(a,b,weight=score-threshold,**edge)
-    # A strict occurrence order guarantees acyclicity; maximum branching permits roots.
+    # A strict observation-window or occurrence order guarantees acyclicity; maximum branching permits roots.
     if not nx.is_directed_acyclic_graph(g):raise ValueError('chronology violation')
     f=nx.maximum_branching(g,attr='weight',preserve_attrs=True);f.add_nodes_from(nodes)
     assert nx.is_directed_acyclic_graph(f) and all(d<=1 for _,d in f.in_degree())
@@ -233,13 +250,13 @@ def baseline_rows(ei,pairs,cfg,fi=None):
     for name in ('B0_no_links','B1_temporal_geo','B2_tfidf','B2_jaccard','B3_ddpf_cosine','B4_hybrid','B5_adapted_similarity_insertion','B6_conservative_rules','B_timeline'):
         rows=[]
         for p in pairs:
-            score={'B0_no_links':0.,'B1_temporal_geo':(p['time']+p['geo'])/2,'B2_tfidf':p['tfidf'],'B2_jaccard':p['jaccard'],'B3_ddpf_cosine':max(0,p['cosine']),'B4_hybrid':p['hybrid'],'B5_adapted_similarity_insertion':(p['tfidf']+p['time'])/2,'B6_conservative_rules':0.,'B_timeline':1. if p['rank_time']==1 and p['known_occurrence_order'] else 0.}[name]
+            score={'B0_no_links':0.,'B1_temporal_geo':(p['time']+p['geo'])/2,'B2_tfidf':p['tfidf'],'B2_jaccard':p['jaccard'],'B3_ddpf_cosine':max(0,p['cosine']),'B4_hybrid':p['hybrid'],'B5_adapted_similarity_insertion':(p['tfidf']+p['time'])/2,'B6_conservative_rules':0.,'B_timeline':1. if p['rank_time']==1 and p['known_observation_order'] else 0.}[name]
             rel='continuation' if score>=th else 'insufficient_evidence'
             if name=='B0_no_links':rel='insufficient_evidence'
             evidence=[]
             if name=='B6_conservative_rules' and fi:
                 evidence=[id for id in set(ei[p['a']]['fact_ids'])|set(ei[p['b']]['fact_ids']) if fi[id]['predicate']=='documented_continuation' and fi[id]['subject']==p['a'] and fi[id]['object']==p['b'] and fi[id]['kind']=='observed' and fi[id]['provenance'].get('source_id')]
-                if evidence and p['known_occurrence_order']:rel='continuation';score=1.
+                if evidence and p['known_observation_order']:rel='continuation';score=1.
             a={'relation':rel,'score':float(score),'evidence_ids':evidence,'subtype':'none','rationale':'heuristic similarity proxy, not documentary evidence','abstain_reason':''};rows.append({**p,'raw':a,'validated':a})
         out[name]=rows
     return out
@@ -259,7 +276,7 @@ def create_plan(out,ei,fi,ni,cfg,client=None,external=None):
     np.save(out/'embeddings.npy',mat);jsonl(out/'embedding_ids.jsonl',[{'observation_id':i,'row':j,'embedding_ref':f'embeddings.npy#{j}'} for j,i in enumerate(ids)])
     selected,universe,clusters=candidates(ei,fi,ids,mat,texts,cfg);jsonl(out/'candidates.jsonl',selected);jsonl(out/'eligible_pairs.jsonl',universe);jsonl(out/'clusters.jsonl',clusters)
     cp={r['observation_id']:r for r in clusters};jsonl(out/'events_with_prediction.jsonl',[dict(e,original_embedding_ref=e.get('embedding_ref'),original_cluster_id=e.get('cluster_id'),embedding_ref=f'embeddings.npy#{j}',cluster_id=cp[i]['cluster_id'],cluster_as_of=cp[i]['as_of']) for j,i in enumerate(ids) for e in [ei[i]]])
-    result={'embedding':meta,'n_observations':len(ids),'n_eligible_pairs':len(universe),'n_selected_pairs':len(selected),'known_occurrence_order_pairs':sum(p['known_occurrence_order'] for p in selected),'max_main_calls':(len(universe) if cfg.get('all_pairs') else len(selected))*len(cfg['models'])*(len(cfg['conditions'])+(len(cfg['shuffle_seeds'])-1 if 'C5' in cfg['conditions'] else 0)),'extra_no_inference_calls_upper_bound':len(universe) if cfg.get('all_pairs') else len(selected),'clustering':'prefix KMeans on available observations; regenerated, not exact original clusters','pair_id_order':'known occurrence order when established, otherwise availability then observation_id; arrival_id identifies latest availability; equal availability is not causal order','hashes':{n:sha(out/n) for n in ('embeddings.npy','embedding_ids.jsonl','events_with_prediction.jsonl','candidates.jsonl','eligible_pairs.jsonl','clusters.jsonl')}}
+    result={'embedding':meta,'n_observations':len(ids),'n_eligible_pairs':len(universe),'n_selected_pairs':len(selected),'known_occurrence_order_pairs':sum(p['known_occurrence_order'] for p in selected),'known_observation_order_pairs':sum(p['known_observation_order'] for p in selected),'chronology_basis':cfg.get('chronology_basis','occurrence'),'max_main_calls':(len(universe) if cfg.get('all_pairs') else len(selected))*len(cfg['models'])*(len(cfg['conditions'])+(len(cfg['shuffle_seeds'])-1 if 'C5' in cfg['conditions'] else 0)),'extra_no_inference_calls_upper_bound':len(universe) if cfg.get('all_pairs') else len(selected),'clustering':'prefix KMeans on available observations; regenerated, not exact original clusters','pair_id_order':'chosen strict observation or occurrence order when established, otherwise availability then observation_id; arrival_id identifies latest availability; equal availability is not causal order','hashes':{n:sha(out/n) for n in ('embeddings.npy','embedding_ids.jsonl','events_with_prediction.jsonl','candidates.jsonl','eligible_pairs.jsonl','clusters.jsonl')}}
     dump(out/'plan.json',result);return result
 
 def run_models(root,out,ei,fi,ni,cfg,client,pairs,static,scope,violations=None):
@@ -308,6 +325,6 @@ def natural_baselines(ei,universe,cfg,fi):
     channels={'B1_temporal_geo':lambda p:(p['time']+p['geo'])/2,'B2_tfidf':lambda p:p['tfidf'],'B2_jaccard':lambda p:p['jaccard'],'B3_ddpf_cosine':lambda p:p['cosine'],'B4_hybrid':lambda p:p['hybrid'],'B5_adapted_similarity_insertion':lambda p:(p['tfidf']+p['time'])/2,'B_timeline':lambda p:p['time']}
     for name,key in channels.items():
         groups=defaultdict(list)
-        for p in by[name]:groups[p.get('arrival_id',p['b'])].append(p)
-        out[name+'__natural_retrieval']=[p for g in groups.values() for p in sorted(g,key=lambda p:(-key(p),p['pair_id']))[:cfg['top_k']]]
+        for p in by[name]:groups[(p.get('arrival_id',p['b']),p['known_observation_order'])].append(p)
+        out[name+'__natural_retrieval']=[p for (_,ordered_flag),g in groups.items() for p in sorted(g,key=lambda p:(-key(p),p['pair_id']))[:cfg['top_k'] if ordered_flag else cfg.get('top_k_same_window',cfg['top_k'])]]
     return out

@@ -13,6 +13,10 @@ def main():
     dest=Path(a.output);dest.parent.mkdir(parents=True,exist_ok=True)
     if dest.exists():raise FileExistsError(dest)
     with dest.open('w',encoding='utf8') as f:
-        for id,v in zip(names,x):f.write(json.dumps({'observation_id':id,'vector':v.tolist()})+'\n')
+        for row,id,v in zip(rows,names,x):
+            record={'observation_id':id,'vector':v.tolist()}
+            for k in ('method','cluster_id'):
+                if row.get(k) not in (None,''):record[k]=row[k]
+            f.write(json.dumps(record)+'\n')
     print(f'{len(names)} ID-keyed vectors, {x.shape[1]} dimensions: {dest}')
 if __name__=='__main__':main()

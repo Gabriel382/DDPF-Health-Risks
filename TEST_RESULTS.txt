@@ -1,4 +1,7 @@
 test_alias (test_reviewer_v8_ddpf.TestV8DDPF.test_alias) ... ok
+test_binary_bow (test_reviewer_v8_ddpf.TestV8DDPF.test_binary_bow) ... ok
+test_collection_order_without_occurrence (test_reviewer_v8_ddpf.TestV8DDPF.test_collection_order_without_occurrence) ... ok
+test_ddpf_embedding_view (test_reviewer_v8_ddpf.TestV8DDPF.test_ddpf_embedding_view) ... ok
 test_evaluate_frozen (test_reviewer_v8_ddpf.TestV8DDPF.test_evaluate_frozen) ... ok
 test_exact_legacy_shape (test_reviewer_v8_ddpf.TestV8DDPF.test_exact_legacy_shape) ... ok
 test_forest_dag (test_reviewer_v8_ddpf.TestV8DDPF.test_forest_dag) ... ok
@@ -7,24 +10,26 @@ test_gold_sample_includes_unretrieved (test_reviewer_v8_ddpf.TestV8DDPF.test_gol
 test_guard_accepts_admissible (test_reviewer_v8_ddpf.TestV8DDPF.test_guard_accepts_admissible) ... ok
 test_guard_chronology (test_reviewer_v8_ddpf.TestV8DDPF.test_guard_chronology) ... ok
 test_guard_ids (test_reviewer_v8_ddpf.TestV8DDPF.test_guard_ids) ... ok
-test_mock_six_condition_run (test_reviewer_v8_ddpf.TestV8DDPF.test_mock_six_condition_run) ... Finished mock__C0 {'pairs': 6, 'inference_records': 0, 'mean_original_call_seconds': None, 'input_tokens': 0, 'output_tokens': 0, 'cache_hits': 0, 'technical_missing': 0, 'forest_edges': 0, 'dag_edges': 0, 'roots': 4, 'guard_changes': 0, 'decisions_sha256': '3b66235a188b5fca35b00de025ce47ac22914a203538dea2ea7ae000146cd11a', 'shuffle_unavailable': 0, 'scope': 'exploratory'}
-Finished mock__C1 {'pairs': 6, 'inference_records': 0, 'mean_original_call_seconds': None, 'input_tokens': 0, 'output_tokens': 0, 'cache_hits': 0, 'technical_missing': 0, 'forest_edges': 0, 'dag_edges': 0, 'roots': 4, 'guard_changes': 0, 'decisions_sha256': 'eda8b082a266871b4f9415bfb39cd346ca0821107788faf7721d1c7229f8790c', 'shuffle_unavailable': 0, 'scope': 'exploratory'}
-Finished mock__C2 {'pairs': 6, 'inference_records': 0, 'mean_original_call_seconds': None, 'input_tokens': 0, 'output_tokens': 0, 'cache_hits': 0, 'technical_missing': 0, 'forest_edges': 0, 'dag_edges': 0, 'roots': 4, 'guard_changes': 0, 'decisions_sha256': '2b4848842e67eef53eb25255500686d7ad9156cfc668636b0b4696ff9668cc5c', 'shuffle_unavailable': 0, 'scope': 'exploratory'}
-Finished mock__C3 {'pairs': 6, 'inference_records': 0, 'mean_original_call_seconds': None, 'input_tokens': 0, 'output_tokens': 0, 'cache_hits': 0, 'technical_missing': 0, 'forest_edges': 0, 'dag_edges': 0, 'roots': 4, 'guard_changes': 0, 'decisions_sha256': 'f69d4cbbadd4918c3c6b15854791edc4c7e64327622431e56107c89358a0cc30', 'shuffle_unavailable': 0, 'scope': 'exploratory'}
-Finished mock__C4 {'pairs': 6, 'inference_records': 0, 'mean_original_call_seconds': None, 'input_tokens': 0, 'output_tokens': 0, 'cache_hits': 0, 'technical_missing': 0, 'forest_edges': 0, 'dag_edges': 0, 'roots': 4, 'guard_changes': 0, 'decisions_sha256': 'e8aeb2feb0d3d74d871b3b69b96d384764f35364b85bbb842af091212ef30d86', 'shuffle_unavailable': 0, 'scope': 'exploratory'}
-Finished mock__C5_seed42 {'pairs': 6, 'inference_records': 0, 'mean_original_call_seconds': None, 'input_tokens': 0, 'output_tokens': 0, 'cache_hits': 0, 'technical_missing': 0, 'forest_edges': 0, 'dag_edges': 0, 'roots': 4, 'guard_changes': 0, 'decisions_sha256': 'cd5e501019191906259fc74436679c29f5ed01a6da20cbfd2c117630b901669f', 'shuffle_unavailable': 0, 'scope': 'exploratory'}
-Finished mock__C3_no_inference {'pairs': 6, 'inference_records': 0, 'mean_original_call_seconds': None, 'input_tokens': 0, 'output_tokens': 0, 'cache_hits': 0, 'technical_missing': 0, 'forest_edges': 0, 'dag_edges': 0, 'roots': 4, 'guard_changes': 0, 'decisions_sha256': 'f69d4cbbadd4918c3c6b15854791edc4c7e64327622431e56107c89358a0cc30', 'shuffle_unavailable': 0, 'scope': 'exploratory'}
+test_mock_six_condition_run (test_reviewer_v8_ddpf.TestV8DDPF.test_mock_six_condition_run) ... Finished mock__C0 {'pairs': 6, 'inference_records': 0, 'mean_original_call_seconds': None, 'input_tokens': 0, 'output_tokens': 0, 'cache_hits': 0, 'technical_missing': 0, 'forest_edges': 0, 'dag_edges': 0, 'roots': 4, 'guard_changes': 0, 'decisions_sha256': '343a9913d8e924b468bec28a6210df37cc716f83fceec6710c1e4e5e169cf104', 'shuffle_unavailable': 0, 'scope': 'exploratory'}
+Finished mock__C1 {'pairs': 6, 'inference_records': 0, 'mean_original_call_seconds': None, 'input_tokens': 0, 'output_tokens': 0, 'cache_hits': 0, 'technical_missing': 0, 'forest_edges': 0, 'dag_edges': 0, 'roots': 4, 'guard_changes': 0, 'decisions_sha256': '77c198df2869fbb23c0b7957e5cc8669f3ac8c1b5f9e6b9c36b2755bd328251a', 'shuffle_unavailable': 0, 'scope': 'exploratory'}
+Finished mock__C2 {'pairs': 6, 'inference_records': 0, 'mean_original_call_seconds': None, 'input_tokens': 0, 'output_tokens': 0, 'cache_hits': 0, 'technical_missing': 0, 'forest_edges': 0, 'dag_edges': 0, 'roots': 4, 'guard_changes': 0, 'decisions_sha256': '528c1b75540a451e78264652e12d7213954b6cebefec37c75a897033ebf55cee', 'shuffle_unavailable': 0, 'scope': 'exploratory'}
+Finished mock__C3 {'pairs': 6, 'inference_records': 0, 'mean_original_call_seconds': None, 'input_tokens': 0, 'output_tokens': 0, 'cache_hits': 0, 'technical_missing': 0, 'forest_edges': 0, 'dag_edges': 0, 'roots': 4, 'guard_changes': 0, 'decisions_sha256': '1089503d01ffc583438df89615562963b767e419806a49d3c325d2e8bc54f35b', 'shuffle_unavailable': 0, 'scope': 'exploratory'}
+Finished mock__C4 {'pairs': 6, 'inference_records': 0, 'mean_original_call_seconds': None, 'input_tokens': 0, 'output_tokens': 0, 'cache_hits': 0, 'technical_missing': 0, 'forest_edges': 0, 'dag_edges': 0, 'roots': 4, 'guard_changes': 0, 'decisions_sha256': '59648dda41ac0110fac290e23d55a88612e0acc1fe18de68187d1ee89a0c3e56', 'shuffle_unavailable': 0, 'scope': 'exploratory'}
+Finished mock__C5_seed42 {'pairs': 6, 'inference_records': 0, 'mean_original_call_seconds': None, 'input_tokens': 0, 'output_tokens': 0, 'cache_hits': 0, 'technical_missing': 0, 'forest_edges': 0, 'dag_edges': 0, 'roots': 4, 'guard_changes': 0, 'decisions_sha256': 'b8750c14f5ac32e2355833cee7f1b59196f174b758d86612e2317e3db543f222', 'shuffle_unavailable': 0, 'scope': 'exploratory'}
+Finished mock__C3_no_inference {'pairs': 6, 'inference_records': 0, 'mean_original_call_seconds': None, 'input_tokens': 0, 'output_tokens': 0, 'cache_hits': 0, 'technical_missing': 0, 'forest_edges': 0, 'dag_edges': 0, 'roots': 4, 'guard_changes': 0, 'decisions_sha256': '1089503d01ffc583438df89615562963b767e419806a49d3c325d2e8bc54f35b', 'shuffle_unavailable': 0, 'scope': 'exploratory'}
 ok
 test_month (test_reviewer_v8_ddpf.TestV8DDPF.test_month) ... ok
 test_ontology_inference (test_reviewer_v8_ddpf.TestV8DDPF.test_ontology_inference) ... ok
+test_ordered_predecessor_quota (test_reviewer_v8_ddpf.TestV8DDPF.test_ordered_predecessor_quota) ... ok
 test_orphan (test_reviewer_v8_ddpf.TestV8DDPF.test_orphan) ... ok
 test_payload_no_gold (test_reviewer_v8_ddpf.TestV8DDPF.test_payload_no_gold) ... ok
 test_prefix_retrieval (test_reviewer_v8_ddpf.TestV8DDPF.test_prefix_retrieval) ... ok
 test_reference_rejected (test_reviewer_v8_ddpf.TestV8DDPF.test_reference_rejected) ... ok
+test_rehydrate_graph_dates (test_reviewer_v8_ddpf.TestV8DDPF.test_rehydrate_graph_dates) ... ok
 test_shuffle_no_future (test_reviewer_v8_ddpf.TestV8DDPF.test_shuffle_no_future) ... ok
 test_unknown_not_negative (test_reviewer_v8_ddpf.TestV8DDPF.test_unknown_not_negative) ... ok
 
 ----------------------------------------------------------------------
-Ran 18 tests in 0.124s
+Ran 23 tests in 0.178s
 
 OK
